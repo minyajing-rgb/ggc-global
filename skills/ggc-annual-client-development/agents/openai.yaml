@@ -1,0 +1,4 @@
+interface:
+  display_name: "GGC 年度客户开发"
+  short_description: "Develop GGC annual clients from sourcing through paid conversion"
+  default_prompt: "使用 $ggc-annual-client-development，围绕 Joyce 的经营经验研究潜在客户，设计联系后的话题、证据展示和成交下一步，并更新交接。"
