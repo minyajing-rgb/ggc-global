@@ -21,3 +21,9 @@ skills/ggc-annual-client-development/SKILL.md；references/online-sourcing-and-f
 ## 测试
 
 skill结构与交接长度检查通过；新增引用已核，当前在线指令优先级已复核。非应用代码变更，未运行应用测试；未进行邮件送达或成交验收。远端读回后才报告同步完成。
+
+## 本轮补充：自我介绍实力（2026-09-15）
+
+已扫描GitHub人设/skill、LinkedIn公开项目索引、OpsGo Store及核心职业原件，补入品类判断、旗舰职责、体系建设、全球协同、创业发行与当前实践。变更JOYCE_PERSONA、年度客户SKILL、新增references/joyce-strength-introduction.md及本HANDOFF。
+
+候选稿未发客户、未改LinkedIn/网站；部分大额业绩/榜单仍待口径核对，非商务个人信息未复制。提交前检查结构、引用及长度，远端逐文件回读后验收。
