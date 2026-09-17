@@ -1,22 +1,19 @@
-# Pitch邮件定制实例 · Oakever Games / Learnings
-**Subject: Meowdoku's ceiling — and the factory that builds past it**
+---
+# Pitch v3（Joyce确认结构：只给钩子不给方案——现象+成绩+想知道怎么做联系我）
+---
+**Subject: Meowdoku at $200K/day — the number nobody asks about**
 
 Hi [Founder name],
 
-I'm Joyce Mi, founder of GGC Games — 15 years operating global games: PM/Lead Producer on CityVille/FarmVille at Zynga, Order & Chaos and Minion Rush at Gameloft, commercialization rebuilds at Tencent. Author of *Game Operations & Global Expansion* (2024). Full record: opsgo.ggcgames.com/joyce
+Meowdoku scaling to $200K/day, with three Oakever titles inside the US free top 25 — the best batch-production record in hybrid-casual this year.
 
-Meowdoku scaling to $200K/day and three titles in the US free-chart top 25 in the same year is the best batch-production story in hybrid-casual right now. What we'd work on is the architecture that decides whether the factory compounds:
+Here's the number nobody asks: what share of that $200K/day is IAP? In sort-class products architected the way Meowdoku was, that share is structurally capped — not because offers are missing, but because of decisions made before the first level shipped. Decisions that compound across every product the factory builds next. We know exactly which ones they are and what they're worth per month at Meowdoku's scale. That part isn't for an email.
 
-1. **Core gameplay architecture.** Sudoku-class loops are inherently ad-native: hint-based monetization, short sessions, no session depth. Each product in the factory inherits that ceiling unless the progression/meta layer is architected in from day one. Building "IAP-capable loops by design" — instead of retrofitting — is the difference between the factory producing $200K/day products and $1M/day ones.
+Who's writing: I'm Joyce Mi, founder of GGC Games. 15 years operating global games — CityVille and FarmVille at Zynga (PM/Lead Producer; D1 +7pp on the Chinese CityVille project), Order & Chaos and Minion Rush at Gameloft, commercialization rebuilds at Tencent. As operating partner: a life-sim title stabilized at $20–40M global monthly revenue during the engagement; a card/board portfolio to ¥3M+ monthly profit in 3 months. Full record: opsgo.ggcgames.com/joyce
 
-2. **Hybrid monetization architecture.** Ad-led revenue at Meowdoku's scale leaves the IAP side structurally untouched — not because offers are missing, but because the economy has no purchase-side depth: currency design, sinks, progression gates that purchases actually accelerate. This is economy design, not offer tuning.
+Your factory already proves you can build hits. What each hit is worth is decided by architecture most teams never revisit.
 
-3. **Globalization operating system.** US free-chart #1 is the proof of concept; the architecture question is sequencing — Japan/Korea (proven mind-game markets), then T2/T3 efficiency markets — with UA economics, creative supply, and LiveOps cadence built per region.
+How to unlock that is a conversation, not an email. Worth 30 minutes?
 
-4. **AI-native content.** Puzzle content is the most AI-generatable content in the industry. Your production speed is already the factory's core asset; an AI-native level/content pipeline multiplies it. This is the widest moat available to a batch-production studio — and it compounds across every future title.
-
-Engagement path: Project Review (30-min diagnostic + written architecture assessment, ¥10,000) → COPILOT Sprint (30 days, one architecture problem, $5,000 deposit) → Annual Operating Partnership (base + performance share).
-
-The factory already proves you can build hits. The architecture decides what each hit is worth. Worth 30 minutes?
-
-Joyce Mi | GGC Games | opsgo.ggcgames.com/joyce
+Joyce Mi
+GGC Games | opsgo.ggcgames.com/joyce | Joyce@ggcgames.com
