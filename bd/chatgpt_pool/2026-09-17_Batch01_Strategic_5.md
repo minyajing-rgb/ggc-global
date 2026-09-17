@@ -1,7 +1,7 @@
 # ChatGPT Strategic BD Batch 01 — 2026-09-17
 **Owner:** ChatGPT / Joyce Copilot  
 **Pool:** Strategic Acquisition / High-value Founder & Ecosystem  
-**Status:** Research complete; outreach channel checked; no duplicated historical Gmail threads found in the checked set.
+**Status:** Research complete; first outreach started.
 
 > Rule: public/official sources only. No guessed email addresses. Where no appropriate public business email exists, use LinkedIn / official contact form rather than media or support inboxes.
 
@@ -195,10 +195,12 @@ My background spans Zynga, Gameloft, Tencent and Microsoft, with 15+ years in gl
 
 Joyce
 
-### Channel
+### Channel / Status
 - hello@tiltingpoint.com — official general inquiries mailbox.
 - LinkedIn available for Kevin Segalla.
-- **Ready for Gmail outreach.**
+- **SENT 2026-09-17 via Gmail, Variant B.**
+- Gmail thread/message: `1a0aee7b14133f18`
+- Next action: +5 days if no reply; do not repeat 80+ titles hook unless there is a new public signal.
 
 ---
 
@@ -250,9 +252,9 @@ Joyce
 
 # Batch 01 Priority
 
-| Company | Fit | Signal Strength | Best Path | Outreach Ready |
+| Company | Fit | Signal Strength | Best Path | Outreach Status |
 |---|---|---|---|---|
-| Tilting Point | High | High | Publisher partnership / pipeline | **Yes — Gmail + LinkedIn** |
+| Tilting Point | High | High | Publisher partnership / pipeline | **SENT — Gmail Variant B** |
 | Inworld AI | High | High | AI strategic partnership | LinkedIn / contact sales |
 | Product Madness | High | High | Social casino / strategic ops | LinkedIn / warm intro |
 | Jam City | High | High | Portfolio growth / LiveOps / AI | LinkedIn / business contact verify |
