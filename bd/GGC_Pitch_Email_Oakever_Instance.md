@@ -1,9 +1,9 @@
 ---
-# Pitch v3（Joyce确认结构：只给钩子不给方案——现象+成绩+想知道怎么做联系我）
+# Pitch v3最终版（创始人实名·只给钩子不给方案）
 ---
 **Subject: Meowdoku at $200K/day — the number nobody asks about**
 
-Hi [Founder name],
+Hi Yiwei,
 
 Meowdoku scaling to $200K/day, with three Oakever titles inside the US free top 25 — the best batch-production record in hybrid-casual this year.
 
