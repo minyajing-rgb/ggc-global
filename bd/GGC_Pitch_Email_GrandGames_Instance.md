@@ -1,9 +1,9 @@
 ---
-# Pitch v3（Joyce确认结构：只给钩子不给方案——现象+成绩+想知道怎么做联系我）
+# Pitch v3最终版（创始人实名·只给钩子不给方案）
 ---
 **Subject: Block Out — three numbers that don't fit together**
 
-Hi [Founder name],
+Hi Bekir,
 
 Three numbers on Block Out: #2 on the US free chart. Around #20 on the grossing chart. $70M just raised to build a genre-defining flagship.
 
