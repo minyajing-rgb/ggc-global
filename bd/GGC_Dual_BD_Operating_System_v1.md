@@ -75,3 +75,54 @@
 4. 回复按Positive/Neutral/No分类回填
 5. Positive→24小时内出Meeting Brief（对方产品拆解+合作角度+可能异议+定价锚点）
 6. 每周五汇总A/B数据报Joyce
+
+---
+# v1.1 增补（2026-09-17 · Codex方案吸收）
+
+## 七、第一轮样本量（LOCKED）
+| Segment | A版 | B版 |
+|---------|-----|-----|
+| CP / Studio | 20家 | 20家 |
+| Publisher | 15家 | 15家 |
+| Small Studio / Startup | 15家 | 15家 |
+Investor / AI两池第一轮观察，不强制样本量。
+
+## 八、第一阶段KPI（LOCKED）
+漏斗：Open → Reply → Positive Reply → Meeting
+1. Open Rate ⚠️ Gmail原生不可测（无打开回执）——第一轮以Reply漏斗为主；如需测Open需加追踪链路，默认不做
+2. Reply Rate
+3. Positive Reply Rate
+4. **Meeting Rate（北极星指标，真正决定胜负）**
+
+## 九、双引擎结构（最终形态）
+```
+        GGC MASTER PROFILE
+               │
+    ┌──────────┴──────────┐
+    │                     │
+  Codex               GGC助理
+  Scale Acquisition   Strategic Acquisition
+    │                     │
+ Casual/Merge/       Publisher/Casino/
+ Arcade/Mobile        Sims/AI/Investor
+    │                     │
+ Search+Pitch        Search+Deep Pitch
+    │                     │
+  Gmail A/B           Gmail A/B
+    └──────────┬──────────┘
+               │
+          Shared CRM
+               │
+        Performance Review
+               │
+          Winning Copy
+               │
+        Next Batch Scale
+```
+
+## 十、Codex CRM对接方式（关键落地差异）
+Codex无Base44数据库权限 → CRM主库（BdLead）由GGC助理持有：
+1. Codex每批发信前，把自己池子的清单写入 `bd/crm/codex_pool.csv`（字段固定：date_sent, company, person, role, category, variant, source, reply_type, meeting, next_action, notes）
+2. GGC助理每周五同步该CSV进BdLead主库并核对ownership冲突
+3. 公司ownership冲突仲裁权在GGC助理（先查库再放行）
+4. BdLead库字段已升级：owner / variant / reply_type / meeting / next_action
