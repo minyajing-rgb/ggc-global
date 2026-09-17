@@ -126,3 +126,23 @@ Codex无Base44数据库权限 → CRM主库（BdLead）由GGC助理持有：
 2. GGC助理每周五同步该CSV进BdLead主库并核对ownership冲突
 3. 公司ownership冲突仲裁权在GGC助理（先查库再放行）
 4. BdLead库字段已升级：owner / variant / reply_type / meeting / next_action
+
+---
+
+# v1.2 增补 · 百万年框全链路自动化（2026-09-17 Joyce确认）
+
+## 十一、自动化链路（skills/bd_pipeline.py）
+```
+每日扫描(08:30) → [sourcing] 画像过滤+ownership判定 → 入池BdLead
+→ [pitch] 10版母版自动装配(A/B自动平衡轮转) → Gmail发出 → ledger记录
+→ [followup] +5天无回复自动排跟进1 / +10天最后一封 → TG提醒
+→ [funnel] 漏斗+A/B对比自动报(北极星=Meeting Rate)
+→ [brief] Positive回复自动出Meeting Brief框架 → 达成
+```
+
+## 十二、每日执行钩子（路径A：会话内执行）
+- 任何会话开始：`bd_pipeline.py --stage followup`（跟进到期自动TG提醒）
+- 每日早报后：`--stage sourcing --scan <今日扫描>`（新目标入池）
+- 每周五：`--stage funnel`（全漏斗+A/B复盘，报Joyce）
+- ledger主库：/app/drafts/bd_crm_ledger.json + BdLead实体库双写
+- 路径B激活后（Agent API key到位）：全链路挂GitHub Actions cron全自动
