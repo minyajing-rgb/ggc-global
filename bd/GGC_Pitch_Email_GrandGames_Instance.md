@@ -1,5 +1,5 @@
 # Pitch邮件定制实例 · Grand Games
-**Subject: Block Out's next stage — the operating system behind a genre-defining flagship**
+**Subject: Block Out's next stage — rebuilding the architecture under a hit**
 
 Hi [Founder name],
 
@@ -10,19 +10,24 @@ I'm Joyce Mi, founder of GGC Games. For 15 years I've operated some of the bigge
 - Gameloft: Order & Chaos, Minion Rush — coordinated 10+ studios through a 500+ cross-functional network.
 - As operating partner: a life-sim title with global monthly revenue stabilized in the $20–40M range during the engagement; a card/board portfolio to ¥3M+ monthly profit in 3 months; a wuxia title stabilized around ¥60M monthly, peaked above ¥100M.
 
-**What we'd do for Grand Games specifically.**
-1. **Block Out's monetization depth.** Hitting #2 on the US free chart while sitting just inside the grossing top 20 means the acquisition engine outruns the monetization engine. We'd rebuild the payer path against top-grossing sort-game benchmarks — hybrid ad/IAP rebalance, session-based offers, whale-path depth. In comparable rebuilds, the ad-led → hybrid shift has moved monthly revenue by double-digit percentages without touching the core loop.
-2. **LiveOps cadence.** From ad-hoc events to a fixed operating calendar: content pipeline templated so the team ships weekly updates without growing headcount. This is the system that decides whether Magic Sort compounds or plateaus while Block Out is still scaling.
-3. **Flagship readiness.** You just closed $70M to build a genre-defining title. The four systems that decide whether that budget compounds: user identification, content supply, monetization rhythm, global expansion sequencing. Every one of them is cheaper to build before the flagship launches than after.
+**What we'd do for Grand Games — at the architecture level, not the symptom level.**
 
-**Why we can do it.** These aren't consulting frameworks — they're operating systems we've built and run inside companies that defined their categories. A hit becomes a franchise when the operating system under it can absorb scale. We've built those systems at Zynga/Gameloft scale, in 150+ countries, with cross-functional organizations of 1,000+ at peak.
+1. **Core gameplay architecture.** Block Out's loop is built for ads: short sessions, fail-retry cycles, no session depth. An ad-native loop structurally caps IAP conversion — no offer design fixes that. The work is re-architecting the progression/meta layer so the core loop generates attachment and session depth first; monetization then has something to convert. This is the structural difference between a $0.40-CPI product and a $1.50-CPI product that still clears 200% ROAS.
+
+2. **Hybrid monetization architecture — not "adding IAP."** Ad-led and IAP-led economies cannibalize each other when bolted together. The real work is in the economy itself: currency design, faucet/sink structure, where ad rewards sit in the value chain versus where purchases sit — so the two systems compound instead of competing. We've built hybrid economies at Zynga/Gameloft scale; this is system design, not offer tuning.
+
+3. **Globalization operating system.** Türkiye-first to global is not translation — it's architecture: market sequencing (US-first vs. MENA-first vs. SEA-first changes everything downstream), UA economics per market tier, creative supply pipeline, and LiveOps cadence per region. The $70M deploys very differently depending on that sequencing. We've built this for 150+ countries.
+
+4. **AI-native gameplay and content.** Your next flagship should be AI-native from day one — not better art on the same loop. That means: AI-driven level/content production (content supply at multiples of team speed), AI personalization inside the core loop, AI creative iteration for UA at scale. "Genre-defining" comes from the content supply architecture, not from polish.
+
+**Why we can do it.** Retention, payer rate, ARPDAU — those are phenomena. We work on what generates them: the gameplay system, the economy, the content architecture, the expansion sequencing. We've built these systems inside companies that defined their categories, at 1,000+ cross-functional scale, in 150+ countries.
 
 **How engagements start.**
-1. **Project Review** — 30-minute diagnostic + written structural assessment (¥10,000). An x-ray of Block Out: retention curve, payer path, LiveOps cadence, content pipeline.
-2. **COPILOT Sprint** — 30 days, one focused problem. $5,000 deposit; remainder only if the first two weeks convince you.
+1. **Project Review** — 30-minute diagnostic + written structural assessment (¥10,000): the architecture under Block Out, not its chart position.
+2. **COPILOT Sprint** — 30 days, one architecture-level problem (core loop depth, hybrid economy, or flagship design). $5,000 deposit; remainder only if the first two weeks convince you.
 3. **Annual Operating Partnership** — base + performance share. We're accountable to your revenue curve, not to billable hours.
 
-The six-month window after a breakout is when these decisions are cheap. Worth 30 minutes?
+The six-month window after a breakout is when architecture decisions are cheap. Worth 30 minutes?
 
 Joyce Mi
 GGC Games | opsgo.ggcgames.com/joyce | Joyce@ggcgames.com
