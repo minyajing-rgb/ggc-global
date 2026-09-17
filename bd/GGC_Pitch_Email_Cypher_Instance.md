@@ -1,9 +1,9 @@
 ---
-# Pitch v3（Joyce确认结构：只给钩子不给方案——现象+成绩+想知道怎么做联系我）
+# Pitch v3最终版（创始人实名·只给钩子不给方案）
 ---
 **Subject: Royal Smash's week-4 wall**
 
-Hi [Founder name],
+Hi Anil,
 
 Royal Smash into the US free top 15 in its first quarter — physics loops do that. Spectacle buys downloads.
 
