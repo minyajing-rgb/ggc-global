@@ -1,0 +1,284 @@
+# GGC BD 双 Agent 并行获客执行方案 v1.0
+**日期：2026-09-17**  
+**Owner：Joyce / GGC**  
+**执行端：A = Base44 GGC助理 Agency TG；B = ChatGPT / Joyce Copilot**
+
+---
+
+## 0. 核心原则
+
+两个 Agent 都跑完整 BD 闭环：**找公司 → 找人 → 研究 → 个性化 Pitch → Gmail 发送 → 跟进 → 会议情报卡 → CRM/状态回写**。
+
+不是一个只搜数据、另一个只写文案。
+
+### 唯一防冲突规则：Company-level Ownership
+- 一家公司一旦分配给某一 Agent，另一 Agent 默认不再触达该公司任何人。
+- 如需转移 Ownership，必须先更新本文件/CRM，再执行。
+- 已经发过首封的历史公司，默认继续由原发送端维护，不重复首发。
+- 所有对外数字必须有公开来源或点点/AppMagic/商店榜单等可核验来源；无法核验则不写数字。
+
+---
+
+# 1. 统一 Pitch 体系
+
+所有 Agent 共用同一 Joyce Master Profile 和 5 类母版，但每类做 A/B 两版。
+
+## Segment
+1. CP / Studio
+2. Publisher
+3. Small Studio / Startup
+4. Investor / Fund
+5. AI / Strategic Partner
+
+## A/B 测试
+- **A = Joyce Credibility First**：先用全球头部产品、0→1/1→10、行业方法论/标准、书、全球运营战绩建立权威，再切对方。
+- **B = Target/Product First**：先用对方产品/榜单/融资/增长信号开场，再用 Joyce 战绩解释为什么值得聊。
+- 每个 Segment 最少 A/B 各 15 个有效样本后再判断 winner。
+- 评价优先级：Meeting Rate > Positive Reply Rate > Reply Rate > Open Rate。
+
+## 固定 CTA
+默认：**Worth 30 minutes?** / **Open to a 30-minute conversation?**
+
+禁止：
+- 免费输出完整方法论
+- 模板化 “just following up”
+- 无事实依据数字
+- 同一公司被两个 Agent 重复触达
+
+---
+
+# 2. Agent A — Base44 GGC助理 Agency TG
+
+## 定位
+**Scale Acquisition / Data-heavy Studio Pool**
+
+## 主攻赛道
+- Hybrid Casual
+- Puzzle
+- Merge
+- Arcade
+- Idle / Light RPG
+- 高榜单 Mobile Studio
+- 适合通过点点/AppMagic/商店榜单批量扫描的公司
+
+## 主要优势
+- 点点/AppMagic/实时榜单抓取
+- 大批量公司发现
+- 数据库写入与去重
+- 自动脚本/扫描
+- Gmail 批量发送与状态回写
+- TG / GitHub 自动同步
+
+## First-wave Company Pool（A-owned）
+> 先跑 30 家；已触达历史公司继续归 A 管理。
+
+1. SayGames
+2. Homa
+3. Voodoo
+4. Rollic
+5. Supersonic Studios
+6. Lion Studios
+7. CrazyLabs
+8. Azur Games
+9. BoomBit
+10. Kwalee
+11. Tripledot Studios
+12. Dream Games
+13. Peak Games
+14. Good Job Games
+15. Ruby Games
+16. Moonee
+17. Amanotes
+18. Amanotes Publishing / Music Games teams
+19. Green Panda Games
+20. Madbox
+21. TapNation
+22. Mamboo Games
+23. Freeplay
+24. AppQuantum
+25. Belka Games
+26. Easybrain
+27. ZITGA
+28. Onesoft
+29. ABI Game Studio
+30. Storm8 / Pocket Gems-like casual portfolio targets（由 A 根据实时榜单替换为最新高信号公司）
+
+## A 每周输出
+- 新目标 ≥ 25 家
+- 高价值目标 ≥ 10 家
+- A/B 各 ≥ 10 封
+- 完成首发 +5/+10 跟进
+- 每周汇总：Meeting / Positive Reply / No Reply / Bounce / Next Action
+
+---
+
+# 3. Agent B — ChatGPT / Joyce Copilot
+
+## 定位
+**Strategic Acquisition / High-value Founder & Ecosystem Pool**
+
+## 主攻赛道
+- Sims / Social World / Life Sim
+- Casino / Social Casino / iGaming（合法合规的 B2B 产业合作）
+- Publisher / Global Publishing Partner
+- AI-native Game / AI Entertainment
+- Investor / Fund / Strategic Capital
+- Founder-led high-value studios
+- 可能进入 Incubation / FA / Publishing / Copilot / Strategic Partnership 的项目
+
+## B First-wave Company Pool（30 家）
+
+### Sims / Social / Long-Lifecycle（8）
+1. Jam City
+2. Wooga
+3. Socialpoint
+4. Metacore
+5. Century Games
+6. Uken Games
+7. Space Ape Games
+8. Small Giant Games
+
+### Casino / Social Casino（8）
+9. Playtika
+10. SciPlay
+11. Product Madness
+12. Huuuge Games
+13. DoubleDown Interactive
+14. PLAYSTUDIOS
+15. High 5 Games
+16. Murka Games
+
+### Publisher / Strategic Distribution（7）
+17. Scopely
+18. Tilting Point
+19. Miniclip
+20. Stillfront Group
+21. Sandsoft Games
+22. Tamatem Games
+23. Carry1st
+
+### AI-native / AI Entertainment（7）
+24. Inworld AI
+25. Hidden Door
+26. Latitude / AI Dungeon
+27. Fable Studio
+28. Convai
+29. Scenario
+30. Layer AI
+
+## B 执行原则
+- 每周先深挖 5–10 家，不追求大批量。
+- 优先 Founder / CEO / COO / Head of Publishing / VP Growth / Investment Partner。
+- 每家公司输出：
+  1. Company Opportunity Card
+  2. 1–3 名决策人
+  3. 最新公开硬信号
+  4. 最佳合作入口
+  5. A/B Variant
+  6. Email / LinkedIn Pitch
+  7. Meeting Brief（有回复后）
+
+---
+
+# 4. 历史已触达公司 Ownership
+
+以下公司已经有邮件历史，**默认不进入 B 的新首发池**，继续由历史发送端维护 follow-up：
+- Grand Games
+- Oakever Games
+- Cypher Games
+- X-FLOW Games
+- Awem Games
+- TAPCLAP
+- Treenod
+- Shiro Games
+- Lockwood Publishing
+- Loadcomplete
+- Not Doppler
+- Fingersoft
+- Panteon Games
+- Hipster Whale
+- Supersolid
+- Wolffun Game
+- Hiker Games
+- SAGI Games
+- Turingame
+- Topebox
+- Yofijoy
+- PeroPeroGames
+- CottonGame
+- Recreate Games
+- Hungry Studio
+- Neon Doctrine
+- Snapbreak
+
+如需 B 接手，先更新 Ownership。
+
+---
+
+# 5. Shared CRM 最小字段
+
+| Field | Description |
+|---|---|
+| Company | 公司 |
+| Person | 联系人 |
+| Role | 职位 |
+| Segment | CP / Publisher / Startup / Investor / AI |
+| Category | Sims / Arcade / Casino / AI / Other |
+| Owner | Base44 / ChatGPT |
+| Variant | A / B |
+| Source | AppMagic / 点点 / LinkedIn / Web / Event |
+| Hard Signal | 可核验数字/事件 |
+| First Sent | 首发日期 |
+| Follow-up 1 | +5 天 |
+| Follow-up 2 | +10 天 |
+| Reply | Positive / Neutral / No / Bounce |
+| Meeting | Yes / No |
+| Opportunity Type | Incubation / FA / Publishing / Copilot / Partner |
+| Next Action | 下一动作 |
+
+---
+
+# 6. Weekly A/B Review
+
+每周统一比较：
+1. Segment
+2. Agent
+3. Variant A/B
+4. Send Count
+5. Reply Rate
+6. Positive Reply Rate
+7. Meeting Rate
+8. Pipeline Value
+
+只有 Meeting Rate 和后续商机质量稳定领先，才升级为 Winning Copy。
+
+---
+
+# 7. 当前启动动作
+
+## Base44 GGC助理 Agency TG
+- 立即开始 A-owned 30 家扫描与首轮 A/B 邮件。
+- 点点/AppMagic/商店榜单优先提供硬数字。
+- 所有发送状态写回 BdLead/GitHub。
+
+## ChatGPT / Joyce Copilot
+- 立即开始 B-owned 30 家中的第一批 5 家：
+  1. Jam City
+  2. Playtika
+  3. Product Madness
+  4. Tilting Point
+  5. Inworld AI
+- 对每家完成公开资料核验、决策人、合作角度、A/B pitch 草稿。
+- 未经公开核验的数据不写。
+- Gmail 首发前确认公司无历史重复触达；如已存在则转 follow-up，不重复首发。
+
+---
+
+# 8. 版本记录
+
+## v1.0 — 2026-09-17
+- 明确执行端为 Base44 GGC助理 Agency TG + ChatGPT/Joyce Copilot（非 Codex）。
+- 建立 company-level ownership。
+- 固定双 Agent 均跑完整 BD 闭环。
+- 建立 Segment × A/B 母版测试机制。
+- 分配首轮公司池并启动 B 第一批 5 家。
