@@ -77,3 +77,48 @@
 # Public source references used for this seed list
 - 2026 public recruiting pages for 深圳云朵互娱/指色科技体系, 艾达乐博, 池骋游戏, 4399, 途游, 库洛, 三七互娱.
 - Every target must be re-verified from official/company/public reliable sources before outreach.
+
+
+---
+
+# 2026-09-18 15:37 China-first execution update
+
+## Newly qualified and contacted
+
+### 广州天游网络 Eskyfun — HIGH
+- Official site: overseas coverage across HK/TW, Korea, Japan, Europe/US; peak monthly game revenue > RMB 100M.
+- Explicit strategic direction: become a stable global self-developed/self-published game company.
+- Missing corner: converting a proven overseas publishing organization into a repeatable own-product operating system.
+- Official business contact: farah.xu@eskyfun.com
+- Status: **SENT 2026-09-18**
+- Gmail: `1a0b37285f5814db`
+
+### 上海骏梦 / 富春股份 — VERY HIGH
+- 2026 H1 game revenue RMB 143M; game net profit RMB 42.5274M.
+- ROX H1 gross billings RMB 392M; regional publishing expanded into Europe and Middle East.
+- Clear archetype: historically R&D / partner-publishing heavy, then built own publishing and regional operations.
+- Missing corner now: second-stage portfolio/global operating system.
+- Official business contact: business@thedream.cc
+- Status: **EXISTING ACCOUNT REVIVED 2026-09-18**
+- Gmail follow-up: `1a0b3729feea7282`
+
+### 乐曼多 LMDGAME — HIGH
+- Official company history documents transition from external publishing to self-developed/self-published.
+- Current official careers page is still hiring overseas publishing PM, overseas UA and overseas game operations.
+- Missing corner: turn publishing-team build-out into a repeatable cross-project operating system.
+- Official business contact: luoqian@lmdgame.com
+- Status: **SENT 2026-09-18**
+- Gmail: `1a0b3728c74b0521`
+
+### EyeWind 风眼科技 — HIGH
+- Official site: 900M+ total downloads, 20+ titles with 10M+ downloads, 300M+ single-product downloads.
+- Expanding beyond puzzle into simulation / idle and other longer-lifecycle categories.
+- Missing corner: deeper retention, monetization and longer-LTV portfolio upgrade.
+- Official business contact: issue@eyewind.cc
+- Status: **SENT 2026-09-18**
+- Gmail: `1a0b372942087e7c`
+
+## Research next
+- 海口亿游网络: excellent archetype fit (own R&D, overseas publishing still handled by local partner); verify commercial scale + founder contact before high-touch outreach.
+- Novasmobi: scale is strong (50M+ registered users; tens of millions USD cumulative revenue) but already mature in global publishing; wait for stronger own-IP/self-developed transition signal.
+- 网鸿游戏: public business route exists, but annual economics not yet verified to million-retainer threshold.
