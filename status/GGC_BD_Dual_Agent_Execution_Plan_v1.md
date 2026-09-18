@@ -178,6 +178,26 @@
   6. Email / LinkedIn Pitch
   7. Meeting Brief（有回复后）
 
+
+---
+
+# 3A. 2026-09-18 ICP Update — Chinese-speaking / China-first
+
+The canonical target profile is now defined in:
+`skills/GGC_BD_Target_ICP_China_v1.md`
+
+## Priority shift for ChatGPT / Joyce Copilot
+ChatGPT-owned sourcing now prioritizes **Mainland China + Chinese-speaking founder-led teams**, especially:
+- Domestic-first studios now expanding overseas.
+- Overseas customization/co-dev teams moving into self-developed IP.
+- Pure R&D / CP teams that historically relied on publishers but now want to build **self-publishing** and their own overseas publishing organization.
+- Proven studios with a clear “missing corner”: strong R&D but weak publishing; strong UA but weak monetization/LTV; strong domestic business but weak global operations; multiple subsidiaries/studios but fragmented publishing systems.
+- Commercial capacity preference: public/provable company or product economics around **RMB 30M+ annually**, with **RMB 100M+** scale or clear multi-studio/group economics as top priority. Exact figures must be verified before external use.
+
+**GGC Copilot is available to every project stage.** Incubation/FA, Publishing, self-publishing build-out, external COO/CMO, and strategic advisory are mapped based on stage and capability gap.
+
+China-first sourcing should prioritize Founder/CEO/GM/Head of Overseas/Head of Publishing/COO/CMO. Chinese copy is preferred where the decision-maker is Chinese-speaking.
+
 ---
 
 # 4. 历史已触达公司 Ownership
@@ -275,6 +295,11 @@
 ---
 
 # 8. 版本记录
+
+## v1.1 — 2026-09-18
+- Added China-first / Chinese-speaking ICP and self-publishing build-out target archetypes.
+- Added commercial-size filter and missing-corner qualification logic.
+- Canonical ICP moved to `skills/GGC_BD_Target_ICP_China_v1.md`.
 
 ## v1.0 — 2026-09-17
 - 明确执行端为 Base44 GGC助理 Agency TG + ChatGPT/Joyce Copilot（非 Codex）。
