@@ -20,9 +20,19 @@ TG = "/app/tg_send.py"
 # 百万年框画像 (LOCKED 2026-09-17)
 PROFILE = {
     "pool_B_high_value": ["publisher","ceo_founder","casino","sims","ai_native","investor","strategic_partner","early_stage"],
+    "pool_B_cn_gap_teams": {  # 国内华人缺角团队 v1.0 (2026-09-18 Joyce确认)
+        "segments": ["cn_studio_going_global",          # 国内自研→想出海
+                     "custom_outsource_to_selfpublish",  # 海外定制→转自研自发
+                     "pure_dev_building_publishing",      # 纯研发→自建发行(不找发行合作)
+                     "multi_subsidiary_group"],           # 集团型多分公司
+        "rev_range_rmb_annual": ["30M", "100M+"],        # 年营收几千万~上亿RMB
+        "language_priority": "中文优先", "region": "国内+华人出海团队",
+        "pitch": "GGC_Operating_Partner_CN.md", "anchor": "ProjectReview¥10K→Sprint→年框(补角不拿代理权)"},
     "pool_A_scale": ["hybrid_casual","puzzle","merge","idle","arcade","mobile_studio"],
     "thresholds": {"min_monthly_rev_usd": 3000000, "takeoff_window_months": 6,
-                   "signals": ["recent_funding","chart_breakout","no_global_ops"]}
+                   "signals": ["recent_funding","chart_breakout","no_global_ops"]},
+    "cn_scan_sources": ["appstore_cn_charts","wechat_minigame_charts","overseas_charts_cn_teams",
+                        "baijing_chuangye_news","gamlook_grape_news","diandian_cn_publisher_rank"]
 }
 FOLLOWUP_DAYS = {"first": 5, "final": 10}
 
