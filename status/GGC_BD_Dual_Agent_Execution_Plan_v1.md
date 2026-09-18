@@ -103,6 +103,15 @@
 29. ABI Game Studio
 30. Storm8 / Pocket Gems-like casual portfolio targets（由 A 根据实时榜单替换为最新高信号公司）
 
+## Daily Volume SLA
+- GGC outbound target: **50–100 qualified emails/day**
+- Acceptable operating range: **30–200/day**
+- ChatGPT automation runs every 12 hours: **25–50 sends/run**
+- Do not stop at 3–5 samples; keep sourcing until target is reached or a real blocker is documented.
+- Build reserve prospect pool at least **2× send target**.
+- If hard-bounce rate from a source/pattern exceeds **10%**, stop that source/pattern and switch sourcing route.
+- Report exact daily: sourced / verified / sent / bounced / replies / positive replies / meetings / remaining gap to quota.
+
 ## A 每周输出
 - 新目标 ≥ 25 家
 - 高价值目标 ≥ 10 家
@@ -295,6 +304,11 @@ China-first sourcing should prioritize Founder/CEO/GM/Head of Overseas/Head of P
 ---
 
 # 8. 版本记录
+
+## v1.2 — 2026-09-18
+- Locked production outbound SLA at 50–100/day, acceptable range 30–200/day.
+- ChatGPT 12h run target changed to 25–50 sends/run; removed prior small-sample cap.
+- Added reserve-pool and bounce-source cutoff rules.
 
 ## v1.1 — 2026-09-18
 - Added China-first / Chinese-speaking ICP and self-publishing build-out target archetypes.
