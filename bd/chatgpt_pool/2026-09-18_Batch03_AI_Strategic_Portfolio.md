@@ -1,7 +1,7 @@
 # ChatGPT Strategic BD Batch 03 — AI / Strategic Portfolio
 **Date:** 2026-09-18  
 **Owner:** ChatGPT / Joyce Copilot  
-**Status:** 4 new emails sent; 2 additional targets researched; 2 prior sends checked; no +5/+10 follow-up due yet.
+**Status:** 4 new emails attempted; 3 currently delivered/no immediate bounce, 1 bounced (Layer); 2 additional targets researched; 2 prior sends checked; no +5/+10 follow-up due yet.
 
 > Guardrails: company-level ownership enforced from `status/GGC_BD_Dual_Agent_Execution_Plan_v1.md`; Gmail history checked before sending; no guessed addresses; no media/support/IR inboxes used unless the published address is itself a legitimate corporate contact route.
 
@@ -52,26 +52,33 @@ Gmail thread/message: `1a0b1fca22d4577d`
 - Layer reports customer outcomes including 2–8× production speed improvements.
 - CEO / Co-founder: Volkan Gurel.
 - CRO / Co-founder: Burcu Hakguder.
-- Official sales contact: `sales@layer.ai`.
+- Layer’s official Contact Sales page publishes `sales@layer.ai`, but the 2026-09-18 delivery attempt bounced because the Google Group is not open / not available to this sender.
 - 2026 product direction emphasizes production workflows, UA creative scale, model-agnostic orchestration, enterprise governance and LiveOps creative production.
 
 ### Why GGC
 Layer already sells creative automation. GGC should pitch the missing operating layer: tying creative velocity to UA testing, LiveOps cadence, monetization, studio operating workflows and measurable game growth; potential joint GTM / pilots.
 
 ### Outreach
-**SENT 2026-09-18**  
+**ATTEMPTED 2026-09-18 — BOUNCED**  
 To: `sales@layer.ai`  
 Subject: `GGC × Layer — AI creative workflows tied to game growth`  
-Gmail thread/message: `1a0b1fcbbbe1ad36`
+Original Gmail thread/message: `1a0b1fcbbbe1ad36`  
+Bounce: Google Group `sales` may not exist or may not permit external posting.
+
+### Alternate verified routes
+- Official Contact Sales web form.
+- LinkedIn: Volkan Gurel — `https://www.linkedin.com/in/volkangurel`
+- LinkedIn: Burcu Hakguder — `https://www.linkedin.com/in/burcuhakguder`
 
 ### Next action
-- +5 days if no reply.
-- If routed to sales, ask for Volkan/Burcu or BD lead Ilya Kuznetsov.
+- Do **not** follow up by email to `sales@layer.ai`.
+- Use Contact Sales form or LinkedIn to Volkan/Burcu; preserve Variant A copy.
 
 ### Sources
 - Layer About page.
 - Layer Contact Sales page.
 - Layer Feb/GDC 2026 product updates.
+- Gmail DSN failure received 2026-09-18.
 
 ---
 
@@ -92,7 +99,7 @@ Gmail thread/message: `1a0b1fcbbbe1ad36`
 Best angle is not “NPC tech”; it is using embodied AI for onboarding, companion systems, retention, personalization, social loops and commercial game systems. GGC can supply product/ops layer + studio / project pipeline.
 
 ### Outreach
-**SENT 2026-09-18**  
+**SENT 2026-09-18 — no immediate bounce**  
 To: `sales@convai.com`  
 Subject: `GGC × Convai — embodied AI beyond the NPC demo`  
 Gmail thread/message: `1a0b1fcd8ed878bb`
@@ -123,7 +130,7 @@ Gmail thread/message: `1a0b1fcd8ed878bb`
 Pitch product operating systems, not model capability: creator/community loop, retention, monetization, IP/storyworld operations and global GTM for AI-native entertainment.
 
 ### Outreach
-**SENT 2026-09-18**  
+**SENT 2026-09-18 — no immediate bounce**  
 To: `contact@fable-studio.com`  
 Subject: `GGC × Fable — from AI entertainment format to operating loop`  
 Gmail thread/message: `1a0b1fcfcd6f7356`
@@ -250,7 +257,7 @@ Hold. If Playtika does not progress, Wooga can become a studio-level route using
 | Company | Variant | Status | Channel | Next action |
 |---|---|---|---|---|
 | Stillfront | B | SENT | alexis@stillfront.com | +5 if no reply |
-| Layer AI | A | SENT | sales@layer.ai | +5 if no reply |
+| Layer AI | A | BOUNCED | published sales@layer.ai rejected external post | Contact form / LinkedIn |
 | Convai | B | SENT | sales@convai.com | +5 if no reply |
 | Fable Studio | A | SENT | contact@fable-studio.com | +5 if no reply |
 | Scopely | B | READY | Developer Partners form | Submit / executive route |
@@ -260,7 +267,7 @@ Hold. If Playtika does not progress, Wooga can become a studio-level route using
 | Carry1st | A | WAITING | Gmail | +5 not due |
 
 ## A/B sample movement
-- New sends this run: **A = 2**, **B = 2**.
-- Cumulative known ChatGPT-owned sends: Tilting Point B; Carry1st A; Stillfront B; Layer A; Convai B; Fable A.
-- Current count among these tracked sends: **A = 3, B = 3**.
+- New email attempts this run: **A = 2**, **B = 2**; one A attempt (Layer) bounced and should not count as a delivered test sample.
+- Cumulative delivered/likely-delivered tracked samples: Tilting Point B; Carry1st A; Stillfront B; Convai B; Fable A.
+- Current delivered sample count: **A = 2, B = 3**.
 - Do not select a winner yet; sample is far below the 15+15 minimum per segment.
