@@ -5,7 +5,21 @@ GGC — AI-native global game commercialization website.
 
 [Joyce Mi — English capability atlas](https://biz.ggcgames.com/joyce/) · [Source and evidence notes](joyce/README.md) · [Bilingual rate card](joyce/rate-card.csv)
 
-Added 2026-09-19: fourteen capability domains, sixteen scoped offers, career evidence, AI enablement, public market price context and a local email-brief builder. Published fees are indicative forward-looking prices, not retrospective invoices. The existing GGC homepage is preserved.
+### 2026-09-19 / Business v2
+
+Real supplied GGC-shirt portrait, decorative Joyce signature wordmark, lavender/gold system-led design, responsive English pages, an interactive operating map, fourteen capability domains, twelve anonymized illustrative business scenarios and sixteen scoped services.
+
+- [Signed price card](https://biz.ggcgames.com/joyce/rate-card.html)
+- [Price card PNG](joyce/downloads/Joyce_GGC_Rate_Card_EN.png) · [Price card PDF](joyce/downloads/Joyce_GGC_Rate_Card_EN.pdf)
+- [Public business master](joyce/docs/PUBLIC-BUSINESS-MASTER.md)
+- [Visual system](joyce/docs/VISUAL-SYSTEM.md) · [Release changes](joyce/docs/CHANGELOG.md)
+- [Desktop preview](joyce/downloads/website-desktop.png) · [Mobile preview](joyce/downloads/website-mobile.png)
+- [Automated QA results](joyce/content/release-qa.json)
+- [Build and render workflow](https://github.com/minyajing-rgb/ggc-global/actions/runs/35436447420)
+
+The readable source, generated page, data, portrait derivative, poster PNG/PDF and release screenshots are committed to this repository. The corporate homepage is preserved with a prominent link to the updated Joyce page. Price cards derive from rate-card.csv, not old concept-image text. The inquiry form creates a local email draft only; it does not process payment, send messages or reserve a slot.
+
+Published fees are indicative forward-looking prices, not retrospective invoices or verified historical client results. The twelve scenarios are illustrative service scopes, not independently verified case outcomes. Only sanitized business information appears in this new public release.
 
 ## Marketing materials
 
@@ -22,4 +36,4 @@ Added 2026-09-19: fourteen capability domains, sixteen scoped offers, career evi
 - [Connect to close playbook](skills/ggc-annual-client-development/references/connect-to-close.md)
 - [Handoff](HANDOFF.md)
 
-These are positioning and reusable operating guidance. Public standard rates are in the Joyce atlas. Private customer records, historical advisory ledgers and client-specific commercial terms belong in the authorized private workspace.
+These are positioning and reusable operating guidance. Public standard rates are in the Joyce atlas. Private customer records, historical advisory ledgers and client-specific commercial terms belong in the authorized private workspace. Private material is not included in the public website or release download.
