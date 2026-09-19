@@ -1,0 +1,33 @@
+name: Joyce coastal live website verification
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/joyce-coastal-live.yml'
+      - 'scripts/qa_coastal_live.py'
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install browser
+        run: |
+          python -m pip install playwright==1.57.0
+          python -m playwright install --with-deps chromium
+      - name: Verify actual public domain, version, assets and interactions
+        run: python scripts/qa_coastal_live.py
+      - name: Keep live verification and browser evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: joyce-coastal-live-verification
+          path: coastal-live-evidence/
+          retention-days: 14
+          if-no-files-found: error
