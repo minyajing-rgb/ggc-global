@@ -1,0 +1,36 @@
+{
+  "version": "2026-09-19-coastal-v4",
+  "scope": "Live website refresh; no PDF or new image generation.",
+  "portrait_source": "Higher-resolution portrait crop from user-selected standalone reference 141bc04d-08b7-4e52-800a-67233a6ab8c4.png, native rectangle (30,85,568,995).",
+  "identity": "Existing AI-styled reference selected by the user. No new face generated. Real GGC-shirt photograph remains in About.",
+  "before": {
+    "hero_crop": [
+      461,
+      540
+    ],
+    "hero_bytes": 12344
+  },
+  "after": {
+    "hero_crop": [
+      538,
+      910
+    ],
+    "hero_bytes": 46393,
+    "native_detail_only": true,
+    "responsive_sizes": [
+      360,
+      538
+    ],
+    "jpeg_fallback": true,
+    "desktop_render_width_cap": 538
+  },
+  "limits": "Re-encoded native reference detail, not recovered 4K detail or a newly captured portrait. Decorative sea background remains atmospheric.",
+  "pricing": "Canonical rate-card.csv unchanged. New starting-point cards refer to S01, S03 and S11.",
+  "privacy": "Public business content only; no client names or personal conversations; enquiries are local drafts, not sent messages.",
+  "assets": {
+    "coastal-portrait-v4-small.avif": "5a822e6825a2a56c1bb458a056dc81305f3072ff73014908b4e0b77dc68e1396",
+    "coastal-portrait-v4.avif": "ca3e049635c95281f2192513ca3fe7257821c87a5dd2c7c8622c44096a97f9ef",
+    "coastal-portrait-v4-small.jpg": "e76ae3cf11badf8d49a7ad7126970ef1885471dbf42a4f1c6e3c7095bbfe2b20",
+    "coastal-portrait-v4.jpg": "2aaaa16850856d4d0e903b653a10ac46d90b2d35af5b10563a762ecb34bd8631"
+  }
+}
