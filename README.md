@@ -1,6 +1,12 @@
 # ggc-global
 GGC — AI-native global game commercialization website.
 
+## Joyce capability atlas and standard fees
+
+[Joyce Mi — English capability atlas](https://biz.ggcgames.com/joyce/) · [Source and evidence notes](joyce/README.md) · [Bilingual rate card](joyce/rate-card.csv)
+
+Added 2026-09-19: fourteen capability domains, sixteen scoped offers, career evidence, AI enablement, public market price context and a local email-brief builder. Published fees are indicative forward-looking prices, not retrospective invoices. The existing GGC homepage is preserved.
+
 ## Marketing materials
 
 [GGC 中文业务与运营素材｜2026-09-14](assets/marketing/2026-09-14/README.md)：外部／战略合作伙伴 CMO × COO 服务介绍、游戏运营知识总览；分类保存原图与使用说明。
@@ -16,5 +22,4 @@ GGC — AI-native global game commercialization website.
 - [Connect to close playbook](skills/ggc-annual-client-development/references/connect-to-close.md)
 - [Handoff](HANDOFF.md)
 
-These are positioning and reusable operating guidance. Private customer records and commercial terms belong in the authorized private workspace.
-
+These are positioning and reusable operating guidance. Public standard rates are in the Joyce atlas. Private customer records, historical advisory ledgers and client-specific commercial terms belong in the authorized private workspace.
