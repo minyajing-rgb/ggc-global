@@ -1,0 +1,90 @@
+name: Joyce business site build and QA
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/build_joyce_business.py'
+      - 'scripts/joyce-build.part*.b64'
+      - 'scripts/qa_joyce_business.py'
+      - 'joyce/rate-card.csv'
+      - 'joyce/content/capabilities.json'
+      - 'joyce/assets/portrait-source.b64'
+      - 'joyce/assets/joyce-signature.svg'
+      - '.github/workflows/joyce-business-v2.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: joyce-business-release
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Restore readable build source and verify transfer
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import base64, hashlib, zlib
+          parts=sorted(Path('scripts').glob('joyce-build.part*.b64'))
+          if parts:
+              if len(parts)!=4:
+                  raise RuntimeError('Expected four complete source-transfer parts')
+              encoded=''.join(''.join(p.read_text().split()) for p in parts)
+              source=zlib.decompress(base64.b64decode(encoded,validate=True))
+              expected='336fab5aba8213bd8979367f96ea8374fe84fed416a7c11705feb829dfc832fc'
+              if hashlib.sha256(source).hexdigest()!=expected:
+                  raise RuntimeError('Build source checksum mismatch')
+              Path('scripts/build_joyce_business.py').write_bytes(source)
+          if not Path('scripts/build_joyce_business.py').exists():
+              raise RuntimeError('Readable build source missing')
+          PY
+      - name: Build public content and verify real portrait
+        run: |
+          python scripts/build_joyce_business.py
+          python - <<'PY'
+          from pathlib import Path
+          import hashlib
+          actual=hashlib.sha256(Path('joyce/assets/joyce-portrait.webp').read_bytes()).hexdigest()
+          assert actual=='19dfe0828d428397dd677dd3f1f2f5dd9963cf083d072011b85936c799dddb29', 'Portrait checksum mismatch'
+          PY
+      - name: Install browser testing tools
+        run: |
+          python -m pip install playwright==1.57.0
+          python -m playwright install --with-deps chromium
+      - name: Test website and render signed price poster
+        run: python scripts/qa_joyce_business.py
+      - name: Commit generated public release
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add joyce/ scripts/build_joyce_business.py index.html
+          git rm --ignore-unmatch scripts/joyce-build.part1.b64 scripts/joyce-build.part2.b64 scripts/joyce-build.part3.b64 scripts/joyce-build.part4.b64 joyce/assets/portrait-source.b64
+          if ! git diff --cached --quiet; then
+            git commit -m 'feat: publish real-photo Joyce business atlas, sanitized scopes and signed fee card'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Archive tested release
+        uses: actions/upload-artifact@v4
+        with:
+          name: joyce-business-v2-release
+          path: |
+            joyce/
+            scripts/build_joyce_business.py
+            scripts/qa_joyce_business.py
+          retention-days: 7
+      - name: Deployment note
+        run: |
+          echo 'Generated source and assets are committed to main. The existing branch-based GitHub Pages deployment must include this commit; verify Pages separately.' >> "$GITHUB_STEP_SUMMARY"
