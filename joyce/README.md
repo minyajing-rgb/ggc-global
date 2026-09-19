@@ -1,50 +1,58 @@
-# Joyce / GGC — Coastal website v3
+# Joyce / GGC — Coastal website, clarity refresh v4
 
-Active release: `2026-09-19-coastal-v3`.
+Active release: `2026-09-19-coastal-v4`.
 
 ## Live website
 
-- [Main website](https://biz.ggcgames.com/)
-- [Joyce website](https://biz.ggcgames.com/joyce/)
-- [Interactive services and fees](https://biz.ggcgames.com/joyce/#services)
+- [Main website](https://biz.ggcgames.com/?v=refresh-v4)
+- [Joyce website](https://biz.ggcgames.com/joyce/?v=refresh-v4)
+- [Product review scope](https://biz.ggcgames.com/joyce/?service=S03&lang=en#services)
 - [Bilingual master rate CSV](rate-card.csv)
 
-Both the root and `/joyce/` now serve the same complete interactive website. The legacy rate-card page redirects to the services section. No new PDF is produced and there are no PDF links on the active website.
+Both root and `/joyce/` serve the same complete interactive website. The legacy rate-card page redirects to the services section. No new PDF is produced and there are no PDF links on the active website.
 
-## Selected visual direction
+## What changed in v4
 
-The user-selected pale-lavender and gold coastal artwork is implemented with separate image assets and selectable HTML: sea panorama, white-suit portrait, gold signature motif, translucent cards and clear service controls. The hero portrait is cropped from the user's selected AI-styled reference; the about section retains the existing real blue GGC-shirt photo. No new face has been generated. The signature-style wordmark is decorative, not an authenticated legal signature.
+- Replaced the heavily compressed461×540 portrait crop with a538×910 native crop from the user-selected standalone artwork. Desktop width is capped at538px;360px responsive source, AVIF and JPEG fallback added.
+- Preserved the pale-lavender/gold coastal direction, white-suit portrait, gold signature motif and translucent cards. No new face generated. About retains the real blueGGC-shirt photo.
+- Added three clear starting points: expert decision, product review,90-day operating partnership.
+- Selected enquiry now shows service, fee and billing period; language and currency changes stay synchronized.
+- Scope dialogs have accessible labels, Escape/background behavior and a copyable direct service link.
+- Improved mobile-menu controls, bilingual form placeholders and budget label.
 
-## Working content and features
+This is a native-reference-detail improvement, not a recovered4K source. The signature-style wordmark remains decorative, not an authenticated legal signature.
 
-- English/Chinese language switch and mobile navigation.
-- Four sector entry paths and interactive operating-system stages.
-- 14 capability domains and 12 anonymized business-service scenarios.
-- 16 scoped offers; category filter, CNY/USD planning reference, scope dialog and service selection.
-- Inquiry brief builder opens a mail draft; it does not send email, confirm a booking or process payment.
-- Public business content only; private customer names, disputes, health and relationship history are not published.
-- Service prices remain controlled by the existing CSV, not by the old text embedded in concept artwork.
+## Content and commercial boundaries
 
-## Sources and implementation
+Four sector paths, interactive operating stages,14capability domains,12anonymized business-service scenarios and16scoped offers remain. Prices are controlled by the existing CSV and were not changed. USD remains a disclosed planning conversion.
 
+The enquiry builder generates a local mail draft. It does not send messages, confirm bookings, store form data or take payment. Private client names, disputes, health and relationship histories are not public site content. Former employers and project names do not imply endorsements. No outcome guarantee or retrospective receivable is implied.
+
+## Implementation and evidence
+
+- [Product review and implemented fixes](docs/PRODUCT-REVIEW-V4.md)
 - [Public Business Master](docs/PUBLIC-BUSINESS-MASTER.md)
 - [Capability data](content/capabilities.json)
-- [Anonymized service scenarios](content/advisory-scenarios.json)
-- [Service data](content/services.json)
-- [Coastal visual-asset manifest](content/coastal-v3-manifest.json)
-- [Build/browser QA](content/coastal-qa/report.json)
-- [Build source](../scripts/build_coastal_v3.py)
-- [Local browser tests](../scripts/qa_coastal_v3.py)
-- [Public-domain verification](../scripts/qa_coastal_live.py)
+- [Anonymized scenarios](content/advisory-scenarios.json)
+- [Services](content/services.json)
+- [Refresh asset manifest](content/refresh-v4-manifest.json)
+- [Built-file QA](content/refresh-qa/report.json)
+- [Actual HTTPS QA](content/refresh-qa/live-report.json)
+- [Release workflow](https://github.com/minyajing-rgb/ggc-global/actions/runs/35448756888)
 
-Build: `python scripts/build_coastal_v3.py`.
-Local checks: `python scripts/qa_coastal_v3.py` with Playwright Chromium installed.
-Actual-domain checks: `python scripts/qa_coastal_live.py`.
+Build in order:
 
-The old V2 builder is retained for history only; its automatic workflow is disabled so it cannot overwrite this design or generate new PDF deliverables.
+```sh
+python scripts/build_coastal_v3.py
+python scripts/refresh_coastal_v4.py
+python scripts/qa_refresh_v4.py
+GGC_LIVE_BASE=https://biz.ggcgames.com python scripts/qa_refresh_v4.py
+```
+
+Requires Pillow11.3.0, Playwright1.57.0 and its Chromium browser. The active coastal workflow runs the base build and then v4; do not publish the base builder alone. The oldV2 automatic PDF workflow stays disabled.
 
 ## Release record
 
-2026-09-19: All six source-transfer parts restored and checksum-verified. The complete website and media were built and committed at `f4e6b452d71a73ff7a7780733ca1668713edb0c9`. The corresponding GitHub Pages deployment completed successfully. Local browser QA passed all 30 checks. Public-domain verification runs separately and records the actual remote file hashes and browser behavior.
+2026-09-19v4: Image transfer checksum passed. Built desktop/mobile and actual public-domain tests passed. The live verification at2026-09-19T14:28:41Z confirms v4 on both root and personal entries, responsive hero, unchanged prices, language controls, service selection, form draft and mobile layout. Full reports and screenshots are committed and archived in the release artifact.
 
-Prices are proposed scoped offers, not verified historical paid rates or retrospective receivables. USD uses the disclosed planning rate, not a live foreign-exchange quote. Former employers and historical projects are not client endorsements. No outcome guarantee is implied.
+2026-09-19v3: Initial user-selected coastal website published; retained in Git history.
