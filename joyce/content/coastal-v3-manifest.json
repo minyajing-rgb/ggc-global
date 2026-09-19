@@ -1,0 +1,47 @@
+{
+  "version": "2026-09-19-coastal-v3",
+  "art_direction": "User-selected lavender/gold coastal references; image slices plus real HTML, not a flattened mockup.",
+  "references": [
+    "141bc04d-08b7-4e52-800a-67233a6ab8c4.png",
+    "d3c7084a-98ad-4df6-8d6d-92c5ad0f4085.png"
+  ],
+  "portrait_status": "Hero is extracted from user-selected, AI-styled reference artwork; about section retains existing real GGC-shirt photo. No new face generated.",
+  "signature_status": "Existing decorative signature-style SVG unchanged; not a legal signature.",
+  "assets": {
+    "coastal-portrait.avif": {
+      "bytes": 12344,
+      "sha256": "0fe999a58a10ff18bea4c16ae623a33e1e8132dbf8c3a813a62b1529506f58b3"
+    },
+    "coastal-panorama.avif": {
+      "bytes": 7826,
+      "sha256": "604acd4ebc5a7f946d998520c774db458231abf731f2d752d04b46b3a9e5c349"
+    },
+    "sector-casino.avif": {
+      "bytes": 1130,
+      "sha256": "03fde1dd6571d2d8f348ab0f417f845abbd2ad2bb19abb7c56b4cca4af2c1f49"
+    },
+    "sector-arcade.avif": {
+      "bytes": 1066,
+      "sha256": "b454619bd374e009024edbf6be7083e2f952624bb4655ada29d1e4476d7ac4cb"
+    },
+    "sector-sims.avif": {
+      "bytes": 998,
+      "sha256": "31a9c0cdb2b79a0c0d9203dbd064808a5d65aef642edd3327586ad70f19742c0"
+    },
+    "sector-wellbeing.avif": {
+      "bytes": 907,
+      "sha256": "21a836ada4a879e54580be60cb6b4c40d4c7e45e0a9e7022d956a713f35503c3"
+    },
+    "joyce-portrait.webp": {
+      "bytes": 9362,
+      "sha256": "19dfe0828d428397dd677dd3f1f2f5dd9963cf083d072011b85936c799dddb29"
+    },
+    "joyce-signature.svg": {
+      "bytes": 1899,
+      "sha256": "71fc6fe2de183995bfaf14d56840a3d9bff484d148be775a4ded182ff918ea28"
+    }
+  },
+  "public_scope": "Business only. No personal dispute, child, or health history.",
+  "prices": "Existing rate-card.csv unchanged. Old reference-image prices are not used.",
+  "pdf": "No PDF produced; previous PDF links are removed from the new site."
+}
