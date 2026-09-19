@@ -1,0 +1,53 @@
+name: Joyce live domain verification
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/joyce-live-smoke.yml'
+permissions:
+  contents: read
+jobs:
+  live:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - name: Verify deployed public pages and downloads
+        run: |
+          python - <<'PY'
+          import datetime, json, time, urllib.request
+          base='https://biz.ggcgames.com'
+          targets=[
+              ('homepage','/','joyce/'),
+              ('joyce_site','/joyce/','Define the category.'),
+              ('signed_rate_card','/joyce/rate-card.html','from / project'),
+              ('service_data','/joyce/content/services.json','json16'),
+              ('real_portrait','/joyce/assets/joyce-portrait.webp','webp'),
+              ('poster_png','/joyce/downloads/Joyce_GGC_Rate_Card_EN.png','png'),
+              ('poster_pdf','/joyce/downloads/Joyce_GGC_Rate_Card_EN.pdf','pdf')]
+          results={}
+          for attempt in range(4):
+              for key,path,expected in targets:
+                  if results.get(key,{}).get('ok'): continue
+                  try:
+                      req=urllib.request.Request(base+path,headers={'User-Agent':'GGC-Release-QA/2.0','Cache-Control':'no-cache'})
+                      with urllib.request.urlopen(req,timeout=15) as r:
+                          body=r.read(); status=r.status; final=r.url
+                      valid=(len(json.loads(body))==16 if expected=='json16' else body[:4]==b'RIFF' and body[8:12]==b'WEBP' if expected=='webp' else body.startswith(b'\x89PNG\r\n\x1a\n') if expected=='png' else body.startswith(b'%PDF-') if expected=='pdf' else expected.encode() in body)
+                      results[key]={'ok':status==200 and valid,'status':status,'bytes':len(body),'url':final,'content_check':valid}
+                  except Exception as exc:
+                      results[key]={'ok':False,'url':base+path,'error':str(exc)}
+              if all(x['ok'] for x in results.values()):break
+              if attempt<3:time.sleep(15)
+          report={'checked_at_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),'base_url':base,'results':results,'all_passed':all(x['ok'] for x in results.values())}
+          with open('joyce-live-verification.json','w') as f:json.dump(report,f,indent=2)
+          print(json.dumps(report,indent=2))
+          if not report['all_passed']:raise SystemExit('One or more live-domain checks failed; deployment and accessibility must be reported separately.')
+          PY
+      - name: Save live verification evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: joyce-live-verification
+          path: joyce-live-verification.json
+          retention-days: 7
