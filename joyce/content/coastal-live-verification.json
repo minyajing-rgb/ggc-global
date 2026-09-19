@@ -1,0 +1,41 @@
+{
+  "version": "2026-09-19-coastal-v3",
+  "checked_at_utc": "2026-09-19T12:38:24.182764+00:00",
+  "base_url": "https://biz.ggcgames.com",
+  "workflow_url": "https://github.com/minyajing-rgb/ggc-global/actions/runs/35443411554",
+  "artifact_id": 10584159845,
+  "release_commit": "f4e6b452d71a73ff7a7780733ca1668713edb0c9",
+  "http_summary": {
+    "files_checked": 13,
+    "all_http_200": true,
+    "all_sha256_match_repository": true,
+    "root_html_bytes": 93880,
+    "joyce_html_bytes": 93880,
+    "both_html_sha256": "6fd74e84fa23bfddfbedbba3976c16c88f668f2b0cbfec9dd83f8eb68e4bc7c8"
+  },
+  "checks": {
+    "live_files_match_committed_release": true,
+    "live_release_marker": true,
+    "service_count_16": true,
+    "capability_count_14": true,
+    "scenario_count_12": true,
+    "desktop_no_overflow": true,
+    "no_pdf_links": true,
+    "no_private_names": true,
+    "images_loaded": true,
+    "prices_match_csv": true,
+    "usd_reference": true,
+    "ai_filter": true,
+    "service_details": true,
+    "service_selected": true,
+    "language_switch": true,
+    "mobile_no_overflow": true,
+    "mobile_menu": true,
+    "mobile_navigation": true,
+    "root_live_release": true,
+    "no_js_errors": true
+  },
+  "errors": [],
+  "all_passed": true,
+  "note": "Summary of the downloaded CI artifact after inspecting its report and actual-domain screenshot. All 20 checks passed. Full evidence is in the linked workflow artifact. No email, booking, payment or PDF was executed."
+}
