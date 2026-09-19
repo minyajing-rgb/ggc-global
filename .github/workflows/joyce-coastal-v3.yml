@@ -5,11 +5,14 @@ on:
   push:
     branches: [main]
     paths:
-      - 'scripts/coastal-transfer/*.b64'
       - 'scripts/build_coastal_v3.py'
-      - 'scripts/qa_coastal_v3.py'
+      - 'scripts/refresh_coastal_v4.py'
+      - 'scripts/qa_refresh_v4.py'
+      - 'scripts/refresh-transfer/*.b64'
       - 'joyce/assets/coastal-v3.css'
       - 'joyce/assets/coastal-v3.js'
+      - 'joyce/assets/refresh-v4.css'
+      - 'joyce/assets/refresh-v4.js'
       - 'joyce/rate-card.csv'
       - 'joyce/content/capabilities.json'
       - 'joyce/content/advisory-scenarios.json'
@@ -25,7 +28,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v6
         with:
@@ -33,76 +36,89 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Restore exact approved source and verify integrity
+      - name: Install image conversion and browser QA
+        run: |
+          python -m pip install Pillow==11.3.0 playwright==1.57.0
+          python -m playwright install --with-deps chromium
+      - name: Build approved coastal layout then apply the clarity refresh
         run: |
           python - <<'PY'
-          import base64, hashlib, io, zipfile
           from pathlib import Path
-          parts=sorted(Path('scripts/coastal-transfer').glob('coastal-v3.part*.b64'))
-          if parts:
-              if len(parts)!=6:
-                  raise RuntimeError('Expected all six transfer parts')
-              payload=base64.b64decode(''.join(''.join(p.read_text().split()) for p in parts),validate=True)
-              expected='6b324b4749d5e978a79c9fd00c23059ded308f07a6a3aea0108311ac2663d736'
-              if hashlib.sha256(payload).hexdigest()!=expected:
-                  raise RuntimeError('Source archive checksum mismatch')
-              allowed={'scripts/build_coastal_v3.py','scripts/qa_coastal_v3.py','joyce/assets/coastal-v3.css','joyce/assets/coastal-v3.js','joyce/assets/coastal-portrait.avif','joyce/assets/coastal-panorama.avif','joyce/assets/sector-casino.avif','joyce/assets/sector-arcade.avif','joyce/assets/sector-sims.avif','joyce/assets/sector-wellbeing.avif'}
-              with zipfile.ZipFile(io.BytesIO(payload)) as z:
-                  if set(z.namelist())!=allowed or z.testzip():
-                      raise RuntimeError('Archive integrity or path check failed')
-                  for name in z.namelist():
-                      target=Path(name)
-                      target.parent.mkdir(parents=True,exist_ok=True)
-                      target.write_bytes(z.read(name))
-          if not Path('scripts/build_coastal_v3.py').is_file():
-              raise RuntimeError('Build source is missing')
+          import hashlib
           Path('/tmp/rate-card.sha256').write_text(hashlib.sha256(Path('joyce/rate-card.csv').read_bytes()).hexdigest())
           PY
-      - name: Build interactive website, not a PDF
-        run: |
           python scripts/build_coastal_v3.py
+          python scripts/refresh_coastal_v4.py
           python - <<'PY'
           from pathlib import Path
           import hashlib
           assert hashlib.sha256(Path('joyce/rate-card.csv').read_bytes()).hexdigest()==Path('/tmp/rate-card.sha256').read_text(), 'Pricing source changed unexpectedly'
           assert Path('CNAME').read_text().strip()=='biz.ggcgames.com', 'Domain must be preserved'
+          assert Path('index.html').read_bytes()==Path('joyce/index.html').read_bytes(), 'Root and personal entry points must match'
           PY
-      - name: Install browser QA
-        run: |
-          python -m pip install playwright==1.57.0
-          python -m playwright install --with-deps chromium
-      - name: Test desktop, mobile, languages, prices and forms
-        run: python scripts/qa_coastal_v3.py
-      - name: Commit complete website to the Pages publishing branch
+      - name: Test built desktop, mobile, languages, prices and inquiry flow
+        run: python scripts/qa_refresh_v4.py
+      - name: Commit refreshed website to the Pages publishing branch
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add index.html joyce/index.html joyce/rate-card.html scripts/build_coastal_v3.py scripts/qa_coastal_v3.py
-          git add joyce/assets/coastal-v3.css joyce/assets/coastal-v3.js joyce/assets/coastal-portrait.avif joyce/assets/coastal-panorama.avif joyce/assets/sector-*.avif
-          git add joyce/content/coastal-v3-manifest.json joyce/content/coastal-qa/
-          git rm --ignore-unmatch scripts/coastal-transfer/coastal-v3.part*.b64
+          git add index.html joyce/index.html joyce/rate-card.html
+          git add joyce/assets/coastal-portrait-v4* joyce/assets/refresh-v4.css joyce/assets/refresh-v4.js
+          git add joyce/content/coastal-v3-manifest.json joyce/content/refresh-v4-manifest.json joyce/content/refresh-qa/
+          git rm --ignore-unmatch scripts/refresh-transfer/portrait.part*.b64
           if ! git diff --cached --quiet; then
-            git commit -m 'feat: publish approved lavender-gold coastal website at both live entry points'
+            git commit -m 'feat: publish coastal v4 hero clarity and product-review conversion refresh'
             git pull --rebase origin main
             git push origin HEAD:main
           fi
-          git rev-parse HEAD > joyce/content/coastal-qa/published-commit.txt
-      - name: Archive tested website and screenshots
+          git rev-parse HEAD > /tmp/joyce-refresh-commit.txt
+      - name: Wait for actual public-domain release at both entry points
+        run: |
+          python - <<'PY'
+          import time, urllib.request
+          from pathlib import Path
+          marker=b'2026-09-19-coastal-v4'
+          stamp=Path('/tmp/joyce-refresh-commit.txt').read_text().strip()[:12]
+          urls=['https://biz.ggcgames.com/','https://biz.ggcgames.com/joyce/']
+          for attempt in range(36):
+              ok=True
+              for url in urls:
+                  try:
+                      req=urllib.request.Request(url+'?release_check='+stamp,headers={'Cache-Control':'no-cache','User-Agent':'GGC-Release-QA'})
+                      with urllib.request.urlopen(req,timeout=20) as r:
+                          body=r.read()
+                          valid=r.status==200 and marker in body and b'portrait-v4' in body and b'refresh-start' in body
+                          ok=ok and valid
+                          print(url,r.status,'v4-ready='+str(valid),flush=True)
+                  except Exception as exc:
+                      ok=False
+                      print(type(exc).__name__,str(exc),flush=True)
+              if ok:
+                  break
+              time.sleep(10)
+          else:
+              raise RuntimeError('Live website did not publish the expected refresh within the verification window')
+          PY
+      - name: Test the real HTTPS website, not a local mock
+        env:
+          GGC_LIVE_BASE: https://biz.ggcgames.com
+        run: python scripts/qa_refresh_v4.py
+      - name: Record live acceptance evidence
+        run: |
+          git add joyce/content/refresh-qa/
+          if ! git diff --cached --quiet; then
+            git commit -m 'test: archive actual-domain v4 acceptance and browser screenshots'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+          echo 'Built and actual-HTTPS checks completed. No PDF, outgoing email, reservation or payment.' >> "$GITHUB_STEP_SUMMARY"
+      - name: Archive tested refresh and screenshots
+        if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: joyce-coastal-v3-release
+          name: joyce-refresh-v4-qa
           path: |
-            index.html
-            CNAME
-            .nojekyll
-            joyce/index.html
-            joyce/rate-card.html
-            joyce/rate-card.csv
-            joyce/assets/
-            joyce/content/
-            scripts/build_coastal_v3.py
-            scripts/qa_coastal_v3.py
-          retention-days: 7
-      - name: Deployment handoff
-        run: |
-          echo 'Coastal website built, tested and committed to main. Check branch-based Pages deployment and live release marker separately before reporting the domain as updated.' >> "$GITHUB_STEP_SUMMARY"
+            joyce/content/refresh-qa/
+            joyce/content/refresh-v4-manifest.json
+            joyce/docs/PRODUCT-REVIEW-V4.md
+          retention-days: 14
