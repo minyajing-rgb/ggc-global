@@ -1,0 +1,86 @@
+[
+  [
+    "01",
+    "An operating question that will not go away",
+    "Unclear symptoms, inconsistent priorities, repeated ad-hoc requests.",
+    "A bounded decision session; assumptions, decision owner and follow-up scope.",
+    "S01"
+  ],
+  [
+    "02",
+    "A category or benchmark mismatch",
+    "The reference game, market or business model may not match the product.",
+    "A category-fit assessment and decision memo.",
+    "S02"
+  ],
+  [
+    "03",
+    "UA spend without a defensible growth case",
+    "Acquisition, retention and payback tell conflicting stories.",
+    "A read-only UA review with scoped commercial recommendations.",
+    "S05"
+  ],
+  [
+    "04",
+    "A product and its website tell different stories",
+    "Positioning, player proposition and commercial messaging do not align.",
+    "Product/positioning assessment and a prioritized brief.",
+    "S02 / S04"
+  ],
+  [
+    "05",
+    "The wrong role is being recruited",
+    "Title, seniority, responsibilities and evaluation criteria are unclear.",
+    "Role scorecards, JD calibration and an interview rubric.",
+    "S07"
+  ],
+  [
+    "06",
+    "An introduction without a fit case",
+    "A senior contact is requested before the purpose or value exchange is clear.",
+    "Partner research, a permission-based introduction brief and coordination.",
+    "S08"
+  ],
+  [
+    "07",
+    "A number looks persuasive but its definition does not",
+    "Annual versus cumulative; revenue versus profit; inconsistent currencies.",
+    "Source and metric-definition review for a bounded decision.",
+    "S01 / S09"
+  ],
+  [
+    "08",
+    "Adjacent game categories get treated as interchangeable",
+    "Social Casino, real-money products and machine-based gaming require distinct analysis.",
+    "Product/category and team-fit review; specialist questions where needed.",
+    "S02"
+  ],
+  [
+    "09",
+    "R&D is ready but the publishing layer is not",
+    "Markets, channels, launch ownership and commercial assumptions are disconnected.",
+    "A scoped publishing/GTM assessment or sprint.",
+    "S04"
+  ],
+  [
+    "10",
+    "The product ships but operating ownership disappears",
+    "Release, staffing and post-launch responsibilities are unclear.",
+    "Organization and handoff assessment; an operating mandate if required.",
+    "S07 / S11"
+  ],
+  [
+    "11",
+    "Metrics exist but commercial priorities do not",
+    "Data, economy and player lifecycle are reviewed in separate conversations.",
+    "A product, monetization or LiveOps review with agreed boundaries.",
+    "S03 / S06"
+  ],
+  [
+    "12",
+    "Expert access has become an unlimited inbox",
+    "Repeated advice has no scope, capacity ceiling or commercial agreement.",
+    "A prepaid, capacity-bounded advisory retainer and decision log.",
+    "S10"
+  ]
+]

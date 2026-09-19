@@ -1,0 +1,25 @@
+{
+  "version": "2026-09-19-v2",
+  "checks": {
+    "services": true,
+    "capabilities": true,
+    "scenarios": true,
+    "images_loaded": true,
+    "desktop_overflow": true,
+    "system_map": true,
+    "usd_reference": true,
+    "ai_filter": true,
+    "service_selection": true,
+    "brief_builder": true,
+    "mobile_overflow": true,
+    "mobile_images": true,
+    "english_visible_copy": true,
+    "public_scope_only": true,
+    "poster_rates": true,
+    "poster_images": true,
+    "poster_height_px": 1509,
+    "no_js_errors": true
+  },
+  "browser_errors": [],
+  "note": "Local browser tests. No email sent. Live-domain validation and deployment are separate."
+}

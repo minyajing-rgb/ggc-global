@@ -1,0 +1,21 @@
+{
+  "version": "2026-09-19-v2",
+  "portrait": {
+    "path": "assets/joyce-portrait.webp",
+    "source": "User-supplied AY4A7260.jpg",
+    "transformation": "resize/compress only; metadata stripped",
+    "sha256": "19dfe0828d428397dd677dd3f1f2f5dd9963cf083d072011b85936c799dddb29"
+  },
+  "signature": {
+    "path": "assets/joyce-signature.svg",
+    "status": "Decorative signature-style wordmark extracted from supplied concept reference; not legal authentication"
+  },
+  "pricing_source": "rate-card.csv",
+  "private_information_published": false,
+  "generated_renders": [
+    "downloads/Joyce_GGC_Rate_Card_EN.png",
+    "downloads/Joyce_GGC_Rate_Card_EN.pdf",
+    "downloads/website-desktop.png",
+    "downloads/website-mobile.png"
+  ]
+}

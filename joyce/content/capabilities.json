@@ -1,0 +1,114 @@
+[
+  [
+    "Category strategy & greenlight",
+    "Lead",
+    "New category, unclear product direction",
+    "Market taxonomy, player jobs, competing loops, thesis and kill criteria",
+    "Decision quality; hypothesis validation; time to greenlight",
+    "S02 / S04 / S09"
+  ],
+  [
+    "Product & R&D interface",
+    "Lead",
+    "A product exists but the first sessions do not work",
+    "Core-loop review, FTUE, unlock cadence, requirements and release checklist",
+    "Activation; D1/D7 retention; funnel completion",
+    "S03"
+  ],
+  [
+    "Analytics & experimentation",
+    "Lead",
+    "Many dashboards; no defensible decision",
+    "Metric dictionary, cohort/DAU/revenue/LTV models, event plan, A/B design and source QA",
+    "Data validity; experiment cycle time; KPI movement",
+    "S03 / S05 / S11"
+  ],
+  [
+    "Economy & monetization",
+    "Lead",
+    "Players return but payer conversion or LTV stalls",
+    "Sources/sinks, offers, VIP/pass/subscription, payer segmentation and price testing",
+    "Payer conversion; ARPDAU; retention-adjusted LTV",
+    "S03 / S06"
+  ],
+  [
+    "LiveOps & lifecycle",
+    "Lead",
+    "Calendar is busy but commercial rhythm is weak",
+    "Event portfolio, seasonality, lifecycle triggers, win-back and live review cadence",
+    "Event lift vs baseline; retention; reactivation",
+    "S06 / S11"
+  ],
+  [
+    "UA & creative systems",
+    "Lead",
+    "Spend grows faster than player value",
+    "Channel economics, creative taxonomy, test design, budgets and stop/scale rules",
+    "CPI; cohort ROAS; payback; creative learning velocity",
+    "S05 / S11"
+  ],
+  [
+    "Global publishing & localization",
+    "Lead",
+    "Strong R&D; overseas operating layer missing",
+    "Market sequencing, launch gates, channel strategy, localization briefs and release operations",
+    "Readiness; market cohort economics; issue backlog",
+    "S04 / S11"
+  ],
+  [
+    "Community, PR & distribution",
+    "Lead + partners",
+    "Traffic, content, community and brand work in silos",
+    "Positioning, editorial cadence, KOL brief, community/CS feedback loop and partner map",
+    "Qualified traffic; feedback resolution; community conversion",
+    "S04 / S08 / S14"
+  ],
+  [
+    "Organization & operating governance",
+    "Lead",
+    "Founder is the default escalation point",
+    "Role scorecards, RACI, hiring sequence, WBS, reviews and P&L/portfolio allocation",
+    "Cycle time; ownership clarity; milestones; burn control",
+    "S07 / S11 / S12"
+  ],
+  [
+    "Partnerships & commercial diligence",
+    "Lead",
+    "A deal has access but no defensible business case",
+    "Partner criteria, consent-based introductions, commercial brief, data questions and scenario model",
+    "Qualified meetings; decision completeness; agreed next action",
+    "S08 / S09"
+  ],
+  [
+    "Web3 game commercial design",
+    "Scoped advisory",
+    "A token story exists; the player proposition is weak",
+    "Player value, onboarding, off/on-chain economy boundaries, community and GTM",
+    "Player retention and product use; not token price",
+    "S15"
+  ],
+  [
+    "AI-native operating infrastructure",
+    "Design + co-delivery",
+    "AI creates drafts but not repeatable operating processes",
+    "Research-to-decision, retrieval, content QA, CRM briefs, reporting, evaluation and approval",
+    "Time per task; accuracy; rework; adoption; cost per useful output",
+    "S13 / S14"
+  ],
+  [
+    "AI-native consumer product incubation",
+    "Current build / research",
+    "An idea needs a testable, monetizable product",
+    "Conversation/voice UX, memory boundaries, paywall experiments, analytics and rollout roadmap",
+    "Activation; willingness to pay; retention; safety/quality",
+    "S02 / S03 / S14"
+  ],
+  [
+    "Methods, education & executive communication",
+    "Lead",
+    "Teams need transferable judgment, not another deck",
+    "Operating playbooks, case-based workshops, decision memos and management education",
+    "Skill application; decision quality; follow-through",
+    "S02 / S13 / S16"
+  ]
+]
