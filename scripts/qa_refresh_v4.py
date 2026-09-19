@@ -1,7 +1,7 @@
 """Test built files or the actual HTTPS site. No messages or payments are sent."""
 from pathlib import Path
 from urllib.parse import urlparse, unquote
-import csv, json, os, mimetypes, shutil
+import csv, json, os, mimetypes, shutil, sys, traceback
 from datetime import datetime, timezone
 from playwright.sync_api import sync_playwright
 ROOT=Path(__file__).resolve().parents[1]
@@ -10,6 +10,11 @@ VERSION='2026-09-19-coastal-v4'
 LIVE=os.environ.get('GGC_LIVE_BASE','').rstrip('/')
 BASE=LIVE or 'https://ggc.test'
 checks={};errors=[]
+def error_report(kind,error,tb):
+ report={'version':VERSION,'checked_at_utc':datetime.now(timezone.utc).isoformat(),'mode':'actual live HTTPS' if LIVE else 'built files','base':BASE,'checks':checks,'errors':errors,'exception':''.join(traceback.format_exception(kind,error,tb)),'all_passed':False}
+ (OUT/('live-report.json' if LIVE else 'report.json')).write_text(json.dumps(report,indent=2))
+ sys.__excepthook__(kind,error,tb)
+sys.excepthook=error_report
 with sync_playwright() as p:
  browser=p.chromium.launch(headless=True,executable_path=shutil.which('chromium') or None,args=['--no-sandbox'])
  context=browser.new_context(viewport={'width':1440,'height':1000},device_scale_factor=1,reduced_motion='reduce')
@@ -44,7 +49,7 @@ with sync_playwright() as p:
  checks['no_pdf_links']=page.locator('a[href$=".pdf"]').count()==0
  checks['no_repository_links']=page.locator('a[href*="github.com"]').count()==0
  checks['public_business_only']=all(s not in page.inner_text('body').lower() for s in ['jordan','ryan','counterparty','past life','reincarnation'])
- checks['anchors']=page.evaluate('Array.from(document.querySelectorAll("a[href^=\"#\"]")).every(a=>document.getElementById(a.getAttribute("href").slice(1)))')
+ checks['anchors']=page.evaluate("Array.from(document.links).filter(a=>a.getAttribute('href').startsWith('#')).every(a=>document.getElementById(a.getAttribute('href').slice(1)))")
  checks['unique_ids']=page.evaluate('(()=>{const x=Array.from(document.querySelectorAll("[id]"),e=>e.id);return x.length===new Set(x).size})()')
  page.screenshot(path=str(OUT/'desktop-1440.png'))
  page.screenshot(path=str(OUT/'desktop-full.png'),full_page=True)
