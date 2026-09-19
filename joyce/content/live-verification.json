@@ -1,0 +1,15 @@
+{
+  "checked_at_utc": "2026-09-19T10:14:22.185926+00:00",
+  "base_url": "https://biz.ggcgames.com",
+  "workflow_url": "https://github.com/minyajing-rgb/ggc-global/actions/runs/35436845242",
+  "results": {
+    "homepage": {"ok": true, "status": 200, "bytes": 22770, "url": "https://biz.ggcgames.com/", "content_check": true},
+    "joyce_site": {"ok": true, "status": 200, "bytes": 41108, "url": "https://biz.ggcgames.com/joyce/", "content_check": true},
+    "signed_rate_card": {"ok": true, "status": 200, "bytes": 5745, "url": "https://biz.ggcgames.com/joyce/rate-card.html", "content_check": true},
+    "service_data": {"ok": true, "status": 200, "bytes": 9684, "url": "https://biz.ggcgames.com/joyce/content/services.json", "content_check": true},
+    "real_portrait": {"ok": true, "status": 200, "bytes": 9362, "url": "https://biz.ggcgames.com/joyce/assets/joyce-portrait.webp", "content_check": true},
+    "poster_png": {"ok": true, "status": 200, "bytes": 469590, "url": "https://biz.ggcgames.com/joyce/downloads/Joyce_GGC_Rate_Card_EN.png", "content_check": true},
+    "poster_pdf": {"ok": true, "status": 200, "bytes": 647358, "url": "https://biz.ggcgames.com/joyce/downloads/Joyce_GGC_Rate_Card_EN.pdf", "content_check": true}
+  },
+  "all_passed": true
+}
