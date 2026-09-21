@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-21-newsroom-v6",
+  "version": "2026-09-21-credibility-v7",
   "scope": "Live website refresh; no PDF or new image generation.",
   "portrait_source": "Higher-resolution portrait crop from user-selected standalone reference 141bc04d-08b7-4e52-800a-67233a6ab8c4.png, native rectangle (30,85,568,995).",
   "identity": "Existing AI-styled reference selected by the user. No new face generated. Real GGC-shirt photograph remains in About.",
