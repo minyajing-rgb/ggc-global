@@ -1,6 +1,6 @@
 {
-  "version": "2026-09-21-executive-v5",
-  "checked_at_utc": "2026-09-21T08:40:26.489815+00:00",
+  "version": "2026-09-21-newsroom-v6",
+  "checked_at_utc": "2026-09-21T09:06:48.851615+00:00",
   "mode": "local built files served through browser routes",
   "base": "https://ggc.test",
   "checks": {
@@ -10,6 +10,10 @@
     "portfolio_ecosystem": true,
     "public_voice": true,
     "annual_partnership": true,
+    "newsroom": true,
+    "newsroom_award": true,
+    "newsroom_book": true,
+    "news_nav": true,
     "annual_primary_price": true,
     "14_capabilities": true,
     "12_scenarios": true,
