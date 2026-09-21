@@ -1,11 +1,16 @@
 {
-  "version": "2026-09-19-coastal-v4",
-  "checked_at_utc": "2026-09-19T14:28:00.083389+00:00",
+  "version": "2026-09-21-executive-v5",
+  "checked_at_utc": "2026-09-21T08:40:26.489815+00:00",
   "mode": "local built files served through browser routes",
   "base": "https://ggc.test",
   "checks": {
     "release_marker": true,
     "16_services": true,
+    "executive_profile": true,
+    "portfolio_ecosystem": true,
+    "public_voice": true,
+    "annual_partnership": true,
+    "annual_primary_price": true,
     "14_capabilities": true,
     "12_scenarios": true,
     "three_starting_points": true,
