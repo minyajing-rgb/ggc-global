@@ -1,6 +1,6 @@
 # Joyce / GGC — Coastal website, clarity refresh v4
 
-Active release: `2026-09-19-coastal-v4`.
+Active release: `2026-09-21-executive-v5`.
 
 ## Live website
 
@@ -10,6 +10,16 @@ Active release: `2026-09-19-coastal-v4`.
 - [Bilingual master rate CSV](rate-card.csv)
 
 Both root and `/joyce/` serve the same complete interactive website. The legacy rate-card page redirects to the services section. No new PDF is produced and there are no PDF links on the active website.
+
+## What changed in v5
+
+- Preserved the approved pale-lavender / gold coastal visual system and existing portraits; this release is a content and conversion-architecture update rather than a visual redesign.
+- Added **Executive Profile** with career proof and explicit role ownership.
+- Added a six-project **Portfolio Ecosystem** linking GGC Business, AI Bible for Kids, Dharma Atlas, Earth Healing, QuriAtlas and MEMO.
+- Added a **LinkedIn / Publications / Speaking / Industry Roles** section using verified public references only.
+- Added a prominent **Annual Partnership** layer: Executive Advisory, Fractional CMO/COO, and Strategic Growth Partner.
+- Updated Annual Global Game Copilot floor to **CNY 1,280,000 / year** in the detailed rate card.
+- Preserved the detailed 16-service catalog for paid diagnostics, scoped projects and qualification before annual work.
 
 ## What changed in v4
 

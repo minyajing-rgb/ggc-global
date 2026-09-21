@@ -6,7 +6,7 @@ from datetime import datetime, timezone
 from playwright.sync_api import sync_playwright
 ROOT=Path(__file__).resolve().parents[1]
 OUT=ROOT/'joyce/content/refresh-qa';OUT.mkdir(parents=True,exist_ok=True)
-VERSION='2026-09-19-coastal-v4'
+VERSION='2026-09-21-executive-v5'
 LIVE=os.environ.get('GGC_LIVE_BASE','').rstrip('/')
 BASE=LIVE or 'https://ggc.test'
 checks={};errors=[]
@@ -37,6 +37,11 @@ with sync_playwright() as p:
  load()
  checks['release_marker']=page.evaluate('window.__ggcRelease===window.__ggcRefresh') and page.evaluate('window.__ggcRelease')==VERSION
  checks['16_services']=page.locator('.service-card').count()==16
+ checks['executive_profile']=page.locator('#executive-profile').count()==1 and page.locator('.executive-proof article').count()==6
+ checks['portfolio_ecosystem']=page.locator('#portfolio .portfolio-card').count()==6
+ checks['public_voice']=page.locator('#public-voice .voice-card').count()==4
+ checks['annual_partnership']=page.locator('#annual-partnership .annual-card').count()==3
+ checks['annual_primary_price']='1,280,000' in page.locator('#annual-partnership .annual-card.featured').inner_text()
  checks['14_capabilities']=page.locator('.capability').count()==14
  checks['12_scenarios']=page.locator('.scenario-grid article').count()==12
  checks['three_starting_points']=page.locator('.start-card').count()==3

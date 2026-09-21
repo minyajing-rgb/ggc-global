@@ -1,6 +1,6 @@
 # Joyce / GGC — Public Business Master
 
-Version: 2026-09-19-v2
+Version: 2026-09-21-v3
 Status: public, sanitized commercial overview.
 
 ## Identity
@@ -10,6 +10,55 @@ Joyce Mi, founder of Global Game Copilot. Category strategy and flagship-product
 ## Audience
 
 Founders/studios; publishers/platforms; investors seeking commercial assessment; AI-native consumer-product teams. Games remain the core.
+
+## Executive profile
+
+Joyce Mi is positioned publicly as a global game operator and strategic growth partner, not as a generic freelance consultant. The public proof layer may state:
+
+- 15+ years across games and product, consistent with the live site career timeline.
+- Career experience at Microsoft, Tencent, Zynga and Gameloft.
+- Zynga Product Manager / Lead Producer experience including CityVille, FarmVille and Arcade work.
+- Gameloft global operations across titles including Order & Chaos, Minion Rush and Thor 2.
+- Collaboration across 10+ studios and a 500+ cross-functional network; this is not represented as 500 direct reports.
+- Chinese CityVille D1 retention improvement of +700 bps (+7 percentage points), scoped only to that project.
+- Author of *Game Operations and Global Expansion: Strategies, Methods, and Skills* (China Machine Press, 2024; byline Ai Xiaomi / 艾小米).
+- Tencent entrepreneurship-community mentor and industry educator.
+
+The core commercial promise is the ability to connect category strategy, product/R&D interface, analytics, monetization, LiveOps, UA/creative systems, global publishing, organization and operating governance.
+
+## Portfolio ecosystem
+
+Public portfolio links shown on the Joyce page:
+
+- GGC Business — https://biz.ggcgames.com/
+- AI Bible for Kids — https://bible.saga1001.com/
+- Dharma Atlas — https://dharma.saga1001.com/
+- Earth Healing — https://healing.saga1001.com/
+- QuriAtlas — https://quriatlas.saga1001.com/
+- MEMO — https://memo.saga1001.com/
+
+These demonstrate product-building range across games, education, culture, wellness, science and lifestyle. A live site is evidence of building and operating a product surface; it is not automatically evidence of third-party client adoption or revenue.
+
+## Public voice, speaking and professional roles
+
+- LinkedIn: https://www.linkedin.com/in/minyajing/
+- Publisher record: https://ebooks.cmpbook.com/detail?id=26372
+- Selected public speaking records: Baijing 2024; Huibuluo × Xiaguang; RongCloud × Everyone Is a Product Manager.
+- Tencent entrepreneurship-community mentor / industry educator.
+
+Prepared award entries, conference proposals and editorial pitches are not presented as wins, confirmed invitations or endorsements before formal acceptance.
+
+## Annual partnership reference
+
+These are executive-level partnership references approved for the public page. They are distinct from smaller scoped reviews and sprints in the detailed rate card.
+
+| Model | Reference | Role |
+|---|---:|---|
+| Executive Advisory | CNY 880,000+ / year | Founder/board judgment, portfolio, market, product and quarterly decision support |
+| Fractional CMO / COO | CNY 1,280,000–1,680,000 / year | Embedded growth and operating leadership across publishing, monetization, UA, LiveOps, data and organization |
+| Strategic Growth Partner | CNY 1,980,000+ / year + performance participation | Long-term global scaling partnership with written baseline, attribution rules and success mechanics |
+
+Annual models require a written SOW defining principal capacity, execution ownership, data access, decision rights, baseline, attribution window and any performance participation.
 
 ## Capability atlas
 
@@ -175,7 +224,7 @@ Commissionable output: A prepaid, capacity-bounded advisory retainer and decisio
 
 ## Pricing authority
 
-`../rate-card.csv` is the machine-readable price source. Sixteen principal-led services; website and poster derive from it. No automatic adoption of prices or percentage commissions embedded in old concept images. Existing OpsGo products and agreements remain separate. CNY is the base; USD uses the disclosed 7.20 planning assumption. No claimed market median.
+`../rate-card.csv` remains the machine-readable source for the sixteen scoped principal-led services. The executive annual-partnership table above is a separate approved commercial layer for long-term strategic engagements and is presented as reference pricing, not as a historical invoice or guaranteed outcome. No automatic adoption of prices or percentage commissions embedded in old concept images. Existing OpsGo products and agreements remain separate. CNY is the base; USD uses the disclosed 7.20 planning assumption. No claimed market median.
 
 ## Proof boundaries
 
