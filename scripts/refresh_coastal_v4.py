@@ -6,7 +6,7 @@ import base64, hashlib, json, re
 from PIL import Image
 ROOT = Path(__file__).resolve().parents[1]
 SITE = ROOT / 'joyce'
-VERSION = '2026-09-21-executive-v5'
+VERSION = '2026-09-21-newsroom-v6'
 ASSETS = SITE / 'assets'
 parts = sorted((ROOT/'scripts/refresh-transfer').glob('portrait.part*.b64'))
 hero = ASSETS/'coastal-portrait-v4.avif'
@@ -99,6 +99,34 @@ T.update({
  'annual.c.body':['Long-term partnership for global scale, with success mechanics agreed against a written baseline and attribution rules.','面向全球 Scale 的长期合作；结果分成基于书面基线、归因规则和双方约定。'],
  'annual.cta':['Discuss annual partnership','沟通年度合作'],
  'annual.note':['Reference annual models. Final scope, capacity, decision rights, performance mechanics and billing are confirmed in the written SOW.','以上为年度合作参考模型；最终范围、投入容量、决策权限、结果机制与付款方式以书面 SOW 为准。'],
+ 'nav.news':['News & Recognition','动态与荣誉'],
+ 'news.kicker':['NEWS · RECOGNITION · SPEAKING','动态 · 荣誉 · 演讲'],
+ 'news.title':['A career is stronger when the evidence stays visible.','让经历、作品与行业记录持续可见。'],
+ 'news.intro':['Selected awards, published work, speaking appearances and recent public thinking — with direct links to the original record.','精选荣誉、出版作品、公开演讲与近期行业观点，并直接链接到原始公开记录。'],
+ 'news.honor.meta':['HONOR · MAY 2016','荣誉 · 2016年5月'],
+ 'news.honor.title':['Tencent-alumni Entrepreneurship Honor Roll','腾讯系创业人物风云榜'],
+ 'news.honor.body':['Selected for the H2 2015 Tencent-alumni entrepreneurship honor roll while serving as CEO of Taoyuan Xigu; received the recognition on stage at the May 2016 Partners Summit. This was organized by Tencent-alumni community organizers and media, not a Tencent corporate award.','任桃源西谷 CEO 期间入选 2015 下半年腾讯系创业人物风云榜，并于 2016 年 5 月合伙人峰会现场领奖。该荣誉来自腾讯校友创业社区组织方与媒体联合评选，并非腾讯公司官方奖项。'],
+ 'news.honor.cta':['Award record','领奖报道'],
+ 'news.book.meta':['PUBLICATION · 2024','出版 · 2024'],
+ 'news.book.title':['Game Operations and Global Expansion','《游戏运营与出海实战：策略、方法与技巧》'],
+ 'news.book.body':['Published by China Machine Press in 2024 under the byline Ai Xiaomi / 艾小米. ISBN 978-7-111-75037-6. A practical system covering team collaboration, product lifecycle, LiveOps, retention, monetization and global expansion.','机械工业出版社 2024 年出版，署名艾小米。ISBN 978-7-111-75037-6。系统覆盖团队协同、产品生命周期、LiveOps、留存、商业化与全球出海。'],
+ 'news.book.cta':['Publisher page','出版社书页'],
+ 'news.hz.meta':['SPEAKING · SEP 2024','演讲 · 2024年9月'],
+ 'news.hz.title':['Hangzhou App Global-Growth Salon','杭州 App 出海闭门分享会'],
+ 'news.hz.body':['Speaker at the RongCloud × Everyone Is a Product Manager event on App global growth, with an on-site signing for the book.','融云 × 人人都是产品经理 App 出海增长活动分享嘉宾，并进行《游戏运营与出海实战》现场签售。'],
+ 'news.hz.cta':['Event record','活动记录'],
+ 'news.sh.meta':['SPEAKING · SEP 2023','演讲 · 2023年9月'],
+ 'news.sh.title':['Digital Technology Overseas Innovation Summit','数字科技出海创新应用峰会'],
+ 'news.sh.body':['Shared “The Art and Science of Global Pan-Entertainment User Acquisition” at the Huibuluo × Xiaguang summit in Shanghai.','在汇部落 × 霞光社上海峰会分享《全球泛娱乐用户获取的艺术与科学》。'],
+ 'news.sh.cta':['Summit recap','峰会报道'],
+ 'news.article.meta':['INDUSTRY WRITING · 2021','行业文章 · 2021'],
+ 'news.article.title':['Slot+ and Coin Master category analysis','Slot+ 与 Coin Master 品类研究'],
+ 'news.article.body':['Published under the Ai Xiaomi byline on KCHUHAI, extending long-running category analysis across Casino / Slot+ and hybrid game formats.','以艾小米署名在快出海发布 Casino / Slot+ / Coin Master 品类分析，持续沉淀赛道判断。'],
+ 'news.article.cta':['Read article','阅读文章'],
+ 'news.linkedin.meta':['LINKEDIN · CURRENT','LinkedIn · 持续更新'],
+ 'news.linkedin.title':['Latest game-operations thinking','近期游戏经营观点'],
+ 'news.linkedin.body':['Recent public posts cover Sims operating systems, the 48-hour response rule in LiveOps, AI-driven studio organization and the Game Ops Hub.','近期公开分享覆盖 Sims 经营系统、LiveOps 48 小时响应规则、AI 驱动的工作室组织，以及 Game Ops Hub 方法沉淀。'],
+ 'news.linkedin.cta':['Follow latest posts','查看最近动态'],
  'form.budget':['Budget & timing (optional)','预算与时间（选填）'],
  'contact.title':['Let’s discuss<br>your next decision.','聊聊你下一步<br>要做的决策。'],
 })
@@ -132,6 +160,19 @@ voice = (
  '<article class="glass voice-card"><p class="eyebrow">SPEAKING</p><h3>'+t('voice.speaking_title')+'</h3><p>'+t('voice.speaking_body')+'</p><div class="voice-links"><a href="https://www.baijing.cn/article/49426" target="_blank" rel="noopener noreferrer">Baijing ↗</a><a href="https://www.sohu.com/a/724348973_120157439" target="_blank" rel="noopener noreferrer">Huibuluo × Xiaguang ↗</a><a href="https://www.woshipm.com/event/6108334.html" target="_blank" rel="noopener noreferrer">RongCloud × Woshipm ↗</a></div></article>'
  '<article class="glass voice-card"><p class="eyebrow">ROLES</p><h3>'+t('voice.honor_title')+'</h3><p>'+t('voice.honor_body')+'</p><a class="text-button" href="https://www.sanjieke.cn/course/detail/sjk/8007244" target="_blank" rel="noopener noreferrer">'+t('voice.source')+' ↗</a></article></div></div></section>'
 )
+newsroom = (
+ '<section class="section newsroom" id="newsroom"><div class="wrap">'
+ '<div class="heading"><div><p class="eyebrow">'+t('news.kicker')+'</p><h2>'+t('news.title')+'</h2></div><p>'+t('news.intro')+'</p></div>'
+ '<div class="news-grid">'
+ '<a class="news-card glass" href="https://www.sohu.com/a/78586831_118792" target="_blank" rel="noopener noreferrer"><span class="news-meta">'+t('news.honor.meta')+'</span><h3>'+t('news.honor.title')+'</h3><p>'+t('news.honor.body')+'</p><span class="news-link">'+t('news.honor.cta')+' ↗</span></a>'
+ '<article class="news-card news-book glass"><img src="https://media.base44.com/images/public/69a2b065604d407ea94dacb9/e821f33a6_.png" alt="Game Operations and Global Expansion book cover" loading="lazy"><div><span class="news-meta">'+t('news.book.meta')+'</span><h3>'+t('news.book.title')+'</h3><p>'+t('news.book.body')+'</p><a class="news-link" href="https://ebooks.cmpbook.com/detail?id=26372" target="_blank" rel="noopener noreferrer">'+t('news.book.cta')+' ↗</a></div></article>'
+ '<a class="news-card glass" href="https://www.woshipm.com/event/6108334.html" target="_blank" rel="noopener noreferrer"><span class="news-meta">'+t('news.hz.meta')+'</span><h3>'+t('news.hz.title')+'</h3><p>'+t('news.hz.body')+'</p><span class="news-link">'+t('news.hz.cta')+' ↗</span></a>'
+ '<a class="news-card glass" href="https://www.sohu.com/a/724348973_120157439" target="_blank" rel="noopener noreferrer"><span class="news-meta">'+t('news.sh.meta')+'</span><h3>'+t('news.sh.title')+'</h3><p>'+t('news.sh.body')+'</p><span class="news-link">'+t('news.sh.cta')+' ↗</span></a>'
+ '<a class="news-card glass" href="https://www.kchuhai.com/author/3990/view-21111.html" target="_blank" rel="noopener noreferrer"><span class="news-meta">'+t('news.article.meta')+'</span><h3>'+t('news.article.title')+'</h3><p>'+t('news.article.body')+'</p><span class="news-link">'+t('news.article.cta')+' ↗</span></a>'
+ '<a class="news-card glass" href="https://www.linkedin.com/in/minyajing/recent-activity/all/" target="_blank" rel="noopener noreferrer"><span class="news-meta">'+t('news.linkedin.meta')+'</span><h3>'+t('news.linkedin.title')+'</h3><p>'+t('news.linkedin.body')+'</p><span class="news-link">'+t('news.linkedin.cta')+' ↗</span></a>'
+ '</div></div></section>'
+)
+
 annual = (
  '<section class="section annual-partnership" id="annual-partnership"><div class="wrap"><div class="heading"><div><p class="eyebrow">'+t('annual.kicker')+'</p><h2>'+t('annual.title')+'</h2></div><p>'+t('annual.intro')+'</p></div><div class="annual-grid">'
  '<article class="annual-card"><span class="annual-index">01</span><h3>'+t('annual.a.title')+'</h3><strong>'+t('annual.a.price')+'</strong><p>'+t('annual.a.body')+'</p></article>'
@@ -148,9 +189,10 @@ start += '</div></div>'
 assert body.count('<section class="section sectors" id="sectors">') == 1
 body = body.replace('<section class="section sectors" id="sectors">', executive+portfolio+'<section class="section sectors" id="sectors">')
 assert body.count('<section class="section process">') == 1
-body = body.replace('<section class="section process">', voice+annual+'<section class="section process">')
+body = body.replace('<section class="section process">', voice+newsroom+annual+'<section class="section process">')
 assert body.count('<div class="service-toolbar">') == 1
 body = body.replace('<div class="service-toolbar">', start+'<div class="service-toolbar">')
+body = body.replace('<a href="#contact"><span data-i18n="nav.contact">Contact</span></a>', '<a href="#newsroom"><span data-i18n="nav.news">News & Recognition</span></a><a href="#contact"><span data-i18n="nav.contact">Contact</span></a>')
 summary = '<div class="selected-engagement" aria-live="polite"><span class="eyebrow">'+t('refresh.selected')+'</span><strong id="selection-name">Expert Decision Call</strong><span id="selection-fee">CNY 5,000</span><p>'+t('refresh.summary')+'</p></div>'
 body = body.replace('<form id="intake" class="glass form">','<form id="intake" class="glass form">'+summary)
 body = body.replace('<dialog id="service-dialog" class="service-dialog">', '<dialog id="service-dialog" class="service-dialog" aria-labelledby="dialog-name" aria-describedby="dialog-scope">')

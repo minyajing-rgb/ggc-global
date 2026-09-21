@@ -1,6 +1,6 @@
 # Joyce / GGC — Coastal website, clarity refresh v4
 
-Active release: `2026-09-21-executive-v5`.
+Active release: `2026-09-21-newsroom-v6`.
 
 ## Live website
 
@@ -10,6 +10,14 @@ Active release: `2026-09-21-executive-v5`.
 - [Bilingual master rate CSV](rate-card.csv)
 
 Both root and `/joyce/` serve the same complete interactive website. The legacy rate-card page redirects to the services section. No new PDF is produced and there are no PDF links on the active website.
+
+## What changed in v6
+
+- Added a source-linked **News & Recognition** section instead of leaving credibility as generic labels.
+- Added the confirmed Tencent-alumni Entrepreneurship Honor Roll record, the 2024 Hangzhou App-global-growth talk and book signing, the 2023 Huibuluo × Xiaguang summit talk, the China Machine Press book, KCHUHAI industry writing and a current LinkedIn activity entry.
+- Added the book ISBN and direct publisher reference.
+- Kept award applications / conference proposals out of the confirmed public record until accepted.
+- Preserved the approved coastal lavender/gold visual system.
 
 ## What changed in v5
 

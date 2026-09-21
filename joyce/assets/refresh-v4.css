@@ -21,3 +21,15 @@ html[lang=zh] .executive-main h3,html[lang=zh] .portfolio-card h3,html[lang=zh] 
 @media(max-width:1024px){.voice-grid{grid-template-columns:repeat(2,1fr)}.portfolio-grid{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:860px){.executive-grid{grid-template-columns:1fr}.annual-grid{grid-template-columns:1fr}.annual-card{min-height:0}.annual-cta{align-items:flex-start;flex-direction:column}}
 @media(max-width:580px){.portfolio-grid,.voice-grid,.executive-proof{grid-template-columns:1fr}.executive-main{padding:22px}.executive-main h3{font-size:28px}.executive-proof article{min-height:0}.portfolio-card{min-height:190px}.voice-card{min-height:0}.annual-card{padding:23px}.annual-card h3{font-size:27px}.annual-card>strong{font-size:22px}}
+
+/* Newsroom v6 — keep the approved coastal lavender/gold visual language */
+.newsroom{background:linear-gradient(135deg,#fbf8fc,#fffaf3)}
+.news-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.news-card{padding:25px;min-height:260px;display:flex;flex-direction:column;transition:transform .2s,border-color .2s,box-shadow .2s}
+a.news-card:hover{transform:translateY(-4px);border-color:var(--gold-light);box-shadow:0 14px 36px #6f4a8614;color:inherit}
+.news-meta{font-size:9px;letter-spacing:.16em;text-transform:uppercase;color:var(--gold);margin-bottom:17px}
+.news-card h3{font-size:25px;margin-bottom:12px}.news-card p{font-size:12px;line-height:1.82;flex:1}.news-link{font-size:11px;color:var(--purple);margin-top:18px}
+.news-book{grid-column:span 2;display:grid;grid-template-columns:150px 1fr;gap:24px;align-items:center}.news-book img{width:150px;max-height:215px;object-fit:cover;border-radius:8px;box-shadow:0 14px 30px #4d38601f}.news-book>div{display:flex;flex-direction:column;min-height:205px}.news-book .news-link{display:inline-block}
+html[lang=zh] .news-card h3{font-family:'Noto Serif CJK SC','Songti SC','STSong',serif}
+@media(max-width:1024px){.news-grid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:580px){.news-grid{grid-template-columns:1fr}.news-book{grid-column:auto;grid-template-columns:100px 1fr;gap:16px;padding:19px}.news-book img{width:100px;max-height:150px}.news-card{min-height:0}.news-card h3{font-size:23px}}

@@ -1,6 +1,6 @@
 # Joyce / GGC — Public Business Master
 
-Version: 2026-09-21-v3
+Version: 2026-09-21-v4
 Status: public, sanitized commercial overview.
 
 ## Identity
@@ -59,6 +59,20 @@ These are executive-level partnership references approved for the public page. T
 | Strategic Growth Partner | CNY 1,980,000+ / year + performance participation | Long-term global scaling partnership with written baseline, attribution rules and success mechanics |
 
 Annual models require a written SOW defining principal capacity, execution ownership, data access, decision rights, baseline, attribution window and any performance participation.
+
+## Newsroom / recognition layer
+
+The public Joyce page now carries concrete, source-linked milestones rather than a generic “awards / speaking” label.
+
+Confirmed public items currently displayed:
+- **H2 2015 Tencent-alumni Entrepreneurship Honor Roll / 腾讯系创业人物风云榜** — on-stage recognition in May 2016 while Joyce was CEO of Taoyuan Xigu. This is described as a Tencent-alumni community/media recognition, not as a Tencent corporate award.
+- **2024 Hangzhou App global-growth salon** — RongCloud × Everyone Is a Product Manager; Joyce appeared as a speaker and the event page records an on-site signing for *Game Operations and Global Expansion*.
+- **2023 Digital Technology Overseas Innovation Summit** — Huibuluo × Xiaguang; Joyce shared “The Art and Science of Global Pan-Entertainment User Acquisition”.
+- **2024 book publication** — *Game Operations and Global Expansion: Strategies, Methods, and Skills / 游戏运营与出海实战：策略、方法与技巧*, China Machine Press, ISBN 978-7-111-75037-6, byline Ai Xiaomi / 艾小米.
+- **Industry writing** — KCHUHAI article on Slot+ and Coin Master under the Ai Xiaomi byline.
+- **LinkedIn latest thinking** — the live profile / activity feed remains the current social source of truth for recent public posts.
+
+Applications and draft PR opportunities stay out of the public “confirmed” newsroom until the external organizer or publisher confirms them.
 
 ## Capability atlas
 

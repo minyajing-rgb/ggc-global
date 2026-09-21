@@ -1,3 +1,10 @@
+## 2026-09-21 — Newsroom / credibility v6
+
+- Added News & Recognition navigation and six source-linked public credibility cards.
+- Added confirmed honor, 2023/2024 speaking records, the 2024 China Machine Press book, KCHUHAI writing and LinkedIn activity.
+- Added explicit evidence boundary: alumni/community honor is not represented as a Tencent corporate award; pending PR applications stay excluded.
+- Preserved the existing website style and annual-partnership architecture.
+
 ## 2026-09-21 — Executive portfolio v5
 
 - Kept the existing coastal lavender/gold website design.
