@@ -6,7 +6,7 @@ from datetime import datetime, timezone
 from playwright.sync_api import sync_playwright
 ROOT=Path(__file__).resolve().parents[1]
 OUT=ROOT/'joyce/content/refresh-qa';OUT.mkdir(parents=True,exist_ok=True)
-VERSION='2026-09-21-newsroom-v6'
+VERSION='2026-09-21-credibility-v7'
 LIVE=os.environ.get('GGC_LIVE_BASE','').rstrip('/')
 BASE=LIVE or 'https://ggc.test'
 checks={};errors=[]
@@ -44,6 +44,8 @@ with sync_playwright() as p:
  checks['newsroom']=page.locator('#newsroom .news-card').count()==6
  checks['newsroom_award']='Tencent-alumni' in page.locator('#newsroom').inner_text()
  checks['newsroom_book']='978-7-111-75037-6' in page.locator('#newsroom').inner_text()
+ checks['speaking_timeline']=page.locator('#newsroom .timeline-row').count()==6
+ checks['speaking_2026']='AI-driven user growth' in page.locator('#newsroom .news-timeline').inner_text()
  checks['news_nav']=page.locator('nav a[href="#newsroom"]').count()==1
  checks['annual_primary_price']='1,280,000' in page.locator('#annual-partnership .annual-card.featured').inner_text()
  checks['14_capabilities']=page.locator('.capability').count()==14

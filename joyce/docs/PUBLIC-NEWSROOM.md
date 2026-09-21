@@ -1,6 +1,6 @@
 # Joyce / GGC — Public Newsroom & Recognition
 
-Version: 2026-09-21-v1
+Version: 2026-09-21-v2
 
 This file is the public-source ledger behind the News & Recognition section on https://biz.ggcgames.com/joyce/.
 
@@ -49,3 +49,16 @@ This file is the public-source ledger behind the News & Recognition section on h
 - LinkedIn recent activity: https://www.linkedin.com/in/minyajing/recent-activity/all/
 
 The live LinkedIn profile is the current social source of truth for newly published thinking. Draft award entries, conference applications, editorial pitches and unconfirmed invitations are intentionally excluded from the confirmed newsroom.
+
+## Selected Speaking & Industry Contributions — 2019–2026
+
+This timeline is mirrored from Joyce's current LinkedIn public project record and linked to organizer / publication records where available.
+
+- **2026** — AI-driven user growth for games and apps; AI-native validation across toolchain, Demo and CTR. https://www.baijing.cn/article/55079
+- **2025** — AI + global product strategy across the full product lifecycle. GIEC organizer record: https://mp.weixin.qq.com/s/zAFVJncKDQX3FjGiNcG_gw
+- **2024** — Mini-game global expansion: segmentation, UA optimization and lifecycle efficiency. https://www.meetgames.com/academy/article/1000048344
+- **2024** — Operating blueprint for globally successful games. https://www.baijing.cn/article/49426
+- **2023** — AIGC in the game ecosystem: efficiency and creativity. https://www.sohu.com/a/680062611_100136645
+- **2019** — Global game growth and monetization: localization, store acquisition and player conversion. https://www.aidso.com/article/details/game-overseas-growth-and-monetization-salon-0fhkbrdy.html
+
+The timeline documents public speaking / industry contribution history. It does not independently validate confidential client KPIs.

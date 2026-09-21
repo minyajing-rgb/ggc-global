@@ -72,6 +72,8 @@ Confirmed public items currently displayed:
 - **Industry writing** — KCHUHAI article on Slot+ and Coin Master under the Ai Xiaomi byline.
 - **LinkedIn latest thinking** — the live profile / activity feed remains the current social source of truth for recent public posts.
 
+Selected public speaking / contribution timeline now spans **2019–2026**, with source-linked records for 2019 global growth and monetization, 2023 AIGC, two 2024 global-operations / mini-game sessions, 2025 AI + global product lifecycle strategy and 2026 AI-driven user growth.
+
 Applications and draft PR opportunities stay out of the public “confirmed” newsroom until the external organizer or publisher confirms them.
 
 ## Capability atlas

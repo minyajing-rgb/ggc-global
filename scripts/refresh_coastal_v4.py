@@ -6,7 +6,7 @@ import base64, hashlib, json, re
 from PIL import Image
 ROOT = Path(__file__).resolve().parents[1]
 SITE = ROOT / 'joyce'
-VERSION = '2026-09-21-newsroom-v6'
+VERSION = '2026-09-21-credibility-v7'
 ASSETS = SITE / 'assets'
 parts = sorted((ROOT/'scripts/refresh-transfer').glob('portrait.part*.b64'))
 hero = ASSETS/'coastal-portrait-v4.avif'
@@ -127,6 +127,8 @@ T.update({
  'news.linkedin.title':['Latest game-operations thinking','近期游戏经营观点'],
  'news.linkedin.body':['Recent public posts cover Sims operating systems, the 48-hour response rule in LiveOps, AI-driven studio organization and the Game Ops Hub.','近期公开分享覆盖 Sims 经营系统、LiveOps 48 小时响应规则、AI 驱动的工作室组织，以及 Game Ops Hub 方法沉淀。'],
  'news.linkedin.cta':['Follow latest posts','查看最近动态'],
+ 'news.timeline.title':['SELECTED SPEAKING & INDUSTRY CONTRIBUTIONS · 2019–2026','公开分享与行业贡献 · 2019–2026'],
+ 'news.timeline.intro':['A visible record of the methodology evolving from channel execution to full-stack game operating systems.','从渠道执行到全栈游戏经营系统，一条持续可见的方法论演进记录。'],
  'form.budget':['Budget & timing (optional)','预算与时间（选填）'],
  'contact.title':['Let’s discuss<br>your next decision.','聊聊你下一步<br>要做的决策。'],
 })
@@ -170,6 +172,14 @@ newsroom = (
  '<a class="news-card glass" href="https://www.sohu.com/a/724348973_120157439" target="_blank" rel="noopener noreferrer"><span class="news-meta">'+t('news.sh.meta')+'</span><h3>'+t('news.sh.title')+'</h3><p>'+t('news.sh.body')+'</p><span class="news-link">'+t('news.sh.cta')+' ↗</span></a>'
  '<a class="news-card glass" href="https://www.kchuhai.com/author/3990/view-21111.html" target="_blank" rel="noopener noreferrer"><span class="news-meta">'+t('news.article.meta')+'</span><h3>'+t('news.article.title')+'</h3><p>'+t('news.article.body')+'</p><span class="news-link">'+t('news.article.cta')+' ↗</span></a>'
  '<a class="news-card glass" href="https://www.linkedin.com/in/minyajing/recent-activity/all/" target="_blank" rel="noopener noreferrer"><span class="news-meta">'+t('news.linkedin.meta')+'</span><h3>'+t('news.linkedin.title')+'</h3><p>'+t('news.linkedin.body')+'</p><span class="news-link">'+t('news.linkedin.cta')+' ↗</span></a>'
+ '</div>'
+ '<div class="news-timeline"><div class="news-timeline-head"><p class="eyebrow">'+t('news.timeline.title')+'</p><p>'+t('news.timeline.intro')+'</p></div>'
+ '<a class="timeline-row" href="https://www.baijing.cn/article/55079" target="_blank" rel="noopener noreferrer"><strong>2026</strong><span>AI-driven user growth for games & apps · AI 驱动游戏 / 应用用户增长</span><b>Baijing ↗</b></a>'
+ '<a class="timeline-row" href="https://mp.weixin.qq.com/s/zAFVJncKDQX3FjGiNcG_gw" target="_blank" rel="noopener noreferrer"><strong>2025</strong><span>AI + global product lifecycle strategy · AI + 全球产品全生命周期战略</span><b>GIEC ↗</b></a>'
+ '<a class="timeline-row" href="https://www.meetgames.com/academy/article/1000048344" target="_blank" rel="noopener noreferrer"><strong>2024</strong><span>Mini-game global expansion: segmentation, UA & lifecycle efficiency · 小游戏出海增长</span><b>Meetgames ↗</b></a>'
+ '<a class="timeline-row" href="https://www.baijing.cn/article/49426" target="_blank" rel="noopener noreferrer"><strong>2024</strong><span>Operating blueprint for globally successful games · 全球成功游戏运营蓝图</span><b>Baijing ↗</b></a>'
+ '<a class="timeline-row" href="https://www.sohu.com/a/680062611_100136645" target="_blank" rel="noopener noreferrer"><strong>2023</strong><span>AIGC in the game ecosystem: efficiency & creativity · AIGC 游戏生态应用</span><b>Sohu ↗</b></a>'
+ '<a class="timeline-row" href="https://www.aidso.com/article/details/game-overseas-growth-and-monetization-salon-0fhkbrdy.html" target="_blank" rel="noopener noreferrer"><strong>2019</strong><span>Global game growth & monetization · 游戏出海增长与变现</span><b>Aidso ↗</b></a>'
  '</div></div></section>'
 )
 

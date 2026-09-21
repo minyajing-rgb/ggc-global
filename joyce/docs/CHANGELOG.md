@@ -1,3 +1,9 @@
+## 2026-09-21 — Credibility timeline v7
+
+- Added a 2019–2026 source-linked public speaking and industry-contribution timeline.
+- Mirrored the current LinkedIn public project record into the owned website credibility layer.
+- Preserved Newsroom cards, book, award, annual partnership and existing coastal visual system.
+
 ## 2026-09-21 — Newsroom / credibility v6
 
 - Added News & Recognition navigation and six source-linked public credibility cards.

@@ -1,6 +1,6 @@
 # Joyce / GGC — Coastal website, clarity refresh v4
 
-Active release: `2026-09-21-newsroom-v6`.
+Active release: `2026-09-21-credibility-v7`.
 
 ## Live website
 
@@ -10,6 +10,12 @@ Active release: `2026-09-21-newsroom-v6`.
 - [Bilingual master rate CSV](rate-card.csv)
 
 Both root and `/joyce/` serve the same complete interactive website. The legacy rate-card page redirects to the services section. No new PDF is produced and there are no PDF links on the active website.
+
+## What changed in v7
+
+- Expanded public credibility from selected cards into a **2019–2026 Speaking & Industry Contributions timeline**.
+- Added source-linked 2026 AI-driven user growth, 2025 AI + global product lifecycle, 2024 mini-game global growth, 2024 global game operating blueprint, 2023 AIGC, and 2019 global growth / monetization records.
+- Kept LinkedIn as the current social source of truth and the website as the owned, structured credibility archive.
 
 ## What changed in v6
 

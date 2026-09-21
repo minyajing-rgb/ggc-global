@@ -67,7 +67,7 @@ jobs:
           git add joyce/content/coastal-v3-manifest.json joyce/content/refresh-v4-manifest.json joyce/content/refresh-qa/
           git rm --ignore-unmatch scripts/refresh-transfer/portrait.part*.b64
           if ! git diff --cached --quiet; then
-            git commit -m 'feat: publish Joyce newsroom credibility v6'
+            git commit -m 'feat: publish Joyce credibility timeline v7'
             git pull --rebase origin main
             git push origin HEAD:main
           fi
@@ -77,7 +77,7 @@ jobs:
           python - <<'PY'
           import time, urllib.request
           from pathlib import Path
-          marker=b'2026-09-21-newsroom-v6'
+          marker=b'2026-09-21-credibility-v7'
           stamp=Path('/tmp/joyce-refresh-commit.txt').read_text().strip()[:12]
           urls=['https://biz.ggcgames.com/','https://biz.ggcgames.com/joyce/']
           for attempt in range(36):
@@ -89,7 +89,7 @@ jobs:
                           body=r.read()
                           valid=r.status==200 and marker in body and b'portrait-v4' in body and b'refresh-start' in body
                           ok=ok and valid
-                          print(url,r.status,'v6-ready='+str(valid),flush=True)
+                          print(url,r.status,'v7-ready='+str(valid),flush=True)
                   except Exception as exc:
                       ok=False
                       print(type(exc).__name__,str(exc),flush=True)
