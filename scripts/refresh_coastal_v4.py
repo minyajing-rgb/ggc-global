@@ -100,6 +100,8 @@ T.update({
  'annual.cta':['Discuss annual partnership','沟通年度合作'],
  'annual.note':['Reference annual models. Final scope, capacity, decision rights, performance mechanics and billing are confirmed in the written SOW.','以上为年度合作参考模型；最终范围、投入容量、决策权限、结果机制与付款方式以书面 SOW 为准。'],
  'nav.news':['News & Recognition','动态与荣誉'],
+ 'nav.sme':['SME Growth Lab','中小企业增长工具'],
+ 'portfolio.sme':['Five self-serve revenue copilots for lead generation, pricing, conversion, opportunity discovery and revenue operations.','面向中小企业的 5 个自助收入增长 Copilot：获客、报价、转化、机会雷达与经营驾驶舱。'],
  'news.kicker':['NEWS · RECOGNITION · SPEAKING','动态 · 荣誉 · 演讲'],
  'news.title':['A career is stronger when the evidence stays visible.','让经历、作品与行业记录持续可见。'],
  'news.intro':['Selected awards, published work, speaking appearances and recent public thinking — with direct links to the original record.','精选荣誉、出版作品、公开演讲与近期行业观点，并直接链接到原始公开记录。'],
@@ -151,7 +153,7 @@ executive = (
  '<div class="executive-proof"><article><strong>15+</strong><span>'+t('exec.proof1')+'</span></article><article><strong>Zynga</strong><span>'+t('exec.proof2')+'</span></article><article><strong>10+ · 500+</strong><span>'+t('exec.proof3')+'</span></article><article><strong>+700 bps</strong><span>'+t('exec.proof4')+'</span></article><article><strong>Microsoft · Tencent<br>Zynga · Gameloft</strong><span>'+t('exec.proof5')+'</span></article><article><strong>Author · Mentor</strong><span>'+t('exec.proof6')+'</span></article></div></div></div></section>'
 )
 portfolio = '<section class="section portfolio" id="portfolio"><div class="wrap"><div class="heading"><div><p class="eyebrow">'+t('portfolio.kicker')+'</p><h2>'+t('portfolio.title')+'</h2></div><p>'+t('portfolio.intro')+'</p></div><div class="portfolio-grid">'
-portfolio_items = [('GGC Business','Games · Growth · Publishing','https://biz.ggcgames.com/','portfolio.ggc'),('AI Bible for Kids','Education · Story · Family','https://bible.saga1001.com/','portfolio.bible'),('Dharma Atlas','Culture · Text · Evidence','https://dharma.saga1001.com/','portfolio.dharma'),('Earth Healing','Wellness · Nature · Evidence','https://healing.saga1001.com/','portfolio.healing'),('QuriAtlas','Science · Learning · Interaction','https://quriatlas.saga1001.com/','portfolio.quri'),('MEMO','Lifestyle · Fashion · Travel','https://memo.saga1001.com/','portfolio.memo')]
+portfolio_items = [('GGC Business','Games · Growth · Publishing','https://biz.ggcgames.com/','portfolio.ggc'),('SME Growth Lab','AI · Revenue · SME','https://biz.ggcgames.com/sme/','portfolio.sme'),('AI Bible for Kids','Education · Story · Family','https://bible.saga1001.com/','portfolio.bible'),('Dharma Atlas','Culture · Text · Evidence','https://dharma.saga1001.com/','portfolio.dharma'),('Earth Healing','Wellness · Nature · Evidence','https://healing.saga1001.com/','portfolio.healing'),('QuriAtlas','Science · Learning · Interaction','https://quriatlas.saga1001.com/','portfolio.quri'),('MEMO','Lifestyle · Fashion · Travel','https://memo.saga1001.com/','portfolio.memo')]
 for name, tag, url, key in portfolio_items:
     portfolio += '<a class="portfolio-card glass" href="'+url+'" target="_blank" rel="noopener noreferrer"><span class="portfolio-tag">'+tag+'</span><h3>'+name+'</h3><p>'+t(key)+'</p><span class="portfolio-link">'+t('portfolio.visit')+' ↗</span></a>'
 portfolio += '</div></div></section>'
@@ -202,7 +204,7 @@ assert body.count('<section class="section process">') == 1
 body = body.replace('<section class="section process">', voice+newsroom+annual+'<section class="section process">')
 assert body.count('<div class="service-toolbar">') == 1
 body = body.replace('<div class="service-toolbar">', start+'<div class="service-toolbar">')
-body = body.replace('<a href="#contact"><span data-i18n="nav.contact">Contact</span></a>', '<a href="#newsroom"><span data-i18n="nav.news">News & Recognition</span></a><a href="#contact"><span data-i18n="nav.contact">Contact</span></a>')
+body = body.replace('<a href="#contact"><span data-i18n="nav.contact">Contact</span></a>', '<a href="/sme/"><span data-i18n="nav.sme">SME Growth Lab</span></a><a href="#newsroom"><span data-i18n="nav.news">News & Recognition</span></a><a href="#contact"><span data-i18n="nav.contact">Contact</span></a>')
 summary = '<div class="selected-engagement" aria-live="polite"><span class="eyebrow">'+t('refresh.selected')+'</span><strong id="selection-name">Expert Decision Call</strong><span id="selection-fee">CNY 5,000</span><p>'+t('refresh.summary')+'</p></div>'
 body = body.replace('<form id="intake" class="glass form">','<form id="intake" class="glass form">'+summary)
 body = body.replace('<dialog id="service-dialog" class="service-dialog">', '<dialog id="service-dialog" class="service-dialog" aria-labelledby="dialog-name" aria-describedby="dialog-scope">')
