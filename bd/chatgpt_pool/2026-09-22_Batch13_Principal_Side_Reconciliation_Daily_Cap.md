@@ -24,9 +24,9 @@ The earlier same-day principal-side reconciliation had **163 raw SENT / 161 qual
 - Excluded non-principal/service-provider SENT: **2**
 - Qualified new first-touch: **132**
 - Qualified follow-ups: **49**
-- Hard bounce / blocked: **13**
+- Hard bounce / blocked: **14**
 - Temporary delivery delay: **1**
-- Likely delivered / no hard failure visible: **168**
+- No hard failure visible: **167** qualified actions, of which **1** is still delayed and **166** have no bounce/delay notice visible
 - Qualified human replies visible today: **2**
 - Positive replies: **0**
 - Meetings attributable to today: **0**
@@ -35,12 +35,14 @@ The earlier same-day principal-side reconciliation had **163 raw SENT / 161 qual
 Examples include Mercuri, Drilo Ventures, Space Ape Games, Nexters/GDEV, Headup, Sometimes You, Super Rare Games, Playtonic, Fulqrum, Modern Wolf, Armor Games, Slug Disco, GreaterThan Group, 格来云游戏, 疯狂体育, 百奥/天梯互娱, 龙渊, 掌趣科技, 心动/XD, plus one due investor follow-up to MindWorks.
 
 ## Deliverability gate
-Permanent-failure / blocked messages visible in the current date window total **13** against 183 raw SENT, approximately **7.1%**. This is below the 10% source-pattern emergency cutoff, but the canonical production plan also defines **30–200/day** as the acceptable operating range. Continuing another 100-email batch tonight would push the account far above the 200/day ceiling and materially increase sender-reputation risk.
+A broader DSN / postmaster reconciliation found **14 permanent failure / blocked messages** plus **1 temporary delay** in the current date window. The hard-failure rate is **14 / 183 = 7.65%** on raw SENT, still below the 10% source-pattern emergency cutoff but too high to justify another large burst near the daily ceiling.
 
-A new failure also appeared in the latest cohort on a generic `hello@` route, reinforcing the need to avoid scaling generic role aliases without current independent confirmation.
+The hard failures include stale/nonexistent routes at multiple companies and funds; the latest cohort also produced a failure on the generic `hello@drilo.vc` route. The temporary delay is on `bd@shengyugame.com`.
+
+The canonical production plan defines **30–200/day** as the acceptable operating range. Continuing another 100-email batch tonight would push the account far above the 200/day ceiling and materially increase sender-reputation risk.
 
 ## Decision
-**Do not launch another 100-message batch tonight.** The account is already at 183 raw / 181 qualified sends for the day, leaving only 17 actions before the canonical 200/day ceiling. Because the next-run rule also requires a reserve >=2× the remaining run gap and current verified-route logging is incomplete, scale is blocked tonight by sender-protection + reserve-verification requirements.
+**Do not launch another 100-message batch tonight.** The account is already at 183 raw / 181 qualified sends for the day, leaving only 17 sender actions before the canonical 200/day ceiling. Because the next-run rule also requires a reserve >=2× the remaining run gap and current verified-route logging is incomplete, scale is blocked tonight by sender-protection + reserve-verification requirements.
 
 This is a run-level blocker, not a reason to disable the recurring BD pipeline.
 
@@ -73,8 +75,10 @@ For the next run, every sourced company must be logged before send with:
 
 ## Exact status for this reconciliation run
 - Newly sourced in this reconciliation run: **0** (scale stopped at the gate before new sourcing/sending)
+- Newly rejected as service-provider in this reconciliation run: **0**
 - Newly verified principals in this reconciliation run: **0**
 - Newly SENT in this reconciliation run: **0**
 - Daily qualified principal-side SENT already achieved before gate: **181**
-- Daily gap to canonical 200/day ceiling: **19 qualified / 17 raw actions**
+- Daily gap to canonical 200/day sender-action ceiling: **17 raw sender actions**
+- Gap to this run's requested 100 qualified sends: **100**, blocked by the daily ceiling before new sending began
 - Hard blocker: **YES — daily production ceiling + incomplete 2× verified-route reserve for another 100-send batch**
