@@ -38,7 +38,7 @@ with sync_playwright() as p:
  checks['release_marker']=page.evaluate('window.__ggcRelease===window.__ggcRefresh') and page.evaluate('window.__ggcRelease')==VERSION
  checks['16_services']=page.locator('.service-card').count()==16
  checks['executive_profile']=page.locator('#executive-profile').count()==1 and page.locator('.executive-proof article').count()==6
- checks['portfolio_ecosystem']=page.locator('#portfolio .portfolio-card').count()==6
+ checks['portfolio_ecosystem']=page.locator('#portfolio .portfolio-card').count()==7
  checks['public_voice']=page.locator('#public-voice .voice-card').count()==4
  checks['annual_partnership']=page.locator('#annual-partnership .annual-card').count()==3
  checks['newsroom']=page.locator('#newsroom .news-card').count()==6
