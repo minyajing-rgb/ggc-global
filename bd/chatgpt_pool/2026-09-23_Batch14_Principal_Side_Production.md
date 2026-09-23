@@ -167,3 +167,12 @@
 4. Keep China-first sourcing priority on named Founder/CEO/GM/Head of Overseas/Head of Publishing routes; reduce stale generic role aliases.
 5. Next run should favor R&D/IP owners and direct publishers over additional generalist investor volume unless the investor has a clear current game/AI-entertainment mandate.
 6. Continue to separate ecosystem/service-provider relationships from the strategic buyer KPI.
+
+
+## 2026-09-23 Cross-task suppression repair note
+- A later cross-task audit found that this run's pre-send dedupe/suppression gate was incomplete across tasks. Some sends overlapped prior reject/bounce/hold states.
+- Detailed customer-level evidence is intentionally **not stored in this public repository**. The canonical suppression ledger is maintained in a private GGC repository and must be read before any future send.
+- Effective immediately, company-level STOP / HOLD and route-level hard-bounce suppression override volume targets and follow-up cadence.
+- Historical `SENT` rows in this file must **not** automatically be interpreted as qualified principal-side outreach unless source validity, ownership, suppression, and prior-thread checks were independently verified.
+- “No hard failure observed” must not be reported as delivered; delivery status remains unknown unless confirmed by provider/inbound evidence.
+- Future production runs must record the suppression-check result as an explicit pre-send gate.
