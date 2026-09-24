@@ -5,7 +5,7 @@
 
 ---
 
-> **2026-09-24 Joyce 最新规则（覆盖本文旧条款）：只主动联系华人自研甲方。必须有自有产品/IP、缺内部发行团队或正在自建自发行、属于 Casino / Arcade / Sims / AI 身心灵，优先中腰部与垂类头部，并找到创始人/CEO/GM/Studio Head 等高层决策者。第三方服务商、外包、代理发行、渠道、KOL/UA 平台、投资机构一律不进入主动客户池；网易、腾讯等超大型公司仅高层认识，不计甲方获客。所有旧未回线程暂停自动跟进，按新门槛逐一复核。此规则优先于本文 A–D 和下文 Adjacent opportunities 等旧例外。**
+> **2026-09-24 Joyce 最新规则（覆盖本文旧条款）：只主动联系有真实付费能力的华人自研甲方。第一硬门槛是经济体量：原则上要求公司/核心产品可核验年利润约 RMB 30M+；RMB 100M+ 利润或明显规模化现金流优先。利润不公开时，只接受“低调但明显赚钱”的强现金流替代证据，并需足以支持百万级年度合作预算。必须有自有产品/IP，属于 Casino / Arcade / Sims / AI 身心灵；发行团队缺口、自发行、全球化、商业化、LiveOps、组织或 AI workflow 只是合作缺口，不再是入池第一门槛。小 CP、早期团队、仅仅在找外部发行的团队不进入销售池，若可投则转投资/孵化池。优先中腰部与垂类头部，并找到创始人/CEO/GM/Studio Head 等高层决策者。第三方服务商、外包、代理发行、渠道、KOL/UA 平台、投资机构一律不进入主动客户池；网易、腾讯等超大型公司仅高层认识，不计甲方获客。所有旧未回线程暂停自动跟进，按新门槛逐一复核。此规则优先于本文 A–D 和下文 Adjacent opportunities 等旧例外。**
 
 ## 1. Core ICP
 
@@ -71,10 +71,10 @@ GGC pitch:
 Priority prospects should have real capacity to pay for a **high-value annual framework / retainer**.
 
 Preferred public signals:
-- Annual company / product revenue or profit at roughly **RMB 30M+**.
+- **Annual company / core-product profit at roughly RMB 30M+ is the default sales gate.** Revenue alone is not enough.
 - **RMB 100M+** annual revenue/profit or clearly scaled product economics = top priority.
 - Multiple related studios/subsidiaries may be evaluated as one group if combined scale and decision-making are linked.
-- Recent financing, strong App Store / Google Play performance, meaningful overseas revenue, or established cash-generating domestic products can substitute when exact annual numbers are not public.
+- When profit is not public, only strong, current cash-generation evidence can substitute: durable high-grossing/high-margin products, audited/listed-company profitability, multi-year cash-cow performance, or other evidence sufficient to support a RMB 1M-class annual engagement. Financing, downloads, headcount or “looking for publishing” alone do not qualify.
 
 Do not invent financials. If public revenue/profit is unavailable, use observable signals and mark the scale as inferred / unverified.
 
@@ -154,7 +154,7 @@ Adjacent opportunities are allowed when the company has strong scale and a clear
 Lower priority unless there is an exceptional signal:
 - Pure outsourcing vendor with no own-product ambition.
 - Very early hobby indie with no product/data/funding signal.
-- Small domestic-only team with no global or self-publishing intent.
+- Small CP / early studio without clear RMB 30M+ profit or equivalent cash-generation/payment capacity, even if it needs publishing. Such teams may be routed to an investment/incubation pool, not the annual-client sales pool.
 - Teams seeking only cheap execution labor.
 - Companies already fully mature in global publishing with no identifiable GGC “missing corner.”
 - No clear decision-maker or commercial capacity.
