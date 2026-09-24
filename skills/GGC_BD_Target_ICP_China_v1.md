@@ -5,6 +5,8 @@
 
 ---
 
+> **2026-09-24 Joyce 最新规则（覆盖本文旧条款）：只主动联系华人自研甲方。必须有自有产品/IP、缺内部发行团队或正在自建自发行、属于 Casino / Arcade / Sims / AI 身心灵，优先中腰部与垂类头部，并找到创始人/CEO/GM/Studio Head 等高层决策者。第三方服务商、外包、代理发行、渠道、KOL/UA 平台、投资机构一律不进入主动客户池；网易、腾讯等超大型公司仅高层认识，不计甲方获客。所有旧未回线程暂停自动跟进，按新门槛逐一复核。此规则优先于本文 A–D 和下文 Adjacent opportunities 等旧例外。**
+
 ## 1. Core ICP
 
 Priority is **Chinese-speaking founders and game teams**, with **Mainland China first**, then Greater China / overseas Chinese-founded teams.
