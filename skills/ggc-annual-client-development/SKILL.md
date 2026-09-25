@@ -1,67 +1,411 @@
 ---
 name: ggc-annual-client-development
-description: 为 Joyce/GGC 开发匹配其游戏经营、全球发行与商业化经验的年度合作客户，执行 sourcing、pitch、connect、展示和成交推进；重点用于分析买方需求、建立话题、匹配案例和形成可采购的服务范围。
+description: >
+  Account-based business development for Joyce/GGC annual client acquisition.
+  Use for sourcing, qualifying, penetrating, contacting and converting Chinese-led
+  principal-side game companies into high-value GGC operating, publishing and growth engagements.
+version: 2.0
 ---
 
-# GGC 年度客户开发
+# GGC Annual Client Development — Account-Based BD Skill
 
-先读 [Joyce 定位与证据](../../positioning/JOYCE_PERSONA.md)，再读 [线上匹配与反馈](references/online-sourcing-and-feedback.md)，按阶段使用 [从联系到成交](references/connect-to-close.md)。具体客户数、年度金额、期限和成交口径从当前用户要求或私有项目计划读取；缺失时标记待确认，不把公开模板当报价。
+## 0. Mission
 
-## 当前客户硬门槛（2026-09-24，Joyce确认）
+This skill is for **GGC B2B client sales**, not FA/investor outreach.
 
-只开发有真实付费能力的华人自研甲方。第一硬门槛先看公司经济体量，而不是“缺发行团队”：优先中腰部与垂类头部，原则上要求可核验的公司/核心产品**年利润约 RMB 30M+**，RMB 100M+ 利润或明显规模化现金流为最高优先级。若利润数字不公开，只接受“低调但明显赚钱”的强现金流替代证据（如长期稳定高流水/高毛利产品、连续多年规模化付费、上市/审计口径利润、可验证的成熟现金牛业务等），并必须足以支持百万级年度合作预算。营收、下载、融资、员工数、外部发行需求都不能单独替代利润/付费能力证据。
+North Star:
 
-目标仍需有自己控制的游戏/IP/产品，并与 Casino、Arcade、Sims、AI 身心灵之一相关。发行能力缺口、自发行搭建、全球化、商业化、LiveOps、组织或 AI workflow 只是“合作缺口”，不再是进入销售池的第一门槛。小 CP、早期研发团队、仅仅“准备找外部发行”的团队，不进入百万年框销售池；如项目本身可投，只转入投资/孵化候选池，不按客户外联。第三方服务商一个也不开发。
+**Qualified Account → Executive Coverage → Human Need → Qualified Meeting → Proposal → Signed Scope → Cash Collected**
 
-网易、腾讯等超大型公司只用于高层关系认识，不作为这条客户获客主线或发送配额。其他规模较大的集团仍需核实具体自研事业部、发行能力缺口、预算责任人与独立采购权。
+Do not optimize for:
+- raw company count,
+- raw email count,
+- SENT count,
+- generic replies,
+- third-party networking.
 
-线上先从品类产品反查自研主体，再核其发行组织与华人决策者，最后验证合法且近期有效的直达路线。历史无回复、已停止、退信或延迟的线索不能因新画像自动恢复。
+The unit of work is the **account/company decision unit**, not an email address.
 
-## 主线与材料归属
+---
 
-自研甲方创始人、CEO、GM、Studio Head、实际预算负责人为目标；优先能决定自建发行与全球经营的人。投资机构、发行代理、KOL机构、UA平台、外包、媒体、渠道与同行均不进入主动外联池，也不计为甲方商机。已有第三方关系只保留认识，不主动追联或约探索会。
+## 1. Hard ICP Gate
 
-- `minyajing-rgb/ggc-global`：公开人设、经营能力、可公开证据、可复用商务方法。
-- `minyajing-rgb/newmedia`：内容选题、平台适配、互动及线索转交规则。
-- 客户名单、私人对话、预算、账户评分、未公开案例、合同和回款放在指定私有 CRM/工作区。公开库不复制私有材料全库。
-- 沿用现有销售主表，以公司主体＋产品/事业部＋联系人去重；研究清单是补充证据，不再建一份互不相通的 CRM。
+Only actively develop companies that pass all relevant hard gates.
 
-## 1. Sourcing：为什么值得经营这家公司
+### 1.1 Principal-side / own-product
+Must be:
+- Chinese-speaking / Chinese-led principal-side game company or business unit;
+- controls its own game/product/IP;
+- category fit: Casino / Arcade / Sims / AI wellness or closely adjacent product with a clear GGC operating fit.
 
-先按甲方硬门槛筛选并核验候选；发送数量不能放宽硬门槛。候选不足就继续研究，不用第三方或已拒绝者填数。验证：
+Exclude from active client acquisition:
+- investors / funds,
+- publishers acting only as third-party agents,
+- UA/KOL agencies,
+- outsourcing/co-dev vendors without own-product economics,
+- media, platforms, channels, aggregators, white-label suppliers,
+- small early CPs without payment capacity,
+- Tencent/NetEase-scale giants except high-level relationship building.
 
-1. 必须先核实华人自研甲方、自有产品/IP、四个核心品类，以及**年利润约 RMB 30M+ 或等价强现金流/预算能力证据**。达不到或无法合理证明付费能力的小 CP 不进入销售池。纯代理/外包/渠道立即排除。
-2. 当前触发事件：产品、招聘、投资、财报、经营者发言或发行计划。记录来源、事件日期和核验日期。
-3. 利润基础与预算能力分别记录。营收、流水、融资、员工数不能替代利润；集团有钱也不等于该事业部有采购预算。
-4. 决策关系：业务负责人、内部推动者、经济决策者、采购/法务；投资关系须查真实被投主体及负责人的角色。
-5. 既有关系、历史触达、停止名单和准确可用路线。官网邮箱不等于老板直达，IR/客服不是销售默认入口。
+### 1.2 Economic capacity comes before "need"
+Default commercial gate:
+- company/core product annual profit around **RMB 30M+**, OR
+- strong current cash-generation evidence sufficient to support a RMB 1M-class annual engagement.
 
-先通过甲方身份、自研产品、华人团队、核心品类、**利润/现金流与百万级预算能力**五个硬门槛，再对当前经营缺口（全球化、商业化、LiveOps、发行组织、AI workflow、组合经营等）、触发、决策权、时效性和证据质量评分。任一硬门槛未核实则不得发送或计合格买方；明确拒绝、无需求或不在采购窗口进入公司级 HOLD/STOP。
+Highest priority:
+- RMB 100M+ profit / clearly scaled cash generation.
 
-## 2. Pitch：用相关经历和现在做的事获得继续交流
+Revenue, downloads, financing, employee count, or "looking for publishing" do **not** independently prove payment capacity.
 
-起草自我介绍先读 [Joyce实力介绍与证据选择](references/joyce-strength-introduction.md)。不得为缩短正文删掉品类判断、具名旗舰职责、体系建设、创业经营和当前实物；按对象保留足够证据。
+When exact profit is unavailable, mark:
+- Verified,
+- Strongly Inferred,
+- Pending Evidence.
 
-署名 `Joyce｜GGC 创始人`。语气亲和、干练、专业，讲本人职责、判断、相关项目及当前工作；不堆大厂名号，不假装熟悉，不替买方诊断。CMO/COO 可解释合作职责，不默认变成个人署名。
+Never invent financials.
 
-首触说明与对方产品有关的合作价值和一个低负担下一步；可以自然介绍持续经营服务，不以泛“建立关系”为终点，不要求预算问卷或预设报价。百万金额与分成在范围清楚的商业阶段讨论。有适配证据时自然交代为何发给这个人；按对象选足够的案例和可用材料，不机械限制一个链接或一个证明，也不附整个资料库。口吻沿用当前 `joyce-voice`（若已安装）；本文件的关键边界不依赖该技能才能执行。
+### 1.3 Operating gap
+After economic qualification, identify a real purchasable gap:
+- global publishing / self-publishing build-out,
+- monetization / payer / LTV,
+- LiveOps,
+- UA × product feedback loop,
+- global GTM / localization,
+- portfolio greenlight / stop-scale decisions,
+- operating organization,
+- AI workflow / decision automation.
 
-## 3–5. Connect → 展示 → 转换成交
+No clear gap = relationship/watch, not an active sales opportunity.
 
-按参考文件为每个账户写出：已知事实、待验证假设、可能的经济价值、对方自己的判断、适配证据、下一步动作。把对方看重的公开业务目标转成可讨论的问题，避免猜测私人心理或利用个人脆弱点。
+---
 
-连接通过只代表可以交流；对方表达真实问题后再核需求。展示材料围绕问题选择证据；进入商业阶段要明确付费范围、责任、权限和采购路径。已具备需求及权责依据时可以直接提案，不强制每单先买诊断。
+## 2. Five-Layer Account Funnel
 
-## 每次运行的记录
+Track companies and people separately.
 
-每次先核 Gmail、私有 CRM 和公司级停止清单，再计算合格甲方的实际发送量。历史未回邮件先重新审甲方身份、发行缺口、品类、路线和最新回信；默认 HOLD，不自动追发。数量目标只作用于通过硬门槛且未被抑制的甲方；不能用第三方、超大厂或未核对象填数。遇发送结果不明先查 Sent，不直接重试。记录账户ID、阶段、证据、最新变化、阻塞、责任人、下一动作及日期。分开统计：已研究、草拟、批准、发送尝试、投递失败/未确认、真实回复、需求确认、提案、签约、首款、累计实收。口头兴趣、MOU和渠道协议不算客户收入；同一集团是否算多家按合同主体和独立预算说明。
+1. **Research Universe**  
+   Candidate companies/brands.
 
-日报先报有效买方回复、确认会议、需求与预算路径、提案、合同及实收，再报发送量。第三方渠道约谈、供应商自荐、普通交流一律排除主动开发并单列历史记录；全邮箱发送总数仅用于额度核算，不能证明合格买方KPI达成。合格量未核完时报告已核下限、待核数量及差额，不用未知掩盖缺口。
+2. **Category + Own-IP Fit**  
+   Principal-side, own product/IP, relevant category.
 
-每周用实际分母检查阶段转化及停留时间，用采购截止日倒排；没有历史样本时只能给情景测算。优先解决最接近成交且确有下一动作的阻塞，再补新账户。不要宣称必然达成销售目标。
+3. **Payment-Capacity Likely**  
+   Profit/cash-generation evidence strong enough for high-value services.
 
-## 权限与收尾
+4. **Sales Qualified Account**  
+   Payment capacity + real operating gap + no company-level STOP.
 
-资料使用许可本身不等于发送许可。先读当前用户授权：若用户已明确批准按当前硬门槛和每日数量批次直接发送，只能在本次甲方限定范围内核验对象、个性化起草并发送，不逐人重复索取批准；其他渠道和超出范围的外部承诺另核权限。授权与数量保存在私有工作区，公开技能不自行授予发送权限。不启用阿里邮箱新增发送或 Reply-To；当前 Gmail 路线执行前核对账户及抑制名单。
+5. **Reachable Executive Graph**  
+   Verified 3–5 relevant executives/routes for each priority account.
 
-用户要求提交或同步时，仅提交本轮授权文件，验证目标远端版本。更新 HANDOFF.md，严格少于 1500 词，包含完成、剩余问题、架构决策、文件、测试。无测试或无成交证据时明确写出；不能把 skill 入库描述成已联系、已成交或自动化已运行。
+Never report Layer 1 growth as Layer 5 progress.
+
+---
+
+## 3. Account-Based Executive Graph
+
+A qualified company is not "one company = one email".
+
+For each priority account, build a **3–5 person executive pool**, adjusted to actual structure:
+
+1. Founder / Co-Founder / CEO
+2. GM / Managing Director / BU Head
+3. Studio Head / Executive Producer
+4. Publishing / Global / Commercial / Business Head
+5. Product / Ops / LiveOps / Growth leader with budget influence
+
+Track:
+- name,
+- current title,
+- role verified date,
+- budget/decision relevance,
+- public/legitimate contact route,
+- route confidence,
+- relationship path,
+- contact status,
+- person-level suppression.
+
+### Company vs person suppression
+- Hard bounce → suppress that address/person route only.
+- Person-level no reply → does not automatically STOP the company.
+- Company-level STOP only for:
+  - explicit company rejection,
+  - explicit do-not-contact,
+  - legal/compliance stop,
+  - Joyce-directed company stop.
+
+A qualified account may continue through other appropriate executives if no company-level STOP exists.
+
+---
+
+## 4. Role-Based Message Architecture
+
+Do not send the same template to 3–5 people in one company.
+
+### Founder / CEO
+Lead with:
+- profit growth,
+- portfolio decisions,
+- global scaling,
+- organization leverage,
+- long-term operating system.
+
+### GM / Studio / BU Head
+Lead with:
+- title-level results,
+- resource bottlenecks,
+- publishing/LiveOps/monetization execution,
+- stop/scale decisions.
+
+### Publishing / Commercial / Business
+Lead with:
+- global publishing,
+- channel model,
+- commercial structure,
+- partner efficiency,
+- regional scaling.
+
+### Product / Ops / LiveOps / Growth
+Lead with:
+- retention,
+- LTV,
+- payer segmentation,
+- event cadence,
+- UA × monetization,
+- operating workflow and data.
+
+Every message needs:
+1. verified company/product context,
+2. one "why now" signal,
+3. one role-specific operating tension,
+4. Joyce/GGC proof relevant to that tension,
+5. one low-friction CTA.
+
+---
+
+## 5. Why-Now Signals
+
+Use current signals to decide timing:
+- new overseas soft launch,
+- self-publishing transition,
+- overseas publishing/UA/LiveOps hiring,
+- new business unit or overseas entity,
+- new product entering B/B+ stage,
+- monetization or long-tail challenge,
+- portfolio expansion,
+- M&A/funding tied to growth,
+- public founder comments about globalization,
+- category expansion into Casino / Arcade / Sims / AI-native.
+
+Record:
+- signal,
+- source,
+- event date,
+- verified date,
+- why it changes timing.
+
+One generic English website is not a strong intent signal.
+
+---
+
+## 6. Contact Route Strategy
+
+Prefer the route that matches the market and relationship:
+
+Greater China:
+1. warm intro / existing relationship,
+2. WeChat / enterprise WeChat when legitimate,
+3. direct public executive business route,
+4. verified corporate BD/business route,
+5. email,
+6. LinkedIn as enrichment/fallback.
+
+Do not:
+- guess personal emails,
+- use privacy/legal/support inboxes,
+- treat IR/customer service as executive coverage,
+- keep using a source after systematic bounce failures.
+
+Route quality is part of qualification, not a post-send cleanup task.
+
+---
+
+## 7. Outreach Execution
+
+### Pre-send
+Before creating a draft, verify:
+- company ownership / parent,
+- own-product status,
+- category,
+- economic gate,
+- current operating gap,
+- company STOP,
+- executive role,
+- route legitimacy,
+- prior Gmail/thread history,
+- person-level suppression.
+
+### First touch
+For a qualified account:
+- use role-specific copy,
+- keep all contacts in the same account strategy,
+- use one coherent positioning per company,
+- do not create contradictory pitches across executives.
+
+Parallel contact is allowed for distinct executive roles when justified, but each message must have a different role-relevant angle.
+
+### Historical no-reply
+Old no-reply thread:
+- HOLD the old contact/thread;
+- re-qualify the company;
+- if still qualified and not company-stopped, a **different verified executive** may be contacted with a fresh role-specific angle.
+
+Do not mechanically run old +5/+10 follow-ups.
+
+### Send ambiguity
+If a connector reports an error:
+- check Sent/thread state first,
+- never immediately resend blindly.
+
+---
+
+## 8. Experiment Design
+
+Copy A/B starts **after qualification**.
+
+Experimental unit = **company**, not email.
+
+All contacts inside one company stay on the same messaging hypothesis to avoid contamination.
+
+Valid test requirements:
+- same segment,
+- same qualification standard,
+- clean routes,
+- first-touch separated from follow-up,
+- at least 15 delivered companies per variant before drawing directional conclusions.
+
+Primary metric:
+**Qualified Meeting Rate**
+
+Secondary:
+- Human Need Reply Rate
+- Proposal Rate
+- Paid Scope Rate
+
+Guardrails:
+- hard bounce rate,
+- duplicate sends,
+- STOP violations.
+
+Do not declare a copy winner from a mixed or unqualified population.
+
+---
+
+## 9. Core Metrics
+
+Always separate **companies** from **people**.
+
+Report:
+- Research Universe companies
+- Own-IP/category-fit companies
+- Payment-capacity likely
+- Sales Qualified Accounts
+- Reachable accounts
+- Named executives
+- Executives contacted
+- average executives covered per priority account
+- human need replies
+- qualified meetings
+- proposals
+- signed scopes
+- cash collected
+
+For priority accounts, also report:
+- which roles are covered,
+- which role is missing,
+- whether the blocker is economics / decision-maker / route / STOP / timing.
+
+North Star is not "100 emails".
+North Star is **qualified buyer conversations that can become paid scopes**.
+
+---
+
+## 10. Daily Operating Order
+
+1. Reply Desk: process genuine buyer replies first.
+2. Resolve meetings/proposals/urgent blockers.
+3. Re-verify qualified accounts with incomplete executive coverage.
+4. Expand company research universe.
+5. Build/refresh 3–5 person executive graph for priority accounts.
+6. Draft/send role-specific outreach only after gates pass.
+7. Update company and person suppression.
+8. Report funnel movement, not activity theatre.
+
+When volume misses target, state the exact bottleneck:
+- economic proof,
+- account qualification,
+- named executive,
+- contact route,
+- suppression,
+- insufficient current signal.
+
+Never fill quota with third parties or low-quality CPs.
+
+---
+
+## 11. Opportunity Output Schema
+
+### Account
+- canonical_company
+- parent_group
+- Chinese/English name
+- category
+- own_product_ip
+- product(s)
+- economic_capacity_status
+- economic_evidence
+- operating_gap
+- why_now
+- signal_source/date
+- company_stop_status
+- qualification_status
+
+### Executive
+- name
+- title
+- role_class
+- budget/decision_relevance
+- current_role_verified
+- contact_route
+- route_confidence
+- relationship_path
+- person_suppression
+- outreach_angle
+- last_action
+- next_action
+
+### Commercial
+- recommended_GGC_scope
+- meeting_status
+- proposal_status
+- procurement_path
+- signed_scope
+- cash_collected
+
+---
+
+## 12. Source of Truth / Separation
+
+This skill governs **GGC annual-client B2B sales only**.
+
+Do not count:
+- FA investors,
+- investment institutions,
+- financing project founders,
+- generic partner networking
+
+as B2B client acquisition.
+
+FA must use its own investor-development skill, CRM and funnel.
+
+Before execution, read current user authorization, Gmail/CRM history and company-level suppression. Do not treat a reusable skill as automatic permission to contact external parties.
