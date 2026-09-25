@@ -9,6 +9,8 @@ version: 2.0
 
 # GGC Annual Client Development — Account-Based BD Skill
 
+Before scaling any outreach, also read `../ggc-incremental-commercial-engine/SKILL.md` for CAP, wave sizing, funnel conversion gates and optimization thresholds.
+
 ## 0. Mission
 
 This skill is for **GGC B2B client sales**, not FA/investor outreach.
