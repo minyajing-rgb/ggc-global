@@ -1,9 +1,57 @@
 # GGC BD 双 Agent 并行获客执行方案 v1.0
-**日期：2026-09-17**  
+**日期：2026-09-17；Canonical Override：2026-09-26**  
 **Owner：Joyce / GGC**  
 **执行端：A = Base44 GGC助理 Agency TG；B = ChatGPT / Joyce Copilot**
 
 ---
+
+# 2026-09-26 CANONICAL EXECUTION OVERRIDE
+
+本节覆盖下文所有旧 Segment、First-wave Pool、Investor / Publisher / Strategic Partner 例外和机械 +5/+10 规则。旧内容仅保留历史记录，不再作为自动执行指令。
+
+## Active acquisition scope
+两个 Agent 只主动开发：
+- 华人 / 华人主导的 principal-side 自研公司；
+- 拥有自有产品 / IP；
+- Casino / Arcade / Sims / AI 身心灵；
+- 中腰部或垂类头部；
+- 支付能力至少 Strongly Inferred；
+- 存在自发行、全球化、商业化、LiveOps、组织或 AI workflow 的 why-now / missing-corner 假设；
+- 无 company STOP，且存在合法高管/业务路线。
+
+不进入核心获客：第三方发行代理、投资机构、渠道、平台、外包、UA/KOL 服务商、媒体，以及网易/腾讯等超大厂。后者只做关系，不计 Acquisition KPI。
+
+## Two-stage gate
+- **Outreach Eligible**：决定能否首触；不要求私营公司首触前已公开精确利润或明确采购预算。
+- **Sales Qualified**：真人回复/Discovery 后确认支付能力、真实采购缺口、决策人和时机，才进入 RMB 1M-class pipeline。
+
+## Ownership
+- Company-level ownership remains the only anti-duplicate rule.
+- 已有历史首发的公司默认归原 Owner，除非私有 CRM 明确转移。
+- 两个 Agent 在每次发送前都必须读取同一 STOP / suppression / ownership ledger。
+- 同一公司多个高管可 3–5 人建图，但首轮通常只触达 1–2 人；不同角色用不同角度，同一公司保持同一 A/B hypothesis。
+
+## Agent A — Base44
+定位：**Scale sourcing + contact-ready production**。
+职责：批量扫描符合上述华人甲方范围的公司，补产品/IP、规模信号、why-now、3–5 人决策图和合法路线；只从 assigned Outreach Eligible accounts 发送。
+
+## Agent B — ChatGPT / Joyce Copilot
+定位：**Strategic account research + founder/high-value penetration + reply conversion**。
+职责：深挖高价值华人甲方、Founder/CEO/GM/Studio/Publishing/Product/Ops 决策链；处理真人回复、Need Validation、Meeting/Proposal 转化；只触达 assigned accounts。
+
+## Execution volume
+- 正常目标：50–100 **合格邮件** / day；
+- 可控范围：30–200 / day；
+- reserve Contact-ready pool >= 2× next-wave target；
+- 如果不足，报告卡在哪个漏斗层，不允许用第三方/投资人/小 CP 补量。
+
+## Experiment
+A/B 只在 Outreach Eligible + Contact Ready 的同质 cohort 内随机；Company 是实验单位。
+Primary: Meeting Rate；Secondary: Positive/Need Reply Rate、Reply Rate；Guardrails: bounce <3%、STOP=0、duplicate=0。
+每个 Variant 同 Segment 至少 15 个有效 delivered company 样本后才允许判断方向。
+
+---
+
 
 ## 0. 核心原则
 
