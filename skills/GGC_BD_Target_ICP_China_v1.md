@@ -5,7 +5,13 @@
 
 ---
 
-> **2026-09-24 Joyce 最新规则（覆盖本文旧条款）：只主动联系有真实付费能力的华人自研甲方。第一硬门槛是经济体量：原则上要求公司/核心产品可核验年利润约 RMB 30M+；RMB 100M+ 利润或明显规模化现金流优先。利润不公开时，只接受“低调但明显赚钱”的强现金流替代证据，并需足以支持百万级年度合作预算。必须有自有产品/IP，属于 Casino / Arcade / Sims / AI 身心灵；发行团队缺口、自发行、全球化、商业化、LiveOps、组织或 AI workflow 只是合作缺口，不再是入池第一门槛。小 CP、早期团队、仅仅在找外部发行的团队不进入销售池，若可投则转投资/孵化池。优先中腰部与垂类头部，并找到创始人/CEO/GM/Studio Head 等高层决策者。第三方服务商、外包、代理发行、渠道、KOL/UA 平台、投资机构一律不进入主动客户池；网易、腾讯等超大型公司仅高层认识，不计甲方获客。所有旧未回线程暂停自动跟进，按新门槛逐一复核。此规则优先于本文 A–D 和下文 Adjacent opportunities 等旧例外。**
+> **2026-09-26 Joyce 执行修订（覆盖 2026-09-24 的 Profit-first 冻结逻辑）：只主动开发华人自研甲方，且必须拥有自有产品/IP，属于 Casino / Arcade / Sims / AI 身心灵，优先中腰部或垂类头部。第三方机构、投资人、渠道、外包、平台及网易/腾讯等超大厂仍不进入核心获客。**
+>
+> **但“是否允许首触”和“是否进入百万年框 Sales Qualified Pipeline”必须分开：**
+> - **Outreach Eligible：** 有真实产品/业务规模证据，支付能力至少 Strongly Inferred，有可验证的自发行/全球化/商业化/LiveOps/组织等 Why-now 假设，有合法高管路线且无 STOP，即可进入受控首触；私营公司精确年利润不公开时，不得因此自动冻结为 0 发送。
+> - **Sales Qualified：** 只有在后续确认约 RMB 30M+ 年利润或等价强现金生成/预算、真实可采购缺口、决策人和时机后，才进入百万年框核心 Pipeline。
+>
+> 小 CP、仅靠融资/下载/团队人数支撑、没有明确支付能力信号的团队仍不进入销售池。旧未回复线程仍 HOLD，不机械 +5/+10；必须重新做公司资格、STOP、Owner、路线和最新线程核验。
 
 ## 1. Core ICP
 
@@ -68,15 +74,37 @@ GGC pitch:
 
 ## 2. Commercial Size Filter
 
-Priority prospects should have real capacity to pay for a **high-value annual framework / retainer**.
+Priority prospects should have real capacity to buy a **high-value annual framework / retainer**, but pre-contact evidence and post-contact qualification are different stages.
 
-Preferred public signals:
-- **Annual company / core-product profit at roughly RMB 30M+ is the default sales gate.** Revenue alone is not enough.
-- **RMB 100M+** annual revenue/profit or clearly scaled product economics = top priority.
-- Multiple related studios/subsidiaries may be evaluated as one group if combined scale and decision-making are linked.
-- When profit is not public, only strong, current cash-generation evidence can substitute: durable high-grossing/high-margin products, audited/listed-company profitability, multi-year cash-cow performance, or other evidence sufficient to support a RMB 1M-class annual engagement. Financing, downloads, headcount or “looking for publishing” alone do not qualify.
+### 2.1 Outreach Eligibility economics
+For first-touch eligibility, exact private-company profit is not mandatory when it is not public.
 
-Do not invent financials. If public revenue/profit is unavailable, use observable signals and mark the scale as inferred / unverified.
+Acceptable evidence is a credible combination of:
+- durable high-grossing / high-margin owned products;
+- multi-year live operation and sustained monetization;
+- meaningful paid-UA activity over time;
+- multiple mature owned titles;
+- listed/audited parent or group economics;
+- credible mid-market / vertical-leader portfolio scale;
+- current overseas/self-publishing hiring or expansion;
+- other verifiable cash-generation proxies consistent with purchasing a high-value service.
+
+Classify:
+- **Verified** — public/audited evidence is strong;
+- **Strongly Inferred** — multiple credible operating signals support ability to pay;
+- **Pending Evidence** — not enough evidence yet.
+
+Only Verified or Strongly Inferred accounts may enter normal outbound. Pending Evidence stays in research unless Joyce explicitly approves.
+
+### 2.2 Sales Qualification economics
+For the **RMB 1M-class annual-client pipeline**, retain the stronger standard:
+- company/core-product annual profit around **RMB 30M+**, OR
+- equivalent strong current cash generation / confirmed budget;
+- RMB 100M+ profit or clearly scaled cash generation remains highest priority.
+
+Revenue, downloads, financing, employee count, or "looking for publishing" do **not** independently prove payment capacity.
+
+Do not invent financials. Use observable signals and label uncertainty.
 
 ---
 
@@ -154,7 +182,7 @@ Adjacent opportunities are allowed when the company has strong scale and a clear
 Lower priority unless there is an exceptional signal:
 - Pure outsourcing vendor with no own-product ambition.
 - Very early hobby indie with no product/data/funding signal.
-- Small CP / early studio without clear RMB 30M+ profit or equivalent cash-generation/payment capacity, even if it needs publishing. Such teams may be routed to an investment/incubation pool, not the annual-client sales pool.
+- Small CP / early studio without credible payment-capacity signals, even if it needs publishing. Exact RMB 30M+ profit is not required for first touch, but weak/no cash-generation evidence still excludes the account from annual-client sales.
 - Teams seeking only cheap execution labor.
 - Companies already fully mature in global publishing with no identifiable GGC “missing corner.”
 - No clear decision-maker or commercial capacity.
@@ -184,3 +212,13 @@ For each target:
 ## 9. One-line Target Definition
 
 > **GGC prioritizes Chinese-speaking founder-led game companies that have already proven R&D or commercial ability, but are missing the global publishing, monetization, LiveOps, growth, AI or organization layer required to move from domestic/custom/publisher-dependent success to self-developed, self-published, globally scalable businesses.**
+
+---
+
+## 10. Version
+
+### v1.1 — 2026-09-26
+- Split Outreach Eligible from Sales Qualified.
+- Strongly Inferred payment capacity can support first touch when exact private-company profit is unavailable.
+- RMB 30M+ profit / equivalent strong cash generation remains the annual-client pipeline standard, not a blanket pre-contact freeze.
+- Principal-only, own-IP, four-category, mid-market/vertical-leader, STOP and route rules remain unchanged.
