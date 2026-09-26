@@ -5,7 +5,7 @@ description: >
   setting wave-level outreach caps, measuring stage conversion, comparing market benchmarks
   with GGC observed data, diagnosing funnel leaks and scaling only after each stage passes
   evidence gates. Applies to B2B client sales and FA investor development with separate funnels.
-version: 1.0
+version: 1.1
 ---
 
 # GGC Incremental Commercial Engine
@@ -29,10 +29,15 @@ All plausible accounts in the defined market.
 
 This is a census number, not a sales target.
 
-## CAP 2 — Qualified Account CAP
-Accounts that pass hard ICP/thesis/economic/timing gates.
+## CAP 2 — Outreach Eligible Account CAP
+Accounts that pass the pre-contact buyer gate:
+- principal-side / own IP / category fit;
+- correct company scale;
+- payment capacity at least Strongly Inferred;
+- plausible evidence-based why-now / gap hypothesis;
+- no company STOP.
 
-This is the true addressable commercial pool.
+This is the true **active acquisition pool**. Exact private-company profit and confirmed procurement need are not required before first touch.
 
 ## CAP 3 — Decision-Maker CAP
 For each qualified account, map the people who can move the decision.
@@ -83,8 +88,8 @@ These are **working planning ranges**, not externally verified market-size facts
 ### Initial planning model
 - Raw Chinese-led principal-side four-category universe: **1,500–3,000 accounts**
 - Category + own-IP fit: **800–1,500**
-- Payment-capacity likely: **300–700**
-- Sales-qualified: **150–350**
+- Outreach Eligible: **300–700**
+- Sales-qualified after reply/discovery: **150–350**
 - Priority core accounts: **80–150**
 - Executive graph at 3–5/account: **240–750 priority executives**
 
@@ -105,13 +110,13 @@ Track:
 
 Research Account
 → ICP Fit
-→ Payment-Capacity Likely
-→ Sales Qualified
+→ Outreach Eligible
 → Executive Graph Ready
 → Contact Ready
 → Delivered
 → Human Reply
 → Qualified Need
+→ Sales Qualified
 → Meeting Booked
 → Meeting Held
 → Qualified Opportunity
@@ -297,8 +302,8 @@ Before any send:
 - pitch variants
 - stage definitions
 
-## Wave 1 — 30 Qualified Accounts
-Objective: validate list + route + message.
+## Wave 1 — 30 Outreach-Eligible Accounts
+Objective: validate list + route + message without waiting for post-reply Sales Qualification.
 
 B2B:
 - map 90–150 executives
@@ -309,11 +314,11 @@ FA:
 - 30 primary investors + fallback mapping
 
 Review after:
-- 30 qualified accounts OR
+- 30 outreach-eligible accounts OR
 - 50 delivered messages,
 whichever occurs later.
 
-## Wave 2 — 50–100 Qualified Accounts
+## Wave 2 — 50–100 Outreach-Eligible Accounts
 Only scale if:
 - route failure <3–5%
 - human reply >=3–4%
@@ -464,7 +469,7 @@ pause and repair before scaling.
 For any cohort:
 
 Signed Deals =
-Qualified Accounts
+Outreach Eligible Accounts
 × Reachable Rate
 × Contact Rate
 × Delivery Rate
@@ -497,7 +502,7 @@ The biggest multiplicative gain often comes from fixing the weakest early gate.
 # 13. Review Cadence
 
 ## Per wave
-Review every 30 qualified accounts / 50 delivered messages.
+Review every 30 outreach-eligible accounts / 50 delivered messages.
 
 ## Weekly
 Review:
@@ -536,10 +541,19 @@ Rebuild ICP and positioning from:
 
 # 14. Scale Rule
 
-Scale only what is **qualified, reachable, measurable and repeatable**.
+Scale only what is **outreach-eligible, reachable, measurable and repeatable**; promote to Sales Qualified only after real need, economic capacity and buyer/timing are validated.
 
 The goal is not:
 "reach the cap."
 
 The goal is:
 **increase expected revenue / funded amount per qualified account while preserving the remaining market.**
+
+---
+
+## 15. v1.1 Change Log — 2026-09-26
+
+- Replaced pre-contact Sales Qualified requirement with **Outreach Eligible**.
+- Exact private-company profit is no longer a prerequisite for first touch when payment capacity is Strongly Inferred.
+- Sales Qualification now occurs after human reply / need validation and confirms economics, buyer and timing.
+- Wave sizing and A/B denominators use Outreach Eligible + clean delivered accounts.
