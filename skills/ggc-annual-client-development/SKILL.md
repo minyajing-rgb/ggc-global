@@ -4,7 +4,7 @@ description: >
   Account-based business development for Joyce/GGC annual client acquisition.
   Use for sourcing, qualifying, penetrating, contacting and converting Chinese-led
   principal-side game companies into high-value GGC operating, publishing and growth engagements.
-version: 2.0
+version: 2.1
 ---
 
 # GGC Annual Client Development — Account-Based BD Skill
@@ -49,25 +49,56 @@ Exclude from active client acquisition:
 - small early CPs without payment capacity,
 - Tencent/NetEase-scale giants except high-level relationship building.
 
-### 1.2 Economic capacity comes before "need"
-Default commercial gate:
-- company/core product annual profit around **RMB 30M+**, OR
-- strong current cash-generation evidence sufficient to support a RMB 1M-class annual engagement.
+### 1.2 Separate the **Outreach Gate** from the **Sales Qualification Gate**
 
-Highest priority:
-- RMB 100M+ profit / clearly scaled cash generation.
+Do **not** require a private mid-market company to prove exact annual profit, a confirmed procurement budget, and a fully verified operating gap before the first business contact. That rule freezes the funnel and makes cold BD impossible.
 
-Revenue, downloads, financing, employee count, or "looking for publishing" do **not** independently prove payment capacity.
+#### Outreach Eligibility Gate — determines whether we may contact
+A company may enter an outbound wave when all of the following are true:
+- Chinese-speaking / Chinese-led principal-side company or business unit;
+- controls its own game/product/IP;
+- category fit: Casino / Arcade / Sims / AI wellness, or a directly adjacent product explicitly approved by Joyce;
+- mid-market / vertical leader profile with concrete evidence of real product/business scale;
+- payment capacity is at least **Strongly Inferred** from credible current signals;
+- there is a plausible, evidence-based purchasable operating gap or why-now hypothesis;
+- company-level STOP is clear;
+- a legitimate executive/business route exists.
 
-When exact profit is unavailable, mark:
-- Verified,
-- Strongly Inferred,
-- Pending Evidence.
+Exact RMB 30M+ annual profit is **not required before first touch** when private-company economics are not public.
 
-Never invent financials.
+Acceptable payment-capacity signals include combinations of:
+- durable high-grossing / high-margin owned products;
+- multi-year live product operation;
+- sustained paid UA at meaningful scale;
+- multiple mature owned titles;
+- listed-company / audited group economics;
+- credible team and portfolio scale;
+- current overseas/self-publishing hiring;
+- other verifiable evidence consistent with the ability to buy a high-value service.
 
-### 1.3 Operating gap
-After economic qualification, identify a real purchasable gap:
+Downloads, financing, headcount, or "looking for publishing" alone are still insufficient.
+
+Economic confidence:
+- **Verified**
+- **Strongly Inferred**
+- **Pending Evidence**
+
+Pending Evidence by itself does not authorize outreach unless Joyce explicitly approves the account.
+
+#### Sales Qualification Gate — determines whether it enters the RMB 1M-class pipeline
+Upgrade an account to **Sales Qualified** only after there is evidence of:
+- ability to pay: around **RMB 30M+ annual profit** or equivalent strong cash generation / confirmed budget;
+- a real purchasable operating gap;
+- a relevant decision-maker / budget owner;
+- current timing or procurement reality;
+- no company-level STOP.
+
+This evidence may be established **after first contact** through public research, human reply, discovery, or buyer-provided context.
+
+### 1.3 Operating gap / why-now
+Before first touch, require an evidence-based **hypothesis**, not impossible certainty.
+
+Useful hypotheses include:
 - global publishing / self-publishing build-out,
 - monetization / payer / LTV,
 - LiveOps,
@@ -77,30 +108,36 @@ After economic qualification, identify a real purchasable gap:
 - operating organization,
 - AI workflow / decision automation.
 
-No clear gap = relationship/watch, not an active sales opportunity.
+After reply, validate whether the hypothesis is a real purchasable need. If not, downgrade to WATCH / RELATIONSHIP / STOP as appropriate.
 
 ---
 
-## 2. Five-Layer Account Funnel
+## 2. Account Funnel
 
-Track companies and people separately.
+Track companies and people separately. Do not collapse pre-contact eligibility into post-contact sales qualification.
 
 1. **Research Universe**  
    Candidate companies/brands.
 
-2. **Category + Own-IP Fit**  
-   Principal-side, own product/IP, relevant category.
+2. **ICP Fit**  
+   Chinese-led principal-side, own product/IP, relevant category, correct company scale/type.
 
-3. **Payment-Capacity Likely**  
-   Profit/cash-generation evidence strong enough for high-value services.
+3. **Outreach Eligible**  
+   Payment capacity at least Strongly Inferred + evidence-based why-now / gap hypothesis + no company STOP.
 
-4. **Sales Qualified Account**  
-   Payment capacity + real operating gap + no company-level STOP.
+4. **Executive Graph / Contact Ready**  
+   3–5 relevant executives mapped; at least one legitimate, unsuppressed route ready for the next wave.
 
-5. **Reachable Executive Graph**  
-   Verified 3–5 relevant executives/routes for each priority account.
+5. **Human Reply / Need Validation**  
+   A real human response reveals current need, timing, buyer structure, or a clear no-need outcome.
 
-Never report Layer 1 growth as Layer 5 progress.
+6. **Sales Qualified Account**  
+   Ability to pay + real purchasable gap + budget/decision relevance + timing/procurement reality.
+
+7. **Meeting → Proposal → Signed → Cash**  
+   Commercial conversion stages.
+
+Never report Research Universe growth as Contact Ready, and never report Outreach Eligible as Sales Qualified.
 
 ---
 
@@ -236,16 +273,19 @@ Route quality is part of qualification, not a post-send cleanup task.
 
 ### Pre-send
 Before creating a draft, verify:
-- company ownership / parent,
-- own-product status,
-- category,
-- economic gate,
-- current operating gap,
-- company STOP,
-- executive role,
-- route legitimacy,
-- prior Gmail/thread history,
+- company ownership / parent;
+- own-product status;
+- category;
+- mid-market / vertical-leader fit;
+- payment-capacity status is **Verified or Strongly Inferred**;
+- evidence-based why-now / operating-gap hypothesis;
+- company STOP;
+- executive role;
+- route legitimacy;
+- prior Gmail/thread history;
 - person-level suppression.
+
+Do **not** block a good private-company account solely because exact profit, procurement budget, or the internal org chart is not publicly available. Those are post-reply qualification fields unless public evidence already exists.
 
 ### First touch
 For a qualified account:
@@ -273,7 +313,7 @@ If a connector reports an error:
 
 ## 8. Experiment Design
 
-Copy A/B starts **after qualification**.
+Copy A/B starts **after Outreach Eligibility + Contact Ready**, not after full Sales Qualification.
 
 Experimental unit = **company**, not email.
 
@@ -309,10 +349,12 @@ Always separate **companies** from **people**.
 
 Report:
 - Research Universe companies
-- Own-IP/category-fit companies
-- Payment-capacity likely
+- ICP-fit companies
+- Outreach Eligible companies
+- Contact-ready accounts
+- Human replies
+- Need-validated accounts
 - Sales Qualified Accounts
-- Reachable accounts
 - Named executives
 - Executives contacted
 - average executives covered per priority account
@@ -336,22 +378,28 @@ North Star is **qualified buyer conversations that can become paid scopes**.
 
 1. Reply Desk: process genuine buyer replies first.
 2. Resolve meetings/proposals/urgent blockers.
-3. Re-verify qualified accounts with incomplete executive coverage.
-4. Expand company research universe.
-5. Build/refresh 3–5 person executive graph for priority accounts.
-6. Draft/send role-specific outreach only after gates pass.
-7. Update company and person suppression.
-8. Report funnel movement, not activity theatre.
+3. Re-qualify replies into Need Validated / Sales Qualified / HOLD / STOP.
+4. Expand the **Outreach Eligible reserve pool**; target reserve >= 2× the next send wave.
+5. Build/refresh 3–5 person executive graphs for priority accounts.
+6. Move legitimate routes to Contact Ready.
+7. Draft/send role-specific outreach from Contact Ready accounts only.
+8. Update company and person suppression immediately after each outcome.
+9. Report funnel movement and conversion.
+
+Operating volume:
+- normal target: **50–100 qualified emails/day** across eligible accounts when enough clean routes exist;
+- acceptable controlled range: **30–200/day**;
+- never fill quota with third parties, investors, channels, outsourcing vendors, platforms, giant-company noise, or low-quality CPs.
 
 When volume misses target, state the exact bottleneck:
-- economic proof,
-- account qualification,
-- named executive,
-- contact route,
+- insufficient Outreach Eligible accounts,
+- missing named executives,
+- weak route quality,
 - suppression,
-- insufficient current signal.
+- insufficient why-now evidence,
+- sender/delivery risk.
 
-Never fill quota with third parties or low-quality CPs.
+Do not use "exact private-company profit unavailable" as a blanket reason to send zero when Strongly Inferred payment capacity and a clean buyer route exist.
 
 ---
 
@@ -411,3 +459,15 @@ as B2B client acquisition.
 FA must use its own investor-development skill, CRM and funnel.
 
 Before execution, read current user authorization, Gmail/CRM history and company-level suppression. Do not treat a reusable skill as automatic permission to contact external parties.
+
+---
+
+## 13. v2.1 Change Log — 2026-09-26
+
+- Split **Outreach Eligibility** from **Sales Qualification**.
+- Removed the requirement to prove exact private-company profit + confirmed procurement need before first contact.
+- Preserved RMB 30M+ profit / equivalent cash-generation evidence as the **Sales Qualified / RMB 1M-class pipeline** standard.
+- Added Strongly Inferred payment-capacity signals for pre-contact eligibility.
+- A/B testing now starts at Outreach Eligible + Contact Ready.
+- Restored controlled 50–100/day execution when enough clean buyer routes exist.
+- Kept strict exclusions: third parties, investors, channels, outsourcing, platforms, small non-paying CPs, and Tencent/NetEase-scale giants from core acquisition.
