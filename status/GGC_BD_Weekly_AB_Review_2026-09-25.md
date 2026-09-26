@@ -112,3 +112,39 @@ Primary metric: qualified meeting rate. Secondary metrics: human need reply rate
 ## Bottom line
 
 This week produced learning about list quality and control failures, not a valid copy winner. The next gain comes from expanding and validating the company map, then routing to real budget owners. Copy optimization should resume only after the qualified, reachable denominator is large enough.
+
+---
+
+## 2026-09-26 Execution Correction
+
+The retrospective A/B result remains invalid, but the execution rule has been corrected.
+
+### Root-cause correction
+The previous Profit-first implementation accidentally used the **RMB 1M-class Sales Qualification standard as a pre-send gate**. For private mid-market companies, exact profit, confirmed procurement budget and a fully verified operating gap are often not public before first contact. That implementation converted a quality-control rule into a funnel freeze.
+
+From 2026-09-26, the canonical funnel separates:
+- **Outreach Eligible:** principal-side, own IP, core category, correct company scale, payment capacity at least Strongly Inferred, evidence-based why-now / missing-corner hypothesis, STOP clear.
+- **Contact Ready:** legitimate unsuppressed executive/business route exists.
+- **Sales Qualified:** after reply/discovery, confirm economics/budget, real purchasable gap, decision-maker and timing.
+
+Exact private-company profit is no longer required for first touch when strong current operating evidence exists. The RMB 30M+ annual-profit / equivalent cash-generation standard remains the qualification standard for the RMB 1M-class pipeline.
+
+### Target-profile correction
+High revenue or famous companies are not automatically good targets. Companies that already have mature global publishing/operations are downgraded unless a specific external missing-corner is evidenced.
+
+Priority sourcing now looks for mid-market / vertical-leader Chinese principal-side companies with observable transition signals such as:
+- building overseas publishing / operations / UA / LiveOps teams;
+- moving from publisher-dependent to self-publishing;
+- launching the first owned product overseas;
+- opening a new overseas publishing entity;
+- domestic strength with a current global-execution build-out.
+
+### Next-cycle operating model
+- Build reserve Outreach Eligible pool >= 2× the next send wave.
+- Map 3–5 relevant executives/account; first wave normally contacts 1–2.
+- Normal production target remains 50–100 qualified emails/day when enough clean routes exist.
+- A/B randomization starts at Outreach Eligible + Contact Ready, not after post-reply Sales Qualification.
+- Primary KPI: Meeting Rate; secondary: Positive/Need Reply Rate and Reply Rate.
+- Guardrails: bounce <3%, STOP violations = 0, duplicate sends = 0.
+
+No outreach was sent as part of this review/correction task.
