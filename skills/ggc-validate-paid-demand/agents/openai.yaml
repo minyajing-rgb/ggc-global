@@ -1,0 +1,14 @@
+interface:
+  display_name: GGC 付费意愿验证
+  short_description: 在产品立项、MVP和发布前，用付款、定金或预算承诺验证真实需求
+  default_prompt: Use $ggc-validate-paid-demand to design the smallest purchase-intent
+    test and decide whether this product should advance, iterate, or stop.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
