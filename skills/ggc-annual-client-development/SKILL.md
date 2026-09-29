@@ -4,7 +4,7 @@ description: >
   Account-based business development for Joyce/GGC annual client acquisition.
   Use for sourcing, qualifying, penetrating, contacting and converting Chinese-led
   principal-side game companies into high-value GGC operating, publishing and growth engagements.
-version: 2.1
+version: 2.2
 ---
 
 # GGC Annual Client Development — Account-Based BD Skill
@@ -12,6 +12,25 @@ version: 2.1
 Before scaling any outreach, also read `../ggc-incremental-commercial-engine/SKILL.md` for CAP, wave sizing, funnel conversion gates and optimization thresholds.
 
 ## 0. Mission
+
+### v2.2 Scope override — 2026-09-29
+
+When this section conflicts with older category-gate language below, this section controls.
+
+**Company Master / census**
+- Cover all Chinese-speaking / Chinese-led game companies with actual game products and credible scale, regardless current genre.
+- Casino / Arcade / Sims / AI-native are Current Category / Interest / Expansion tags, not Company-Master entry prerequisites.
+
+**Primary commercial pool**
+- Focus on mid-market and above companies with credible payment capacity and an externalizable transition, expansion or portfolio decision.
+- High-value transition accounts include: domestic -> global; developer-only -> self-publishing; outsourcing/custom/co-dev -> own-IP principal-side; existing genre -> new genre/product line; portfolio -> next-curve / greenlight / kill / scale.
+- A scaled service/co-dev company may enter a Transformation Account queue before it owns a product only when there is concrete evidence it is moving toward own-IP, principal-side economics or self-publishing. Do not count it as an own-product game company until that transition is real.
+
+**Top-tier / giant companies**
+- Do not run ordinary sales blasting.
+- Build relationships only with C*O-level leaders or equivalent BU / Studio Heads.
+- Use specific strategic/new-project windows, executive roundtables, peer exchange, referral or ecosystem paths.
+
 
 This skill is for **GGC B2B client sales**, not FA/investor outreach.
 
