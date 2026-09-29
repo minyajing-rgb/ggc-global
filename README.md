@@ -37,3 +37,11 @@ Published fees are indicative forward-looking prices, not retrospective invoices
 - [Handoff](HANDOFF.md)
 
 These are positioning and reusable operating guidance. Public standard rates are in the Joyce atlas. Private customer records, historical advisory ledgers and client-specific commercial terms belong in the authorized private workspace. Private material is not included in the public website or release download.
+
+
+## AI-native game development and commercialization
+
+- [GGC AI-native game build-to-revenue skill](skills/ggc-ai-native-game-build-to-revenue/SKILL.md)
+- [Harpagia / Ken Law source-case notes](skills/ggc-ai-native-game-build-to-revenue/references/harpagia-case-notes.md)
+
+Use this skill for new GGC game concepts, MVP scoping, AI-assisted implementation, store launch, IAP instrumentation, real-player feedback loops, community distribution, and evidence-gated scaling. It complements the paid-demand gate and keeps future projects on a build → ship → pay → learn → distribute → scale loop.
