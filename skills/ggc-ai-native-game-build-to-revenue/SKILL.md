@@ -1,23 +1,26 @@
 ---
 name: ggc-ai-native-game-build-to-revenue
 description: >
-  GGC reusable development-to-commercialization skill for AI-assisted game projects.
-  Use when scoping a new game, turning an idea into an MVP, planning solo/small-team development,
-  preparing App Store/Google Play launch, setting up IAP, collecting player feedback, designing
-  community launch, deciding what to iterate, or moving a playable product toward repeatable revenue.
-  The core loop is: shrink scope -> build playable -> ship -> get real payment/behavior -> learn ->
-  improve monetization/distribution -> scale only after evidence.
+  GGC reusable development-to-commercialization reference skill for AI-assisted game projects.
+  Use as a practical reference when scoping a new game, turning an idea into an MVP, planning
+  solo/small-team development, preparing App Store/Google Play launch, setting up IAP, collecting
+  player feedback, designing community launch, deciding what to iterate, or moving a playable
+  product toward repeatable revenue. The patterns in this skill are reference frameworks rather
+  than mandatory gates; adapt them to project stage, genre, budget, team, platform, and commercial goal.
 version: 1.0
 ---
 
 # GGC AI-Native Game Build-to-Revenue Skill
 
+> **Usage note:** This is a reference framework, not a hard rulebook. Different game genres, team sizes, budgets, platforms, lifecycle stages, and strategic goals may require different sequencing, thresholds, or artifacts. Use judgment; keep what improves decision quality and discard what does not.
+
+
 ## 0. Purpose
 
-Turn AI-assisted game development into a repeatable commercial operating system.
+Turn AI-assisted game development into a reusable set of commercial-development references.
 
-This skill is not "use AI to generate a full game."
-It is a disciplined loop for getting from a narrow product hypothesis to:
+This skill is not a mandatory production process and is not "use AI to generate a full game."
+It provides patterns that may help a project move from a narrow product hypothesis to:
 - a playable build,
 - a store-ready release,
 - real players,
@@ -28,13 +31,13 @@ It is a disciplined loop for getting from a narrow product hypothesis to:
 
 The user-provided Harpagia / Ken Law case is the source case for the first version of this skill.
 Case figures are treated as anecdotal self-reported evidence unless independently verified later.
-The skill preserves the operating lessons rather than relying on the case's revenue numbers.
+The skill preserves useful operating lessons as references rather than treating the case's revenue numbers or workflow as universal rules.
 
 ---
 
-# 1. Core Principles
+# 1. Reference Principles
 
-## 1.1 Scope must be small enough to finish
+## 1.1 Prefer a first scope that is small enough to finish
 
 The first version should be deliberately narrow:
 - one core gameplay loop;
@@ -80,7 +83,7 @@ Human owner must still decide:
 Do not confuse "one person + AI" with "everything generated from zero."
 Use existing engines, SDKs, asset stores, freelancers, APIs, and platform services when faster and economically rational.
 
-## 1.3 Build in tasks that can be manually verified
+## 1.3 Prefer development tasks that can be manually verified
 
 Do not ask Codex/Cursor/AI coding tools to "build the whole game."
 
@@ -95,7 +98,7 @@ Break work into independent tasks where each task states:
 Rule:
 **one task -> run -> manually verify -> record -> next task.**
 
-## 1.4 Ship before the game feels finished
+## 1.4 Consider shipping before the game feels fully finished
 
 A rough live product with real players creates more decision value than an internal polished prototype with no users.
 
@@ -110,7 +113,7 @@ Release when the smallest honest version can:
 
 Do not delay release merely to remove all criticism.
 
-## 1.5 First real payment matters more than praise
+## 1.5 Treat real payment as stronger evidence than praise
 
 Likes, comments, waitlists and compliments are weak evidence.
 
@@ -129,7 +132,7 @@ For pre-build demand validation, use the existing:
 For a live game, treat first payment as proof that at least one player perceived paid value.
 It does not prove scale, retention, or profitability.
 
-## 1.6 Player criticism is operating input
+## 1.6 Player criticism can be operating input
 
 Collect criticism after release and classify it before changing the roadmap.
 
@@ -150,7 +153,7 @@ For each feedback cycle:
 
 Do not turn every complaint into a feature request.
 
-## 1.7 Distribution is part of product development
+## 1.7 Treat distribution as part of product development when useful
 
 A finished build with no distribution is not a completed commercial experiment.
 
@@ -173,7 +176,7 @@ Community post minimum:
 Do not pretend rough work is polished.
 Use the roughness as an invitation for specific feedback, not fake hype.
 
-## 1.8 Keep the fixed-cost base low until evidence earns more spend
+## 1.8 Consider keeping the fixed-cost base low until evidence supports more spend
 
 Before repeatable revenue:
 - prefer small team / solo-compatible architecture;
@@ -186,9 +189,9 @@ Scale cost only after evidence shows the bottleneck is production capacity rathe
 
 ---
 
-# 2. Mandatory Build-to-Revenue Gates
+# 2. Reference Build-to-Revenue Stages
 
-## Gate 0 — Product Thesis
+## Reference Stage 0 — Product Thesis
 
 Required:
 - target player;
@@ -208,7 +211,7 @@ Decision:
 
 ---
 
-## Gate 1 — Playable Core
+## Reference Stage 1 — Playable Core
 
 Required:
 - one working core loop;
@@ -228,7 +231,7 @@ Do not build large content systems before this passes.
 
 ---
 
-## Gate 2 — Commercial Instrumentation
+## Reference Stage 2 — Commercial Instrumentation
 
 Required before serious monetization testing:
 - analytics events;
@@ -255,7 +258,7 @@ Output:
 
 ---
 
-## Gate 3 — Store / Release Readiness
+## Reference Stage 3 — Store / Release Readiness
 
 For App Store / Google Play or equivalent:
 - developer account;
@@ -279,7 +282,7 @@ Output:
 
 ---
 
-## Gate 4 — Real Player / Real Payment
+## Reference Stage 4 — Real Player / Real Payment
 
 Required evidence:
 - actual external players;
@@ -303,7 +306,7 @@ Do not call the project commercially validated because of downloads alone.
 
 ---
 
-## Gate 5 — Iteration Loop
+## Reference Stage 5 — Iteration Loop
 
 After every meaningful release:
 1. collect reviews/support/community feedback;
@@ -322,7 +325,7 @@ Rule:
 
 ---
 
-## Gate 6 — Distribution Repeatability
+## Reference Stage 6 — Distribution Repeatability
 
 Before paid scale, prove at least one repeatable acquisition path or one economically justified channel.
 
@@ -352,7 +355,7 @@ Do not mix all traffic into one blended conversion rate when channel quality dif
 
 ---
 
-## Gate 7 — Scale
+## Reference Stage 7 — Scale
 
 Scale only after the project has evidence for:
 - playable quality;
@@ -510,9 +513,9 @@ Rule:
 
 ---
 
-# 7. Required Repository Artifacts
+# 7. Suggested Repository Artifacts
 
-For future GGC game projects, maintain:
+For future GGC game projects, consider maintaining:
 
 ```
 /docs
@@ -526,11 +529,11 @@ For future GGC game projects, maintain:
   SCALE_DECISION.md
 ```
 
-For very small prototypes, these may be sections in one `PROJECT_OPERATING_LOG.md`, but the eight gates must still be visible.
+For very small prototypes, these may be sections in one `PROJECT_OPERATING_LOG.md`. Use only the stages and artifacts that add decision value for that project.
 
 ---
 
-# 8. Default Review Questions
+# 8. Reference Review Questions
 
 At any checkpoint, answer:
 
@@ -551,9 +554,9 @@ If these cannot be answered, do not hide the gap behind more feature development
 
 ---
 
-# 9. Decision Rule
+# 9. Suggested Decision Vocabulary
 
-At the end of every cycle issue exactly one primary decision:
+When useful, end a cycle with one primary decision:
 
 - `SHIP` — release the current smallest viable build.
 - `FIX` — correct a specific blocker before wider exposure.
@@ -604,4 +607,4 @@ Use together with:
 - project-specific launch KPI and economy models;
 - GGC creative/UA systems after product and monetization instrumentation exist.
 
-This skill owns the **build -> release -> real-player -> payment -> iteration -> distribution -> scale** operating loop.
+This skill provides a **build -> release -> real-player -> payment -> iteration -> distribution -> scale** reference loop. Project owners may skip, reorder, combine, or override stages when the project context justifies it.
