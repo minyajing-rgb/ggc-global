@@ -4,7 +4,7 @@ description: >
   Account-based business development for Joyce/GGC annual client acquisition.
   Use for sourcing, qualifying, penetrating, contacting and converting Chinese-led
   principal-side game companies into high-value GGC operating, publishing and growth engagements.
-version: 2.2
+version: 2.3
 ---
 
 # GGC Annual Client Development — Account-Based BD Skill
@@ -185,14 +185,17 @@ Track:
 
 ### Company vs person suppression
 - Hard bounce → suppress that address/person route only.
-- Person-level no reply → does not automatically STOP the company.
-- Company-level STOP only for:
-  - explicit company rejection,
-  - explicit do-not-contact,
-  - legal/compliance stop,
-  - Joyce-directed company stop.
+- Explicit rejection / do-not-contact / legal-compliance stop / Joyce-directed stop → company-level STOP where applicable.
+- **No reply is not a permanent company STOP, but it is an automation-level COMPANY_NO_REPLY_HOLD.**
+- Once any legitimate first-touch to a company is sent and there is no human reply, automated BD must not keep rotating through other executives, addresses or channels at that company.
+- Keep mapping the 3–5-person executive graph for research, but do not automatically contact the remaining executives while COMPANY_NO_REPLY_HOLD is active.
+- Re-entry is allowed only when one of these is true:
+  1. the company/person replies or otherwise initiates contact;
+  2. Joyce explicitly approves reactivation;
+  3. a materially new verified trigger appears and the account is deliberately re-qualified for a new outreach wave.
+- A new title/name/email alone is **not** a sufficient trigger to bypass the hold.
 
-A qualified account may continue through other appropriate executives if no company-level STOP exists.
+This protects account/domain reputation while preserving the company for future relationship development.
 
 ---
 
@@ -316,12 +319,15 @@ For a qualified account:
 Parallel contact is allowed for distinct executive roles when justified, but each message must have a different role-relevant angle.
 
 ### Historical no-reply
-Old no-reply thread:
+Old no-reply company:
 - HOLD the old contact/thread;
-- re-qualify the company;
-- if still qualified and not company-stopped, a **different verified executive** may be contacted with a fresh role-specific angle.
+- set **COMPANY_NO_REPLY_HOLD** across automated outreach for that canonical company / decision unit;
+- do not mechanically run old +5/+10 follow-ups;
+- do not bypass the hold by switching to another executive, another mailbox, LinkedIn, WeChat or another channel just because the first route did not answer;
+- continue research, executive mapping and relationship-path discovery without sending;
+- re-activate only after human inbound, Joyce approval, or a materially new verified trigger followed by deliberate re-qualification.
 
-Do not mechanically run old +5/+10 follow-ups.
+A no-reply hold is a cooling state, not a permanent blacklist.
 
 ### Send ambiguity
 If a connector reports an error:
@@ -401,9 +407,10 @@ North Star is **qualified buyer conversations that can become paid scopes**.
 4. Expand the **Outreach Eligible reserve pool**; target reserve >= 2× the next send wave.
 5. Build/refresh 3–5 person executive graphs for priority accounts.
 6. Move legitimate routes to Contact Ready.
-7. Draft/send role-specific outreach from Contact Ready accounts only.
-8. Update company and person suppression immediately after each outcome.
-9. Report funnel movement and conversion.
+7. Before any send, check canonical-company Gmail/CRM history. If any prior legitimate first-touch exists with no human reply, set/retain **COMPANY_NO_REPLY_HOLD** and do not send automatically.
+8. Draft/send role-specific outreach only from Contact Ready accounts that are not under COMPANY_NO_REPLY_HOLD.
+9. Update company/person suppression and no-reply hold state immediately after each outcome.
+10. Report funnel movement and conversion.
 
 Operating volume:
 - normal target: **50–100 qualified emails/day** across eligible accounts when enough clean routes exist;
@@ -490,3 +497,12 @@ Before execution, read current user authorization, Gmail/CRM history and company
 - A/B testing now starts at Outreach Eligible + Contact Ready.
 - Restored controlled 50–100/day execution when enough clean buyer routes exist.
 - Kept strict exclusions: third parties, investors, channels, outsourcing, platforms, small non-paying CPs, and Tencent/NetEase-scale giants from core acquisition.
+
+
+## 14. v2.3 Change Log — 2026-09-30
+
+- Added **COMPANY_NO_REPLY_HOLD** as an automation-level cooling state.
+- A company that has already received a legitimate first-touch and produced no human reply must not receive continued automated follow-ups or executive-rotation outreach.
+- No reply remains different from a permanent company STOP; research and executive mapping may continue.
+- Reactivation requires human inbound, explicit Joyce approval, or a materially new verified trigger plus deliberate re-qualification.
+- A newly found executive/contact route by itself cannot bypass the hold.
