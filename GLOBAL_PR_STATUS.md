@@ -15,7 +15,7 @@ Internal execution records dated 9 September indicate that **CES 2027, MWC Barce
 | Priority | Track | Opportunity | Execution status | Next step |
 |---|---|---|---|---|
 | P0 | AI / leadership | Women in Tech & AI Global Awards 2026 — AI & Digital Transformation Leader | **Submission-ready; deadline 1 Oct.** Final 3-field narrative, evidence index, profile image path and support packet completed. | Portal login; verify live fee/coupon and consent; upload image + PDF; submit; archive receipt. |
-| P1 | CX / responsible AI | Inspiring Women in CX Awards 2026 | Materials previously drafted; **not claimed submitted**. Official deadline 16 Oct. | Convert to final category-specific entry and 5-page evidence pack; submit well before deadline. |
+| P1 | CX / responsible AI | Inspiring Women in CX Awards 2026 — Responsible AI | **Category-specific draft complete; deadline 16 Oct.** Four IMPACT-structured statements and a 5-page evidence pack are prepared; not claimed submitted. | Map the live portal questions exactly, upload evidence and submit; archive receipt. |
 | Submitted | Games × AI | CES 2027 | **Submitted per 9 Sep internal execution record.** Three tailored session concepts were prepared. | Preserve receipt; monitor organizer response; do not claim speaker status before acceptance. |
 | Submitted | AI / mobile | MWC Barcelona 2027 | **Submitted per 9 Sep internal execution record.** | Preserve receipt; monitor organizer response; prepare short follow-up only if organizer process permits. |
 | Submitted | Games / publishing | Pocket Gamer Connects London 2027 | **Submitted per 9 Sep internal execution record.** | Preserve receipt; monitor organizer response; keep talk assets ready. |
@@ -42,6 +42,13 @@ Repository packet:
 - [Supporting-evidence PDF](pr/womentech-2026/Joyce_Mi_WomenTech_2026_Supporting_Evidence.pdf)
 
 The three required narrative fields are all below the official 1,500-character limit. The core positioning is that Joyce is redesigning game and consumer-product decision systems around AI — research, product review, monetization, LiveOps, user acquisition, publishing and executive decision support — while preserving explicit human review and accountability.
+
+## WiCX 2026 Responsible AI package
+
+- [Responsible AI application packet](pr/wicx-2026/Responsible_AI_application.md)
+- Five-page supporting-evidence PDF prepared and visually QA'd for portal upload.
+- Positioning: AI as bounded decision support; explicit human approval, evidence-state controls, source context, cultural review and accountable decision rights.
+- Submission remains pending until the live portal questions are mapped and an external confirmation is saved.
 
 ## Professional evidence
 
