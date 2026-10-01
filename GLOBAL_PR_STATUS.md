@@ -1,6 +1,6 @@
 # Joyce Mi / GGC — Global PR Status
 
-Updated: 1 October 2026
+Updated: 2 October 2026
 
 Scope: awards, conference speaking and editorial opportunities across games, AI, wellness/spirituality, global marketing and entrepreneurship.
 
@@ -8,30 +8,29 @@ This is a working pipeline, not a list of awards won, confirmed speaking engagem
 
 ## Current execution
 
-**Highest-priority item: Women in Tech & AI Global Awards 2026.** The official nomination deadline is **1 October 2026**. The primary Joyce/GGC category is **AI & Digital Transformation Leader of the Year**. A complete form-ready application packet and supporting-evidence PDF were prepared on 30 September 2026. The nomination is **submission-ready but is not claimed as submitted until a portal receipt exists**.
+This public status follows portal confirmations and delivery evidence, not draft labels. Joyce/GGC's current 10–19 employees are distinct from the historical 500+ cross-functional network she coordinated. Paid opportunities remain TBC; no award fee has been committed.
 
-Internal execution records dated 9 September indicate that **CES 2027, MWC Barcelona 2027 and Pocket Gamer Connects London 2027 speaker applications were submitted**. These are application submissions only; no selection, invitation or speaker acceptance is claimed here.
-
-| Priority | Track | Opportunity | Execution status | Next step |
+| Priority | Track | Opportunity | Verified status | Next step |
 |---|---|---|---|---|
-| P0 | AI / leadership | Women in Tech & AI Global Awards 2026 — AI & Digital Transformation Leader | **Submission-ready; deadline 1 Oct.** Final 3-field narrative, evidence index, profile image path and support packet completed. | Portal login; verify live fee/coupon and consent; upload image + PDF; submit; archive receipt. |
-| P1 | CX / responsible AI | Inspiring Women in CX Awards 2026 — Responsible AI | **Category-specific draft complete; deadline 16 Oct.** Four IMPACT-structured statements and a 5-page evidence pack are prepared; not claimed submitted. | Map the live portal questions exactly, upload evidence and submit; archive receipt. |
-| Submitted | Games × AI | CES 2027 | **Submitted per 9 Sep internal execution record.** Three tailored session concepts were prepared. | Preserve receipt; monitor organizer response; do not claim speaker status before acceptance. |
-| Submitted | AI / mobile | MWC Barcelona 2027 | **Submitted per 9 Sep internal execution record.** | Preserve receipt; monitor organizer response; prepare short follow-up only if organizer process permits. |
-| Submitted | Games / publishing | Pocket Gamer Connects London 2027 | **Submitted per 9 Sep internal execution record.** | Preserve receipt; monitor organizer response; keep talk assets ready. |
-| Closed | AI / research | Ragan AI Awards 2026 — Research | 2026 cycle closed; late deadline was 17 Sep. Draft retained for reuse. | Archive; repurpose strongest material for later awards/editorial rather than paying attention to a closed cycle. |
-| P0-gated | iGaming / company recognition | Global Gaming Awards EMEA 2027 | Self-nominations close 5 Oct, but the form requires recent measurable EMEA-specific achievements. Current evidence is not strong enough for a defensible entry. | Do not submit generic/global claims. Proceed only if a concrete EMEA result from the past 12–18 months is evidenced before deadline. |
-| Closed/watch | Product / entrepreneurship | Web Summit Vancouver — Pick a Speaker | Current public Pick a Speaker page shows applications closed. | Retain speaker package for the next announced open call; do not spend execution time now. |
-| P2 | Product / entrepreneurship | Slush 2026 | Operator-profile speaker suggestion prepared; no confirmed submission record. | Recheck whether 2026 speaker route remains open and relevant. |
-| P2 | Wellness / work design | Wellbeing Think Tank | Virtual-first, nonclinical proposal prepared; no confirmed submission record. | Review organizer conditions and active window. |
-| P2 | Wellness / practice business | HEALCon 2027 | Business-track proposal prepared; no confirmed submission record. | Resolve organizer field convention and travel terms before submission. |
-| P1 | Games / editorial | PocketGamer.biz | Customized editorial pitch prepared; **not sent**. | Send a timely, evidence-led first pitch after award deadline is cleared. |
-| P1 | Games / editorial | GamesIndustry.biz | Distinct publishing-analysis pitch prepared; **not sent**. | Send first pitch; keep angle differentiated from PocketGamer.biz. |
-| P1 | iGaming / editorial | iGaming Business | Customized analysis pitch prepared; **not sent**. | Send first pitch with social-casino / commercialization expertise proof. |
-| P1 | Games / practitioner education | Game Developer | Full English article and original lead image prepared; no confirmed submission record. | Final first-person review and submit to the current editorial route. |
-| P2 | Wellness / editorial | Spirituality & Health | Customized article query prepared; **not sent**. | Recheck current submission route and send only if editorial fit remains strong. |
-| P2 | Global marketing | ANA / Marketing Society / Ragan marketing | Separate English case modules prepared. | Confirm campaign periods, metric definitions and disclosure scope. |
-| Watch | Entrepreneurship / recognition | Stevie and other next-cycle opportunities | Reusable drafts and official-source watchlist prepared; no award claim. | Recheck next-cycle eligibility and deadlines. |
+| P0 | CX / responsible AI | Inspiring Women in CX Awards 2026 — Responsible AI | **Partly entered, not submitted.** Six substantive answers and a five-page evidence PDF are in the original form; it is stopped at question 9/12. Official deadline: 16 Oct. | Continue the original entry only after Joyce's review of remaining contact/communications and final terms. Do not create a duplicate. |
+| P0 conditional | AI / founder | Women in AI France Awards 2026 — AI Innovation | English SAGA/Bunny review narrative prepared; **no form entry or submission**. The official call closes 30 Oct; fee, Hong Kong eligibility and award-specific terms remain unverified. | Inspect the organizer-linked form after Joyce signs in; confirm terms and map exact fields before approval. |
+| Deadline passed | AI / founder | Women in Tech & AI Global Awards 2026 — Female Founder Rising Star | **Server-saved SAGA/Bunny draft, not submitted.** The category was free; the official 1 Oct deadline has passed without a verified final receipt. | Archive unless the organizer publishes an extension; do not call a draft a nomination. |
+| Paid TBC | AI / leadership | Women in Tech & AI Global Awards 2026 — AI & Digital Transformation Leader | Complete English Joyce/GGC packet; latest observed entry price US$449, no waiver verified; **not submitted**. | Do not pay or submit without a fresh open cycle and Joyce's explicit fee/rights approval. |
+| Conditional | Product / entrepreneurship | Entrepreneurship World Cup 2027 — SAGA/Bunny | Official FAQ states $0 application; English answer pack and deck ready. Entity/stage and current form-cycle wording still need resolution; **not submitted**. | Resolve startup routing and exact legal terms before using the form. |
+| Conditional | iGaming / recognition | Global Gaming Awards EMEA 2027 — Breakthrough Company | Short self-nomination form open to 5 Oct, but $0 entry is unverified and recent measurable EMEA iGaming impact is not established by the present research outputs; **not submitted**. | Hold fee and evidence gates; do not convert research paths into clients or revenue. |
+| Conditional P2 | Product / entrepreneurship | The Ventures Australia 2026 | Explicitly free; advertises 9 Oct close, but finalists must pitch in Sydney on 22 Oct. No GGC/SAGA deck submitted. | Revisit only if Joyce selects one venture and accepts the onsite/deck-disclosure conditions. |
+| Submitted | Games × AI | CES 2027 | Three speaker proposals submitted; official receipt recorded. | Await selection; not yet a speaker engagement. |
+| Submitted | AI / mobile | MWC Barcelona 2027 | Speaker application submitted; official success page recorded. | Await selection and treat travel separately. |
+| Submitted | Games / publishing | Pocket Gamer Connects London 2027 | Speaker application submitted; official confirmation recorded. | Await selection. |
+| Submitted | Games / AI / data | Web Summit Lisbon 2026 | Official speaker form displayed a success message on 1 Oct; GGC's current 10–19 employee bracket was used. | Await selection; no duplicate application. |
+| Receipt unconfirmed | Product / entrepreneurship | Web Summit Vancouver 2027 | A submission action was taken previously, but no final receipt is verified. | Do not duplicate until the organizer/account status is clear. |
+| Email proposal only | Games / speaking | PG Connects San Francisco 2027 | A tailored proposal was Gmail `SENT` on 1 Oct; no form receipt, delivery confirmation or programme acceptance. | Follow the organizer's required process if it replies; no automatic resend. |
+| Website form required | AI / data speaking | Data Summit 2027 | Speaker email was `SENT`, but the program director explicitly said submissions are accepted **only through website forms**. A form-specific English packet is ready; no form submission. | Joyce reviews the final form copy and private-field terms, then use the official form. |
+| Editorial proposal only | Games / media | PocketGamer.biz | Interview/series proposal Gmail `SENT` on 1 Oct; not a commissioned series or published article. | Await editorial reply; no automatic follow-up. |
+| Editorial proposal only | AI / media | AI Business | Interview/contribution proposal Gmail `SENT` on 1 Oct; no confirmed delivery, commission or publication. | Await editorial reply. |
+| Unsent | Games / iGaming / wellness media | GamesIndustry.biz, iGaming Business, Spirituality & Health | Distinct outlet-specific English pitches exist; no verified send for these routes in this status cycle. | Review each exact pitch and outlet route separately before any external message. |
+| Closed / reuse | Wellness / speaking | Wellbeing Think Tank 2027 and HEALCon 2027 | Their published September proposal deadlines passed without a verified submission. | Reuse tailored material only for a future announced intake. |
+| Closed / reuse | AI / research | Ragan AI Awards 2026 | Paid 2026 cycle closed; no entry/payment. | Watch an eligible future cycle, with fee TBC. |
 
 ## WomenTech 2026 submission package
 
@@ -41,14 +40,14 @@ Repository packet:
 - Existing profile image: `joyce/assets/coastal-portrait-v4.jpg`
 - [Supporting-evidence PDF](pr/womentech-2026/Joyce_Mi_WomenTech_2026_Supporting_Evidence.pdf)
 
-The three required narrative fields are all below the official 1,500-character limit. The core positioning is that Joyce is redesigning game and consumer-product decision systems around AI — research, product review, monetization, LiveOps, user acquisition, publishing and executive decision support — while preserving explicit human review and accountability.
+The paid AI & Digital Transformation Leader draft is not submitted; the separate free SAGA/Bunny Female Founder entry is only a server-saved draft. The three paid-entry narrative fields are all below the official 1,500-character limit. The core positioning is that Joyce is redesigning game and consumer-product decision systems around AI — research, product review, monetization, LiveOps, user acquisition, publishing and executive decision support — while preserving explicit human review and accountability.
 
 ## WiCX 2026 Responsible AI package
 
 - [Responsible AI application packet](pr/wicx-2026/Responsible_AI_application.md)
 - Five-page supporting-evidence PDF prepared and visually QA'd for portal upload.
 - Positioning: AI as bounded decision support; explicit human approval, evidence-state controls, source context, cultural review and accountable decision rights.
-- Submission remains pending until the live portal questions are mapped and an external confirmation is saved.
+- Six substantive answers and the five-page PDF were already transmitted into the original Typeform; it is stopped at question 9/12 pending Joyce's communications choice. No final submission receipt exists.
 
 ## Professional evidence
 
