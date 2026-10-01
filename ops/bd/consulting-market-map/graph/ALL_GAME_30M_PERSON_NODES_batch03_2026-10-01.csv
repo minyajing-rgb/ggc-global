@@ -1,0 +1,11 @@
+person_id,company_id,person_name,current_title,function,verification,status,source_urls
+pe_kunlun_fanghan,co_kunlun_tech,方汉,董事长兼总经理,Founder/CEO-equivalent,Verified,NAMED_CURRENT_EXEC,https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12170820&stockid=300418
+pe_kunlun_zhouyahui,co_kunlun_tech,周亚辉,董事/创始人,Founder/Board,Verified,NAMED_CURRENT_EXEC,https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12170820&stockid=300418
+pe_kunlun_lvjie,co_kunlun_tech,吕杰,董事/副总经理/董事会秘书,Commercial/Corporate Development,Verified,NAMED_CURRENT_EXEC,https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12170820&stockid=300418
+pe_kunlun_zhangwei,co_kunlun_tech,张为,财务负责人,CFO,Verified,NAMED_CURRENT_EXEC,https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12170820&stockid=300418
+pe_qingci_xuyang,co_qingci_games,徐扬,创始人/董事长/总裁,Founder/CEO-equivalent,Strongly Inferred,NAMED_CURRENT_EXEC,https://www.crunchbase.com/person/yang-xu-a0b2
+pe_baioo_daijian,co_baioo,戴坚,联合创始人/董事长/CEO,Founder/CEO,Verified,NAMED_CURRENT_EXEC,https://www.baioo.com.hk/
+pe_baioo_wulili,co_baioo,吴立立,联合创始人/执行董事,Strategy/M&A/Business Opportunities,Verified,NAMED_CURRENT_EXEC,https://www.baioo.com.hk/
+pe_baioo_lichong,co_baioo,李冲,联合创始人/执行董事,Strategy/Talent,Verified,NAMED_CURRENT_EXEC,https://www.baioo.com.hk/
+pe_baioo_wangxiaodong,co_baioo,王晓东,联合创始人/执行副总裁,Product Collaboration/Operations,Verified,NAMED_CURRENT_EXEC,https://www.baioo.com.hk/
+pe_baioo_chenxiaohong,co_baioo,陈小红,代理首席财务官,CFO,Verified,NAMED_CURRENT_EXEC,https://www.baioo.com.hk/
