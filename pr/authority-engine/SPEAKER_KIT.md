@@ -1,6 +1,6 @@
 # Joyce Mi / GGC — Speaker Kit
 
-Version: 2026-10-01-v1
+Version: 2026-10-01-v2
 
 ## Speaker positioning
 
@@ -39,17 +39,17 @@ Best:
 
 ## Selected public speaking / contribution record
 
-Canonical evidence is maintained in [PUBLIC-NEWSROOM.md](../../joyce/docs/PUBLIC-NEWSROOM.md).
+Canonical evidence is maintained in [PUBLIC-NEWSROOM.md](../../joyce/docs/PUBLIC-NEWSROOM.md); the comprehensive ledger is [SPEAKING-ARCHIVE.md](../../joyce/docs/SPEAKING-ARCHIVE.md).
 
 Source-linked timeline currently includes:
+- 2026 — Xiamen, Global Game Matchmaking: *AI Native 游戏的增长验证路径：从工具链、Demo 到 CTR*.
+- 2026 — Shanghai, White Whale AIGC event: the same AI-native validation session.
+- 2026 — Wuhan closed-door salon: *从0到1：如何让用户对你的产品“上头”到停不下来？* plus roundtable listing.
+- 2025 — GIEC: AI + global product lifecycle strategy.
+- 2024 — Beijing Global Game Matchmaking: *买量趋高 品类扎堆 如何突破？*.
+- 2024 — global game operating blueprint; mini-game overseas operations / lifecycle; Hangzhou App global session and book signing.
+- 2023 — AIGC in the game ecosystem and global pan-entertainment user acquisition.
 - 2019 — global game operations / monetization industry session.
-- 2023 — AIGC in the game ecosystem.
-- 2023 — global pan-entertainment user acquisition session.
-- 2024 — global game operating blueprint.
-- 2024 — mini-game overseas operations / lifecycle session.
-- 2024 — Hangzhou App global session and book signing.
-- 2025 — AI + global product lifecycle strategy.
-- 2026 — AI-driven user acquisition / validation contribution.
 
 Use exact event titles from the newsroom rather than inventing larger conference labels.
 
@@ -86,11 +86,11 @@ A stage appearance should create reusable authority assets or qualified executiv
 
 ## Missing speaker assets
 
-The repository currently does **not** contain:
-- a curated set of real stage photographs;
-- a 60–90 second speaker reel;
-- a high-quality full-session video;
+The repository does not yet **centralize** all speaking visuals that already exist across Joyce's WeChat Official Account, LinkedIn and organizer coverage. The next asset pass should pull the original stage photos / event posters into canonical folders, preserve source/date metadata, and then produce:
+- a curated 3–5 image stage-photo set;
+- a 60–90 second speaker reel from real footage where available;
+- one strong long-form speaking video;
 - a standardized one-page speaker PDF;
-- organizer quote / testimonial cards.
+- organizer quote / testimonial cards where permission exists.
 
 See [ASSET_AUDIT.md](ASSET_AUDIT.md).
