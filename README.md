@@ -45,3 +45,15 @@ These are positioning and reusable operating guidance. Public standard rates are
 - [Harpagia / Ken Law source-case notes](skills/ggc-ai-native-game-build-to-revenue/references/harpagia-case-notes.md)
 
 Use this skill for new GGC game concepts, MVP scoping, AI-assisted implementation, store launch, IAP instrumentation, real-player feedback loops, community distribution, and evidence-gated scaling. It complements the paid-demand gate and keeps future projects on a build → ship → pay → learn → distribute → scale loop.
+
+## Joyce PR / speaker authority engine
+
+- [PR workspace](pr/README.md)
+- [Joyce Authority Engine](pr/authority-engine/README.md)
+- [Media Kit](pr/authority-engine/MEDIA_KIT.md)
+- [Speaker Kit](pr/authority-engine/SPEAKER_KIT.md)
+- [Signature Talks](pr/authority-engine/SIGNATURE_TALKS.md)
+- [PR evidence map](pr/authority-engine/EVIDENCE_MAP.md)
+- [PR / speaker asset audit](pr/authority-engine/ASSET_AUDIT.md)
+
+The evergreen PR layer is public and sanitized. Private journalist / organizer contacts, negotiation terms, client records and personal identity documents are not stored here.
