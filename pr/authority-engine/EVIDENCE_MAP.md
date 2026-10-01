@@ -14,7 +14,7 @@ This map prevents public PR copy from drifting beyond the repository's approved 
 | 10+ studios / 500+ cross-functional network | approved boundary wording | public master / persona | Yes; never “500 direct reports” |
 | Chinese CityVille D1 +700bps | approved scoped metric | public master / persona | Yes; only that project and definition |
 | 2024 China Machine Press book | third-party publisher evidence | `joyce/docs/PUBLIC-NEWSROOM.md` | Yes |
-| 2019–2026 speaking / contributions | source-linked public records | `joyce/docs/PUBLIC-NEWSROOM.md` | Yes; exact event wording |
+| 2019–2026 speaking / contributions | source-linked + evidence-state ledger | `joyce/docs/PUBLIC-NEWSROOM.md` + `joyce/docs/SPEAKING-ARCHIVE.md` | Yes; exact event wording and evidence state |
 | Tencent-alumni honor roll | third-party community/media record | `joyce/docs/PUBLIC-NEWSROOM.md` | Yes; not a Tencent corporate award |
 | Current GGC products / sites | GGC-owned live surfaces | public master | Yes as build / operating evidence, not client adoption |
 | CES / MWC / PGC applications | submitted only per internal record | `GLOBAL_PR_STATUS.md` | Do not call speaker status |
@@ -25,6 +25,7 @@ This map prevents public PR copy from drifting beyond the repository's approved 
 ## Canonical evidence files
 
 - [Public Newsroom](../../joyce/docs/PUBLIC-NEWSROOM.md)
+- [Comprehensive Speaking Archive](../../joyce/docs/SPEAKING-ARCHIVE.md)
 - [Public Business Master](../../joyce/docs/PUBLIC-BUSINESS-MASTER.md)
 - [Joyce Persona / evidence boundaries](../../positioning/JOYCE_PERSONA.md)
 - [Global PR Status](../../GLOBAL_PR_STATUS.md)
