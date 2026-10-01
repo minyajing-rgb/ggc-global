@@ -134,3 +134,20 @@ The selected LinkedIn speaking timeline is shorter than this comprehensive ledge
 - Speaker Kit: use the richer timeline, prioritizing recent and topic-relevant sessions.
 - OpsGo: may mirror the broader archive but must show evidence state or source links.
 - PR outreach: use only the 2–4 most relevant records for the recipient.
+
+## LinkedIn public evidence
+
+Current public LinkedIn profile:
+- https://www.linkedin.com/in/minyajing/
+
+Public posts / first-party evidence already discoverable on LinkedIn:
+- Wuhan closed-door session / APAR framework: https://www.linkedin.com/posts/minyajing_mobilegaming-globalexpansion-gameoperations-activity-7452320762926882816-hR26
+- Mini-games going global: https://www.linkedin.com/posts/minyajing_minigames-mobilegaming-globalexpansion-activity-7453283085800075264-VJGS
+- Global distribution / Wuhan + Guangzhou conference reflection: https://www.linkedin.com/posts/minyajing_globalgrowth-mobilegaming-ai-activity-7446358892978257920-3Y6C
+- Build a validation system before global launch: https://www.linkedin.com/posts/minyajing_gamepublishing-mobilegaming-gameops-activity-7458455055977938946-rDsN
+- AI reshapes game-studio operating structure: https://www.linkedin.com/posts/minyajing_aigaming-gamestudio-gamedev-activity-7465950408646184960-qwMr
+- 2026 mobile game operating signals / UA + LiveOps: https://www.linkedin.com/posts/minyajing_mobilegaming-gameops-ua-activity-7465972305664385025-DbG2
+- Social Casino operating observations: https://www.linkedin.com/posts/minyajing_socialcasino-mobilegaming-casino-activity-7465950675286310912-HNME
+
+These are first-party public posts. Use them to show continuity of Joyce's public industry voice, but keep third-party organizer / media records separate when claiming independent validation.
+
