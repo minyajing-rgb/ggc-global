@@ -14,6 +14,9 @@ This folder is the evergreen public PR / speaker operating layer. Opportunity-sp
 4. [Outreach Playbook](OUTREACH_PLAYBOOK.md)
 5. [Evidence Map](EVIDENCE_MAP.md)
 6. [Asset Audit](ASSET_AUDIT.md)
+7. [90-Day KPI Plan](PR_KPI_90D.md)
+8. [90-Day News Hooks](NEWS_HOOKS_90D.md)
+9. [PR / Speaker Target Graph](PR_TARGET_GRAPH.csv)
 
 ## Positioning
 
