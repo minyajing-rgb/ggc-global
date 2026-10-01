@@ -1,6 +1,7 @@
 """Apply clarity and conversion improvements to the approved coastal website.
 Run build_coastal_v3.py first. Preserve prices, identity, privacy and domain.
 """
+# Speaking archive sync: 2026-10-01
 from pathlib import Path
 import base64, hashlib, json, re
 from PIL import Image
