@@ -1,9 +1,0 @@
-raw_id,store,market,raw_product_or_page,developer_or_seller,canonical_company,entity_resolution,money_implication,source_url
-st_20261001_01,Apple App Store,Singapore,SKYWORK AI PTE LTD developer page,SKYWORK AI PTE LTD,昆仑万维,"SG developer -> Kunlun Tech group",Activity only; no money inference,https://apps.apple.com/sg/developer/skywork-ai-pte-ltd/id1619484606
-st_20261001_02,Apple App Store,Global/SG,Linky,SKYWORK AI PTE LTD,昆仑万维,"provider -> SG developer -> Kunlun Tech",Activity/IAP only; money from audited filing,https://apps.apple.com/app/linky-ai-chat-play-connect/id6450916631
-st_20261001_03,Google Play,Global,Linky,SKYWORK AI PTE LTD,昆仑万维,"developer -> SG entity -> Kunlun Tech",10M+ installs not a revenue substitute,https://play.google.com/store/apps/details?id=com.aigc.ushow.ichat
-st_20261001_04,Apple App Store,Singapore,GameWave – AI Game Community,SKYWORK AI PTE LTD,昆仑万维,"provider -> SG developer -> Kunlun Tech",New active product/trigger only,https://apps.apple.com/sg/developer/skywork-ai-pte-ltd/id1619484606
-st_20261001_05,Apple App Store,Taiwan,qcplay developer page,qcplay,青瓷游戏,"developer page -> qcplay -> Qingci group",Activity only,https://apps.apple.com/tw/developer/qcplay/id1219049575
-st_20261001_06,Apple App Store,Taiwan,最强蜗牛,qcplay / BARLEY PLAY PTE. LTD.,青瓷游戏,"publisher/provider -> licensed distribution -> Qingci product",Active update only; money from filings/product revenue evidence,https://apps.apple.com/tw/app/id1537249564
-st_20261001_07,Google Play,North America,Super Snail,QC-GAME DIGITAL TECHNOLOGY (HONGKONG) CO. LIMITED,青瓷游戏,"HK developer entity -> Qingci group",1M+ installs not a revenue substitute,https://play.google.com/store/apps/details?id=com.qcplay.snail.android.na
-st_20261001_08,Apple App Store,China,奥比岛：梦想国度,雷霆信息,百奥家庭互动,"store seller/publisher -> BAIOO-owned product per official portfolio",Activity only; seller is not controlling parent,https://apps.apple.com/cn/app/id1576845437
