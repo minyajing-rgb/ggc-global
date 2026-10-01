@@ -1,6 +1,6 @@
 # Joyce / GGC — Public Newsroom & Recognition
 
-Version: 2026-09-21-v2
+Version: 2026-10-01-v3
 
 This file is the public-source ledger behind the News & Recognition section on https://biz.ggcgames.com/joyce/.
 
@@ -13,7 +13,32 @@ This file is the public-source ledger behind the News & Recognition section on h
 - Honor-roll article: https://www.sohu.com/a/52632014_228736
 - Boundary: community/media recognition by Tencent-alumni organizers; **not** described as a Tencent corporate award.
 
-## Confirmed speaking
+## Public speaking records
+
+For the comprehensive ledger and evidence states, see [SPEAKING-ARCHIVE.md](SPEAKING-ARCHIVE.md).
+
+### Global Game Matchmaking · Xiamen — 2026-09-23
+- Public organizer preview: White Whale / 白鲸出海.
+- Joyce listed as GGC 游戏出海 VP.
+- Session: *AI Native 游戏的增长验证路径：从工具链、Demo 到 CTR*.
+- Source: https://www.baijing.cn/article/56754
+- Evidence boundary: the external page is a pre-event organizer preview; Joyce's owned speaking archive confirms the Xiamen share.
+
+### AIGC 重构内容生产 · Shanghai — 2026-08-01
+- Organizer: White Whale / 白鲸出海.
+- Public event page lists Joyce | GGC 市场 VP and the 15:00–15:25 session *AI Native 游戏的增长验证路径：从工具链、Demo 到 CTR*.
+- Source: https://lianpu.com/event/aigc-zhong-gou-nei-rong-sheng-chan
+
+### “武”限潜能，引爆增长 · Wuhan — 2026-03-18
+- Organizer page: White Whale / 白鲸出海 × 腾讯云 × NewsBreak Ads × 钛动科技.
+- Related organizer coverage lists Joyce's session *从0到1：如何让用户对你的产品“上头”到停不下来？* and roundtable participation.
+- Sources: https://www.baijing.cn/activity/2217 · https://www.baijing.cn/article/55079
+
+
+### Global Game Matchmaking · Beijing — 2024-09-25
+- Public coverage lists GGCHK CEO — JOYCE.
+- Topic: *买量趋高 品类扎堆 如何突破？*
+- Source: https://www.baijing.cn/article/50106
 
 ### Hangzhou App Global-Growth Salon — 2024-09-21
 - Organizers: RongCloud × Everyone Is a Product Manager.
@@ -54,11 +79,16 @@ The live LinkedIn profile is the current social source of truth for newly publis
 
 This timeline is mirrored from Joyce's current LinkedIn public project record and linked to organizer / publication records where available.
 
-- **2026** — AI-driven user growth for games and apps; AI-native validation across toolchain, Demo and CTR. https://www.baijing.cn/article/55079
+- **2026 · Xiamen** — *AI Native 游戏的增长验证路径：从工具链、Demo 到 CTR*. https://www.baijing.cn/article/56754
+- **2026 · Shanghai** — *AI Native 游戏的增长验证路径：从工具链、Demo 到 CTR*. https://lianpu.com/event/aigc-zhong-gou-nei-rong-sheng-chan
+- **2026 · Wuhan** — *从0到1：如何让用户对你的产品“上头”到停不下来？*. https://www.baijing.cn/article/55079
 - **2025** — AI + global product strategy across the full product lifecycle. GIEC organizer record: https://mp.weixin.qq.com/s/zAFVJncKDQX3FjGiNcG_gw
+- **2024 · Beijing** — *买量趋高 品类扎堆 如何突破？*. https://www.baijing.cn/article/50106
 - **2024** — Mini-game global expansion: segmentation, UA optimization and lifecycle efficiency. https://www.meetgames.com/academy/article/1000048344
 - **2024** — Operating blueprint for globally successful games. https://www.baijing.cn/article/49426
 - **2023** — AIGC in the game ecosystem: efficiency and creativity. https://www.sohu.com/a/680062611_100136645
 - **2019** — Global game growth and monetization: localization, store acquisition and player conversion. https://www.aidso.com/article/details/game-overseas-growth-and-monetization-salon-0fhkbrdy.html
 
 The timeline documents public speaking / industry contribution history. It does not independently validate confidential client KPIs.
+
+Joyce's owned WeChat article **“Joyce@GGC 游戏出海行业分享合集：用专业与实战，见证全球影响力”** contains additional historical titles. Items without a reconciled external URL are retained in the comprehensive speaking archive as **FIRST_PARTY_ARCHIVE**, not represented here as third-party-confirmed coverage.
