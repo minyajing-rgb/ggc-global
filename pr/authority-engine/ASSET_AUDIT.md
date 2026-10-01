@@ -18,7 +18,7 @@ Audited: 2026-10-01
 | Comprehensive speaking archive | `joyce/docs/SPEAKING-ARCHIVE.md` | Full ledger incl. WeChat-owned archive / evidence states |
 | Rate card assets | `joyce/downloads/Joyce_GGC_Rate_Card_EN.*` | Commercial use; not default PR attachment |
 
-## Existing high-resolution photo sources outside GitHub
+## Existing high-resolution portrait sources outside GitHub
 
 OpsGo's Joyce CreatorProfile currently has six high-resolution camera originals attached as public reference files:
 
@@ -29,7 +29,11 @@ OpsGo's Joyce CreatorProfile currently has six high-resolution camera originals 
 - `AY4A7286.jpg` — ~12.7 MB
 - `AY4A7288.jpg` — ~13.0 MB
 
-These files are already used by the OpsGo Joyce page's PR-photo loader. They have **not yet been event-tagged / visually reconciled** in this GitHub ledger, so do not label them as a specific conference until that mapping is confirmed. Keep the Base44 originals as the master source; GitHub only needs selected web-sized derivatives once the event/date mapping is done.
+Visual QA on 2026-10-01 confirms these six files are **GGC blue-shirt portrait / brand-session photographs, not stage-event documentary photos**. They are useful for speaker / media headshots, but they do not replace real event imagery from WeChat, LinkedIn or organizer coverage.
+
+The OpsGo Joyce page has been corrected to prefer these AY4A portrait originals for the hero image instead of taking the first arbitrary image in `reference_files` (which could be a book / business graphic).
+
+Real stage-event photographs still need to be pulled from Joyce's WeChat / LinkedIn / organizer archive and event-tagged before being added to the canonical speaker asset set.
 
 ## Not yet centralized / should be added
 
