@@ -176,15 +176,12 @@ newsroom = (
  '<a class="news-card glass" href="https://www.linkedin.com/in/minyajing/recent-activity/all/" target="_blank" rel="noopener noreferrer"><span class="news-meta">'+t('news.linkedin.meta')+'</span><h3>'+t('news.linkedin.title')+'</h3><p>'+t('news.linkedin.body')+'</p><span class="news-link">'+t('news.linkedin.cta')+' ↗</span></a>'
  '</div>'
  '<div class="news-timeline"><div class="news-timeline-head"><p class="eyebrow">'+t('news.timeline.title')+'</p><p>'+t('news.timeline.intro')+'</p></div>'
- '<a class="timeline-row" href="https://www.baijing.cn/article/56754" target="_blank" rel="noopener noreferrer"><strong>2026</strong><span>AI Native validation path: toolchain → Demo → CTR · 厦门全球游戏对接会</span><b>Baijing · Xiamen ↗</b></a>'
+ '<a class="timeline-row" href="https://www.baijing.cn/article/56754" target="_blank" rel="noopener noreferrer"><strong>2026</strong><span>AI Native validation path: toolchain → Demo → CTR · AI-driven user growth · 厦门全球游戏对接会</span><b>Baijing · Xiamen ↗</b></a>'
  '<a class="timeline-row" href="https://lianpu.com/event/aigc-zhong-gou-nei-rong-sheng-chan" target="_blank" rel="noopener noreferrer"><strong>2026</strong><span>AI Native validation path: toolchain → Demo → CTR · 上海 AIGC 重构内容生产</span><b>White Whale · Shanghai ↗</b></a>'
  '<a class="timeline-row" href="https://www.baijing.cn/article/55079" target="_blank" rel="noopener noreferrer"><strong>2026</strong><span>From 0 to 1: making a product compelling enough to keep users engaged · 武汉闭门沙龙</span><b>Baijing · Wuhan ↗</b></a>'
  '<a class="timeline-row" href="https://mp.weixin.qq.com/s/zAFVJncKDQX3FjGiNcG_gw" target="_blank" rel="noopener noreferrer"><strong>2025</strong><span>AI + global product lifecycle strategy · AI + 全球产品全生命周期战略</span><b>GIEC ↗</b></a>'
  '<a class="timeline-row" href="https://www.baijing.cn/article/50106" target="_blank" rel="noopener noreferrer"><strong>2024</strong><span>Rising UA cost, crowded categories: how to break through · 北京全球游戏对接会</span><b>Baijing · Beijing ↗</b></a>'
- '<a class="timeline-row" href="https://www.meetgames.com/academy/article/1000048344" target="_blank" rel="noopener noreferrer"><strong>2024</strong><span>Mini-game global expansion: segmentation, UA & lifecycle efficiency · 小游戏出海增长</span><b>Meetgames ↗</b></a>'
  '<a class="timeline-row" href="https://www.baijing.cn/article/49426" target="_blank" rel="noopener noreferrer"><strong>2024</strong><span>Operating blueprint for globally successful games · 全球成功游戏运营蓝图</span><b>Baijing ↗</b></a>'
- '<a class="timeline-row" href="https://www.sohu.com/a/680062611_100136645" target="_blank" rel="noopener noreferrer"><strong>2023</strong><span>AIGC in the game ecosystem: efficiency & creativity · AIGC 游戏生态应用</span><b>Sohu ↗</b></a>'
- '<a class="timeline-row" href="https://www.aidso.com/article/details/game-overseas-growth-and-monetization-salon-0fhkbrdy.html" target="_blank" rel="noopener noreferrer"><strong>2019</strong><span>Global game growth & monetization · 游戏出海增长与变现</span><b>Aidso ↗</b></a>'
  '</div></div></section>'
 )
 
