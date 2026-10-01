@@ -35,6 +35,18 @@ The OpsGo Joyce page has been corrected to prefer these AY4A portrait originals 
 
 Real stage-event photographs still need to be pulled from Joyce's WeChat / LinkedIn / organizer archive and event-tagged before being added to the canonical speaker asset set.
 
+## 2026-10-01 stage-photo intake
+
+Joyce supplied a real speaking photo in the current working session: white outfit, handheld microphone, clicker, mid-speech framing. This is a **valid documentary speaker asset** and should be treated as the first P0 stage-photo candidate.
+
+Use it for:
+- Speaker Kit / one-page speaker sheet hero or secondary stage image;
+- conference / media application supporting visual;
+- Joyce / GGC speaking archive;
+- speaker reel still / title-card candidate.
+
+Do **not** assign an event / city / organizer label until the event metadata is reconciled. This is an asset-ingest task, not a reason to delay use: the image can be used immediately as “Joyce speaking at an industry event” while exact event metadata remains pending.
+
 ## Not yet centralized / should be added
 
 Joyce has stated that real speaking photos / share materials already exist across her WeChat Official Account and LinkedIn. The gap is therefore **centralization and source mapping**, not necessarily asset creation from zero.
