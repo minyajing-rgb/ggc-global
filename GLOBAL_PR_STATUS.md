@@ -1,6 +1,6 @@
 # Joyce Mi / GGC — Global PR Status
 
-Updated: 30 September 2026
+Updated: 1 October 2026
 
 Scope: awards, conference speaking and editorial opportunities across games, AI, wellness/spirituality, global marketing and entrepreneurship.
 
@@ -81,3 +81,9 @@ These links document past professional activity. They do not imply an endorsemen
 - [LinkedIn](https://www.linkedin.com/in/minyajing/)
 
 Prepared application texts remain in Joyce's review package; this public page reports status only.
+
+## Evergreen media / speaker system
+
+The reusable PR layer is now organized under [pr/authority-engine](pr/authority-engine/README.md): media kit, speaker kit, three signature talks, outreach playbook, evidence map and asset audit. This public layer contains no private journalist contact data or organizer negotiation terms.
+
+Missing P0 authority assets identified by the audit: real high-resolution stage photos, a 60–90 second speaker reel, one strong real-talk video and a one-page speaker sheet. These should be created from documentary speaking material rather than generated imagery.
