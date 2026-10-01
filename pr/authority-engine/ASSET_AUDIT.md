@@ -18,6 +18,19 @@ Audited: 2026-10-01
 | Comprehensive speaking archive | `joyce/docs/SPEAKING-ARCHIVE.md` | Full ledger incl. WeChat-owned archive / evidence states |
 | Rate card assets | `joyce/downloads/Joyce_GGC_Rate_Card_EN.*` | Commercial use; not default PR attachment |
 
+## Existing high-resolution photo sources outside GitHub
+
+OpsGo's Joyce CreatorProfile currently has six high-resolution camera originals attached as public reference files:
+
+- `AY4A7260.jpg` — ~10.2 MB
+- `AY4A7261.jpg` — ~10.8 MB
+- `AY4A7263.jpg` — ~10.5 MB
+- `AY4A7282.jpg` — ~12.9 MB
+- `AY4A7286.jpg` — ~12.7 MB
+- `AY4A7288.jpg` — ~13.0 MB
+
+These files are already used by the OpsGo Joyce page's PR-photo loader. They have **not yet been event-tagged / visually reconciled** in this GitHub ledger, so do not label them as a specific conference until that mapping is confirmed. Keep the Base44 originals as the master source; GitHub only needs selected web-sized derivatives once the event/date mapping is done.
+
 ## Not yet centralized / should be added
 
 Joyce has stated that real speaking photos / share materials already exist across her WeChat Official Account and LinkedIn. The gap is therefore **centralization and source mapping**, not necessarily asset creation from zero.
