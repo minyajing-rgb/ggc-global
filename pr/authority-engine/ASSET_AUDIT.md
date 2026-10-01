@@ -14,16 +14,19 @@ Audited: 2026-10-01
 | Website screenshots | `joyce/downloads/website-*.png` | Portfolio / owned-site proof |
 | GGC operating overview | `assets/marketing/2026-09-14/game-operations/GGC_Game_Operations_Overview_CN.png` | China-facing business context |
 | Strategic partner overview | `assets/marketing/2026-09-14/partnership/GGC_External_Strategic_Partner_CMO_COO_CN.png` | Business conversation, not generic media kit |
-| Public newsroom | `joyce/docs/PUBLIC-NEWSROOM.md` | Speaking / publication evidence |
+| Public newsroom | `joyce/docs/PUBLIC-NEWSROOM.md` | Selected speaking / publication evidence |
+| Comprehensive speaking archive | `joyce/docs/SPEAKING-ARCHIVE.md` | Full ledger incl. WeChat-owned archive / evidence states |
 | Rate card assets | `joyce/downloads/Joyce_GGC_Rate_Card_EN.*` | Commercial use; not default PR attachment |
 
-## Missing / should be added
+## Not yet centralized / should be added
+
+Joyce has stated that real speaking photos / share materials already exist across her WeChat Official Account and LinkedIn. The gap is therefore **centralization and source mapping**, not necessarily asset creation from zero.
 
 P0:
-- 3–5 real stage photographs, high resolution, with event/date/source.
-- 60–90 second speaker reel cut from real talks.
-- One strong full-session / 10–20 minute speaking video.
-- One-page speaker sheet (PDF + image) built from the verified speaker kit.
+- Pull 3–5 strongest real stage photographs from owned channels / organizer coverage; preserve event/date/source.
+- Pull usable real talk clips where available and cut a 60–90 second speaker reel.
+- Select one strong full-session / 10–20 minute speaking video where the original file or reusable public link exists.
+- Build one-page speaker sheet (PDF + image) from the verified speaker kit.
 
 P1:
 - Media logos / coverage cards only for confirmed publication or speaking records.
@@ -45,4 +48,4 @@ P2:
 
 ## Current gap
 
-The text evidence layer is materially stronger than the visual speaker-proof layer. The highest-value next asset is a real-stage photo/video package, not another website screenshot.
+The evidence ledger is now richer than the repository's centralized visual folder. The highest-value next step is to **ingest the existing WeChat / LinkedIn / organizer stage material into one source-mapped asset library**, then cut the reel and speaker sheet. Do not regenerate documentary stage proof.
