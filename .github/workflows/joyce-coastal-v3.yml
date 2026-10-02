@@ -33,6 +33,7 @@ jobs:
       - uses: actions/checkout@v6
         with:
           fetch-depth: 0
+          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -67,8 +68,18 @@ jobs:
           git add joyce/content/coastal-v3-manifest.json joyce/content/refresh-v4-manifest.json joyce/content/refresh-qa/
           git rm --ignore-unmatch scripts/refresh-transfer/portrait.part*.b64
           if ! git diff --cached --quiet; then
+            # Carry only this run's staged output onto the newest main tree.
+            # Never resolve generated HTML conflicts by choosing ours/theirs.
+            git diff --cached --binary > /tmp/joyce-release.patch
+            git fetch origin main
+            if ! git diff --quiet HEAD origin/main -- index.html CNAME assets/ joyce/ scripts/ .github/workflows/; then
+              echo '::error::Site files changed during QA. Rerun from current main; refusing stale generated output.'
+              exit 1
+            fi
+            git reset --hard origin/main
+            git apply --index /tmp/joyce-release.patch
             git commit -m 'feat: publish Joyce credibility timeline v7'
-            git pull --rebase origin main
+            # A later concurrent push is rejected by Git; no force or rebase.
             git push origin HEAD:main
           fi
           git rev-parse HEAD > /tmp/joyce-refresh-commit.txt
@@ -77,7 +88,9 @@ jobs:
           python - <<'PY'
           import time, urllib.request
           from pathlib import Path
+          import hashlib
           marker=b'2026-09-21-credibility-v7'
+          expected={url:hashlib.sha256(Path(path).read_bytes()).hexdigest() for url,path in [('https://biz.ggcgames.com/','index.html'),('https://biz.ggcgames.com/joyce/','joyce/index.html')]}
           stamp=Path('/tmp/joyce-refresh-commit.txt').read_text().strip()[:12]
           urls=['https://biz.ggcgames.com/','https://biz.ggcgames.com/joyce/']
           for attempt in range(36):
@@ -87,7 +100,7 @@ jobs:
                       req=urllib.request.Request(url+'?release_check='+stamp,headers={'Cache-Control':'no-cache','User-Agent':'GGC-Release-QA'})
                       with urllib.request.urlopen(req,timeout=20) as r:
                           body=r.read()
-                          valid=r.status==200 and marker in body and b'portrait-v4' in body and b'refresh-start' in body
+                          valid=r.status==200 and marker in body and hashlib.sha256(body).hexdigest()==expected[url]
                           ok=ok and valid
                           print(url,r.status,'v7-ready='+str(valid),flush=True)
                   except Exception as exc:
@@ -105,12 +118,7 @@ jobs:
         run: python scripts/qa_refresh_v4.py
       - name: Record live acceptance evidence
         run: |
-          git add joyce/content/refresh-qa/
-          if ! git diff --cached --quiet; then
-            git commit -m 'test: archive actual-domain v4 acceptance and browser screenshots'
-            git pull --rebase origin main
-            git push origin HEAD:main
-          fi
+          # Preserve live QA in the artifact without another commit to main.
           echo 'Built and actual-HTTPS checks completed. No PDF, outgoing email, reservation or payment.' >> "$GITHUB_STEP_SUMMARY"
       - name: Archive tested refresh and screenshots
         if: always()
