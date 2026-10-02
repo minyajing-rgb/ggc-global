@@ -12,8 +12,8 @@ This public status follows portal confirmations and delivery evidence, not draft
 
 | Priority | Track | Opportunity | Verified status | Next step |
 |---|---|---|---|---|
-| P0 | CX / responsible AI | Inspiring Women in CX Awards 2026 — Responsible AI | **Partly entered, not submitted.** The recovered original Chrome form retains its category and six substantive answers. Its Q8 now shows no file selected despite an earlier upload; re-upload awaits Joyce's approval. Q9/12 contact details are tied to Women in CX and trusted-partner updates. Official deadline: 16 Oct. | Continue this original entry after Joyce decides on communications and re-upload; inspect later questions and terms. Do not duplicate. |
-| P0 conditional | AI / founder | Women in AI France Awards 2026 — AI Innovation | Signed-in Chrome form has self-application and public professional profile fields autosaved; **not submitted**. It is paused at a required Women in AI membership Yes/No, though membership itself is not required. The SAGA/Bunny narrative is not entered. Official form says 30 Oct midnight CET; fee, Hong Kong eligibility and award-specific terms remain unverified. | Obtain Joyce's membership answer, inspect remaining category/evidence/terms fields, then review exact entry before any submit. |
+| P0 | CX / responsible AI | Inspiring Women in CX Awards 2026 — Responsible AI | **Partly entered, not submitted.** The original form retains six GGC answers. A new, expanded five-page PDF covering flagship products, standards and public evidence is visibly uploaded at Q8. Joyce-approved communications/contact and public job/company fields are entered. Official deadline: 16 Oct. | Joyce's choice on finalist/winner social tagging is pending at Q10; then inspect Q11–12 and final terms. Do not duplicate. |
+| P0 conditional | AI / founder | Women in AI France Awards 2026 — AI Innovation | **Draft saved, not submitted.** Joyce's non-member status, AI Innovation category and three SAGA/Bunny nomination fields are entered in the original signed-in form. Membership is free but not required for nomination. Official form says 30 Oct midnight CET; fee, Hong Kong eligibility and award-specific terms remain unverified. | Joyce's confirmation of two eligibility/accuracy declarations is pending; inspect any later terms before final submit. |
 | Deadline passed | AI / founder | Women in Tech & AI Global Awards 2026 — Female Founder Rising Star | **Server-saved SAGA/Bunny draft, not submitted.** The category was free; the official 1 Oct deadline has passed without a verified final receipt. | Archive unless the organizer publishes an extension; do not call a draft a nomination. |
 | Paid TBC | AI / leadership | Women in Tech & AI Global Awards 2026 — AI & Digital Transformation Leader | Complete English Joyce/GGC packet; latest observed entry price US$449, no waiver verified; **not submitted**. | Do not pay or submit without a fresh open cycle and Joyce's explicit fee/rights approval. |
 | Conditional | Product / entrepreneurship | Entrepreneurship World Cup 2027 — SAGA/Bunny | Official FAQ states $0 application; English answer pack and deck ready. Entity/stage and current form-cycle wording still need resolution; **not submitted**. | Resolve startup routing and exact legal terms before using the form. |
@@ -47,9 +47,9 @@ The paid AI & Digital Transformation Leader draft is not submitted; the separate
 ## WiCX 2026 Responsible AI package
 
 - [Responsible AI application packet](pr/wicx-2026/Responsible_AI_application.md)
-- Five-page supporting-evidence PDF prepared and visually QA'd for portal upload.
+- A new, expanded five-page supporting-evidence PDF was visually QA'd and visibly uploaded to the original Typeform on 2 Oct; it adds Joyce's flagship cases, standards, publishing and public authority while separating historical product results from current AI implementation.
 - Positioning: AI as bounded decision support; explicit human approval, evidence-state controls, source context, cultural review and accountable decision rights.
-- Six substantive answers and the five-page PDF were already transmitted into the original Typeform; it is stopped at question 9/12 pending Joyce's communications choice. No final submission receipt exists.
+- Six substantive answers remain in the original Typeform. Joyce-approved communications/contact and public role/company fields are entered; question 10's social-tag scope awaits her choice. No final submission receipt exists.
 
 ## Professional evidence
 
