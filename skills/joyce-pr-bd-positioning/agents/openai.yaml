@@ -1,0 +1,4 @@
+interface:
+  display_name: "Joyce PR / BD 定位"
+  short_description: "Position Joyce/GGC for evidence-led PR and executive BD pitches"
+  default_prompt: "使用 $joyce-pr-bd-positioning，先确定受众与决策场景，再按证据等级生成或审校 Joyce/GGC 的 PR、演讲、奖项或 BD Pitch；输出最终文案、使用的证据、刻意保留的主张和下一步。"
