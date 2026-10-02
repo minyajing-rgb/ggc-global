@@ -1,0 +1,4 @@
+interface:
+  display_name: "Joyce 品类经营架构师"
+  short_description: "将 Joyce 的跨品类战绩转成商业架构、价值捕获与 PR/BD Pitch"
+  default_prompt: "使用 $joyce-category-operating-architect，把当前机会拆成品类判断、控制变量、经营系统、合作模式、ownership/value capture、证据口径和最终 PR/BD Pitch。"
