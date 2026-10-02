@@ -1,6 +1,6 @@
 # Joyce Mi / GGC — Global PR Status
 
-Updated: 2 October 2026
+Updated: 3 October 2026
 
 Scope: awards, conference speaking and editorial opportunities across games, AI, wellness/spirituality, global marketing and entrepreneurship.
 
@@ -12,7 +12,7 @@ This public status follows portal confirmations and delivery evidence, not draft
 
 | Priority | Track | Opportunity | Verified status | Next step |
 |---|---|---|---|---|
-| P0 | CX / responsible AI | Inspiring Women in CX Awards 2026 — Responsible AI | **At final form screen, not submitted.** Six GGC answers and the expanded five-page PDF are retained. Social-tag choice and LinkedIn fields are entered; the English bio was corrected. The required headshot field still shows a Chinese-text profile collage. Official deadline: 16 Oct. | Replace/review the headshot and obtain Joyce's final submission approval; do not duplicate. |
+| Submitted / awaiting review | CX / responsible AI | Inspiring Women in CX Awards 2026 — Responsible AI | **Organizer confirmed receipt of Joyce's entry on 2 Oct.** This proves submission, not finalist selection or the exact submitted portrait, PDF or answers. Official deadline: 16 Oct; organizer-stated finalist announcement: 2 Nov. | Do not duplicate. Await organizer decision; privately check portrait only if needed and approved. |
 | P1 review-ready | CX / industry impact | Inspiring Women in CX Awards 2026 — Industry Impact | Separate five-page English evidence package and category-specific review card prepared. In the separate Typeform, Industry Impact was selected only to reveal Q2; Q2 is blank, with no narrative, contact, upload, consent or final submission. Official deadline: 16 Oct. | Joyce reviews the category-specific Q2 answer and evidence package before any substantive form entry; final submission remains a separate decision. |
 | Submitted / awaiting review | AI / founder | Women in AI France Awards 2026 — AI Innovation | **Submitted 2 Oct.** The original Google Form showed a recorded response, and a Google Forms email receipt included Joyce's SAGA/Bunny AI Innovation answers and final rules/data consents. No optional portrait was uploaded. This confirms submission, not eligibility, shortlisting or an award; no fee payment is evidenced. Hong Kong eligibility, possible later-stage fees and attendance remain unverified. | Do not submit again. Await organizer response and selection; Women in AI membership registration is separately deferred. |
 | Deadline passed | AI / founder | Women in Tech & AI Global Awards 2026 — Female Founder Rising Star | **Server-saved SAGA/Bunny draft, not submitted.** The category was free; the official 1 Oct deadline has passed without a verified final receipt. | Archive unless the organizer publishes an extension; do not call a draft a nomination. |
