@@ -1,6 +1,7 @@
 # Joyce / GGC — PR Authority KPI Operating Plan
 
-Version: 2026-10-01-v1  
+Version: 2026-10-03-v2
+
 Window: 2026-10-01 → 2026-12-30
 
 This plan measures **earned authority and useful relationships**, not vanity publication count.
@@ -9,10 +10,10 @@ This plan measures **earned authority and useful relationships**, not vanity pub
 
 | Layer | 90-day working target | Measurement rule |
 |---|---:|---|
-| Qualified PR / speaker graph | 120–180 accounts / people | media, editor, podcast host, conference producer / content lead |
+| Qualified PR / speaker graph | 120–180 accounts / people | count route + format-qualified editorial / podcast / programming targets; report unqualified seeds separately; commercial route rows are not extra earned-media contacts |
 | Contactable Tier A/B targets | 80%+ | verified public email, form, LinkedIn or organizer route |
 | Personalized first touches | 60–100 | no duplicate same-outlet flooding |
-| Positive replies | 8–20 | asks for more info, quote, interview, call, submission or speaker discussion |
+| Positive replies | 8–20 | substantive human request about this story for evidence, quote, interview, editorial commission or speaker discussion; exclude auto replies, boilerplate forms, declines and paid / marketing offers |
 | Expert quote / short commentary | 6–12 | published or reporter confirms intended use |
 | Long-form interview / podcast / feature | 3–6 | scheduled or published |
 | Conference shortlist / substantive organizer conversation | 5–10 | beyond auto receipt |
@@ -29,11 +30,15 @@ These are operating targets, not guaranteed outcomes.
 - Add **25–40 newly qualified targets / week** until the graph exceeds 150.
 - Every account must have: type, region, audience fit, target role, angle, source and current state.
 - Tier A targets must have a specific person or official editorial / programming route before first outreach.
+- Before counting a target as ready, record the selected format, official guideline / comparable recent coverage, date checked, channel and suppression state. `verification=verified` concerns the original organization / contact record; it is not format qualification.
+- Split independent editorial, podcast, contributor, research / vendor content, programming, paid PR and commercial partnerships. Never count an advertising / PR form as an editorial route merely because the outlet is the same.
 
 ### Outreach
 - **5–10 highly relevant first touches / working day**, only when enough quality targets are ready.
 - Same outlet: default one primary contact at a time; use a second person only when their remit is genuinely different.
 - No repeated follow-up after a clear no / opt-out.
+- Format mismatch closes the rejected pitch and suppresses materially similar outlet-format pitches across contacts. A changed subject or hook label does not reset the rejection.
+- Auto replies record route information only: zero human replies, zero positive editorial replies, no warm-lead upgrade and no triggered follow-up. See [reply classification](OUTREACH_PLAYBOOK.md#reply-classification-and-follow-up-rules).
 - No generic “please interview me” mail. Every pitch must carry a specific thesis, evidence or timely hook.
 
 ### Conversion bands to watch
@@ -45,6 +50,10 @@ These are diagnostic bands rather than quotas:
 - event proposal → substantive organizer response: **5–15%+**
 
 If reply rate falls below the band for two consecutive batches, stop increasing volume and review targeting / topic / proof.
+
+Use deduplicated contacted conversations as the denominator, split by route and selected format. Keep total inbound messages separate from human reply rate. Track format-mismatch rate and auto-routing rate independently; do not let automated receipts inflate conversion.
+
+For the two feedback threads reconciled on 2026-10-03 only: **1 human format rejection, 1 automated routing response, 0 positive editorial replies**. This is a bounded diagnostic, not a reply-rate calculation for the entire nine-conversation batch.
 
 ## Weekly operating cadence
 

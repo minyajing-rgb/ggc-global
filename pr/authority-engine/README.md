@@ -1,6 +1,6 @@
 # Joyce Authority Engine
 
-Version: 2026-10-01-v1
+Version: 2026-10-03-v2
 
 Purpose: turn Joyce's verified operating experience and current GGC work into repeatable **research → point of view → media → stage → distribution → authority → business conversation**.
 
@@ -17,6 +17,13 @@ This folder is the evergreen public PR / speaker operating layer. Opportunity-sp
 7. [90-Day KPI Plan](PR_KPI_90D.md)
 8. [90-Day News Hooks](NEWS_HOOKS_90D.md)
 9. [PR / Speaker Target Graph](PR_TARGET_GRAPH.csv)
+10. [Media Route and Format Feedback](MEDIA_ROUTE_FEEDBACK.md) — suppression decisions, separate paid / commercial lanes, reply taxonomy and graph field contract.
+
+## Outreach selection
+
+The graph contains **128 original target seeds plus 2 commercial route-only records**. A verified organization / contact or Tier A priority does not imply a qualified format. Select the exact route and deliverable, check dated format evidence and suppression, then tailor the pitch under the [Outreach Playbook](OUTREACH_PLAYBOOK.md).
+
+MobileGamer.biz's generic operator-interview / thought-leadership pitch is closed for format mismatch. Tech in Asia's response supplied automated routing only: independent editorial remains available, while paid PR and BD / marketing stay separate. Neither thread establishes positive editorial interest. Unknown routes and formats remain in research, and no automatic bulk outreach / follow-up is active.
 
 ## Positioning
 

@@ -1,9 +1,12 @@
 # Joyce / GGC — 90-Day News Hook Calendar
 
-Version: 2026-10-01-v1  
+Version: 2026-10-03-v2
+
 Window: Q4 2026
 
 The hooks below are designed to be **reportable ideas**, not company announcements. Each needs data, examples or a clearly bounded operator perspective before pitching.
+
+Outlet names below are sourcing candidates, not qualified send targets. Use the route / format gate and dated feedback in [OUTREACH_PLAYBOOK.md](OUTREACH_PLAYBOOK.md) before selecting a deliverable. Do not reuse the same interview pitch across news outlets, podcasts, vendor content teams and conference producers.
 
 ## H1 — AI moved from asset generation to operating decisions
 
@@ -29,7 +32,7 @@ Proof to package:
 - small-team operating ceiling
 - kill criteria
 
-Best targets: Game Developer, MobileGamer.biz, PocketGamer.biz, Naavik, producer / design tracks.
+Candidate routes: Game Developer / PocketGamer.biz editorial, Naavik research or podcast, producer / design tracks; verify the specific format first. MobileGamer.biz is suppressed for this generic operator-interview / thought-leadership format following the 2026-10-01 mismatch.
 
 ## H3 — AI creative volume is outrunning retention architecture
 
@@ -42,7 +45,7 @@ Proof to package:
 - pre-launch retention gate
 - UA stop / continue logic
 
-Best targets: MobileGamer.biz, PocketGamer.biz, GamesBeat, AppsFlyer / Adjust / MAU ecosystem media.
+Candidate routes: PocketGamer.biz / GamesBeat editorial; AppsFlyer / Adjust research or vendor content; MAU programming. Select a different supported deliverable for each. MobileGamer.biz's rejected H3 operator-interview proposal is closed; no follow-up or same-format repitch.
 
 ## H4 — 2027 Global Game Operator Outlook
 
@@ -81,7 +84,7 @@ Deliverable:
 - operator checklist
 - 15-minute talk variant
 
-Best targets: PocketGamer.biz, MobileGamer.biz, Naavik, PGC producers.
+Candidate routes: PocketGamer.biz editorial, Naavik research or podcast, PGC programming. MobileGamer.biz is suppressed for a similar generic operator-interview / thought-leadership pitch; a future concrete news / data tip needs a separate fit review.
 
 ## H7 — China / Asia game studios do not mainly have a product problem; they have a global operating-layer problem
 
@@ -115,3 +118,7 @@ A hook graduates to media pitch only when it has:
 3. a relevant audience;
 4. one concrete takeaway the reader can use;
 5. no unsupported aggregate-performance claims.
+6. a verified editorial / host / programming route, selected format and dated format evidence;
+7. no unresolved outlet-format suppression, and no paid / marketing route misclassified as earned editorial.
+
+For Tech in Asia in H1/H5/H7, use the normal editorial coverage guideline and an Asia-specific story memo. The 2026-10-01 automated routing response does not validate any hook or show human interest. Paid PR and BD / marketing stay in separate lanes.

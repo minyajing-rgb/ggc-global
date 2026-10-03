@@ -9,6 +9,7 @@ This directory is the public, sanitized PR and speaking workspace for Joyce Mi /
 - [Joyce PR / BD Positioning Skill](../skills/joyce-pr-bd-positioning/SKILL.md) — canonical seniority, narrative, audience routing and claim-review gate; use before drafting any Joyce biography, media pitch, award entry, speaker proposal or executive introduction.
 - [Joyce Category Operating Architect](../skills/joyce-category-operating-architect/SKILL.md) — commercial capability model; use when a PR, media, speaking or award story must explain how Joyce enters categories, finds controlling variables, builds operating systems, creates buyer/enterprise value or structures ownership.
 - [Authority Engine](authority-engine/README.md) — evergreen media / speaker system.
+- [Media Route and Format Feedback](authority-engine/MEDIA_ROUTE_FEEDBACK.md) — outlet-format suppression, editorial versus paid / commercial routing, and human versus automated reply classification; apply before selecting media targets or follow-ups.
 - [WomenTech 2026](womentech-2026/) — award application working packet.
 - [WiCX 2026](wicx-2026/) — Responsible AI award working packet.
 - [Global PR Status](../GLOBAL_PR_STATUS.md) — opportunity pipeline and execution state.
