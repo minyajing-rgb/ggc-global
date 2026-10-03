@@ -18,6 +18,7 @@ This folder is the evergreen public PR / speaker operating layer. Opportunity-sp
 8. [90-Day News Hooks](NEWS_HOOKS_90D.md)
 9. [PR / Speaker Target Graph](PR_TARGET_GRAPH.csv)
 10. [Media Route and Format Feedback](MEDIA_ROUTE_FEEDBACK.md) — suppression decisions, separate paid / commercial lanes, reply taxonomy and graph field contract.
+11. [Relationship / Content Channels](CONTACT_CHANNELS.md) — Joyce's WeChat, Telegram, LinkedIn, business / OpsGo, Official Account and same-name 知识星球 routes, selected by relationship stage.
 
 ## Outreach selection
 

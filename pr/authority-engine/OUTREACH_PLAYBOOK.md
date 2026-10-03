@@ -47,13 +47,14 @@ The dated feedback record contains the official route URLs and evidence boundari
 
 ## Reply classification and follow-up rules
 
-Classify only the newly authored reply, excluding quoted original pitches and signatures. Check automation headers first (`Auto-Submitted` other than `no`), then sender / body signals; uncertain cases remain unclassified for review.
+Classify only the newly authored reply, excluding quoted original pitches and signatures. Identify delivery reports / hard bounces first, then check automation headers (`Auto-Submitted` other than `no`), then sender / body signals; uncertain cases remain unclassified for review. An automated delivery failure stays a bounce, not `AUTO_ROUTING_ONLY`.
 
 | Reply class | Human reply KPI | Positive editorial reply KPI | Follow-up policy |
 |---|---:|---:|---|
 | `HUMAN_EDITORIAL_INTEREST` | Yes | Yes, only if a person substantively requests evidence, a quote, an interview, a commission or editorial discussion about this story | Respond to the requested next step |
 | `HUMAN_FORMAT_REJECTION` | Yes | No | Close current pitch; suppress materially similar outlet-format pitches; no timed retry or contact substitution |
 | `HUMAN_DECLINE` / opt-out | Yes | No | Stop rejected pitch; honor broader opt-out scope where stated |
+| `HUMAN_PROCESS_ROUTING` | Yes | No | Follow the required intake process; a standard instruction to use a form is not substantive editorial / programme interest |
 | `AUTO_ROUTING_ONLY` / auto acknowledgement / out-of-office | No | No | Save routing facts only; no interest score, warm-lead upgrade or auto-triggered follow-up |
 | Paid PR / sponsorship / marketing offer | Only if human-authored | No | Commercial lane only; spending needs separate explicit authorization |
 | `NO_HUMAN_RESPONSE` / bounce | No | No | Do not infer interest; bounce blocks reuse of the failed address |
@@ -95,6 +96,12 @@ Sponsorship sales is not the default route for editorial speaking opportunities.
 4. **The idea** — one sharp thesis.
 5. **What they get** — data / framework / examples / takeaways.
 6. **Low-friction next step** — short briefing, quote or talk abstract.
+
+## Relationship and content handoff
+
+Use [CONTACT_CHANNELS.md](CONTACT_CHANNELS.md) for Joyce's approved WeChat, Telegram, LinkedIn, business / OpsGo sites, Official Account and same-name 知识星球 routes. Choose one next step for the recipient and relationship stage. Answer editorial interest with the requested evidence or deliverable; offer a personal connection channel as optional convenience. Share relevant ongoing content when useful, rather than asking every editor to follow every channel.
+
+Do not use a contact-details update to follow up a declined format, resend to a failed mailbox or restart an automated-response-only thread. Personal channel adds / follows require actual confirmation before they count as relationship progress.
 
 ## Operating cadence
 

@@ -28,6 +28,18 @@ The Tech in Asia editorial guideline separates independent coverage from branded
 
 For these two reconciled conversations: **1 human reply (negative format feedback), 1 automated routing response, 0 positive editorial replies**. Do not infer the full batch's conversion rate from this subset. Commercial route records are not additional human contacts or editorial leads.
 
+## Additional batch reconciliation — 2026-10-03
+
+The remaining seven original PR / speaking threads and Data Summit's separate form receipt were read during the follow-up status check. This supersedes the earlier unreconciled state for those specific records.
+
+| Feedback ID | Outlet / opportunity | Evidence state | Action |
+|---|---|---|---|
+| `VB_BOUNCE_2026_10_01` | VentureBeat / original named primary recipient | Delivery report on 1 Oct confirms a 550 / 5.1.1 address-not-found hard bounce for the primary address. The CC news-desk recipient's delivery is not established by that report. | Stop reuse of the failed primary address; reverify an official current route before any future touch. Preserve CC delivery / human interest as unconfirmed; no automatic resend. |
+| `BATCH_NO_HUMAN_2026_10_03` | PocketGamer.biz, TechTarget, e27, GamesBeat; PG Connects San Francisco speaking proposal | Each original thread has the sent first touch only at this check; no human response or scheduled conversation verified. | Maintain unconfirmed response state; no connection, follow or interview claim. |
+| `DATA_SUMMIT_INTAKE_2026_10_02` | Data Summit 2027 | A human programme response directed submission through the official form; a separate organizer form receipt on 2 Oct confirms receipt for review. | Submitted / awaiting selection; no duplicate proposal. The process reply is not substantive programme interest, and the receipt is not acceptance. |
+
+Across the original **7 media conversations**: 1 format rejection, 1 automated routing response, 1 partial delivery failure with CC delivery unconfirmed, and 4 threads with no human reply verified. **0 positive editorial replies and 0 scheduled media interviews verified.** Across the **2 speaking conversations**: Data Summit has a received form submission awaiting review; PG Connects San Francisco has no human response verified. Personal-channel adds / follows were not confirmed by this email audit.
+
 ## Graph field contract
 
 The original 11 CSV columns are preserved. Appended fields support route / format selection without rewriting contact verification history:

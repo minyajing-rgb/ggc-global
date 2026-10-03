@@ -1,6 +1,6 @@
 # Joyce Mi / GGC — Speaker Kit
 
-Version: 2026-10-01-v2
+Version: 2026-10-03-v3
 
 ## Speaker positioning
 
@@ -67,6 +67,8 @@ When replying to an organizer, send:
 - Joyce / GGC URL;
 - selected speaking links from the newsroom;
 - optional book reference when relevant.
+
+For direct organizer or professional connection, use [CONTACT_CHANNELS.md](CONTACT_CHANNELS.md): WeChat / Telegram for suitable Chinese-language relationships, LinkedIn / Telegram for overseas contacts, and business / OpsGo content links when relevant. Contact options supplement the required application process; they do not turn a submission receipt into programme interest or acceptance.
 
 Do not send the full service rate card unless the organizer is discussing a commercial workshop / advisory engagement.
 

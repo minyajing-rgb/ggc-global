@@ -1,6 +1,7 @@
 # Joyce Mi / GGC — Media Kit
 
-Version: 2026-10-01-v1  
+Version: 2026-10-03-v2
+
 Status: public, sanitized, source-bound.
 
 ## One-line positioning
@@ -71,6 +72,10 @@ Joyce（闵雅婧）是 GGC 创始人，拥有 15+ 年游戏与产品经验，�
 - GGC: https://ggcgames.com
 - Joyce / GGC: https://biz.ggcgames.com/joyce/
 - LinkedIn: https://www.linkedin.com/in/minyajing/
+- Business website: https://biz.ggcgames.com/
+- OpsGo: https://opsgo.ggcgames.com/
+- Telegram: https://t.me/joyceggc
+- [Relationship / content channels](CONTACT_CHANNELS.md) — WeChat business contact, Official Account and same-name 知识星球; select a relevant route for the recipient.
 - Public Newsroom: ../../joyce/docs/PUBLIC-NEWSROOM.md
 - Public Business Master: ../../joyce/docs/PUBLIC-BUSINESS-MASTER.md
 
