@@ -3,7 +3,7 @@
 ## Strategic Partner One-Pager / 战略合作伙伴一页纸
 
 Version: 2026-10-07 v1.0  
-Owner: Joyce Mi / GGC — Global Game Copilot
+Owner: Joyce / GGC — Global Game Copilot
 
 ---
 
@@ -32,11 +32,18 @@ This is not a generic conference tour. Each salon combines:
 
 ### Who Joyce is
 
-Joyce Mi is Founder of GGC and a global game operator with 15+ years across games and product. Her career includes Microsoft, Tencent, Zynga and Gameloft, spanning product, analytics, LiveOps, monetization and global operations. At Gameloft she worked across 10+ studios and a 500+ cross-functional collaboration network. She is the author of *Game Operations and Global Expansion: Strategies, Methods, and Skills* (China Machine Press, 2024), with public industry speaking and contribution records spanning 2019–2026.
+Joyce is Founder of GGC and a global game operator with 15+ years across games and product. Her career includes Microsoft, Tencent, Zynga and Gameloft, spanning product, analytics, LiveOps, monetization and global operations. At Gameloft she worked across 10+ studios and a 500+ cross-functional collaboration network. She is the author of *Game Operations and Global Expansion: Strategies, Methods, and Skills* (China Machine Press, 2024), with public industry speaking and contribution records spanning 2019–2026.
+
+Joyce has regularly joined game, App and global-market events as an invited practitioner speaker, sharing concrete operating frameworks rather than generic trend commentary. Previous public themes include AI Native game validation, global game operations, user acquisition and commercialization, LiveOps, product/category decisions and the path from prototype to market evidence.
+
+### Two ways to collaborate
+
+1. **Invite Joyce as a speaker or content guest** — keynote, fireside, executive roundtable, private workshop or expert clinic. Cooperation details can cover topic design, travel and accommodation, speaker honorarium, recording/content rights and post-event follow-up.
+2. **Sponsor or co-host a GGC executive salon** — support can include venue, production, travel, speaker costs, distribution or sponsorship budget, while GGC provides the content spine, Joyce's session, audience curation and qualified follow-up.
 
 ### What partners can do
 
-- **Founding Partner** — shape the three-city pilot and the annual executive agenda.
+- **Founding Sponsor / Co-host** — shape the three-city pilot and the annual executive agenda.
 - **Category Partner** — own one business problem: Cloud/AI, Measurement, Commerce, Platform/Creative, or Local Ecosystem.
 - **City Host** — bring venue, local executive reach and a city-specific module.
 - **Insight/Data Partner** — contribute licensed data, benchmarks, expert interpretation and a co-created report.
@@ -64,15 +71,19 @@ Joyce Mi is Founder of GGC and a global game operator with 15+ years across game
 - at least one partner requesting the next city;
 - direct costs covered by committed cash and in-kind value.
 
-### Initial collaboration ask
+### Open invitation
 
-We are inviting a small number of category partners to co-design the three-city pilot. The first conversation is a 30-minute fit session covering audience, topic, partner contribution, desired business outcomes and measurement. Commercial terms are scoped only after both sides agree on the pilot format.
+If your team is planning a game/App event, customer salon, city program or industry-content series, Joyce is open to joining as a practical speaker or content guest. GGC is also preparing a three-city pilot and welcomes a small number of suitable Sponsors and co-hosts.
 
-Contact: Joyce Mi  
+The first conversation can simply compare audience, topic and format. Cooperation details—including travel, accommodation, speaker honorarium, venue/production support, sponsorship and post-event customer follow-up—can be discussed after both sides see a genuine fit.
+
+Contact: Joyce  
+WeChat / phone: 17701087579  
 Business: https://biz.ggcgames.com/  
 Executive profile: https://biz.ggcgames.com/joyce/  
 LinkedIn: https://www.linkedin.com/in/minyajing/  
-Telegram: https://t.me/joyceggc
+Telegram: https://t.me/joyceggc  
+WeChat Official Accounts: search **joyce游戏运营** / **ggc出海实战**
 
 ---
 
@@ -101,11 +112,18 @@ GGC 全球游戏与 AI Native 高管闭门会，是面向游戏与 App 创始人
 
 ### Joyce是谁
 
-Joyce（闵雅婧）是 GGC 创始人，拥有 15+ 年游戏与产品经验，职业经历覆盖 Microsoft、腾讯、Zynga、Gameloft，长期连接产品、数据、LiveOps、商业化与全球运营。她曾在 Gameloft 与 10+ 工作室、500+ 跨职能协作网络共同推进业务，并著有《游戏运营与出海实战：策略、方法与技巧》（机械工业出版社，2024），拥有 2019–2026 年可公开核验的行业分享与专业输出记录。
+Joyce 是 GGC 创始人，拥有 15+ 年游戏与产品经验，职业经历覆盖 Microsoft、腾讯、Zynga、Gameloft，长期连接产品、数据、LiveOps、商业化与全球运营。她曾在 Gameloft 与 10+ 工作室、500+ 跨职能协作网络共同推进业务，并著有《游戏运营与出海实战：策略、方法与技巧》（机械工业出版社，2024），拥有 2019–2026 年可公开核验的行业分享与专业输出记录。
+
+过去几年，Joyce 持续受邀在游戏、App 与出海活动中担任实战分享嘉宾，重点讲可直接用于经营决策的干货，而不是泛趋势。公开分享主题包括 AI Native 游戏验证、全球游戏运营与发行、用户获取与商业化、LiveOps、产品/品类判断，以及从原型到市场证据的完整路径。
+
+### 两种合作方式
+
+1. **邀请 Joyce 担任分享嘉宾**：Keynote、Fireside、高管圆桌、闭门工作坊或专家门诊。合作细节可根据活动商议，包括主题设计、往返交通与住宿、讲者费用、录制/内容使用权和会后交流。
+2. **Sponsor 或联合主办 GGC 高管闭门会**：合作方可支持场地、制作、差旅、嘉宾费用、传播或赞助预算；GGC 负责内容框架、Joyce 分享、观众筛选与合格业务后续。
 
 ### 合作方式
 
-- **联合发起伙伴**：共同定义三城 Pilot 与年度高管议题。
+- **联合发起 Sponsor / 联合主办方**：共同定义三城 Pilot 与年度高管议题。
 - **品类伙伴**：围绕 Cloud/AI、归因与情报、支付与商业化、平台与创意、本地生态中的一个核心问题深度参与。
 - **城市主办伙伴**：提供场地、本地高质量观众与城市主题模块。
 - **数据/洞察伙伴**：提供合规可用的数据、基准和专家解读，共同形成行业报告。
@@ -135,10 +153,14 @@ Joyce（闵雅婧）是 GGC 创始人，拥有 15+ 年游戏与产品经验，�
 
 ### 当前合作邀请
 
-我们正在邀请少量品类伙伴共同设计三城 Pilot。首轮只安排 30 分钟合作适配会，确认受众、主题、双方投入、业务目标与衡量方式；只有在双方认可活动结构后，才进入具体商务条款。
+如果贵司接下来有游戏/App行业活动、客户闭门会、城市站或内容栏目，需要真正懂产品与经营的分享嘉宾，可以直接联系 Joyce。GGC 同时在规划三城 Pilot，也欢迎合适的 Sponsor 与联合主办伙伴。
 
-联系人：Joyce（闵雅婧）  
+第一次沟通只需要互相确认受众、主题和形式是否匹配。往返交通与住宿、讲者费用、场地与制作、联合传播、Sponsor预算及客户后续等合作细节，可在双方确认适配后再商议。
+
+联系人：Joyce  
+微信 / 电话：17701087579  
 业务官网：https://biz.ggcgames.com/  
 个人资料：https://biz.ggcgames.com/joyce/  
 LinkedIn：https://www.linkedin.com/in/minyajing/  
-Telegram：https://t.me/joyceggc
+Telegram：https://t.me/joyceggc  
+公众号：搜索 **joyce游戏运营** / **ggc出海实战**
