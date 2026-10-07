@@ -278,5 +278,8 @@ The first conversation can be a polite 20–30 minute exchange:
 - OpsGo: https://opsgo.ggcgames.com/
 - LinkedIn: https://www.linkedin.com/in/minyajing/
 - Book publisher record: https://ebooks.cmpbook.com/detail?id=26372
+- WeChat / phone: 17701087579
+- Telegram: @joyceggc
+- WeChat Official Accounts: **joyce游戏运营** / **ggc出海实战**
 
 Approved proof boundary: 15+ years; Microsoft, Tencent, Zynga and Gameloft career experience; 10+ studios and 500+ cross-functional collaboration network; author, China Machine Press 2024; source-linked public speaking/contribution record spanning 2019–2026. Do not expand these claims without evidence review.
