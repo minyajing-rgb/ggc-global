@@ -6,8 +6,8 @@ Version: 2026-10-07 v1.0
 
 GGC works with credible game/App media in two clearly separated lanes:
 
-1. **Independent editorial** — the outlet controls whether and how it reports; no payment or sponsorship guarantees coverage.
-2. **Commercial/media partnership** — agreed sponsorship, event, research, studio, distribution or branded-content deliverables with clear labeling.
+1. **Independent editorial** — the outlet controls whether and how it reports; commercial cooperation never guarantees coverage.
+2. **Commercial/media partnership** — agreed event, research, studio, distribution or branded-content deliverables with clear labeling.
 
 These lanes must never be blended in one pitch or one KPI.
 
@@ -23,7 +23,7 @@ Media, platforms and organizers may invite Joyce for:
 - private workshop or founder clinic;
 - podcast, video or recurring content series.
 
-Cooperation details may include topic design, travel and accommodation, speaker honorarium, recording/content rights, distribution and post-event follow-up. The positioning is a professional speaker/content collaboration, not a request for the outlet to provide PR.
+The first conversation focuses on audience, topic and format. The positioning is a professional speaker/content collaboration, not a request for the outlet to provide PR.
 
 ### 1. Executive Roundtable Partner
 
@@ -121,7 +121,7 @@ Every deliverable requires an owner, date, channel, label and usage-right agreem
 ### GamesBeat
 
 - strongest fit: AI/game business reporting and event audiences;
-- current rule: a separate editorial idea was already sent; do not convert that open editorial thread into a sponsorship pitch;
+- current rule: a separate editorial idea was already sent; do not convert that open editorial thread into a commercial pitch;
 - first commercial ask: route through events/brand studio/partnerships, not the editor who received the editorial pitch.
 
 ### Game Developer
@@ -152,7 +152,7 @@ Every deliverable requires an owner, date, channel, label and usage-right agreem
 |---|---|---|---|
 | Co-hosted roundtable | GGC + media | participant consent, venue/recording terms | senior attendance, qualified follow-ups |
 | Branded research | named partners | data license, methodology, review process | downloads, qualified readers, briefing requests |
-| Sponsored newsletter | media | clear commercial label | delivered, clicks, qualified actions |
+| Branded newsletter | media | clear commercial label | delivered, clicks, qualified actions |
 | Video/fireside | GGC + media | recording, editing, clip and archive rights | completion, shares, executive conversations |
 | Audience survey | media + data partner | consent, question ownership, sample definition | usable sample, reportable findings |
 | Founder clinic | GGC | application and confidentiality terms | qualified applicants, agreed next actions |
@@ -164,7 +164,7 @@ Every deliverable requires an owner, date, channel, label and usage-right agreem
 - no sale of raw attendee/contact lists;
 - no use of outlet or partner logos before written approval;
 - no public client/project details without permission;
-- no claim that a submission, meeting or sponsor conversation equals endorsement;
+- no claim that a submission, meeting or commercial conversation equals endorsement;
 - editorial rejection closes that format; commercial outreach cannot be used to bypass it;
 - every publication, clip, photo and quote needs explicit rights.
 
@@ -176,9 +176,9 @@ Hi [Name],
 
 I’m Joyce, Founder of GGC, with 15+ years across games and product at Microsoft, Tencent, Zynga and Gameloft. Over the past several years, I have regularly been invited to contribute practical sessions on AI Native game validation, global game operations, LiveOps, commercialization and product decisions.
 
-[Outlet] is relevant because [specific audience/format reason]. If you are planning an event, interview, podcast or executive session, I would be glad to explore joining as a practical speaker or content guest. Separately, GGC is preparing a curated three-city executive salon and a 2027 operator outlook, where [Outlet] could participate as a media Sponsor, co-host or distribution partner. Editorial decisions would remain entirely independent; any sponsored deliverable would be separately scoped and labeled.
+[Outlet] is relevant because [specific audience/format reason]. If you are planning an event, interview, podcast or executive session, I would be glad to explore joining as a practical speaker or content guest. Separately, GGC is preparing a curated three-city executive salon and a 2027 operator outlook, where both sides could explore an executive roundtable, content series or distribution linkage. Editorial decisions would remain entirely independent; any commercial deliverable would be separately scoped and labeled.
 
-Would a short format-fit conversation with the appropriate content, events or commercial owner be useful? Topic, travel/accommodation, speaker honorarium, content rights and Sponsor support can be discussed once we confirm the format.
+Would a short format-fit conversation with the appropriate content, events or commercial owner be useful? We can first compare the audience, topic and format.
 
 Best,  
 Joyce  
@@ -197,9 +197,9 @@ https://biz.ggcgames.com/joyce/
 
 GGC 正在准备三城游戏/App高管闭门会，以及一份面向 2027 的经营者展望，主题覆盖 AI Native 决策系统、Soft Launch、LiveOps、D2C 与全球发行。
 
-[媒体] 与这件事的匹配点是 [具体受众/栏目/活动形式]。如果接下来有活动、采访、播客或高管内容，需要实战分享嘉宾，我很愿意参与。GGC 同时在规划三城高管闭门会和《2027全球游戏经营者展望》，也可以探讨媒体 Sponsor、联合主办或分发合作。编辑选题与报道保持独立；赞助内容会单独约定并明确标注。
+[媒体] 与这件事的匹配点是 [具体受众/栏目/活动形式]。如果接下来有活动、采访、播客或高管内容，需要实战分享嘉宾，我很愿意参与。GGC 同时在规划三城高管闭门会和《2027全球游戏经营者展望》，也可以探讨高管圆桌、内容系列或分发联动。编辑选题与报道保持独立；商业内容会单独约定并明确标注。
 
-方便和对应的内容、活动或商务负责人先简单判断形式是否匹配吗？主题、往返交通与住宿、讲者费用、内容使用权及 Sponsor 支持，可在确认形式后再商议。
+方便和对应的内容、活动或商务负责人先简单判断受众、主题和形式是否匹配吗？
 
 Joyce｜GGC Global Game Copilot  
 微信 / 电话：17701087579｜Telegram @joyceggc  
