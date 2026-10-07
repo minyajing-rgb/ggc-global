@@ -13,6 +13,18 @@ These lanes must never be blended in one pitch or one KPI.
 
 ## Partnership modules
 
+### 0. Invited Speaker / Content Guest
+
+Media, platforms and organizers may invite Joyce for:
+
+- keynote or practical operator session;
+- fireside or interview;
+- executive roundtable;
+- private workshop or founder clinic;
+- podcast, video or recurring content series.
+
+Cooperation details may include topic design, travel and accommodation, speaker honorarium, recording/content rights, distribution and post-event follow-up. The positioning is a professional speaker/content collaboration, not a request for the outlet to provide PR.
+
 ### 1. Executive Roundtable Partner
 
 Media contribution:
@@ -162,15 +174,18 @@ Every deliverable requires an owner, date, channel, label and usage-right agreem
 
 Hi [Name],
 
-I’m Joyce Mi, Founder of GGC, with 15+ years across games and product at Microsoft, Tencent, Zynga and Gameloft. GGC is preparing a curated three-city executive salon for game/App founders and senior operators, alongside a 2027 operator outlook covering AI Native operating systems, soft-launch decisions, LiveOps, D2C and global publishing.
+I’m Joyce, Founder of GGC, with 15+ years across games and product at Microsoft, Tencent, Zynga and Gameloft. Over the past several years, I have regularly been invited to contribute practical sessions on AI Native game validation, global game operations, LiveOps, commercialization and product decisions.
 
-[Outlet] is relevant because [specific audience/format reason]. I would like to explore a clearly defined media-partner role: [executive roundtable / research preview / podcast / commercial distribution]. Editorial decisions would remain entirely independent; any sponsored deliverable would be separately scoped and labeled.
+[Outlet] is relevant because [specific audience/format reason]. If you are planning an event, interview, podcast or executive session, I would be glad to explore joining as a practical speaker or content guest. Separately, GGC is preparing a curated three-city executive salon and a 2027 operator outlook, where [Outlet] could participate as a media Sponsor, co-host or distribution partner. Editorial decisions would remain entirely independent; any sponsored deliverable would be separately scoped and labeled.
 
-Would a 30-minute format-fit conversation with the appropriate editorial or commercial owner be useful? I can send a one-page outline and proposed deliverables first.
+Would a short format-fit conversation with the appropriate content, events or commercial owner be useful? Topic, travel/accommodation, speaker honorarium, content rights and Sponsor support can be discussed once we confirm the format.
 
 Best,  
-Joyce Mi  
-https://biz.ggcgames.com/joyce/
+Joyce  
+微信 / 电话：17701087579  
+Telegram：@joyceggc  
+https://biz.ggcgames.com/joyce/  
+公众号：**joyce游戏运营** / **ggc出海实战**
 
 ## First-contact media pitch — 中文
 
@@ -178,13 +193,15 @@ https://biz.ggcgames.com/joyce/
 
 [姓名]您好，
 
-我是 Joyce（闵雅婧），GGC 创始人，拥有 15+ 年游戏与产品经验，职业经历覆盖 Microsoft、腾讯、Zynga、Gameloft。
+我是 Joyce，GGC 创始人，拥有 15+ 年游戏与产品经验，职业经历覆盖 Microsoft、腾讯、Zynga、Gameloft。过去几年持续受邀分享 AI Native 游戏验证、全球游戏运营与发行、LiveOps、商业化和产品判断等实战内容。
 
 GGC 正在准备三城游戏/App高管闭门会，以及一份面向 2027 的经营者展望，主题覆盖 AI Native 决策系统、Soft Launch、LiveOps、D2C 与全球发行。
 
-[媒体] 与这件事的匹配点是 [具体受众/栏目/活动形式]。我想探讨一个边界清楚的战略媒体合作：[高管圆桌 / 报告预览 / 播客 / 商业分发]。编辑选题与报道保持独立；如涉及赞助内容，会单独约定并明确标注。
+[媒体] 与这件事的匹配点是 [具体受众/栏目/活动形式]。如果接下来有活动、采访、播客或高管内容，需要实战分享嘉宾，我很愿意参与。GGC 同时在规划三城高管闭门会和《2027全球游戏经营者展望》，也可以探讨媒体 Sponsor、联合主办或分发合作。编辑选题与报道保持独立；赞助内容会单独约定并明确标注。
 
-方便和对应的编辑、内容或商务负责人用 30 分钟先判断形式是否匹配吗？我可以先发一页框架与建议交付物。
+方便和对应的内容、活动或商务负责人先简单判断形式是否匹配吗？主题、往返交通与住宿、讲者费用、内容使用权及 Sponsor 支持，可在确认形式后再商议。
 
 Joyce｜GGC Global Game Copilot  
-https://biz.ggcgames.com/joyce/
+微信 / 电话：17701087579｜Telegram @joyceggc  
+https://biz.ggcgames.com/joyce/  
+公众号：**joyce游戏运营** / **ggc出海实战**
