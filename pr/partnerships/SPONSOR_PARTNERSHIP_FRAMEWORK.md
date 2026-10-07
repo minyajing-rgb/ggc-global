@@ -1,4 +1,4 @@
-# GGC Sponsor Partnership Framework
+# GGC Strategic Collaboration Framework
 
 Version: 2026-10-07 v1.0  
 Status: public-safe working framework; commercial terms subject to written SOW.
@@ -7,15 +7,15 @@ Status: public-safe working framework; commercial terms subject to written SOW.
 
 Joyce is not positioned as asking platforms or media for PR. The normal relationship is that an organizer, platform, media company or ecosystem partner invites Joyce to contribute practical content as a keynote speaker, fireside guest, roundtable guest or closed-door workshop leader.
 
-For partner-led events, cooperation details may include topic design, travel and accommodation, speaker honorarium, content/recording rights and post-event meetings.
+For partner-led events, the first conversation focuses only on audience, topic and format.
 
-For GGC-led salons, the counterpart may participate as a Sponsor or co-host, supporting venue, production, travel, speaker costs, distribution or sponsorship budget. GGC provides the content spine, Joyce's practitioner session, audience curation and qualified opt-in follow-up. The goal is useful content and real business conversations—not a logo wall, a generic sales presentation or guaranteed customer volume.
+For GGC-led salons, both sides may jointly design the practical module, audience interaction, content distribution and qualified opt-in follow-up. The goal is useful content and real business conversations—not a logo wall, a generic sales presentation or guaranteed customer volume.
 
 ## 2. Product definition
 
 The GGC Global Game & AI Native Executive Salon is an invitation/application-based executive format designed to bring practical operating content to founders and senior leaders, help suitable partners reach relevant teams, and create qualified follow-up conversations.
 
-The product is deliberately small and decision-maker dense. It should not be sold as a mass conference, a generic founder meetup or a sponsored lecture tour.
+The product is deliberately small and decision-maker dense. It should not be sold as a mass conference, a generic founder meetup or a promotional lecture tour.
 
 ## 3. Pilot structure
 
@@ -42,9 +42,9 @@ Not the primary audience:
 - mass job-seeking traffic;
 - generic AI curiosity without an operating mandate;
 - vendors seeking attendee lists without substantive contribution;
-- sponsors seeking guaranteed editorial coverage.
+- organizations seeking guaranteed editorial coverage.
 
-## 5. Sponsor stack and tailored value exchange
+## 5. Collaboration stack and tailored value exchange
 
 ### A. Cloud / AI infrastructure
 
@@ -66,9 +66,9 @@ GGC offers:
 
 Possible collaboration support:
 
-- invitation for Joyce as a practitioner speaker, or Sponsor/co-host support for a GGC-led salon;
+- invitation for Joyce as a practitioner speaker, or a jointly designed GGC-led salon module;
 - a senior game/AI expert, not only a sales presentation;
-- travel/accommodation and speaker honorarium for partner-led events, or credits, technical office hours, venue, production and sponsorship support for GGC-led events, as appropriate;
+- credits, technical office hours, venue, production or distribution collaboration, as appropriate;
 - a written owner for post-event project qualification.
 
 ### B. Measurement / intelligence
@@ -91,7 +91,7 @@ GGC offers:
 
 Possible collaboration support:
 
-- invitation for Joyce as a practitioner speaker, or Measurement/Insight Sponsor support for a GGC-led salon;
+- invitation for Joyce as a practitioner speaker, or a jointly designed measurement/insight session for a GGC-led salon;
 - licensed charts/data where agreed, with attribution rules;
 - an analyst/operator speaker and office hours;
 - co-distribution or customer/community nominations.
@@ -118,10 +118,10 @@ GGC offers:
 
 Possible collaboration support:
 
-- invitation for Joyce as a practitioner speaker, or Commerce/Payments Sponsor support for a GGC-led salon;
+- invitation for Joyce as a practitioner speaker, or a jointly designed commerce/payments session for a GGC-led salon;
 - a commercial/product expert and optional solutions clinic;
 - partner support, customer cases and follow-through owner;
-- travel/accommodation and speaker honorarium for partner-led events, or venue, production, data, credits, sponsorship budget or transparent referral terms for GGC-led events, as appropriate.
+- venue, production, data, credits or transparent referral arrangements for GGC-led events, as appropriate.
 
 Fit differences:
 
@@ -150,7 +150,7 @@ GGC offers:
 
 Possible collaboration support:
 
-- invitation for Joyce as a practitioner speaker, or Platform/Creative Sponsor support for a GGC-led salon;
+- invitation for Joyce as a practitioner speaker, or a jointly designed platform/creative session for a GGC-led salon;
 - local gaming/App business lead and solutions expert;
 - workshop support, credits or test resources where appropriate;
 - a named owner for qualified follow-ups.
@@ -185,11 +185,11 @@ Possible collaboration support:
 
 - keynote, fireside, executive roundtable, closed workshop or expert clinic;
 - topic adapted to the organizer's audience without becoming a generic product pitch;
-- cooperation details may include travel, accommodation, speaker honorarium and recording/content rights;
+- detailed cooperation terms are discussed only after audience, topic and format fit is confirmed;
 - organizer retains responsibility for its audience and event operations;
 - GGC may support relevant opt-in follow-up when separately agreed.
 
-### Founding Sponsor / Co-host
+### Founding Collaboration Partner
 
 - three-city pilot involvement;
 - agenda input within GGC editorial/operating boundaries;
@@ -221,7 +221,7 @@ Possible collaboration support:
 - topic and audience collaboration;
 - selected content capture/distribution where separately agreed;
 - editorial independence preserved;
-- sponsorship never guarantees editorial coverage.
+- commercial collaboration never guarantees editorial coverage.
 
 ### Community Partner
 
@@ -235,12 +235,12 @@ Possible collaboration support:
 - recording, photography, quote and logo rights require written agreement;
 - category exclusivity must be explicit and scoped by city/term;
 - data/benchmark use must include source, license and review terms;
-- sponsorship and editorial coverage are separate lanes;
+- commercial collaboration and editorial coverage are separate lanes;
 - all product claims and partner results require evidence;
 - no client names, private code names or confidential delivery details enter public materials;
 - no partner logo is used before written approval;
 - no commercial price is implied by this framework.
-- travel, accommodation, speaker honorarium and Sponsor support are discussed as normal cooperation details after format fit; no fixed public fee is implied.
+- detailed cooperation terms are discussed only after format fit; the first message contains no transaction language.
 
 ## 8. Measurement
 
@@ -268,7 +268,7 @@ The first conversation can be a polite 20–30 minute exchange:
 4. proposed expert/resource contribution;
 5. desired business outcome;
 6. measurement and follow-up owner;
-7. whether this is an invited-speaker engagement, Sponsor/co-host arrangement, content collaboration or a written pilot SOW.
+7. whether this is an invited-speaker engagement, city linkage, content collaboration or a written pilot SOW.
 
 ## 10. Public evidence references
 
