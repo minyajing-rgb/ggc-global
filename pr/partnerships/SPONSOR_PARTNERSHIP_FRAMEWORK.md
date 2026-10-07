@@ -3,13 +3,21 @@
 Version: 2026-10-07 v1.0  
 Status: public-safe working framework; commercial terms subject to written SOW.
 
-## 1. Product definition
+## 1. Collaboration posture
 
-The GGC Global Game & AI Native Executive Salon is an invitation/application-based executive format designed to turn operator insight into trusted relationships, qualified business conversations, paid diagnostics, annual operating partnerships and reusable owner-controlled knowledge assets.
+Joyce is not positioned as asking platforms or media for PR. The normal relationship is that an organizer, platform, media company or ecosystem partner invites Joyce to contribute practical content as a keynote speaker, fireside guest, roundtable guest or closed-door workshop leader.
+
+For partner-led events, cooperation details may include topic design, travel and accommodation, speaker honorarium, content/recording rights and post-event meetings.
+
+For GGC-led salons, the counterpart may participate as a Sponsor or co-host, supporting venue, production, travel, speaker costs, distribution or sponsorship budget. GGC provides the content spine, Joyce's practitioner session, audience curation and qualified opt-in follow-up. The goal is useful content and real business conversations—not a logo wall, a generic sales presentation or guaranteed customer volume.
+
+## 2. Product definition
+
+The GGC Global Game & AI Native Executive Salon is an invitation/application-based executive format designed to bring practical operating content to founders and senior leaders, help suitable partners reach relevant teams, and create qualified follow-up conversations.
 
 The product is deliberately small and decision-maker dense. It should not be sold as a mass conference, a generic founder meetup or a sponsored lecture tour.
 
-## 2. Pilot structure
+## 3. Pilot structure
 
 | Phase | City | Audience | Format | Go/no-go gate |
 |---|---|---:|---|---|
@@ -20,7 +28,7 @@ The product is deliberately small and decision-maker dense. It should not be sol
 | 2 | China expansion | 30–60/city | Repeatable local modules | Only after pilot economics pass |
 | 3 | APAC | partner-hosted | Piggyback trusted organizer or anchor event | No self-produced APAC tour first |
 
-## 3. Audience
+## 4. Audience
 
 Primary:
 
@@ -36,7 +44,7 @@ Not the primary audience:
 - vendors seeking attendee lists without substantive contribution;
 - sponsors seeking guaranteed editorial coverage.
 
-## 4. Sponsor stack and tailored value exchange
+## 5. Sponsor stack and tailored value exchange
 
 ### A. Cloud / AI infrastructure
 
@@ -56,11 +64,11 @@ GGC offers:
 - anonymized operator questions and post-event insight memo;
 - joint content showing where cloud/AI affects product and operating decisions.
 
-GGC asks for:
+Possible collaboration support:
 
-- category-partner or founding-partner support;
+- invitation for Joyce as a practitioner speaker, or Sponsor/co-host support for a GGC-led salon;
 - a senior game/AI expert, not only a sales presentation;
-- credits, technical office hours, venue or cash support as appropriate;
+- travel/accommodation and speaker honorarium for partner-led events, or credits, technical office hours, venue, production and sponsorship support for GGC-led events, as appropriate;
 - a written owner for post-event project qualification.
 
 ### B. Measurement / intelligence
@@ -81,9 +89,9 @@ GGC offers:
 - co-created benchmarks or a 2027 operator outlook;
 - qualified demand and use-case feedback.
 
-GGC asks for:
+Possible collaboration support:
 
-- measurement or intelligence category partnership;
+- invitation for Joyce as a practitioner speaker, or Measurement/Insight Sponsor support for a GGC-led salon;
 - licensed charts/data where agreed, with attribution rules;
 - an analyst/operator speaker and office hours;
 - co-distribution or customer/community nominations.
@@ -108,12 +116,12 @@ GGC offers:
 - content on payment conversion, market sequencing and operating ownership;
 - optional referral or product-integration discussion after fit is confirmed.
 
-GGC asks for:
+Possible collaboration support:
 
-- category or city partnership;
+- invitation for Joyce as a practitioner speaker, or Commerce/Payments Sponsor support for a GGC-led salon;
 - a commercial/product expert and optional solutions clinic;
 - partner support, customer cases and follow-through owner;
-- cash, venue, data, credits or commercial referral terms as appropriate.
+- travel/accommodation and speaker honorarium for partner-led events, or venue, production, data, credits, sponsorship budget or transparent referral terms for GGC-led events, as appropriate.
 
 Fit differences:
 
@@ -140,9 +148,9 @@ GGC offers:
 - post-event insight memo about studio needs and operating gaps;
 - qualified test-project introductions with consent.
 
-GGC asks for:
+Possible collaboration support:
 
-- platform/creative category partnership;
+- invitation for Joyce as a practitioner speaker, or Platform/Creative Sponsor support for a GGC-led salon;
 - local gaming/App business lead and solutions expert;
 - workshop support, credits or test resources where appropriate;
 - a named owner for qualified follow-ups.
@@ -164,16 +172,24 @@ GGC offers:
 - anonymized problem map and post-event memo;
 - optional founder/studio clinics.
 
-GGC asks for:
+Possible collaboration support:
 
 - venue and local production support;
 - qualified nominations and attendance confirmation;
 - on-site relationship owner;
 - local distribution and post-event follow-through.
 
-## 5. Partnership tiers
+## 6. Collaboration formats
 
-### Founding Partner
+### Invited Speaker / Content Guest
+
+- keynote, fireside, executive roundtable, closed workshop or expert clinic;
+- topic adapted to the organizer's audience without becoming a generic product pitch;
+- cooperation details may include travel, accommodation, speaker honorarium and recording/content rights;
+- organizer retains responsibility for its audience and event operations;
+- GGC may support relevant opt-in follow-up when separately agreed.
+
+### Founding Sponsor / Co-host
 
 - three-city pilot involvement;
 - agenda input within GGC editorial/operating boundaries;
@@ -213,7 +229,7 @@ GGC asks for:
 - city/community distribution;
 - follow-through with relevant founders and studios.
 
-## 6. Rights and guardrails
+## 7. Rights and guardrails
 
 - attendee data remains consent-based; no raw list resale;
 - recording, photography, quote and logo rights require written agreement;
@@ -224,8 +240,9 @@ GGC asks for:
 - no client names, private code names or confidential delivery details enter public materials;
 - no partner logo is used before written approval;
 - no commercial price is implied by this framework.
+- travel, accommodation, speaker honorarium and Sponsor support are discussed as normal cooperation details after format fit; no fixed public fee is implied.
 
-## 7. Measurement
+## 8. Measurement
 
 Minimum pilot dashboard:
 
@@ -241,9 +258,9 @@ Minimum pilot dashboard:
 - 30/60-day business outcomes;
 - partner repeat intent.
 
-## 8. Standard next step
+## 9. Standard next step
 
-The first call is a 30-minute fit session:
+The first conversation can be a polite 20–30 minute exchange:
 
 1. partner priority for 2026–2027;
 2. target audience and cities;
@@ -251,9 +268,9 @@ The first call is a 30-minute fit session:
 4. proposed expert/resource contribution;
 5. desired business outcome;
 6. measurement and follow-up owner;
-7. whether to proceed to a written pilot SOW.
+7. whether this is an invited-speaker engagement, Sponsor/co-host arrangement, content collaboration or a written pilot SOW.
 
-## 9. Public evidence references
+## 10. Public evidence references
 
 - GGC: https://ggcgames.com
 - Business: https://biz.ggcgames.com/
