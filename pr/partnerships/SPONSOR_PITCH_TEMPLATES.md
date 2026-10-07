@@ -1,11 +1,11 @@
-# GGC Sponsor and Strategic Partner Pitch Templates
+# GGC Speaker and Strategic Collaboration Pitch Templates
 
 Version: 2026-10-07 v1.0  
 Rule: personalize the opening, select one collaboration ask, and request one next step. Do not attach the full 28-page deck on first contact.
 
 ## 1. Master email — English
 
-**Subject:** [Company] × GGC — speaker, content and Sponsor collaboration for game/App audiences
+**Subject:** [Company] × GGC — practical speaker and content collaboration
 
 Hi [Name],
 
@@ -15,9 +15,9 @@ Over the past several years, I have regularly been invited by game, App, media a
 
 If [Company] is planning a developer event, customer salon, city program or industry-content series, I would be glad to explore joining as a practical speaker, fireside guest, roundtable guest or workshop leader. [Company-specific relevance sentence.]
 
-Separately, GGC is preparing a three-city executive-salon pilot in Shenzhen, Shanghai and Beijing or Guangzhou for 30–60 curated founders and senior operators per city. Where useful, [Company] could also participate as a Sponsor or co-host, helping support venue, production, travel, speaker costs, distribution or an expert module while GGC provides content, audience curation and qualified follow-up.
+Separately, GGC is preparing a three-city executive-salon pilot in Shenzhen, Shanghai and Beijing or Guangzhou for 30–60 curated founders and senior operators per city. Where useful, we could jointly design an expert module, audience interaction and qualified follow-up.
 
-If either format is relevant, would you be open to a short conversation? Cooperation details—including topic, travel and accommodation, speaker honorarium, content rights, Sponsor support and post-event follow-up—can be discussed after we confirm the fit.
+If either format is relevant, would you be open to a short conversation? We can first compare the audience, topic and format.
 
 Best,  
 Joyce  
@@ -28,7 +28,7 @@ WeChat Official Accounts: **joyce游戏运营** / **ggc出海实战**
 
 ## 2. Master email — 中文
 
-**主题：** [公司] × GGC｜游戏/App实战分享与 Sponsor 联动合作
+**主题：** [公司] × GGC｜游戏/App实战分享与内容联动
 
 [姓名]您好，
 
@@ -40,9 +40,9 @@ WeChat Official Accounts: **joyce游戏运营** / **ggc出海实战**
 
 如果 [公司] 接下来有开发者活动、客户闭门会、城市站或行业内容，需要真正懂产品与经营的分享嘉宾，我很愿意以主题分享、Fireside、圆桌嘉宾或闭门工作坊的形式参与。
 
-另外，GGC 也在规划深圳、上海、北京或广州三城高管闭门会，每场 30–60 人，重点邀请游戏/App 创始人、CEO、GM、发行及业务负责人。合适的话，[公司] 也可以作为 Sponsor 或联合主办方，支持场地、制作、传播、差旅、嘉宾费用或赞助预算；GGC 负责干货内容、观众筛选和有明确需求的潜在客户后续。
+另外，GGC 也在规划深圳、上海、北京或广州三城高管闭门会，每场 30–60 人，重点邀请游戏/App 创始人、CEO、GM、发行及业务负责人。合适的话，双方可以共同设计一场实战模块，由 GGC 负责干货内容、观众筛选和有明确需求的潜在客户后续。
 
-如果其中一种形式适合，方便先简单聊聊吗？主题、往返交通与住宿、讲者费用、内容使用权、Sponsor支持及客户后续等合作细节，都可以在确认匹配后再商议。
+如果其中一种形式适合，方便先简单聊聊吗？第一次只需要确认受众、主题和形式是否匹配。
 
 Joyce  
 GGC｜Global Game Copilot  
@@ -74,7 +74,7 @@ Company-specific paragraph:
 
 Proposed ask:
 
-> If AWS for Games has upcoming developer or customer activities, Joyce can contribute a practitioner session or executive roundtable. For a GGC-led salon, AWS could also participate as the Cloud/AI Sponsor or co-host, with one senior game/AI expert, architecture or AI office hours and an agreed route for qualified studios to access technical guidance or relevant startup resources.
+> If AWS for Games has upcoming developer or customer activities, Joyce can contribute a practitioner session or executive roundtable. For a GGC-led salon, both sides could jointly develop a Cloud/AI module with one senior game/AI expert, architecture or AI office hours and an agreed route for qualified studios to access technical guidance or relevant startup resources.
 
 ### Google Cloud for Games
 
@@ -86,7 +86,7 @@ Company-specific paragraph:
 
 Proposed ask:
 
-> If Google Cloud for Games has upcoming customer or developer activities, Joyce can contribute a practitioner session or executive roundtable. For a GGC-led salon, Google Cloud could also participate as a Cloud/AI Sponsor or co-host, with a senior games/AI expert, practical lab or office hours and a clear path for qualified studios to continue technical discussions.
+> If Google Cloud for Games has upcoming customer or developer activities, Joyce can contribute a practitioner session or executive roundtable. For a GGC-led salon, both sides could jointly develop a Cloud/AI session with a senior games/AI expert, practical lab or office hours and a clear path for qualified studios to continue technical discussions.
 
 ## 5. Measurement / intelligence variants
 
@@ -100,7 +100,7 @@ Company-specific paragraph:
 
 Proposed ask:
 
-> If AppsFlyer is planning a customer event or executive session, Joyce can contribute the operator side of the discussion. For a GGC-led salon, AppsFlyer could participate as Measurement Sponsor or co-host, contributing one senior expert, approved benchmark categories or educational materials and an optional clinic for selected teams.
+> If AppsFlyer is planning a customer event or executive session, Joyce can contribute the operator side of the discussion. For a GGC-led salon, both sides could jointly develop a measurement session with one senior expert, approved benchmark categories or educational materials and an optional clinic for selected teams.
 
 ### Adjust
 
@@ -112,7 +112,7 @@ Company-specific paragraph:
 
 Proposed ask:
 
-> Joyce can join an Adjust-led customer event as a practitioner speaker, or Adjust can support a GGC-led city salon as Measurement Sponsor or co-host, with a practical session, office hours and jointly defined follow-up for qualified App/game teams.
+> Joyce can join an Adjust-led customer event as a practitioner speaker, or both sides can jointly develop a GGC city-salon session with practical content, office hours and defined follow-up for qualified App/game teams.
 
 ### Sensor Tower
 
@@ -124,7 +124,7 @@ Company-specific paragraph:
 
 Proposed ask:
 
-> Joyce can contribute operator interpretation to a Sensor Tower briefing or content program. For a GGC-led report/salon, Sensor Tower could participate as Data/Insight Sponsor or collaborator, covering selected licensed charts or analyst input, a closed executive briefing and co-distribution under written attribution and review rules.
+> Joyce can contribute operator interpretation to a Sensor Tower briefing or content program. For a GGC-led report/salon, both sides could collaborate on selected licensed charts or analyst input, a closed executive briefing and co-distribution under written attribution and review rules.
 
 ## 6. Commerce / payments variants
 
@@ -138,7 +138,7 @@ Company-specific paragraph:
 
 Proposed ask:
 
-> Joyce can join an Xsolla-led game-commerce event as a practitioner speaker. For a GGC-led salon, Xsolla could participate as Game Commerce Sponsor or co-host, with a D2C workshop, selected founder clinics and a qualified follow-up route for teams with real Web Shop or global-payment needs.
+> Joyce can join an Xsolla-led game-commerce event as a practitioner speaker. For a GGC-led salon, both sides could jointly develop a D2C workshop, selected founder clinics and a qualified follow-up route for teams with real Web Shop or global-payment needs.
 
 ### Antom
 
@@ -150,7 +150,7 @@ Company-specific paragraph:
 
 Proposed ask:
 
-> Joyce can join an Antom-led game/digital-entertainment event as a practitioner speaker. For a GGC-led salon, Antom could participate as Global Payments Sponsor or co-host, contributing a senior expert, payment-readiness clinic and a named follow-up owner for qualified teams.
+> Joyce can join an Antom-led game/digital-entertainment event as a practitioner speaker. For a GGC-led salon, both sides could jointly develop a global-payments session with a senior expert, payment-readiness clinic and a named follow-up owner for qualified teams.
 
 ### WorldFirst
 
@@ -170,7 +170,7 @@ Proposed ask:
 
 Company-specific paragraph:
 
-> GGC is building AI Native consumer products and a PR/launch operating product, where subscriptions, partner attribution and global payment operations are part of the product architecture. That creates a concrete basis for a platform or services-partner discussion rather than a generic sponsorship request.
+> GGC is building AI Native consumer products and a launch operating product, where subscriptions, partner attribution and global payment operations are part of the product architecture. That creates a concrete basis for a platform or services collaboration.
 
 Proposed ask:
 
@@ -188,7 +188,7 @@ Company-specific paragraph:
 
 Proposed ask:
 
-> Joyce can join a TikTok-led gaming/App event as a practitioner speaker. For a GGC-led salon, TikTok could participate as Platform/Creative Sponsor or co-host, with a gaming/App business lead, a creative clinic and a defined route for qualified teams to continue into platform-specific testing.
+> Joyce can join a TikTok-led gaming/App event as a practitioner speaker. For a GGC-led salon, both sides could jointly develop a platform/creative session with a gaming/App business lead, a creative clinic and a defined route for qualified teams to continue into platform-specific testing.
 
 ### Snap
 
