@@ -81,7 +81,6 @@ Contact: Joyce
 WeChat / phone: 17701087579  
 Business: https://biz.ggcgames.com/  
 Executive profile: https://biz.ggcgames.com/joyce/  
-LinkedIn: https://www.linkedin.com/in/minyajing/  
 Telegram: https://t.me/joyceggc  
 WeChat Official Accounts: search **joyce游戏运营** / **ggc出海实战**
 
@@ -161,6 +160,5 @@ Joyce 是 GGC 创始人，拥有 15+ 年游戏与产品经验，职业经历覆�
 微信 / 电话：17701087579  
 业务官网：https://biz.ggcgames.com/  
 个人资料：https://biz.ggcgames.com/joyce/  
-LinkedIn：https://www.linkedin.com/in/minyajing/  
 Telegram：https://t.me/joyceggc  
 公众号：搜索 **joyce游戏运营** / **ggc出海实战**
