@@ -5,48 +5,65 @@ Rule: personalize the opening, select one collaboration ask, and request one nex
 
 ## 1. Master email — English
 
-**Subject:** [Company] × GGC — a curated game and App executive series in China
+**Subject:** [Company] × GGC — speaker, content and Sponsor collaboration for game/App audiences
 
 Hi [Name],
 
-I’m Joyce Mi, Founder of GGC and a global game operator with 15+ years across Microsoft, Tencent, Zynga and Gameloft. I work across product judgment, data, LiveOps, monetization and global publishing, and I’m the author of *Game Operations and Global Expansion* (China Machine Press, 2024).
+I’m Joyce, Founder of GGC and a global game operator with 15+ years across Microsoft, Tencent, Zynga and Gameloft. I work across product judgment, data, LiveOps, monetization and global publishing, and I’m the author of *Game Operations and Global Expansion* (China Machine Press, 2024).
 
-GGC is preparing a three-city pilot in Shenzhen, Shanghai and Beijing or Guangzhou for 30–60 curated game/App founders and senior operators per city. The format combines an operator keynote, one substantive partner module, a closed executive roundtable, selected 1:1 conversations and a post-event insight memo.
+Over the past several years, I have regularly been invited by game, App, media and global-market organizers to share practical operator content. Previous topics include AI Native game validation, global game operations and publishing, user acquisition and commercialization, LiveOps, product/category decisions and the path from prototype to market evidence.
 
-[Company-specific relevance sentence.]
+If [Company] is planning a developer event, customer salon, city program or industry-content series, I would be glad to explore joining as a practical speaker, fireside guest, roundtable guest or workshop leader. [Company-specific relevance sentence.]
 
-I would like to explore [one specific role: Founding / Category / Data / Media / City Partner], with [one specific contribution] and a clear follow-up mechanism for qualified teams. This is not a request for a logo-only sponsorship or a generic sales talk.
+Separately, GGC is preparing a three-city executive-salon pilot in Shenzhen, Shanghai and Beijing or Guangzhou for 30–60 curated founders and senior operators per city. Where useful, [Company] could also participate as a Sponsor or co-host, helping support venue, production, travel, speaker costs, distribution or an expert module while GGC provides content, audience curation and qualified follow-up.
 
-Would you be open to a 30-minute fit conversation? I can send the one-page pilot structure and the proposed module for [Company] first.
+If either format is relevant, would you be open to a short conversation? Cooperation details—including topic, travel and accommodation, speaker honorarium, content rights, Sponsor support and post-event follow-up—can be discussed after we confirm the fit.
 
 Best,  
-Joyce Mi  
+Joyce  
 Founder, GGC — Global Game Copilot  
+WeChat / phone: 17701087579  
 https://biz.ggcgames.com/joyce/  
-https://www.linkedin.com/in/minyajing/
+https://www.linkedin.com/in/minyajing/  
+WeChat Official Accounts: **joyce游戏运营** / **ggc出海实战**
 
 ## 2. Master email — 中文
 
-**主题：** [公司] × GGC｜共建三城游戏与 App 高管闭门会
+**主题：** [公司] × GGC｜游戏/App实战分享与 Sponsor 联动合作
 
 [姓名]您好，
 
-我是 Joyce（闵雅婧），GGC 创始人，拥有 15+ 年游戏与产品经验，职业经历覆盖 Microsoft、腾讯、Zynga、Gameloft，长期负责产品、数据、LiveOps、商业化与全球发行，也是《游戏运营与出海实战》的作者。
+我是 Joyce，GGC 创始人，拥有 15+ 年游戏与产品经验，职业经历覆盖 Microsoft、腾讯、Zynga、Gameloft，长期负责产品、数据、LiveOps、商业化与全球发行，也是《游戏运营与出海实战》的作者。
 
-GGC 正在筹备深圳、上海、北京或广州三城 Pilot。每场 30–60 人，重点邀请游戏/App 创始人、CEO、GM、发行及业务负责人。现场不是普通行业大会，而是“操盘主题分享 + 合作伙伴实战模块 + 高管闭门圆桌 + 精选一对一交流 + 会后洞察 Memo”。
+过去几年，我持续受邀在游戏、App、媒体与出海活动中担任实战分享嘉宾。讲过的内容包括 AI Native 游戏验证、全球游戏运营与发行、用户获取与商业化、LiveOps、产品/品类判断，以及从原型到市场证据的路径。相关内容和过往分享可先看公众号「joyce游戏运营」「ggc出海实战」。
 
 [与对方当前业务直接相关的一句话。]
 
-我希望和 [公司] 探讨以 [联合发起/品类/数据/媒体/城市伙伴] 的方式参与，由双方共同定义一个真实业务问题、专家投入和可衡量的会后动作，而不是只露出 Logo 或安排一场泛产品介绍。
+如果 [公司] 接下来有开发者活动、客户闭门会、城市站或行业内容，需要真正懂产品与经营的分享嘉宾，我很愿意以主题分享、Fireside、圆桌嘉宾或闭门工作坊的形式参与。
 
-方便安排 30 分钟先判断合作适配吗？我可以先发一页 Pilot 结构和为 [公司] 定制的模块建议。
+另外，GGC 也在规划深圳、上海、北京或广州三城高管闭门会，每场 30–60 人，重点邀请游戏/App 创始人、CEO、GM、发行及业务负责人。合适的话，[公司] 也可以作为 Sponsor 或联合主办方，支持场地、制作、传播、差旅、嘉宾费用或赞助预算；GGC 负责干货内容、观众筛选和有明确需求的潜在客户后续。
 
-Joyce（闵雅婧）  
+如果其中一种形式适合，方便先简单聊聊吗？主题、往返交通与住宿、讲者费用、内容使用权、Sponsor支持及客户后续等合作细节，都可以在确认匹配后再商议。
+
+Joyce  
 GGC｜Global Game Copilot  
+微信 / 电话：17701087579  
+Telegram：@joyceggc  
 https://biz.ggcgames.com/joyce/  
-微信 17701087579（备注公司/姓名）｜Telegram @joyceggc
+公众号：**joyce游戏运营** / **ggc出海实战**
 
-## 3. Cloud / AI infrastructure variant
+## 3. Previous speaking themes / 过往可选分享主题
+
+- **AI Native 游戏验证**：从工具链、Demo、CTR 到真实市场证据。
+- **How Global Games Actually Win**：产品、发行、LiveOps、商业化与组织如何成为一套经营系统。
+- **Soft Launch as a Decision System**：哪些数据决定继续、修改、停下或加大投入。
+- **3 Seconds / 30 Minutes / Day 7**：用户第一眼、首局与长期养成如何共同决定产品成立。
+- **用户获取与商业化**：素材、渠道、留存、付费深度与长期价值不能分开管理。
+- **AI Is Rebuilding the Game Business**：AI如何进入研究、产品评审、实验、LiveOps与高管决策，并保留清晰人工责任。
+- **What Should We Build Next?**：Casino、Arcade、Sims与AI消费产品的品类判断和早期止损。
+- **D2C与全球商业化**：支付、Web Shop、订阅、市场顺序与经营责任。
+
+## 4. Cloud / AI infrastructure variant
 
 ### AWS for Games
 
@@ -58,7 +75,7 @@ Company-specific paragraph:
 
 Proposed ask:
 
-> Explore AWS as the Cloud/AI partner for the three-city pilot, with one senior game/AI expert, an architecture or AI office-hours module, and an agreed route for qualified studios to access technical guidance or relevant startup resources.
+> If AWS for Games has upcoming developer or customer activities, Joyce can contribute a practitioner session or executive roundtable. For a GGC-led salon, AWS could also participate as the Cloud/AI Sponsor or co-host, with one senior game/AI expert, architecture or AI office hours and an agreed route for qualified studios to access technical guidance or relevant startup resources.
 
 ### Google Cloud for Games
 
@@ -70,9 +87,9 @@ Company-specific paragraph:
 
 Proposed ask:
 
-> Explore Google Cloud as the Cloud/AI partner for one or more pilot cities, with a senior games/AI speaker, a practical lab or office-hours session, and a clear path for qualified studios to continue technical discussions after the salon.
+> If Google Cloud for Games has upcoming customer or developer activities, Joyce can contribute a practitioner session or executive roundtable. For a GGC-led salon, Google Cloud could also participate as a Cloud/AI Sponsor or co-host, with a senior games/AI expert, practical lab or office hours and a clear path for qualified studios to continue technical discussions.
 
-## 4. Measurement / intelligence variants
+## 5. Measurement / intelligence variants
 
 ### AppsFlyer
 
@@ -84,7 +101,7 @@ Company-specific paragraph:
 
 Proposed ask:
 
-> Explore AppsFlyer as the Measurement Partner for the pilot, contributing one senior expert, anonymized benchmark categories or approved educational materials, and a qualified post-event clinic for selected teams.
+> If AppsFlyer is planning a customer event or executive session, Joyce can contribute the operator side of the discussion. For a GGC-led salon, AppsFlyer could participate as Measurement Sponsor or co-host, contributing one senior expert, approved benchmark categories or educational materials and an optional clinic for selected teams.
 
 ### Adjust
 
@@ -96,7 +113,7 @@ Company-specific paragraph:
 
 Proposed ask:
 
-> Explore Adjust as the Measurement Partner for a China city salon, with a practical measurement session, office hours and a jointly defined follow-up for qualified App/game teams.
+> Joyce can join an Adjust-led customer event as a practitioner speaker, or Adjust can support a GGC-led city salon as Measurement Sponsor or co-host, with a practical session, office hours and jointly defined follow-up for qualified App/game teams.
 
 ### Sensor Tower
 
@@ -108,9 +125,9 @@ Company-specific paragraph:
 
 Proposed ask:
 
-> Explore a Data/Insight Partnership covering selected licensed charts or analyst input, a closed executive briefing and co-distribution under written attribution and review rules. This is a research collaboration proposal, not a request to reuse data without permission.
+> Joyce can contribute operator interpretation to a Sensor Tower briefing or content program. For a GGC-led report/salon, Sensor Tower could participate as Data/Insight Sponsor or collaborator, covering selected licensed charts or analyst input, a closed executive briefing and co-distribution under written attribution and review rules.
 
-## 5. Commerce / payments variants
+## 6. Commerce / payments variants
 
 ### Xsolla
 
@@ -122,7 +139,7 @@ Company-specific paragraph:
 
 Proposed ask:
 
-> Explore Xsolla as the Game Commerce Partner for the three-city pilot, with a D2C workshop, selected founder clinics and a qualified follow-up route for teams with real Web Shop or global payment needs.
+> Joyce can join an Xsolla-led game-commerce event as a practitioner speaker. For a GGC-led salon, Xsolla could participate as Game Commerce Sponsor or co-host, with a D2C workshop, selected founder clinics and a qualified follow-up route for teams with real Web Shop or global-payment needs.
 
 ### Antom
 
@@ -134,7 +151,7 @@ Company-specific paragraph:
 
 Proposed ask:
 
-> Explore Antom as the Global Payments Partner for one or more pilot cities, contributing a senior game/digital-entertainment expert, payment-readiness clinic and a named follow-up owner for qualified teams.
+> Joyce can join an Antom-led game/digital-entertainment event as a practitioner speaker. For a GGC-led salon, Antom could participate as Global Payments Sponsor or co-host, contributing a senior expert, payment-readiness clinic and a named follow-up owner for qualified teams.
 
 ### WorldFirst
 
@@ -160,7 +177,7 @@ Proposed ask:
 
 > Explore whether GGC fits a Stripe partner track and whether a closed session on subscription/platform commerce should be added after the initial pilot. The immediate goal is a partner-fit call; no endorsement claim or integration announcement is implied.
 
-## 6. Platforms / creative variants
+## 7. Platforms / creative variants
 
 ### TikTok for Business
 
@@ -172,7 +189,7 @@ Company-specific paragraph:
 
 Proposed ask:
 
-> Explore TikTok as the Platform/Creative Partner for one pilot city, with a gaming/App business lead, a creative clinic and a defined route for qualified teams to continue into platform-specific testing.
+> Joyce can join a TikTok-led gaming/App event as a practitioner speaker. For a GGC-led salon, TikTok could participate as Platform/Creative Sponsor or co-host, with a gaming/App business lead, a creative clinic and a defined route for qualified teams to continue into platform-specific testing.
 
 ### Snap
 
@@ -198,7 +215,7 @@ Proposed ask:
 
 > Explore a Platform/Monetization Partner role with a gaming/App business lead, a practical case module and a named follow-up path for qualified studios.
 
-## 7. Local ecosystem variant — 中文
+## 8. Local ecosystem variant — 中文
 
 **主题：** [园区/协会/社群] × GGC｜共建一场真正有业务后续的游戏出海高管闭门会
 
@@ -215,7 +232,7 @@ GGC 希望与 [机构] 在 [城市] 共建一场 30–60 人的游戏与 App 高
 Joyce｜GGC Global Game Copilot  
 https://biz.ggcgames.com/joyce/
 
-## 8. Follow-up after a human reply
+## 9. Follow-up after a human reply
 
 **Subject:** Re: [Original subject]
 
@@ -236,7 +253,7 @@ I’m available [two options]. If a different team owns game/App ecosystem partn
 Best,  
 Joyce
 
-## 9. Attachment rule
+## 10. Attachment rule
 
 First touch:
 
@@ -252,7 +269,7 @@ After human interest:
 - proposed partner module;
 - draft KPI/SOW only after fit is confirmed.
 
-## 10. Sending discipline
+## 11. Sending discipline
 
 - one company-specific reason;
 - one collaboration ask;
