@@ -24,7 +24,6 @@ Joyce
 Founder, GGC — Global Game Copilot  
 WeChat / phone: 17701087579  
 https://biz.ggcgames.com/joyce/  
-https://www.linkedin.com/in/minyajing/  
 WeChat Official Accounts: **joyce游戏运营** / **ggc出海实战**
 
 ## 2. Master email — 中文
