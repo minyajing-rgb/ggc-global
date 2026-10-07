@@ -276,7 +276,6 @@ The first conversation can be a polite 20–30 minute exchange:
 - Business: https://biz.ggcgames.com/
 - Joyce profile: https://biz.ggcgames.com/joyce/
 - OpsGo: https://opsgo.ggcgames.com/
-- LinkedIn: https://www.linkedin.com/in/minyajing/
 - Book publisher record: https://ebooks.cmpbook.com/detail?id=26372
 - WeChat / phone: 17701087579
 - Telegram: @joyceggc
