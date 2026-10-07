@@ -38,12 +38,12 @@ Joyce has regularly joined game, App and global-market events as an invited prac
 
 ### Two ways to collaborate
 
-1. **Invite Joyce as a speaker or content guest** — keynote, fireside, executive roundtable, private workshop or expert clinic. Cooperation details can cover topic design, travel and accommodation, speaker honorarium, recording/content rights and post-event follow-up.
-2. **Sponsor or co-host a GGC executive salon** — support can include venue, production, travel, speaker costs, distribution or sponsorship budget, while GGC provides the content spine, Joyce's session, audience curation and qualified follow-up.
+1. **Invite Joyce as a speaker or content guest** — keynote, fireside, executive roundtable, private workshop or expert clinic.
+2. **Create a GGC executive-salon linkage** — jointly design a practical module, audience interaction and relevant post-event follow-up.
 
 ### What partners can do
 
-- **Founding Sponsor / Co-host** — shape the three-city pilot and the annual executive agenda.
+- **Founding Collaboration Partner** — shape the three-city pilot and the annual executive agenda.
 - **Category Partner** — own one business problem: Cloud/AI, Measurement, Commerce, Platform/Creative, or Local Ecosystem.
 - **City Host** — bring venue, local executive reach and a city-specific module.
 - **Insight/Data Partner** — contribute licensed data, benchmarks, expert interpretation and a co-created report.
@@ -73,9 +73,9 @@ Joyce has regularly joined game, App and global-market events as an invited prac
 
 ### Open invitation
 
-If your team is planning a game/App event, customer salon, city program or industry-content series, Joyce is open to joining as a practical speaker or content guest. GGC is also preparing a three-city pilot and welcomes a small number of suitable Sponsors and co-hosts.
+If your team is planning a game/App event, customer salon, city program or industry-content series, Joyce is open to joining as a practical speaker or content guest. GGC is also preparing a three-city pilot and welcomes a small number of suitable collaboration partners.
 
-The first conversation can simply compare audience, topic and format. Cooperation details—including travel, accommodation, speaker honorarium, venue/production support, sponsorship and post-event customer follow-up—can be discussed after both sides see a genuine fit.
+The first conversation can simply compare audience, topic and format. Detailed cooperation terms can be discussed after both sides see a genuine fit.
 
 Contact: Joyce  
 WeChat / phone: 17701087579  
@@ -117,12 +117,12 @@ Joyce 是 GGC 创始人，拥有 15+ 年游戏与产品经验，职业经历覆�
 
 ### 两种合作方式
 
-1. **邀请 Joyce 担任分享嘉宾**：Keynote、Fireside、高管圆桌、闭门工作坊或专家门诊。合作细节可根据活动商议，包括主题设计、往返交通与住宿、讲者费用、录制/内容使用权和会后交流。
-2. **Sponsor 或联合主办 GGC 高管闭门会**：合作方可支持场地、制作、差旅、嘉宾费用、传播或赞助预算；GGC 负责内容框架、Joyce 分享、观众筛选与合格业务后续。
+1. **邀请 Joyce 担任分享嘉宾**：Keynote、Fireside、高管圆桌、闭门工作坊或专家门诊。
+2. **与 GGC 做城市内容联动**：双方共同设计实战模块、观众互动和相关会后衔接。
 
 ### 合作方式
 
-- **联合发起 Sponsor / 联合主办方**：共同定义三城 Pilot 与年度高管议题。
+- **联合发起合作伙伴**：共同定义三城 Pilot 与年度高管议题。
 - **品类伙伴**：围绕 Cloud/AI、归因与情报、支付与商业化、平台与创意、本地生态中的一个核心问题深度参与。
 - **城市主办伙伴**：提供场地、本地高质量观众与城市主题模块。
 - **数据/洞察伙伴**：提供合规可用的数据、基准和专家解读，共同形成行业报告。
@@ -152,9 +152,9 @@ Joyce 是 GGC 创始人，拥有 15+ 年游戏与产品经验，职业经历覆�
 
 ### 当前合作邀请
 
-如果贵司接下来有游戏/App行业活动、客户闭门会、城市站或内容栏目，需要真正懂产品与经营的分享嘉宾，可以直接联系 Joyce。GGC 同时在规划三城 Pilot，也欢迎合适的 Sponsor 与联合主办伙伴。
+如果贵司接下来有游戏/App行业活动、客户闭门会、城市站或内容栏目，需要真正懂产品与经营的分享嘉宾，可以直接联系 Joyce。GGC 同时在规划三城 Pilot，也欢迎合适的联动合作伙伴。
 
-第一次沟通只需要互相确认受众、主题和形式是否匹配。往返交通与住宿、讲者费用、场地与制作、联合传播、Sponsor预算及客户后续等合作细节，可在双方确认适配后再商议。
+第一次沟通只需要互相确认受众、主题和形式是否匹配。具体合作方式可在双方确认适配后再商议。
 
 联系人：Joyce  
 微信 / 电话：17701087579  
