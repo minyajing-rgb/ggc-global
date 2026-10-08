@@ -104,3 +104,7 @@ Do not turn one category into another.
 The purpose of the system is not to look complicated.
 
 The purpose is to make high-quality judgment **repeatable, teachable, and compounding**.
+
+
+- [PITCH_IMAGE_SEQUENCE_29.md](./PITCH_IMAGE_SEQUENCE_29.md)  
+  Locked 29-image sequence, 01–12 progress ledger, and next-page rule.
