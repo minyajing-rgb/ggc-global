@@ -1,7 +1,7 @@
 # Joyce / GGC — 29-Image Pitch Sequence
 
 **Version:** 2026-10-08  
-**Status:** 12/29 prepared as a continuous numbered image set.  
+**Status:** 29/29 rendered as a continuous numbered image set (2026-10-08).  
 **This is the image continuation manifest. It does not replace `CLOSED_DOOR_DECK_MASTER.md`; that document remains the original 29-page executive content source.**
 
 ## Locked Visual Continuation Rules
@@ -30,23 +30,23 @@
 | 10 | COMPLETED | 历史复杂项目接管与经营重启 | Original source shorthand `0→2kw` not reinterpreted |
 | 11 | COMPLETED | 验证、成本、素材、CTR、LTV 对照 | One historical before/after evidence group |
 | 12 | COMPLETED | KOL 市场案例与会员商业价值 | Two separate cases; ad batch separated |
-| 13 | QUEUED | Casino / Arcade / Sims 品类差异与判断 | New, not repeat of 04 |
-| 14 | QUEUED | Global Publishing & launch readiness | Operating depth, not tutorial |
-| 15 | QUEUED | LiveOps / economy / monetization system | Operating capability |
-| 16 | QUEUED | GGC 12 Principles | Executive principles |
-| 17 | QUEUED | EMBA Executive Framework | Executive outputs and modules |
-| 18 | QUEUED | Joyce Proprietary Playbook | Decision rules, no full paid SOP |
-| 19 | QUEUED | 大公司 / 黑马 / 创业 / 项目接管适配 | Organization adapters |
-| 20 | QUEUED | AI-native 2.0 六层私人基础能力 | Label staged integration |
-| 21 | QUEUED | 内容生产与全球分发作品 | Actual assets and outputs |
-| 22 | QUEUED | Casino benchmark / category research | Evidence-led examples |
-| 23 | QUEUED | Arcade industry research and prototypes | Research ≠ published game |
-| 24 | QUEUED | Sims / Cozy research and product concepts | Research ≠ published game |
-| 25 | QUEUED | Self-owned products / current milestones | Accurate stage labels |
-| 26 | QUEUED | Bunny / PLOT / Consumer AI | Product vs R&D status |
-| 27 | QUEUED | Industry knowledge / content / publications | Depth and reusable assets |
-| 28 | QUEUED | Vision: GLOBALIZE · GAMIFY · CONNECT | Playful / creative / courageous / connected |
-| 29 | QUEUED | Evidence index, disclosure boundaries, detailed contacts | Appendix terminus |
+| 13 | COMPLETED | Casino / Arcade / Sims 品类差异与判断 | New, not repeat of 04 |
+| 14 | COMPLETED | Global Publishing & launch readiness | Operating depth, not tutorial |
+| 15 | COMPLETED | LiveOps / economy / monetization system | Operating capability |
+| 16 | COMPLETED | GGC 12 Principles | Executive principles |
+| 17 | COMPLETED | EMBA Executive Framework | Executive outputs and modules |
+| 18 | COMPLETED | Joyce Proprietary Playbook | Decision rules, no full paid SOP |
+| 19 | COMPLETED | 大公司 / 黑马 / 创业 / 项目接管适配 | Organization adapters |
+| 20 | COMPLETED | AI-native 2.0 六层私人基础能力 | Label staged integration |
+| 21 | COMPLETED | 内容生产与全球分发作品 | Actual assets and outputs |
+| 22 | COMPLETED | Casino benchmark / category research | Evidence-led examples |
+| 23 | COMPLETED | Arcade industry research and prototypes | Research ≠ published game |
+| 24 | COMPLETED | Sims / Cozy research and product concepts | Research ≠ published game |
+| 25 | COMPLETED | Self-owned products / current milestones | Accurate stage labels |
+| 26 | COMPLETED | Bunny / PLOT / Consumer AI | Product vs R&D status |
+| 27 | COMPLETED | Industry knowledge / content / publications | Depth and reusable assets |
+| 28 | COMPLETED | Vision: GLOBALIZE · GAMIFY · CONNECT | Playful / creative / courageous / connected |
+| 29 | COMPLETED | Evidence index, disclosure boundaries, detailed contacts | Appendix terminus |
 
 ## Source Relationship
 
@@ -60,10 +60,20 @@
 ## Asset Integrity
 
 - **01–08 original image assets exist in the active conversation work folder and are re-used without redrawing.**
-- **09–12 are prepared as new numbered PNG files and assembled with 01–08 as a continuous PDF.**
-- **Binary PNG/PDF files have not been verified as committed to GitHub; this document is the verified GitHub version-control ledger.**
+- **09–29 are prepared as new numbered PNG files and assembled with 01–08 as one 29-page PDF.**
+- **Binary PNG/PDF files are delivered as conversation attachments, but have **not** been committed to GitHub; this document is the verified GitHub text/version-control ledger.**
 - Keep binary upload status separate from content-document commit status.
 
 ## Future Generation Rule
 
-**Next page to generate: 13. Do not regenerate 01–12.**
+**All 29 pages are completed locally. Do not regenerate any page 01–29 unless Joyce explicitly requests a revision.**
+
+## Final Package QA (2026-10-08)
+
+- 29/29 pages in one continuous PDF.
+- 29 page bookmarks, all pages 16:9.
+- 01–08 originals retained without redrawing; 09–12 retained; 13–29 added in sequence.
+- Page 08 is the closing of the short pitch, while 09–29 are extended executive reference material.
+- All 29 page PNGs available as one ZIP conversation attachment.
+- Rejected an off-outline 13–16 contact-sheet candidate; it is NOT part of the final numbered package.
+- Binary repository upload remains pending; do not claim images or PDF are already hosted in GitHub.
