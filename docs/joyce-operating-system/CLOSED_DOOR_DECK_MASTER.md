@@ -532,6 +532,17 @@ Closing message:
 CTA:
 Bring one important product / operating question.
 
+## Public contact information — confirmed 2026-10-09
+
+- **Mobile / WeChat:** 17701087579
+- **Email:** joyce@ggcgames.com
+- **Base:** Shenzhen · Shekou / 深圳 · 蛇口
+- **Website:** https://biz.ggcgames.com
+- **Telegram:** @joyceggc
+- **WeChat:** embed the user's original QR screenshot/crop without AI regeneration; the QR must remain machine-scannable.
+
+Place the complete contact block on **page 29** and also on **page 08**, the short pitch ending. Contact details must be checked again at every deck export.
+
 ---
 
 # Non-Negotiable Visual Rules
