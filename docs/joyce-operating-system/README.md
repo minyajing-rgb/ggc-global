@@ -108,3 +108,6 @@ The purpose is to make high-quality judgment **repeatable, teachable, and compou
 
 - [PITCH_IMAGE_SEQUENCE_29.md](./PITCH_IMAGE_SEQUENCE_29.md)  
   Locked 29-image sequence, 01–12 progress ledger, and next-page rule.
+
+- [PITCH_IMAGE_SEQUENCE_29_v2.md](./PITCH_IMAGE_SEQUENCE_29_v2.md)  
+  Corrected 29-page poster sequence, revised 09–16, continued 17–29, and dated visual/evidence QA. (Assets are conversation downloads; GitHub ledger is text only.)
