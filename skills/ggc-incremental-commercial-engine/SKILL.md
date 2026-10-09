@@ -5,10 +5,41 @@ description: >
   setting wave-level outreach caps, measuring stage conversion, comparing market benchmarks
   with GGC observed data, diagnosing funnel leaks and scaling only after each stage passes
   evidence gates. Applies to B2B client sales and FA investor development with separate funnels.
-version: 1.1
+version: 1.2
 ---
 
 # GGC Incremental Commercial Engine
+
+## v1.2 First-Touch Coverage and Saturation Controls — 2026-10-09
+
+**Measure new-account coverage separately from historical follow-up suppression.** A company's no-reply hold applies only to that canonical company; it must never reduce the sourcing rate for untouched companies.
+
+Use mutually exclusive cohorts:
+- `UNTOUCHED_RESEARCH`: new company discovered, identity/money/history/route verification pending.
+- `UNTOUCHED_ELIGIBLE`: principal or funded transformation with strong money, a current operating thesis, no prior touch/STOP, and a verifiable route.
+- `FIRST_TOUCH_APPROVAL_QUEUE`: named company/person/route plus role-specific draft awaiting Joyce's explicit batch approval.
+- `FIRST_TOUCH_APPROVED`: permission tied to exact company, person and message; one first touch with evidence and send log.
+- `TOUCHED_NO_REPLY_HOLD`: past contact without human inbound, excluded from automated subsequent waves.
+- `ENGAGED` and `STOP/UNFIT`: human engagement or prohibited/not fit accounts.
+
+Key conversion ratios:
+1. Census new canonical accounts / independent source rows.
+2. Economic-fit untouched accounts / new canonical accounts.
+3. Executive/contact-ready untouched accounts / economic-fit untouched accounts.
+4. Joyce-approved first-touches / Contact Ready untouched accounts.
+5. **Unique previously untouched companies first-touched / approved eligible companies**, not total SENT.
+6. Human need replies / uniquely first-touched companies.
+7. Meetings → proposals → signed scopes → cash.
+
+No warm intro is not by itself disqualifying if a legitimate public C*O or business route exists. Do not substitute generic inbox guessing or cross-company identity shortcuts.
+
+The goal is broad, careful first coverage of all reachable qualified new companies over multiple waves, while never repeatedly chasing the same silent company. If the send gate is OFF, work must still progress through sourced/net-new accounts and an actionable approval queue instead of counting old HOLD inventory. A paused sending engine is not a paused research/qualification engine.
+
+Current Joyce restriction: no external BD, FA or PR sending without approval of the actual company + target route + message; YOOZOO and NetDragon (related entities) are banned.
+
+---
+
+
 
 ## 0. Principle
 
