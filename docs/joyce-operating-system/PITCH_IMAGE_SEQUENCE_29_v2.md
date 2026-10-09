@@ -95,3 +95,16 @@ The new 17–29 pages prioritize typography and precise charts over fully illust
 - [Visual QA](./VISUAL_GENERATION_QA.md)
 
 **Next action:** Joyce reviews v2 visual continuation; any requested edits are by explicit page number, not whole-deck restart.
+
+## Contact-page correction — 2026-10-09 (v3)
+
+Joyce confirmed these must appear on both the short-pitch closing **page 08** and full-pitch **page 29**:
+
+- Mobile / WeChat: **17701087579**
+- Email: **joyce@ggcgames.com**
+- Location: **Shenzhen · Shekou / 深圳 · 蛇口**
+- Website: **biz.ggcgames.com**
+- Telegram: **@joyceggc**
+- WeChat QR: **the user's uploaded original contact QR**, preserved as an exact crop, not redrawn.
+
+The locally delivered **v3** PDFs/images replace only page 08 and page 29. All other slide topics, page numbers, and existing images remain unchanged. QR was decoded both from the source and from the updated slide images. The PNG/PDF binaries are conversation attachments and have **not** been uploaded to GitHub.
