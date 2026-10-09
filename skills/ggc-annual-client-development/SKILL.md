@@ -4,7 +4,7 @@ description: >
   Account-based business development for Joyce/GGC annual client acquisition.
   Use for sourcing, qualifying, penetrating, contacting and converting Chinese-led
   principal-side game companies into high-value GGC operating, publishing and growth engagements.
-version: 2.3
+version: 2.4
 ---
 
 # GGC Annual Client Development — Account-Based BD Skill
@@ -46,6 +46,34 @@ Do not optimize for:
 - third-party networking.
 
 The unit of work is the **account/company decision unit**, not an email address.
+
+---
+
+## v2.4 — Separate Untouched Coverage from Historical No-Reply Hold (2026-10-09)
+
+**Critical interpretation:** Company-level No-Reply HOLD suppresses repeated contact to that company; it does **not** halt first-touch development of other previously untouched companies.
+
+Operate independent ledgers:
+1. `UNTOUCHED_CENSUS` — canonical company not yet fully qualified or contact-history verified.
+2. `UNTOUCHED_OUTREACH_ELIGIBLE` — clear principal/transition fit, credible money and trigger, no known prior touch or STOP, at least one legitimate C*O/business route after full cross-channel verification.
+3. `FIRST_TOUCH_NEEDS_JOYCE_APPROVAL` — ready with named company/contact, prior history, one role-specific draft, CTA; **no send** until batch/company approval and current send gate permit it.
+4. `FIRST_TOUCH_APPROVED` — approved specific company + person + message; one first-touch attempt, verified against SENT and logged; failed/unknown delivery is not permission to retry.
+5. `TOUCHED_NO_REPLY_HOLD` — prior legitimate contact and no human reply; no rotating to a new person/address/channel for automated repeat sends.
+6. `ENGAGED_HUMAN_REPLY` — genuine interaction, routed to Reply Desk / opportunity action; not part of cold first-touch pool.
+7. `DO_NOT_CONTACT_OR_UNFIT` — banned, declined, legally restricted, vendor-only, unfunded indie etc.
+
+**New-company coverage is a separate primary KPI:** unique canonical qualified companies first-touched / approved untouched qualified company cohort. A past-sent mailbox or a historical thread is not a new account. Legacy Gmail lists, including company/domain guesses, are evidence to suppress repeat touches, not a prospect source to re-mail.
+
+For every BD run:
+- Reply Desk first, then spend the majority of sourcing effort on **net-new untouched** companies, not enrichment of HOLD-only accounts.
+- Start with the current graph's accounts without a confirmed prior touch, then ingest high-density product/store/financial/event sources; enforce parent-group canonicalization.
+- For each fresh mid-market+ account, verify decision center, owned games or credible funded transformation to games, 30M+ money evidence or strongly inferred operating cash generation, concrete trigger/thesis and C*O/BU budget owner. Four categories are expansion/greenlight wedges, not master category gates.
+- A credible public executive/business route can qualify as Contact Ready even without a verified warm introduction; warm path is preferred, **not mandatory**.
+- Before any external new communication, enforce current user requirement for a company/recipient-specific approval list with an actual draft and check the separate send gate. The current private send gate remains authoritative. Never claim automatic sends are on if it is closed.
+- **Do not use No-Reply HOLD as a reason to stop researching/qualifying untouched companies.** Do not inflate send volume by contacting third parties, tiny CPs, banned groups, or previously contacted executives.
+- Report `new canonical companies identified`, `untouched qualified accounts`, `named C-level executives`, `legitimate first-contact routes`, `ready for Joyce review`, `approved for first touch`, `unique new companies actually touched`, `no-reply-held companies`, `human replies/meetings/proposals/signed/cash`, and the blocking gate for every zero.
+
+Hard exclusions: YOOZOO/游族网络 and NetDragon/网龙网络 with related entities are user-ban regardless of account economics; identity conflicts such as 中华网龙 require independent manual verification and Joyce review.
 
 ---
 
