@@ -4,10 +4,16 @@ description: >
   Account-based business development for Joyce/GGC annual client acquisition.
   Use for sourcing, qualifying, penetrating, contacting and converting Chinese-led
   principal-side game companies into high-value GGC operating, publishing and commercial-operating engagements.
-version: 2.6
+version: 2.7
 ---
 
 # GGC Annual Client Development — Account-Based BD Skill
+
+## v2.7 — Joyce conditional >=78 first-touch authorization (2026-10-10; overrides blanket no-send for qualified GGC B2B only)
+
+Joyce explicitly authorizes **direct first-touch business email without per-company preapproval** when a Chinese-speaking own-product principal-side account scores **78/100 or higher** on the evidence-backed fit rubric AND **every** hard gate independently passes. Escalate ambiguous companies/routes/copy/identity to Joyce rather than holding the entire untouched-company sourcing pipeline. Source of truth: private `minyajing-rgb/GGC-FA/ops/bd/audit/2026-10-10_MATCH78_CONDITIONAL_B2B_SEND_GATE.json`. This latest conditional instruction supersedes earlier broad approval-only/no-send text **only within this narrow principal-side B2B scope**. Do not silently unlock FA, PR, personal social-network actions, or other lanes. Do not bypass group-level no-reply HOLD, company STOP, bounces, legal/privacy/support inbox exclusions, existing relationship suppression, YOOZOO or NetDragon group hard bans. CEO personal outreach requires real matched current CEO route, but an official business address may be used as *company* intake without falsely labeling a CEO connection. Before send, record actual legal company and parent, owned game, purchasing-capacity signal, dated trigger, missing-corner thesis, 78+ point breakdown, recipient legitimacy, cross-Gmail/CRM alias history, full subject+copy. One email first, read Gmail SENT for message id, place company immediately on no-reply HOLD. If any mandatory fact is unresolved do not send and provide a short exception queue; continue net-new census work.
+
+
 
 ## v2.6 — CEO / Founder / Investor relationship-first AI strategic collaboration (2026-10-10)
 
