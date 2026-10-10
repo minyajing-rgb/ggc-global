@@ -6,6 +6,13 @@ Scope: awards, conference speaking and editorial opportunities across games, AI,
 
 This is a working pipeline, not a list of awards won, confirmed speaking engagements or media endorsements. **Prepared**, **submitted**, **accepted/finalist** and **won/published** are separate states and must not be conflated.
 
+
+## 2026-10-10 direct portal and Gmail award verification
+
+- **2027 everywoman Technology Awards — Innovator:** Joyce's private Eventsforce personal entry summary was opened via the official single-use/personal amendment URL on 10 October. It displayed `Entries Not Submitted (1)`, `Innovator Award`, `This entry form has not been completed`, and `Submitted Entries (0)`. Thus **not submitted**. Email `1a11c2b2a4eb56dd` gives 26 Oct 2026 deadline; the portal showed contradictory older generic template text '26 January 2026'. International Innovator category allowed, but fee and remote/on-site judging query `1a11be20d7c6d11d` unanswered. Review package: [Innovator draft](pr/everywoman-2027/Innovator_Joyce_Mi_review_draft.md). No nomination submission occurred in this verification.
+- **WiCX 2026 receipt update:** Five distinct category-receipt messages total: Responsible AI `1a0fcfa923b4df65`; Customer Insight `1a10223e1af60c15` and `1a1027ba0e992e0f` (two separate mailings, category entry count unknown); Leader of the Year `1a11eea39017ad59`; Experience Design `1a11ec08e0e01c7e`. **Industry Impact still has no category-specific acknowledgement or Typeform response ID**, though Joyce had previously reported submission. No duplicate/new entry was made. Prepared review package [Industry Impact draft](pr/wicx-2026/Industry_Impact_Joyce_Mi_review_draft.md) for comparison with original form/submission history. Deadline 16 Oct 2026. Prior WiCX official guidance says multiple nominations of same individual in a category count as one nomination, but receipt semantics remain unresolved; better reconcile before sending another entry.
+- **Important evidence discipline:** Only personal portal unsubmitted status is conclusive for Innovator; missing Industry Impact email does not prove non-submission. The private portal access token must not be published, duplicated or embedded into this repo. Current public materials do not imply award acceptance, attendance agreement, entry fee payment or exact form answers.
+
 ## Current execution
 
 This public status follows portal confirmations and delivery evidence, not draft labels. Joyce/GGC's current 10–19 employees are distinct from the historical 500+ cross-functional network she coordinated. Paid opportunities remain TBC; no award fee has been committed.
