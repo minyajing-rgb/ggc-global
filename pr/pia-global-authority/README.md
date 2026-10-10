@@ -17,6 +17,27 @@
 | [../PIA_GLOBAL_2026Q4_2027_WORLDWIDE_MASTERPLAN.md](../PIA_GLOBAL_2026Q4_2027_WORLDWIDE_MASTERPLAN.md) | Original strategy and source calendar |
 | [../../GLOBAL_PR_STATUS.md](../../GLOBAL_PR_STATUS.md) | Broader historical public award/speaker submission records |
 
+## Live execution tickets (GitHub Issues)
+The 74-row CSV is the complete queue; below are the P0 actionable tickets for the coming sprint. We do **not** create 74 near-empty issues simply to inflate task count.
+
+| Queue | Issue | Exit condition |
+|---|---|---|
+| WiCX Industry Impact / 16 Oct | [#1](https://github.com/minyajing-rgb/ggc-global/issues/1) | category/receipt reconciled |
+| everywoman Innovator / 26 Oct | [#2](https://github.com/minyajing-rgb/ggc-global/issues/2) | real final receipt or real blocker |
+| 4YFN Awards / 26 Oct | [#3](https://github.com/minyajing-rgb/ggc-global/issues/3) | one eligible product and official submission |
+| 4YFN Consumer AI Solo / 5 Nov | [#4](https://github.com/minyajing-rgb/ggc-global/issues/4) | full form final success; currently *partial only* |
+| Asia-Pacific Stevie / cycle opens 14 Oct | [#5](https://github.com/minyajing-rgb/ggc-global/issues/5) | confirmed category fee/eligibility |
+| WMF Italy / 13 Oct conversation | [#6](https://github.com/minyajing-rgb/ggc-global/issues/6) | organizer benefit, logistics and costs captured |
+| PGC Jordan/London, one organizer thread | [#7](https://github.com/minyajing-rgb/ggc-global/issues/7) | genuine response to solo/exposure/travel ask |
+| ATxSG Singapore, approval gated | [#8](https://github.com/minyajing-rgb/ggc-global/issues/8) | approved contacts and fit/route response |
+| 2027 English operating report | [#9](https://github.com/minyajing-rgb/ggc-global/issues/9) | editorial-ready evidence-linked outline |
+| Weekly review and optimization | [#10](https://github.com/minyajing-rgb/ggc-global/issues/10) | 74-ID reconciliation and week-on-week review |
+
+## Recurrence
+- **Daily 08:00 local conditional watch** — newly actionable organizer replies, P0/P1 deadlines entering 7 days, payment/attendance decisions; silent if nothing changed. No automatic cold outreach.
+- **Every Monday morning weekly review** — 74-ID checks, funnel metrics, 5–10 priority actions and 1–3 corrective experiments. Recurring reminders are configured through ChatGPT Tasks; **GitHub Actions are not executing this schedule**, and the reports depend on source/connector access at run time.
+- Execution / spend still require scope-appropriate user permissions. Public repo only stores sanitized status, not private Gmail payloads.
+
 ## Pipeline status snapshot (2026-10-10)
 | State | Rows |
 |---|---:|
