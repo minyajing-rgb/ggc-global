@@ -9,10 +9,13 @@ This is the **current bilingual source of truth** for founder, C*O, industrial i
 |---|---|---|---|
 | LinkedIn | Joyce Mi · LinkedIn | https://www.linkedin.com/in/minyajing/ | Current public professional profile, exact URL |
 | GGC Business | GGC · Global Game Copilot | https://biz.ggcgames.com/ | Live GGC business site |
+| GGC AI SaaS Lab | GGC 五个 AI 产品 / AI SaaS Suite | https://biz.ggcgames.com/sme/ | Live product overview; MVP/roadmap claims and demo metrics are not equivalent to paid usage or shipped integrations |
 | Why Joyce | Joyce · Executive Profile / Why Joyce | https://biz.ggcgames.com/joyce/ | Live page with actual career/projects, scoped outcomes, services, speaking and book |
 | Published book | 《游戏运营与出海实战：策略、方法与技巧》 / *Game Operations & Global Expansion: Strategies, Methods and Skills* | https://ebooks.cmpbook.com/detail?id=26372 | China Machine Press / 机械工业出版社 official listing; author Ai Xiaomi / 艾小米, ISBN 978-7-111-75037-6 |
 
 **Deck / presentation:** The 28-page illustrated `GGC_闭门分享_28页图文版_v6.pdf` (title: Joyce / GGC | 全球头部游戏实践与产品共创), originally held in the user's Library, was recovered as a **local attachment** in the current conversation, NOT a publicly hosted share URL. Do NOT fabricate `https://...` for this deck, do not insert a `sandbox:` URL into external mail, and do not automatically attach without Joyce's document/content approval. The GitHub [29-page on-screen text reference](../docs/weekly-os/closed-door-deck/MASTER_29P.md) is NOT itself the published PDF. Public hosted deck link remains **PENDING_PUBLIC_UPLOAD_AND_ACCESS_QA**.
+
+The live public `/sme/` page is a product-plan and private-beta landing/overview, not evidence that all five SaaS products are mature or have paid customers.
 
 For external messages, use `附：Joyce × GGC 28页介绍PDF` / `Attached: Joyce × GGC 28-page profile (PDF)` **only if the file is actually attached**; otherwise write `长版介绍资料可按需提供` / `Happy to share the longer deck on request`. Never state or imply attachment that isn't present.
 
@@ -34,6 +37,7 @@ For external messages, use `附：Joyce × GGC 28页介绍PDF` / `Attached: Joyc
 - **LinkedIn：** https://www.linkedin.com/in/minyajing/
 - **GGC官网：** https://biz.ggcgames.com/
 - **完整履历 / Why Joyce：** https://biz.ggcgames.com/joyce/
+- **GGC AI SaaS 产品矩阵：** https://biz.ggcgames.com/sme/
 - **著作《游戏运营与出海实战》：** https://ebooks.cmpbook.com/detail?id=26372
 - **长版介绍：** 28页图文PDF，按实际附件/已核实公开分享链接提供
 
@@ -58,6 +62,7 @@ WeChat: **17701087579** · Telegram: **@joyceggc**
 - **LinkedIn:** https://www.linkedin.com/in/minyajing/
 - **GGC business:** https://biz.ggcgames.com/
 - **Executive profile / Why Joyce:** https://biz.ggcgames.com/joyce/
+- **GGC AI SaaS Lab:** https://biz.ggcgames.com/sme/
 - **Published book:** https://ebooks.cmpbook.com/detail?id=26372
 - **Long presentation:** 28-page PDF, available as an actual attachment or upon request; no verified public share link yet.
 
@@ -77,7 +82,8 @@ Joyce｜GGC
 微信17701087579｜TG @joyceggc  
 LinkedIn：https://www.linkedin.com/in/minyajing/  
 GGC：https://biz.ggcgames.com/  
-个人资料：https://biz.ggcgames.com/joyce/  
+个人资料：https://biz.ggcgames.com/joyce/
+AI SaaS：https://biz.ggcgames.com/sme/  
 出版著作：https://ebooks.cmpbook.com/detail?id=26372
 
 **Important:** Investor/business-partner relationships belong in their separate pipelines. They are not qualified million-RMB consulting buyers by default.
@@ -99,7 +105,8 @@ Best regards,
 WeChat: 17701087579 · Telegram: @joyceggc  
 LinkedIn: https://www.linkedin.com/in/minyajing/  
 GGC: https://biz.ggcgames.com/  
-Why Joyce: https://biz.ggcgames.com/joyce/  
+Why Joyce: https://biz.ggcgames.com/joyce/
+AI SaaS Lab: https://biz.ggcgames.com/sme/  
 Published book: https://ebooks.cmpbook.com/detail?id=26372
 
 ## 6. 附件/介绍资料规则（防止链接错误）
