@@ -157,9 +157,14 @@ def run(args):
             last_events[k].append((e.get("ts",""),event))
 
     company_hold=set()
+    company_engaged=set()
     for key,history in last_events.items():
         history=sorted(history)
-        if history and history[-1][1]=="FIRST_TOUCH":
+        if not any(event=="FIRST_TOUCH" for _,event in history):
+            continue
+        if history and history[-1][1]=="HUMAN_REPLY":
+            company_engaged.add(key)
+        else:
             company_hold.add(key)
 
     mapped=defaultdict(list)
@@ -197,6 +202,10 @@ def run(args):
             counter["company_graph_3plus"]+=1
         if key in company_stop:
             counter["company_stop"]+=1
+            continue
+        if key in company_engaged:
+            # Route into Reply Desk / opportunity. Not net-new cold outreach.
+            counter["engaged_company_not_new_cold_outreach"]+=1
             continue
         if key in company_hold:
             counter["company_no_reply_hold"]+=1
