@@ -18,6 +18,7 @@ WeChat: **17701087579** · Telegram: **@joyceggc**
 **LinkedIn:** https://www.linkedin.com/in/minyajing/  
 **GGC business:** https://biz.ggcgames.com/  
 **Executive Profile / Why Joyce:** https://biz.ggcgames.com/joyce/  
+**GGC AI SaaS Lab:** https://biz.ggcgames.com/sme/  
 **Published book:** https://ebooks.cmpbook.com/detail?id=26372
 
 **Long presentation (28-page visual PDF):** mention as `Attached: Joyce × GGC Executive Presentation` only if the exact approved PDF is truly attached; otherwise `Happy to share the longer deck on request`. The currently imported Canva design is owner-review-only, and a public deck URL has not yet been verified. Never paste a `sandbox:` URL into external email.
