@@ -6,7 +6,7 @@ Status: public, sanitized, source-bound.
 
 ## One-line positioning
 
-**Joyce Mi is Founder of GGC and a global game operator connecting product judgment, data, LiveOps, monetization, global publishing and AI-native operating systems.**
+**Joyce Mi is the founder of GGC, a global multi-category game operator and operating-system architect who has repeatedly connected player data, product, social virality, monetization, global publishing and organizational execution across flagship games and teams. Her work includes the transfer and adaptation of Zynga-derived data and operating practices into Asian team contexts, global franchise operations and subsequent entrepreneurship.**
 
 ## Short bio — English
 
@@ -25,6 +25,13 @@ Joyce Mi is Founder of GGC and a global game operator with 15+ years across game
 Joyce（闵雅婧）是 GGC 创始人，拥有 15+ 年游戏与产品经验，职业经历覆盖 Microsoft、腾讯、Zynga、Gameloft。其第一方职业记录包括在 Zynga 担任 Product Manager / Lead Producer，参与 CityVille、FarmVille 与 Arcade 产品；在 Gameloft 的全球运营工作涉及《混沌与秩序》《小黄人快跑》《雷神2》等项目，并与 10+ 工作室、500+ 跨职能协作网络共同推进业务。她长期连接品类判断、产品、数据、商业化、LiveOps、UA、全球发行与经营机制。Joyce 著有《游戏运营与出海实战：策略、方法与技巧》（机械工业出版社，2024），并拥有 2019–2026 的公开行业分享与专业输出记录。当前在 GGC 聚焦 AI-native 游戏与消费产品的经营系统、全球商业化及产品孵化。
 
 ## Interview territories
+
+### 0. Global flagship results and operating-system architecture (PRIMARY)
+- How DAU/revenue/social-virality and experimental practices from Zynga were adapted and carried into Asian teams (first-party career account; specific adoption proof under reconciliation).
+- How Gameloft operations connected 10+ studios and a 500+ cross-functional collaboration network around product, retention, monetization, LiveOps and release decisions.
+- What repeating leading results across different categories requires: system design, company architecture, organizational cadence, and commercial accountability.
+- How Joyce's 2024 book, independent speaking record, mentorship, and advisory work have transferred those practices beyond a single employer.
+- Precisely scoped cases (including Chinese CityVille D1 +700bps) take priority over generic AI-only messages. Claims of formal pan-Asia industry standards or numerical No.1 rankings require per-case public proof.
 
 ### 1. AI-native games
 - Why AI in games is moving beyond asset production.
