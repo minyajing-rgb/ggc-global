@@ -6,6 +6,32 @@ These are evergreen talk products. Event-specific proposals should adapt the tit
 
 ---
 
+## 00 — From Global Hits to Operating Systems (PRIMARY AUTHORITY TALK)
+
+**Subtitle:** Building, transferring, and rebuilding the operating architecture behind global games across products, markets and organizations.
+
+### Thesis
+
+Repeatable global product results require more than isolated dashboards or creative campaigns. Joyce's career spans Zynga CityVille/FarmVille/Arcade operating practices; the first-party account of adapting DAU, revenue, social virality, research and experiment methods into Asian team contexts; Gameloft regional architectures connecting 10+ studios and a 500+ cross-functional network; and later entrepreneurial and cross-company rebuilds. The signature contribution is connecting player evidence, economy, LiveOps, release, commercialization, publishing, and organizational responsibility into one executable decision system. Recent AI-native work extends, rather than invents, that foundation.
+
+### Audience takeaways
+
+- What a full game operating architecture looks like from category and product through players, data, monetization, launch and portfolio.
+- How methods are transferred across teams and markets without assuming one-size-fits-all.
+- How to distinguish successful flagship outcomes from the replicable system behind them.
+- Where organizational design, cross-functional ownership and measurable player outcomes meet.
+
+### Proof and safeguards
+
+Use Zynga's scoped Chinese CityVille D1 +700bps and the Gameloft 10+ studios/500+ cross-functional network with exact qualifiers. Industry-method adoption, ranking/No.1 claims and consulting/reader success numbers require project-by-project source and clearance. The 2024 book and verified 2019–2026 organizer programmes support public knowledge transfer, not quantified downstream adoption by themselves.
+
+### Formats
+
+- Preferred: 25–40 minute independent featured/keynote-style presentation or fireside with senior host.
+- Secondary: executive closed-door session; panel only if peers/role/recording justify it.
+
+---
+
 ## 01 — AI Is Rebuilding the Game Business
 
 **Subtitle:** Beyond asset production: product decisions, LiveOps, monetization, publishing and operating systems.
