@@ -4,6 +4,10 @@ Updated: 2026-10-03
 
 This directory contains GGC business-development positioning, pitch templates, account examples and operating materials.
 
+## Buyer Reply-First / 10k Executive Coverage
+
+Before peripheral work or more cold outreach, always inspect human replies and read [Reply First + 10,000 Executives SOP](BD_REPLY_FIRST_10000_EXECUTIVES_SOP_v1.md). The 10k relevant-executive network is separate from the smaller annual-contract sales pipeline; no third-party messages or duplicate follow-ups count as new decision-maker contacts.
+
 ## Mandatory workflow before drafting a pitch
 
 1. Read [Joyce PR / BD Positioning Skill](../skills/joyce-pr-bd-positioning/SKILL.md).
