@@ -4,10 +4,30 @@ description: >
   Account-based business development for Joyce/GGC annual client acquisition.
   Use for sourcing, qualifying, penetrating, contacting and converting Chinese-led
   principal-side game companies into high-value GGC operating, publishing and commercial-operating engagements.
-version: 2.5
+version: 2.6
 ---
 
 # GGC Annual Client Development — Account-Based BD Skill
+
+## v2.6 — CEO / Founder / Investor relationship-first AI strategic collaboration (2026-10-10)
+
+**This supplements the existing P0 Reply Desk and all no-send/STOP gates; it does not authorize any new outreach.** Authoritative internal materials:
+- `minyajing-rgb/GGC-FA/ops/bd/consulting-market-map/founder-network/2026-10-10_C_LEVEL_AI_STRATEGIC_RELATIONSHIP_SOP_v2.md`
+- `minyajing-rgb/GGC-FA/ops/bd/strategy/2026-10-10_AI_DELIVERY_CASES_AND_PROOF_GATES_v1.md`
+- `minyajing-rgb/GGC-FA/ops/bd/strategy/2026-10-10_CEO_INVESTOR_PARTNER_30SEC_INTRO_AND_MESSAGES_v1.md`
+
+- **How Joyce should be introduced:** lead with 15+ years and actual global game work (Microsoft, Tencent, Zynga CityVille/FarmVille/Arcade, Gameloft Order & Chaos/Minion Rush), entrepreneurship and founder/operating responsibility. Never lead with abstract Vision or just a consultant/service menu. Global No.1 / specific revenue and AI claims must pass their scoped proof/permission gate.
+- **What she is doing now — two peer-level lines:** (A) GGC Principal — game/new-category greenlight, global self-publishing, commercial systems, fractional COO/CMO and strategic operating Copilot for qualified principals; (B) GGC owned games/AI consumer products + AI media/content, commercial intelligence, relationship, Steam and research SaaS workflows — available for genuinely scoped co-development, partnership, publishing or investment discussions. State true demo/deployment maturity; no unverified all-in-one launched SaaS assertion.
+- **Relationship-first, no sales-blast:** for CEOs, industrial investors and partners, use a friendly, confident first introduction: proof → current work/real AI evidence → target's one verified strategic signal → one plausible mutual collaboration → low-pressure optional connection. Do not sell annual retainers or send a full deck in a first hello.
+- **Keep four lanes distinct:** L1 principal paid consulting account; L2 investor/CVC/family office; L3 joint R&D/publishing/product partner; L4 media/association/platform industry connector. L2–L4 are NOT L1 paying clients; named executives and achieved one-to-one connections are separate counters.
+- **Shared relationship-network planning dimensions are not achieved contacts:** broad 20K industry people, ~3K cultivated strategic relationships, 500 key bosses and 100 durable core partners are a reference model; do not mix these with the independent 10K canonical company / 3K Potential Consulting Account / 10K named executive research targets.
+- **CEO-quality route standard:** exact real current person and role plus their actually matched public professional profile or consented one-hop introducer. Company inbox, IR/legal/privacy/support, generic form or an old historical title is not equivalent to direct CEO reachability. LinkedIn profile discovery is not a completed friend request.
+- **Account suppression:** existing relationships (e.g. Bole CEO 张亮) are not new cold leads; after corporate first touch without human response, suppress all follow-up routes across that group. In the Oct10 approved batch, 银汉/漫灵/元游 each had one SENT, not proven CEO connection, and remain no-reply HOLD. Do not use a newly found executive to circumvent an old HOLD.
+- **Proof hierarchy:** the original AI decks contain real-world before/after claims but need project, period, metric unit and publication permission; preserve as INTERNAL case candidates, never splice different client case metrics into a fictitious tenfold ROI.
+- **Operating permissions:** resume public-source research only when instructed, but no new email, social friend request, WeChat/TG message or events invitation until Joyce has reviewed each canonical company/person/real route/full copy and the live send gate permits it. Existing P0 human buyer Reply Desk continues under its own authority.
+
+---
+
 
 ## v2.5 — P0 REAL BUYER REPLIES FIRST / 10,000-EXECUTIVE NETWORK (2026-10-10)
 
