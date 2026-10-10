@@ -23,6 +23,7 @@ For all founder/CEO/investor introductions, do **not** omit Joyce's published bo
 - Professional profile: `https://www.linkedin.com/in/minyajing/`
 - GGC business/company: `https://biz.ggcgames.com/`
 - Joyce's longer career/executive page: `https://biz.ggcgames.com/joyce/`
+- GGC's live AI SaaS / five-product overview: `https://biz.ggcgames.com/sme/` (label products as private beta/development where applicable; marketing demo counters are not actual usage/revenue)
 - Official publisher book: `https://ebooks.cmpbook.com/detail?id=26372`, `《游戏运营与出海实战：策略、方法与技巧》`, China Machine Press, byline Ai Xiaomi / 艾小米.
 
 For a Chinese-speaking recipient, use Chinese copy and the Chinese book name. For an English-speaking recipient, use the English approved introduction and translated book title **with the same official publisher URL**. Actual links are preferred to empty labels, placeholders and guessed sites. Typically show the four links in the signoff rather than adding another paragraph of sales prose. Body should lead with real career/product examples, current GGC Principal and owned AI products / SaaS, one relevant strategic overlap, friendly invitation—not a mass-sales retainer pitch.
