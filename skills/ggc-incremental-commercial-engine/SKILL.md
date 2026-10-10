@@ -5,10 +5,16 @@ description: >
   setting wave-level outreach caps, measuring stage conversion, comparing market benchmarks
   with GGC observed data, diagnosing funnel leaks and scaling only after each stage passes
   evidence gates. Applies to B2B client sales and FA investor development with separate funnels.
-version: 1.2
+version: 1.3
 ---
 
 # GGC Incremental Commercial Engine
+
+## v1.3 — Match 78% authorization and result-first wave audit (2026-10-10)
+
+The latest Joyce authorization permits **direct one-time GGC principal-side B2B first touches** for evidence-scored account fit >=78/100 *only if* all substantive identity, owned-IP, scale, why-now, route, historical SENT/INBOX/BCC/CRM, anti-bounce and company STOP gates pass. Previously blanket "Joyce approves each exact company/person/copy" is superseded within that proven subset. FA/PR and other lanes remain separately approved; YOOZOO/NetDragon bans and company NO_REPLY_HOLD are unchanged. Store case-by-case evidence, score components, actual recipient and copy in private `minyajing-rgb/GGC-FA/ops/bd/audit/2026-10-10_MATCH78_CONDITIONAL_B2B_SEND_GATE.json` and dated execution logs. After sending, verify SENT by returned message ID, mark HOLD, and review the funnel, not just count messages. Any material uncertainty returns to Joyce's exception queue without stopping untouched census expansion.
+
+
 
 ## v1.2 First-Touch Coverage and Saturation Controls — 2026-10-09
 
