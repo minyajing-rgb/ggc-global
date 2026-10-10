@@ -17,6 +17,7 @@ Joyce Mi｜GGC 创始人
 **LinkedIn**：https://www.linkedin.com/in/minyajing/  
 **GGC 官网**：https://biz.ggcgames.com/  
 **完整个人经历 / Why Joyce**：https://biz.ggcgames.com/joyce/  
+**GGC AI SaaS 产品矩阵**：https://biz.ggcgames.com/sme/  
 **出版著作《游戏运营与出海实战》**：https://ebooks.cmpbook.com/detail?id=26372
 
 **长版 28 页 PPT/PDF**：如已获Joyce批准且已真正附上，可在邮件尾注明「附：Joyce × GGC 28页图文介绍」；**当前不可用私人Canva或ChatGPT下载链接冒充公开分享地址**，无附件时写「长版介绍材料可按需提供」。
