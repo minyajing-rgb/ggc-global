@@ -4,7 +4,7 @@ Version: 2026-10-03-v3
 
 ## Speaker positioning
 
-**Global game operator | AI-native games | product, LiveOps, monetization and global publishing**
+**Global multi-category game operator and operating-system architect | Global flagship games | Data/social virality and Asia method transfer | Cross-company operating systems | AI-native next chapter**
 
 Joyce is best used for executive / practitioner audiences that want operational frameworks and concrete decision logic rather than high-level AI trend commentary.
 
@@ -22,9 +22,12 @@ For new invitations, a solo session / fireside / featured interview has higher c
 
 See [SIGNATURE_TALKS.md](SIGNATURE_TALKS.md) for full abstracts.
 
-1. **AI Is Rebuilding the Game Business**
-2. **How Global Games Actually Win**
-3. **What Should We Build Next?**
+1. **From Global Hits to Operating Systems** — global flagship decisions, measurable systems and repeatable cross-company practice. PRIMARY authority talk.
+2. **Zynga to Asia: Data, Social Virality, and Operating Disciplines** — what travelled from Zynga's DAU/revenue/experimental practice into Asian teams (first-party contribution; precise adoption claims need evidence).
+3. **The Architecture of a Global Game Business** — product, analytics, game economy, monetization, organization, LiveOps and publishing.
+4. **How Global Games Actually Win** — decision gates and launch systems.
+5. **What Should We Build Next?** — category and portfolio judgment.
+6. **AI Is Rebuilding the Game Business** — new tools built on the historic operating foundation; not Joyce's sole professional identity.
 
 Each can be delivered in 15 / 30 / 45 minute variants.
 
