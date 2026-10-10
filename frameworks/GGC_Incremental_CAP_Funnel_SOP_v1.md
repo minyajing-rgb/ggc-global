@@ -1,5 +1,8 @@
 # GGC Incremental CAP & Funnel SOP v1｜2026-09-25
 
+> **2026-10-10 PRIORITY OVERRIDE:** This legacy document's 1,500–3,000 company estimate / 150–350 sales-qualified estimate only describes an illustrative narrow ANNUAL-CLIENT pipeline. It is **not** the company-master or outreach cap. The binding larger target is >=10,000 unique relevant game-company executive FIRST-TOUCH contacts, implying a research plan of roughly 2,000–3,334 canonical company groups at 3–5 named people each. Actual first touch must be Joyce-approved and evidenced by SENT/channel receipts. Read [the new Reply-First/10k SOP](../bd/BD_REPLY_FIRST_10000_EXECUTIVES_SOP_v1.md). P0 human buyer replies before all sourcing and peripheral email; keep inbound handling and the 10k census as separate metrics. Never infer 10k contacts from raw company rows.
+
+
 ## 一句话
 
 **不要把全市场CAP打一遍再复盘。**
