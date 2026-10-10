@@ -3,11 +3,30 @@ name: ggc-annual-client-development
 description: >
   Account-based business development for Joyce/GGC annual client acquisition.
   Use for sourcing, qualifying, penetrating, contacting and converting Chinese-led
-  principal-side game companies into high-value GGC operating, publishing and growth engagements.
-version: 2.4
+  principal-side game companies into high-value GGC operating, publishing and commercial-operating engagements.
+version: 2.5
 ---
 
 # GGC Annual Client Development — Account-Based BD Skill
+
+## v2.5 — P0 REAL BUYER REPLIES FIRST / 10,000-EXECUTIVE NETWORK (2026-10-10)
+
+**This overrides older prioritization or small CAP estimates when they conflict.**
+Canonical SOP: [BD Reply First + 10k Executives](../../bd/BD_REPLY_FIRST_10000_EXECUTIVES_SOP_v1.md).
+
+- **First action every run:** search Gmail and CRM for unhandled real HUMAN replies from principal-side owners, real product teams, budget owners and referred executives. Detect precise intent: budget/KPI, need, request for scope/BP/meeting, future launch, named-person handoff. Read whole thread and SENT before writing. Answer or escalate P0 first; never allow press/awards/KOL/agency/platform/administrative email to outrank genuine buyer reply.
+- **Reply SLA:** aim for same-business-day meaningful response; urgent signals are reviewed at the next run and surfaced by the separate frequent reply watch. No reply is considered completed without a confirmed SENT or tracked channel proof. Connector error means check SENT; if not confirmed, mark SEND_FAILED with copy-ready text and escalate, without claiming it was sent.
+- **Do not reflexively send prices, decks, diagnostics or lengthy free analysis** to first-time interest. Understand the product-specific signal and propose one appropriately small next step. If the company already got a reply, do not send another redundant message.
+- **10,000 means cumulative unique relevant core people actually FIRST-TOUCHED by approved legitimate channels**, not raw scraped leads, company names, guessed inboxes, multiple messages to one person, and not "10k human replies." Sourcing/verified roles/approved/confirmed SENT/human replies are separate fields.
+- **3–5 core people/company** creates a broader census planning requirement of roughly **2,000–3,334 distinct canonical game-company decision units**. This is a working arithmetic plan requiring market validation, not the prior 150–350 million-RMB buyer shortlist.
+- **Two tiers coexist:** broader Chinese-speaking principal-side EXECUTIVE NETWORK across genres; narrower **million-RMB annual-client qualified** accounts after validating scale, purchasing need, responsibility and budget. The latter never caps the former. FA investors and third parties excluded from this principal-side 10k target.
+- **New company sourcing still matters:** after P0/P1, prioritize untouched company discovery and verified core-person routes; research is separate from confirmed outreach. Do not repeatedly work no-reply HOLD or peripherals while new eligible companies remain untouched.
+- **Company approvals:** any NEW outbound requires Joyce's approval of the actual proposed company + persons + copy (per current send gate). Existing buyer replies may be handled only within the user's express reply instruction and existing commercial authority. Excluded companies YOOZOO/游族、NetDragon/网龙 plus affiliates are never proactively contacted.
+- **Daily dashboard first block:** pending genuine buyer replies / oldest age / handled with SENT evidence / actionable meetings or proposals; then net-new companies, 3–5 named executive mapping, contact ready and approved, true unique first touches today and cumulative toward 10k, and stage conversion. A report of dozens of vendor mails is a task failure, not BD output.
+- Weekly: review reply-SLA misses, account-overcontact, actual first-touch throughput vs target, coverage gaps, not only copy A/B.
+
+---
+
 
 Before scaling any outreach, also read `../ggc-incremental-commercial-engine/SKILL.md` for CAP, wave sizing, funnel conversion gates and optimization thresholds.
 
