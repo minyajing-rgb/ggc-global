@@ -1,5 +1,13 @@
 # GGC BD Workspace
 
+## 最新对外高管介绍（中英双语、已核链接）
+
+- [中文/English 公共母稿 v2](GGC_Executive_Intro_Bilingual_v2.md)：LinkedIn、GGC Business、Why Joyce、GGC AI SaaS Lab、机械工业出版社著作链接，以及长版PPT附件规则。
+- [中文实际邮件稿](GGC_Pitch_Email_Full_CN.md) · [English actual email](GGC_Pitch_Email_Full_EN.md)：已按友好建立创始人关系与战略合作口径重写，不再按旧版硬卖百万年框。
+- **长版Deck**：Library 28页视觉PDF已导入用户Canva账号供内部审阅，匿名访问仍需登录；未公开前邮件不能放私有Canva或ChatGPT `sandbox:` URL。见私有 `GGC-FA/ops/bd/strategy/2026-10-10_BILINGUAL_PR_LINKS_AND_DECK_ASSET_REGISTER_v1.md`。
+- 书籍作者、企业经历为职业PR背书；所有具体ROI/利润仍遵循按项目/可公开证据规则。
+
+
 Updated: 2026-10-03
 
 This directory contains GGC business-development positioning, pitch templates, account examples and operating materials.
