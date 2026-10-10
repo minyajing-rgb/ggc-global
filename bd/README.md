@@ -6,7 +6,7 @@ This directory contains GGC business-development positioning, pitch templates, a
 
 ## Buyer Reply-First / 10k Executive Coverage
 
-Before peripheral work or more cold outreach, always inspect human replies and read [Reply First + 10,000 Executives SOP](BD_REPLY_FIRST_10000_EXECUTIVES_SOP_v1.md). The 10k relevant-executive network is separate from the smaller annual-contract sales pipeline; no third-party messages or duplicate follow-ups count as new decision-maker contacts.
+Before peripheral work or more cold outreach, always inspect human replies and read [Reply First + 10,000 Executives SOP](BD_REPLY_FIRST_10000_EXECUTIVES_SOP_v1.md), then use [10K Sourcing Registry](BD_10K_SOURCE_REGISTRY.md) and the [offline dedupe/approval-queue generator](../scripts/bd_source_graph_v1.py). The 10k relevant-executive network is separate from the smaller annual-contract sales pipeline; no third-party messages or duplicate follow-ups count as new decision-maker contacts.
 
 ## Mandatory workflow before drafting a pitch
 
