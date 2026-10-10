@@ -1,32 +1,30 @@
-# GGC百万年框 · 完整Pitch邮件英文版（五段结构）
-> 用法：替换[TARGET]模块后发送。适用对象：国际团队（土耳其/欧美/日韩）。
+# GGC Founder / CEO Strategic Introduction — English v2 (2026-10-10)
+> Supersedes the earlier sales-heavy annual-partnership email. Use the current bilingual public sources, real links and book reference in [GGC_Executive_Intro_Bilingual_v2.md](GGC_Executive_Intro_Bilingual_v2.md). Do not auto-send. Keep the actual CEO/company/role-specific angle and suppression gate.
 
----
+**Subject:** Joyce × [Company] | Global games, AI products & strategic collaboration
 
-**Subject: [Product]'s next stage — the operating system behind a category-defining franchise**
+Dear [Name],
 
-Hi [Founder name],
+I'm Joyce Mi, founder of **GGC (Global Game Copilot)** and author of *Game Operations & Global Expansion* (China Machine Press). Over the past 15+ years, I've worked across game product, operations and global publishing at **Microsoft, Tencent, Zynga and Gameloft**, contributing to globally leading titles including **CityVille, FarmVille, Order & Chaos and Minion Rush**. I've also built game development and publishing businesses as a founder.
 
-**Who I am.** I'm Joyce Mi, founder of GGC Games. For 15 years I've operated some of the biggest games in this industry — PM/Lead Producer on CityVille and FarmVille at Zynga, publishing and LiveOps on Order & Chaos and Minion Rush at Gameloft, commercialization and data-structure rebuilds at Tencent. Since 2014 I've worked as an operator-for-hire for global teams. I also wrote the book on this craft: *Game Operations & Global Expansion* (China Machine Press, 2024). Full record: opsgo.ggcgames.com/joyce
+Today, my work has **two complementary tracks**: (1) strategic and operating **Copilot partnerships** with game companies, covering new-category greenlights, self-publishing, global launches, monetization and executive operating support; and (2) **our own games, AI consumer products and AI SaaS workflows** in game intelligence, content/media and commercial operations, with selected opportunities for co-development, publishing and strategic partnerships.
 
-**What I've done — scoped to projects, not adjectives.**
-- Zynga: on the Chinese CityVille project we lifted D1 retention by 7 percentage points; I built the DAU/revenue/viral models the teams ran on; ran multi-title Arcade portfolio.
-- Gameloft: Order & Chaos, Minion Rush — coordinated 10+ studios through a 500+ cross-functional network; Minion Rush reached ~¥10M monthly Android revenue in China.
-- As operating partner: a life-sim title — global monthly revenue stabilized in the $20–40M range during the engagement; a card/board portfolio — to ¥3M+ monthly profit within 3 months of takeover; a wuxia mobile title — stabilized around ¥60M monthly, peaked above ¥100M.
+I noticed **[one independently verified recent company/product development]** and thought there might be a useful overlap around **[one specific joint opportunity]**. I'd be happy to get acquainted, share what we're each working on and explore a real project if there's a fit—no predetermined deal in mind.
 
-**What we'd do for [TARGET] specifically.**
-[TARGET_BLOCK: 针对对方业务的三条具体动作，每条=对方现状数据+我们要建的系统+预期结果区间]
+Best regards,  
+**Joyce Mi | Founder, GGC**  
+WeChat: **17701087579** · Telegram: **@joyceggc**
 
-**Why we can do it.** These aren't consulting frameworks — they're operating systems we've built and run inside companies that defined their categories. A hit becomes a franchise when three systems are thick enough to carry it: user identification, content supply, monetization rhythm. We've built all three at Zynga/Gameloft scale, in 150+ countries, and managed cross-functional organizations of 1,000+ at peak. The difference between your current trajectory and the next order of magnitude is rarely talent — it's whether the operating system under the product can absorb scale.
+**LinkedIn:** https://www.linkedin.com/in/minyajing/  
+**GGC business:** https://biz.ggcgames.com/  
+**Executive Profile / Why Joyce:** https://biz.ggcgames.com/joyce/  
+**Published book:** https://ebooks.cmpbook.com/detail?id=26372
 
-**How engagements start.**
-1. **Project Review** — a 30-minute diagnostic + written structural assessment (¥10,000). An x-ray of [Product]: retention curve, payer path, LiveOps cadence, content pipeline. No strings.
-2. **COPILOT Sprint** — 30 days, one focused problem (monetization depth, UA efficiency, or flagship launch readiness). Weekly deep-dives + dedicated async support. $5,000 deposit to start; the remainder is only paid if you're satisfied with what the first two weeks show.
-3. **Annual Operating Partnership** — base + performance share. We build the systems, your team runs them, we stay accountable to the revenue curve — not to billable hours.
+**Long presentation (28-page visual PDF):** mention as `Attached: Joyce × GGC Executive Presentation` only if the exact approved PDF is truly attached; otherwise `Happy to share the longer deck on request`. The currently imported Canva design is owner-review-only, and a public deck URL has not yet been verified. Never paste a `sandbox:` URL into external email.
 
-The six-month window after a breakout is when these decisions are cheap. After that, the same decisions get expensive.
-
-Worth 30 minutes?
-
-Joyce Mi
-GGC Games | opsgo.ggcgames.com/joyce | Joyce@ggcgames.com
+## Message quality / contact rules
+- For a game CEO: select one genuinely relevant title/new-market/self-publishing/portfolio thesis.
+- For an investor: operating DD/post-investment capabilities + owned products/AI SaaS; do not treat an investor as a consulting buyer or imply an investment is secured.
+- For an AI platform/media/industry partner: focus on concrete collaboration, content/program/product fit; do not try to sell them a yearly operating retainer.
+- Do not publish unscoped rankings or project financial metrics, guarantee ROI, invent intros, claim 500 people were direct reports, or disclose confidential cases.
+- Send only after actual company, current person, valid route, full copy, historic send/no-reply, STOP and Joyce's per-batch approval have all passed.
