@@ -15,6 +15,24 @@ Joyce explicitly authorizes **direct first-touch business email without per-comp
 
 
 
+## v2.7 — Bilingual PR credibility and published book links (2026-10-10)
+
+**Canonical bilingual source:** [GGC Executive Introduction CN / EN v2](../../bd/GGC_Executive_Intro_Bilingual_v2.md). Two pre-existing email entrypoints are refreshed and point at the same bilingual source: `../../bd/GGC_Pitch_Email_Full_CN.md`, `../../bd/GGC_Pitch_Email_Full_EN.md`.
+
+For all founder/CEO/investor introductions, do **not** omit Joyce's published book or career links:
+- Professional profile: `https://www.linkedin.com/in/minyajing/`
+- GGC business/company: `https://biz.ggcgames.com/`
+- Joyce's longer career/executive page: `https://biz.ggcgames.com/joyce/`
+- Official publisher book: `https://ebooks.cmpbook.com/detail?id=26372`, `《游戏运营与出海实战：策略、方法与技巧》`, China Machine Press, byline Ai Xiaomi / 艾小米.
+
+For a Chinese-speaking recipient, use Chinese copy and the Chinese book name. For an English-speaking recipient, use the English approved introduction and translated book title **with the same official publisher URL**. Actual links are preferred to empty labels, placeholders and guessed sites. Typically show the four links in the signoff rather than adding another paragraph of sales prose. Body should lead with real career/product examples, current GGC Principal and owned AI products / SaaS, one relevant strategic overlap, friendly invitation—not a mass-sales retainer pitch.
+
+**Long deck asset:** recovered 28-page illustrated `GGC_闭门分享_28页图文版_v6.pdf`, privately imported to Canva as design ID `DAHXnrS60ac`. Its viewer URL required sign-in during external access QA, so it is **not a validated public deck link**. Use only a truly attached, Joyce-approved PDF or say available on request. A `sandbox:`/private Canva link cannot go into an external email as a public presentation URL; first establish a publicly accessible, permission-reviewed asset and independently open it while logged out. Do not claim the 35-page version was publicly hosted or exported.
+
+These credibility fields do not waive the per-company send approval, permanent company STOPs, prior no-reply HOLD, evidence-permission limits, or the separation between L1 consulting principals and investor/industry connections.
+
+---
+
 ## v2.6 — CEO / Founder / Investor relationship-first AI strategic collaboration (2026-10-10)
 
 **This supplements the existing P0 Reply Desk and all no-send/STOP gates; it does not authorize any new outreach.** Authoritative internal materials:
