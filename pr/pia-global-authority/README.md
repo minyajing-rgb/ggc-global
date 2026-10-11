@@ -11,6 +11,7 @@
 | [docs/WORKSTREAMS_AND_WBS.md](docs/WORKSTREAMS_AND_WBS.md) | Work breakdown, work packages and definitions of done |
 | [docs/OPERATING_SOP.md](docs/OPERATING_SOP.md) | Daily routing, outreach/confirmation rule, contact/benefit negotiation, validation and privacy |
 | [docs/ENGLISH_PITCH_KIT.md](docs/ENGLISH_PITCH_KIT.md) | English founder, company, consumer AI and research-Lab talk track + organizer ask/offer |
+| [docs/EXECUTIVE_FLAGSHIP_CAREER_DOSSIER.md](docs/EXECUTIVE_FLAGSHIP_CAREER_DOSSIER.md) | **Quantified founder/flagship casebook** — five 0→1, dozens 1→10, six 100m+ outcomes, annual company profit, category leaders, BSE/acquisition, 500+ cross-functional and Zynga-to-Asia methods |
 | [reviews/2026-W41.md](reviews/2026-W41.md) | Week-one verified baseline, blockers and process improvements |
 | [docs/DECISION_LOG.md](docs/DECISION_LOG.md) | External decision queue, fees, travel, legal and speaker format |
 | [docs/WEEKLY_REVIEW_TEMPLATE.md](docs/WEEKLY_REVIEW_TEMPLATE.md) | Weekly data-driven retrospective |
