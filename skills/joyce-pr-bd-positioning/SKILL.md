@@ -6,10 +6,33 @@ description: >
   partnership outreach. Use before drafting or approving any outward-facing copy
   about Joyce's multi-category track record, operating ability, AI-native work or
   GGC commercial value.
-version: 1.0
+version: 1.1
 ---
 
 # Joyce PR & BD Positioning System
+
+## v1.1 — Concrete flagship proof before abstract positioning (2026-10-11)
+
+**Upstream correction:** Joyce's first-party career archive is now reconciled into `minyajing-rgb/GGC-FA/ops/bd/strategy/2026-10-11_JOYCE_FLAGSHIP_TRACK_RECORD_PROJECT_EVIDENCE_v1.md`. Do not water her down into "15-year senior game operations adviser"; she has **specific flagship titles, 0-to-1 venture builds, 1-to-10 multi-title operating outcomes, founder/CEO and publishing acquisitions/post-merger experience, and method/operating standards**. Every substantial PR/Pitch should show at least 2 concrete case anchors, plus her **book author title**.
+
+**Mandatory header proof:**
+- Zynga PM/Lead Producer: CityVille/FarmVille/Arcade. CityVille China D1 +700 bps (7 pp); DAU/Revenue, ABn, K-factor, viral/social and product experience.
+- Gameloft Asian Operations: Order & Chaos, Minion Rush and licensed flagship projects; 10+ studios / 500+ collaborators = network, not direct employees.
+- Founder/CEO: Beijing Taoyuan Xigu developed and published products; old CV records a Beijing regional equity-market/Fourth Board listing, **not** a substantiated Beijing Stock Exchange IPO; publisher venture business acquisition followed by overseas group CMO.
+- Author: `《游戏运营与出海实战：策略、方法与技巧》`, 艾小米, China Machine Press, 2024, ISBN 978-7-111-75037-6. Publisher `https://ebooks.cmpbook.com/detail?id=26372`. The book is in the **first two sentences** or the immediately adjacent credential area; don't hide it in a footnote.
+- Bilingual links: LinkedIn `https://www.linkedin.com/in/minyajing/`, GGC `https://biz.ggcgames.com/`, Why Joyce `https://biz.ggcgames.com/joyce/`, GGC AI SaaS `https://biz.ggcgames.com/sme/`, publisher book URL above.
+
+**Specific historical figures, strict scopes:**
+- Historical career CV states Wuxia Q Zhuan ~CNY60M in **monthly game bookings** (peak >CNY100M), a game venture's CNY3M+ **monthly profit** after 0→1 build, and 7M-class DAU in particular social/Arcade products. These are first-party project records, not guaranteed independently audited corporate finance data. Use in private, qualified strategic meetings only with proper project/period/source labels and publicity rights.
+- Historical CV says large-company business improvements of several hundred million CNY **annually** and old internal master says >CNY1B in **historical annual profit-growth contribution** across multiple projects. Neither is proof of GGC's current revenue, Joyce's personal compensation, or automatic single-project causal attribution. Don't publish these as blanket outcomes until the project/year/baseline and permission ledger is reconciled.
+- 7–8 globally No.1/leading category results, 5 products 0→1, dozens 1→10 are first-party historical portfolio assertions and may be used as such in a qualified private context, not an invented independently verified industry census or universally documented ranking.
+- DAU/Revenue Models, K-factor, Spec/Process and open-platform operating methods support **contribution to real team/industry operating-method standardization**, not a national/regional formal "industry-standard setter" title without formal standards evidence.
+
+**Preferred narrative order:** named flagship titles and measurable work → creator/founder, company/asset-building and acquisitions → what Joyce GGC builds and sells now (enterprise operating Copilot + owned games/AI consumer products/AI SaaS) → company-specific strategic overlap → LinkedIn, official website, book and actual optional approved deck. Never lead with generic OS/Vision cards or a 16-product price list in a first hello.
+
+This skill does not authorize cold contact or publication. Superseding rules for client/no-reply suppression and approved routes remain intact.
+
+---
 
 ## 0. Mission and precedence
 
