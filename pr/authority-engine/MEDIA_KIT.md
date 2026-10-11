@@ -1,36 +1,40 @@
-# Joyce Mi / GGC — Media Kit
+# Joyce / GGC — Media Kit
 
 Version: 2026-10-03-v2
 
 Status: public, sanitized, source-bound.
 
+## 2026-10-11 headline correction
+
+**JOYCE — GLOBAL FLAGSHIP GAME BUILDER, CATEGORY LEADER & OPERATING-SYSTEM ARCHITECT.** Joyce has **led** five zero-to-one product builds, dozens of one-to-ten game scale-ups and high-stakes business turnarounds, with historical 2x to 10x revenue uplift **across distinct projects**, recurrent flagship business profit at scale and earlier company-level annual incremental profit uplift above RMB1bn. She also founded development/publishing operations, contributed early Asia DAU/Revenue/K-factor operating standards, and authored `Game Operations and Global Expansion`. Lead with flagship outcomes, not a small retention metric. Do not name former employers as "nearly canceled"; use generic "turnaround" when relevant. Public Chinese materials call her Joyce, not her Chinese legal name. Her entrepreneurial listing was on a Beijing **regional equity market**, not automatically on the Beijing regional equity market.
+
 ## One-line positioning
 
-**Joyce Mi is the founder of GGC, a global multi-category game operator and operating-system architect who led titles to flagship and global or category-leading positions while connecting player data, product, social virality, monetization, global publishing and organizational execution across flagship games and teams. Her work includes the transfer and adaptation of Zynga-derived data and operating practices into Asian team contexts, global franchise operations and subsequent entrepreneurship.**
+**Joyce is the founder of GGC, a global multi-category game operator and operating-system architect who led titles to flagship and global or category-leading positions while connecting player data, product, social virality, monetization, global publishing and organizational execution across flagship games and teams. Her work includes the transfer and adaptation of Zynga-derived data and operating practices into Asian team contexts, global franchise operations and subsequent entrepreneurship.**
 
 **Outbound tone (2026-10-11):** Credit Joyce with *leading the rise to flagship, global, platform or category-leading performance*; do not suggest these products were already category leaders before she took responsibility. Equally, do not publicly describe the prior condition of a company, executive team or product as failing, collapsing, nearing shutdown or badly run. Lead with what Joyce built and achieved.
 
 ## Short bio — English
 
-Joyce Mi is the founder of GGC, a global flagship-game operator, business-system architect and serial entrepreneur whose earlier career portfolio spans **five 0→1 products, dozens of commercially scaled titles and company-level annual profit improvement above RMB 1 billion**. Her experience includes Zynga's CityVille/FarmVille, Gameloft's Order & Chaos/Minion Rush and 10+ studios working through a 500+ cross-functional network. Her entrepreneurial career also includes a game-development venture with a Beijing Stock Exchange listing history and an acquired publishing business. She authored *Game Operations and Global Expansion* (China Machine Press, 2024).
+Joyce is the founder of GGC, a global flagship-game operator, business-system architect and serial entrepreneur whose earlier career portfolio spans **five 0→1 products, dozens of commercially scaled titles and company-level annual profit improvement above RMB 1 billion**. Her experience includes Zynga's CityVille/FarmVille, Gameloft's Order & Chaos/Minion Rush and 10+ studios working through a 500+ cross-functional network. Her entrepreneurial career also includes a game-development venture with a Beijing regional equity-market listing history and an acquired publishing business. She authored *Game Operations and Global Expansion* (China Machine Press, 2024).
 
 ## Short bio — 中文
 
-Joyce（闵雅婧）是 GGC 创始人、全球旗舰游戏操盘手和经营系统架构师。其早年履历涵盖 **5 款 0→1 产品、数十款 1→10 的商业化规模拓展、企业年度十亿元以上利润增量**；操盘体系涉及 Zynga CityVille/FarmVille、Gameloft《混沌与秩序》《小黄人快跑》，并曾跨 10+ 工作室与 500+ 跨职能网络协作。亦有研发企业北交所上市相关创业经历、发行业务被收购及机械工业出版社《游戏运营与出海实战》著作。以上经营成绩为历史任职与创业阶段成果，非 GGC 当前财务收入。
+Joyce是 GGC 创始人、全球旗舰游戏操盘手和经营系统架构师。其早年履历涵盖 **5 款 0→1 产品、数十款 1→10 的商业化规模拓展、企业年度十亿元以上利润增量**；操盘体系涉及 Zynga CityVille/FarmVille、Gameloft《混沌与秩序》《小黄人快跑》，并曾跨 10+ 工作室与 500+ 跨职能网络协作。亦有研发企业北京区域性股权市场挂牌相关创业经历、发行业务被收购及机械工业出版社《游戏运营与出海实战》著作。以上经营成绩为历史任职与创业阶段成果，非 GGC 当前财务收入。
 
 ## Extended bio — English
 
-Joyce Mi is the founder of GGC — Global Game Copilot, a globally experienced flagship-game operator and operating-system architect whose distinguishing strength is personally leading game titles to flagship status, category leadership and commercially scalable execution. Her founder-provided career dossier records **five products built 0→1**, **dozens of titles scaled 1→10**, recurrent monthly profit outcomes in the tens of millions across mature titles, **six nine-figure project outcomes** in the historical account, and a company-level contribution of **more than RMB 1 billion in annual profit improvement**. These are aggregated career and portfolio-scale results across different settings, not the performance of one title or of today's GGC.
+Joyce is the founder of GGC — Global Game Copilot, a globally experienced flagship-game operator and operating-system architect whose distinguishing strength is personally leading game titles to flagship status, category leadership and commercially scalable execution. Her founder-provided career dossier records **five products built 0→1**, **dozens of titles scaled 1→10**, recurrent monthly profit outcomes in the tens of millions across mature titles, **six nine-figure project outcomes** in the historical account, and a company-level contribution of **more than RMB 1 billion in annual profit improvement**. These are aggregated career and portfolio-scale results across different settings, not the performance of one title or of today's GGC.
 
 At Zynga, Joyce worked on CityVille, FarmVille and social/Arcade game franchises, integrating DAU and revenue forecasting, K-factor social sharing, user research, experimentation, retention, game economy and monetization. She helped transfer these early data-driven operating methods to Chinese and Asian game teams and social-platform ecosystems; these disciplines supported China and Asia's shift toward data-driven F2P commercialization and category-leadership decisions. At Gameloft, she helped build regional operating systems involving franchises such as Order & Chaos, Minion Rush and Thor 2, coordinating **10+ studios and a 500+ cross-functional collaboration network** around launches, LiveOps, financial and product decisions.
 
-Joyce subsequently built development and publishing companies, combining team formation, category strategy, product portfolios, budget, publishing gates and substantial commercial improvements. That entrepreneurial history includes a game-development venture associated with a Beijing Stock Exchange listing and a publishing company that was acquired. She is the author of *Game Operations and Global Expansion* (China Machine Press, 2024) and has public industry-speaking records from 2019–2026. Today, at GGC, she applies this career-built methodology to international game businesses and AI-native consumer product systems.
+Joyce subsequently built development and publishing companies, combining team formation, category strategy, product portfolios, budget, publishing gates and substantial commercial improvements. That entrepreneurial history includes a game-development venture associated with a Beijing regional equity-market listing and a publishing company that was acquired. She is the author of *Game Operations and Global Expansion* (China Machine Press, 2024) and has public industry-speaking records from 2019–2026. Today, at GGC, she applies this career-built methodology to international game businesses and AI-native consumer product systems.
 
 ## Extended bio — 中文
 
-Joyce（闵雅婧）是 GGC 创始人、全球旗舰游戏操盘手、经营系统架构师及连续创业者。早年职业材料包含 **5 款从 0→1 建立、数十款从 1→10 规模化、成熟项目月利润数千万元级、6 项过亿级项目表现，以及曾为企业带来年十亿元以上利润增量**。这是一组历史多项目经营成果，不应混同为单款游戏业绩或当下 GGC 营收。
+Joyce是 GGC 创始人、全球旗舰游戏操盘手、经营系统架构师及连续创业者。早年职业材料包含 **5 款从 0→1 建立、数十款从 1→10 规模化、成熟项目月利润数千万元级、6 项过亿级项目表现，以及曾为企业带来年十亿元以上利润增量**。这是一组历史多项目经营成果，不应混同为单款游戏业绩或当下 GGC 营收。
 
-在 Zynga 参与 CityVille、FarmVille 和社交/Arcade 旗舰项目，她将 DAU/Revenue Model、K-factor、留存、玩家研究和实验引入中国团队的游戏经营决策；推动亚洲游戏团队采用商业化导向的数据与经营方法。在 Gameloft 参与《混沌与秩序》《小黄人快跑》《雷神2》等旗舰，跨 10+ 工作室、500+ 跨职能团队搭建区域运营与数据体系。此后从零搭建研发与发行企业，主导产品组合、组织架构、预算、上线和发行 SOP，其创业经历包含研发企业北交所上市与发行业务被收购。著有机械工业出版社 2024 年《游戏运营与出海实战》，并拥有多次行业分享记录。现通过 GGC 将经营体系拓展为 AI-native 游戏、国际发行和消费产品系统。
+在 Zynga 参与 CityVille、FarmVille 和社交/Arcade 旗舰项目，她将 DAU/Revenue Model、K-factor、留存、玩家研究和实验引入中国团队的游戏经营决策；推动亚洲游戏团队采用商业化导向的数据与经营方法。在 Gameloft 参与《混沌与秩序》《小黄人快跑》《雷神2》等旗舰，跨 10+ 工作室、500+ 跨职能团队搭建区域运营与数据体系。此后从零搭建研发与发行企业，主导产品组合、组织架构、预算、上线和发行 SOP，其创业经历包含研发企业北京区域性股权市场挂牌与发行业务被收购。著有机械工业出版社 2024 年《游戏运营与出海实战》，并拥有多次行业分享记录。现通过 GGC 将经营体系拓展为 AI-native 游戏、国际发行和消费产品系统。
 
 ## Category leadership and commercial operating proof (first in every international executive narrative)
 
@@ -87,7 +91,7 @@ Joyce（闵雅婧）是 GGC 创始人、全球旗舰游戏操盘手、经营系�
 - **Profit contribution:** More than RMB 1 billion in annual profit uplift in a historical company operating context; not a standalone game or audited GGC number.
 - **Repeatable leading products:** Multiple global/platform/vertical-leading titles across substantially different categories; rankings are portfolio-level career statements unless title-specific details are needed.
 - **Complex operations:** 10+ studios and 500+ **cross-functional collaborators** (not direct reports).
-- **Exit and company building:** Game-development company with Beijing Stock Exchange listing history; an acquired publishing venture.
+- **Exit and company building:** Game-development company with Beijing regional equity-market listing history; an acquired publishing venture.
 - **Commercial scale:** historical Wuxia Q Zhuan monthly gross game revenue above RMB 60 million (peak above RMB 100 million); multiple flagship operations sustaining monthly profit in the tens of millions.
 - **Methods into industry:** Zynga-originated DAU/revenue/virality/experiment methods brought into China/Asia team processes; book and talks widened transfer.
 
