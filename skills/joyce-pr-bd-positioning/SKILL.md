@@ -16,7 +16,7 @@ version: 1.1
 **Upstream correction:** Joyce's first-party career archive is now reconciled into `minyajing-rgb/GGC-FA/ops/bd/strategy/2026-10-11_JOYCE_FLAGSHIP_TRACK_RECORD_PROJECT_EVIDENCE_v1.md`. Do not water her down into "15-year senior game operations adviser"; she has **specific flagship titles, 0-to-1 venture builds, 1-to-10 multi-title operating outcomes, founder/CEO and publishing acquisitions/post-merger experience, and method/operating standards**. Every substantial PR/Pitch should show at least 2 concrete case anchors, plus her **book author title**.
 
 **Mandatory header proof:**
-- Zynga PM/Lead Producer: CityVille/FarmVille/Arcade. CityVille China D1 +700 bps (7 pp); DAU/Revenue, ABn, K-factor, viral/social and product experience.
+- Zynga PM/Lead Producer: flagship CityVille/FarmVille/Arcade; DAU/Revenue/K-factor/AB testing, social distribution and profitable F2P operating practices transferred into Chinese game teams.
 - Gameloft Asian Operations: Order & Chaos, Minion Rush and licensed flagship projects; 10+ studios / 500+ collaborators = network, not direct employees.
 - Founder/CEO: Beijing Taoyuan Xigu developed and published products; old CV records a Beijing regional equity-market/Fourth Board listing, **not** a substantiated Beijing Stock Exchange IPO; publisher venture business acquisition followed by overseas group CMO.
 - Author: `《游戏运营与出海实战：策略、方法与技巧》`, 艾小米, China Machine Press, 2024, ISBN 978-7-111-75037-6. Publisher `https://ebooks.cmpbook.com/detail?id=26372`. The book is in the **first two sentences** or the immediately adjacent credential area; don't hide it in a footnote.
@@ -57,6 +57,14 @@ After positioning is set:
 When this skill conflicts with an older generic introduction or pitch template, this skill controls the **positioning**, while the most recent evidence ledger controls the **public claim status**.
 
 ---
+
+## 2026-10-11 superseding PR priority
+
+**Lead with category No.1 / leading flagship business results, sustained monthly gross revenue and profit, company-level annual profit contribution, repeated five 0→1 and dozens 1→10 cases, organizational architecture and top-category consulting clients.** An isolated single-title retention uplift is not sufficiently representative for high-tier PR; it must not appear in executive introductions, award profile headlines, speaker abstracts or proof highlight tables.
+
+Commercial language must distinguish historically earned game **gross revenue/bookings** from **profit**, a company-wide annual operating outcome from one individual game, and Joyce's original career portfolio from GGC's current revenue. This distinction is an editing convention, not a blanket precondition for ordinary PR outreach.
+
+See [current quantified source](../../pr/pia-global-authority/docs/EXECUTIVE_FLAGSHIP_CAREER_DOSSIER.md).
 
 ## 1. Canonical positioning
 
@@ -182,7 +190,7 @@ Use the most relevant subset of:
 - Microsoft, Tencent, Zynga and Gameloft career experience;
 - Zynga Product Manager / Lead Producer work across CityVille, FarmVille and Arcade;
 - Gameloft global operations across Order & Chaos, Minion Rush, Thor 2 and other approved records;
-- Chinese CityVille D1 retention +700 bps, scoped to that project;
+- documented historical high-earning flagship portfolios, recurring eight-figure monthly revenue/profit outcomes and company-level RMB-billion annual profit contribution;
 - 10+ studios and 500+ cross-functional collaboration network, never “500 direct reports”;
 - entrepreneurship, product building, publishing and executive operating roles;
 - public book, speaking, mentoring and industry-method contributions.
