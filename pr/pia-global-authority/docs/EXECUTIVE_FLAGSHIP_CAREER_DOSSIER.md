@@ -1,65 +1,63 @@
-# Joyce Mi | Executive Impact & Flagship Results — Global PR Source Packet
+# JOYCE MI — Flagship Commercial Scale & Category Leadership
+Updated 2026-10-11 | Canonical PR / speaker / awards / international executive storyline
 
-**Updated:** 2026-10-11
-**Purpose:** English-speaking conferences, award juries, global game and AI ecosystem organizers, platform partners, senior executives, and GGC company PR.
+## The true headline
+**I help game businesses become — or remain — category leaders.**
+Joyce is not defined by one retention lift or by possessing an impressive resume of employers. Her distinctive commercial record is **repeated global / platform / category-leading game operations**, **large and sustained revenue and profit**, **founder-grade 0→1 launches, 1→10 scaling, business turnarounds and organization-wide operating-system design**, followed by the transfer of those methods to top-tier consulting clients and the next generation of AI-native game and consumer products.
 
-## Positioning — never lead with vague "operations experience"
-**Joyce Mi is a global multi-category flagship-game operator, business-system architect and serial founder. Her distinguishing achievement is repeatedly turning new ventures, stagnating products and cross-border portfolios into category-leading businesses — designing the full product, data, commercial and organizational operating systems behind the outcomes.**
+## Historic commercial results — long-standing first-party career material
+- **Dozens of titles scaled through 1→10** with mature monthly profits reaching **tens of millions of RMB** and six nine-figure historical project outcomes described in Joyce's original Chinese business presentation. These are multiple cases, not all one game, and "six over 100 million" has an original scope that should not be silently relabelled as monthly net profit.
+- **Five products built 0→1**, from game strategy, engineering/organization and publishing to recurring profitable operation; selected products reached substantial eight-figure monthly profit and higher peaks in the career dossier.
+- **More than RMB 1 billion in annual incremental profit contribution** in a previous company operating context — not GGC's present company revenue, Joyce's compensation or the sum of unrelated products.
+- **Sustained monthly gross gaming revenue/bookings** in multiple high-grossing games. A specific earlier career case, *Wuxia Q Zhuan* (武侠Q传), describes **over RMB 60 million in monthly gross revenue and a peak above RMB 100 million**. This is **revenue**, not net profit.
+- **Order & Chaos**: previous career case describes daily profit in the millions of RMB and monthly profit in the tens of millions, with higher historical peaks. **Minion Rush**: prior makeover/major-version case describes first-month profit in the ten-million-RMB range. These numbers are specific first-party case accounts, not independent statements about every franchise release.
+- Multi-million DAU scale in social/Arcade projects and repeated global, platform or narrow-category No.1 or top-tier outcomes across approximately seven/eight product categories in Joyce's long-standing career account.
+- Many consulting engagements have been with **established category leaders or ambitious studios targeting category leadership**, rather than beginner teams. Joyce also reports clients and book readers who applied her methods and became leaders in their verticals.
 
-## Quantified track record — derived from Joyce's long-standing career/consulting introduction
-- **0 → 1: five products developed from scratch**, later delivering recurring monthly profit at the tens-of-millions level, with peak outcomes above the **100-million threshold** in the original Chinese career account.
-- **1 → 10: dozens of games scaled into mature commercial operations**, with recurring monthly profit at the tens-of-millions level; **six projects exceeded the 100-million threshold** as described in Joyce's earlier dossier.
-- **Company-scale outcome:** Joyce's early professional profile reports **more than one billion in annual incremental profit** generated for a company through her contribution to game/business operations. For a currency-specific English statement, quote **RMB 1 billion+** as the intended Chinese-context figure only when using Joyce's approved financial framing; do not silently turn this into USD or lifetime portfolio revenue.
-- **Repeatable category leadership:** multiple new studios/businesses built from zero; reached **No.1 in their defined categories within approximately a month** according to the founder's career account. Later positioning describes 7–8 product/category No.1 or globally leading outcomes; exact counts are not the same as the number of individual released titles.
-- **Large-organization architecture:** coordinated **10+ global studios and a 500+ cross-functional network** in the Gameloft work; do not imply 500 direct reports.
-- **One project-specific product metric:** **CityVille China D1 retention +700 basis points / +7 percentage points**.
-- **Corporate transformation:** repeated turnaround of stalled product roadmaps, rebuilding product/analytics/commercial/release ownership, and scaling from initial build to operating portfolio.
-- **Capital/exit experience:** game-development company with a Beijing Stock Exchange listing history, and an acquired publishing venture, as disclosed in the author's early career presentations. Founder/operating role and company capital event are not the same as Joyce personally arranging a listing or sale.
-- **Authority:** author, *游戏运营与出海实战：策略、方法与技巧* (*Game Operations and Global Expansion*, China Machine Press, 2024), Tencent entrepreneurship mentor, publicly documented industry sessions 2019–2026.
+Do not build the main public biography around a small player-retention delta. The priority is **commercial magnitude, ranking/leadership, sustained performance and the operating architectures that drove repeatability**.
 
-**Financial figure wording:** historical Chinese portfolio slides do not supply product-by-product currency/period definitions for the two “六款过亿 / 峰值过亿” lines. They are suitable as an author-provided portfolio summary in approved bios and qualified BD; when quoting a particular product, use its own agreed metric. This is an editorial accuracy guardrail, **not a requirement to stop all pitching until old dashboards are recovered**.
+## What Joyce actually builds
+**Category strategy → 0→1 product system → DAU/revenue and social distribution models → game economy/monetization → team/engineering structure → launch/publishing gates → UA channels → LiveOps → P&L → turnaround/portfolio scaling.**
 
-## Flagship case index — what Joyce did, not just where she worked
+- Microsoft/Tencent/Zynga: flagship social and F2P systems; early transfer of DAU/Revenue/K-factor modelling, social-viral metrics, player analytics and experimentation to China/Asia game-company operating practice, including Tencent Qzone, Kaixin-related gaming and Guangdiantong commercial frameworks.
+- Huogu / Wuxia Q Zhuan: new product and commercial economy framework; first-party monthly game revenue benchmark >RMB 60m and peak >RMB 100m.
+- Gameloft Order & Chaos, Minion Rush, Thor and major franchise portfolio: global/Asia management system, benchmarking, commercial operations, cross-team release pipelines, and 10+ studios / 500+ cross-functional network (network, not 500 direct reports).
+- Serial founder: newly created development/publishing studios, organizations and SOP; development venture in the history of a Beijing Stock Exchange listing, and an acquired publishing company.
+- Turnaround & advisory: reorganizing complex company/portfolio projects, refreshing product and business structure, improving performance and leading category-positioned clients. Do not confuse a client being No.1 with a guarantee Joyce produced every part of its commercial result.
+- 2024 China Machine Press *Game Operations and Global Expansion*; wide industry speaking and founder mentoring, used by operators and businesses beyond her immediate employers.
+- GGC: applying the same repeatable game company system to global publishing, full-cycle operating partnership, AI decision infrastructure and AI-native consumer products (Bunny, Astro, PLOT, SAGA research architecture).
 
-| Phase / project | Personal system/architecture role | Result to communicate |
-|---|---|---|
-| Microsoft / Tencent platform and product environments | Early product/engineering and systems discipline; commercial platform operations | Transferable engineering/product governance into game business |
-| **Zynga** — CityVille, FarmVille, social/Arcade portfolio | PM/Lead Producer track; introduced data-driven **DAU, Revenue Model, K-factor/social viral loops, segmentation, user research, A/B experiments**, commercial decision rules to Chinese/Asian developer conversations | Early modernization of local game analytics and F2P methods; **CityVille China D1 +7pp** case |
-| **Tencent, Guangdiantong, Qzone / Kaixin** | Assisted Guangdiantong commercial practice and game analytics architecture for social platforms; connected acquisition, virality and monetization | Reusable commercial/channel data systems; major marketing outcomes are part of Joyce's account, not separately invented figures |
-| **Huogu / 武侠Q传** | 0→1 product strategy, DAU/revenue model, pricing, experiments, launching, ROI, recruiting and org blueprint | Demonstrates building the commercial system with the product, not after launch |
-| **Gameloft** — Order & Chaos, Minion Rush, Thor 2 | Regional/global operating architecture: ten-plus studios, 500+ cross-functional network, benchmarking, economy, release, LiveOps, product feedback, regional reporting and launch gates | Portfolio-wide systems and global-franchise operations, not just one product's marketing |
-| **Founder — development studio, Taoyuan Xigu** | 0→1 team, studio, pipeline, product thesis, budget, recruitment, production and operating structure | Category-leading studio/company creation and a game-development venture later involved in a BSE listing history |
-| **Founder — publishing company / subsequent group role** | From-zero publisher operations: IP sourcing, business development, game greenlight, channels, global market publishing SOP, live-service and staffing | Publishing venture acquired; strategic management at group level |
-| **Stalled-product & public-company consulting** | Executive diagnosis, zero-to-one operating model rebuild, WBS, responsibility map, release and data-measurement overhaul | Repeated business turnarounds; quote client-specific time/profit only where specific case allows |
-| **2024 book, talks and mentoring** | Codifies and transfers product/data/organization methods via a major technical publisher, industry talks, mentorship | Professional influence outside a single employer; Joyce reports several consulting/book users later reached global vertical/category leadership |
-| **GGC / AI-native systems** | Encodes operating expertise into research, creative, product, commercial, publishing decision workflows; develops Casino, Arcade, Sims and AI wellness consumer experiences | Current founder-built products + scalable professional methods; do not confuse product roadmap with mature revenue |
+## English hero identity
+**Joyce Mi | Global Category-Leading Game Operator · Billion-RMB-Scale Commercial Impact · Operating-System Architect · Serial Founder**
 
-## English pitch variants
+## 30-second executive biography
+Joyce Mi is the founder of GGC — Global Game Copilot, a global flagship-game operator and company operating-system architect. Across Microsoft, Tencent, Zynga, Gameloft and serial entrepreneurship, she has repeatedly built and scaled games to leading positions in their global, platform or vertical categories. Her career includes five zero-to-one game builds, dozens of one-to-ten expansions, multiple games with sustained eight-figure monthly revenues and profits, and a historical company-level annual profit contribution exceeding RMB 1 billion. She built cross-functional operating architectures covering more than ten global studios and 500-plus collaborators, and her entrepreneurial history includes a game-development company that later listed and an acquired publisher. Her book, *Game Operations and Global Expansion*, now complements the methods she transfers through GGC to international studios and AI-native businesses.
 
-### 25-second executive introduction
-Joyce Mi is the founder of GGC and a global flagship-game operator, operating-system architect and serial entrepreneur. Across Zynga, Gameloft, Tencent and Microsoft, she helped build and scale category-leading games, created data and monetization systems now familiar across Asian game operations, and coordinated more than 10 studios and a 500-plus-person cross-functional network. Her career spans five zero-to-one launches, dozens of scaled titles, billion-level annual profit impact, a listed game-development venture and an acquired publishing business. She is also the author of *Game Operations and Global Expansion*.
+## 170-word conference / global award version
+Joyce Mi, founder of GGC — Global Game Copilot, is a global game-business operator and architect of the systems behind category-leading flagship products. Her career spans Microsoft, Tencent, Zynga and Gameloft, as well as development and publishing ventures built from the ground up.
 
-### Conference — approx. 170 words
-Joyce Mi is the founder of GGC — Global Game Copilot, a global flagship-game operator and operating-system architect known for converting complex product and commercial challenges into repeatable results. Her career spans Microsoft, Tencent, Zynga and Gameloft, alongside serial game-development and publishing entrepreneurship.
+Her track record goes beyond product launch. She has led five zero-to-one builds, scaled dozens of titles through mature commercialization and contributed to sustained high-revenue and high-profit games across markets. Earlier career materials describe monthly gaming revenues exceeding RMB 60 million for an individual title, multiple eight-figure monthly profit cases, and more than RMB 1 billion in annual incremental profit contribution in a company operating context.
 
-At Zynga, she worked on CityVille, FarmVille and social/Arcade products, and helped introduce DAU and revenue modelling, viral K-factor, experimentation and retention-led decisions to Chinese and Asian game teams. One China CityVille engagement recorded a seven-percentage-point improvement in Day-1 retention. At Gameloft, she built and operated regional frameworks across global franchises including Order & Chaos and Minion Rush, collaborating with more than ten studios and a 500-plus cross-functional network.
+She has also designed DAU and revenue forecasting, social-virality models, monetization systems, global launch processes and organization-wide operating rhythms. At Gameloft, her work connected more than ten studios and over 500 cross-functional collaborators. Her entrepreneurial record includes a game-development venture with a subsequent public listing and an acquired publishing business.
 
-Her earlier career materials describe five from-scratch products, dozens of titles scaled commercially, multiple category-leading outcomes and more than one billion RMB in annual profit improvement in a company context. Her founder experience also spans a game-development venture with a Beijing Stock Exchange listing history and an acquired publishing business. She is the 2024 China Machine Press author of *Game Operations and Global Expansion*. Today she transfers this playbook into AI-native game operations, global publishing and consumer experiences at GGC.
+As the China Machine Press author of *Game Operations and Global Expansion*, Joyce has shared methods used by game operators and advised leading studios targeting category leadership. GGC now extends that playbook into AI-native global game and consumer-product operating systems.
 
-### Senior strategic partnership — approx. 190 words
-Joyce brings a rare combination of flagship production systems, direct commercial outcomes, cross-organization execution and founder-level ownership. Rather than offering generic consulting, she has designed the actual operating infrastructure through which companies choose a category, model player demand and revenue, allocate product resources, organize cross-functional development, manage monetization, release globally and expand mature products. Her early portfolio record includes five new products taken 0→1, dozens of games managed through 1→10 scaling and company-level annual profit improvement above RMB 1 billion. These are multi-project career results, not a single case or GGC's current reported earnings.
+## Strategic partnership angle — why international organizers should choose Joyce
+**This is not a generic consultant pitching services.** Joyce can give audiences a frank operator's playbook for *how to build a category leader*, explain the game revenue and commercial architecture behind flagship successes, contribute deep experience in Chinese and global markets, and develop China–Global publisher/founder roundtables when both partners want them. She seeks a featured solo or fireside talk, substantive earned editorial attention, an official speaker profile and session recording, qualified international introductions and mutually valuable ecosystem collaboration. The organizer's costs, VIP rights, media deliverables and travel support must be agreed separately.
 
-Her work includes Zynga CityVille/FarmVille and social/Arcade models, early DAU/revenue/K-factor transfer in China's game ecosystem, a scoped CityVille China +7 percentage-point D1 retention case, and Gameloft global operations across more than ten studios and 500+ cross-functional collaborators. She also built and operated development and publishing ventures, with later listing and acquisition outcomes in that entrepreneurial history.
+## Editorial numbers and claims — concise scope handling
+- **RMB 60m+ monthly gross revenue** in Wuxia Q Zhuan career case ≠ the **tens-of-millions RMB monthly profit** in other cases; the exact currency, period and game must stay with their statements.
+- The **six nine-figure outcomes** in the old portfolio biography are not automatically all monthly revenue or profit; use "six nine-figure project outcomes" until clarified.
+- The **RMB 1bn+ annual profit contribution** describes an earlier company context, not current GGC income.
+- Multiple No.1 outcomes refers to designated global, platform or category markets, not all titles simultaneously ranking No.1 across all stores worldwide.
+- Consulting to category leaders and some reported reader/client success can be stated as Joyce's professional experience; no need to demand a full audit before standard PR.
+- 500+ refers to the historically coordinated cross-functional network, not direct-report headcount.
+- Don't introduce minor/isolated D1 retention percentage lifts as hero proof in any media kit, speaker proposal, award profile or international partnership bio.
 
-Through GGC, Joyce can contribute a 25–40-minute independent keynote/fireside, a practical executive operating-system case study, co-designed China–global studios/publishers dialogue, and relevant founder introductions by mutual consent. In return, she seeks genuine speaker/editorial visibility, official profile and recordings, curated executive/investor access, speaker benefits and consideration of travel/production support where appropriate.
-
-### Company PR — GGC
-GGC is the operating-system and cross-border co-building business founded by Joyce Mi, a multi-category flagship-game operator with a track record in high-revenue game portfolios, global publishing, operating turnarounds and organizational architecture. GGC translates deep experience from Zynga, Gameloft and entrepreneurial product businesses into product assessment, category greenlighting, game economy and monetization, global go-to-market, data operations, LiveOps, AI-assisted workflows and selected co-development. Its focus includes Arcade, Sims, Social Casino/Casino-adjacent products and AI-native consumer experiences. GGC is not claiming the profits of Joyce's former employers as its present financial results; its core proposition is transferring proven operating capability into new studios, products and international partnerships.
-
-## Source register (internal editorial use)
-- Founder/consultancy 26-page PDF: *全球泛娱乐产品顾问-业务介绍-Joyce_v1.4*, p.12: 5 products 0→1, dozens 1→10, monthly-profit-level figures and six 100-million-plus claims, ten-figure annual profit growth, BSE and publishing acquisition, Zynga model transfer, 500+ scale.
-- *Joyce_Method_Master_Pitch_v1.0_35pages.pdf*, pp. 4–15 and 30–31: project architecture, Zynga/Huogu/Gameloft, venture/portfolio/publishing and turnaround stages.
-- Joyce 2025 business introduction and 2026 visual biography uploaded directly to the conversation.
-- GitHub [Public Newsroom](../../../joyce/docs/PUBLIC-NEWSROOM.md), [Speaker Archive](../../../joyce/docs/SPEAKING-ARCHIVE.md), [PR Positioning](../../../skills/joyce-pr-bd-positioning/SKILL.md).
-- Publisher: https://ebooks.cmpbook.com/detail?id=26372
-- LinkedIn career perspective: https://www.linkedin.com/in/minyajing/
+## Primary sources (first-party career evidence, not a demand for extra auditing)
+- Joyce's 26-page *全球泛娱乐产品顾问-业务介绍-Joyce_v1.4* uploaded professional dossier, p.12: five 0→1, dozens 1→10, six 100m+ cases, RMB 1bn+ annual company profit contribution, founder-company listing/acquisition.
+- Joyce Method Master Pitch v1.0 (35 pages): Zynga, Huogu/Wuxia Q Zhuan, Gameloft, founders, publishing, consulting, AI systems.
+- 2026 prior project discussions and professional cases: Wuxia Q Zhuan >RMB 60m monthly revenue, Order & Chaos and Minion Rush operating results, consulting/client vertical leadership and other turnaround cases. Use existing first-party career claims.
+- [Public Newsroom](../../../joyce/docs/PUBLIC-NEWSROOM.md) and [Speaking Archive](../../../joyce/docs/SPEAKING-ARCHIVE.md).
+- Official publisher: https://ebooks.cmpbook.com/detail?id=26372
+- LinkedIn: https://www.linkedin.com/in/minyajing/
