@@ -1,6 +1,15 @@
 # Joyce / GGC — Executive Portfolio & Annual Partnership
 
-Version: 2026-09-21-v5  
+## 2026-10-11 Flagship leadership positioning override
+
+**JOYCE — the operator who led flagship games to category leadership.** Her career is **not** a passive list of titles she “participated in.” As Zynga PM/Lead Producer, Gameloft Head of Asian Operations, a game Product Director and a serial Founder/CEO, she has led five 0→1 builds and dozens of 1→10 scale-ups. Across different mandates, Joyce directly reports revenue doubling and up to **10x revenue improvement**; her historical CV specifically attributes a tenfold revenue increase to a publishing/advertising platform built from scratch. She also led high-stakes commercial rebuilds, new publishing operations, regional business architecture and company/portfolio restructurings.
+
+Historical commercial magnitude includes an individual game at approximately **RMB60m/month gross revenue** (peak over RMB100m), recurring high-profit flagship product groups and first-party career records of prior-company annual profit improvement exceeding RMB1bn. These are specific historic project/company outcomes, not GGC's current annual revenue or one single game result. A go/no-go turnaround should not allege failure of a named former company/game without matching source.
+
+**External public bio:** use **Joyce** only, not Chinese legal full name. **Do not lead with CityVille D1 +7pp**; keep that in product-specific technical evidence. Lead with product/company leadership, commercial scale, repeatable operating methodology and the published book. An older venture's Beijing regional equity-market listing is not a Beijing Stock Exchange IPO. **Current master CN/EN:** [GGC Executive Intro](../../bd/GGC_Executive_Intro_Bilingual_v2.md) v4. Mandatory LinkedIn / website / AI Lab / publisher-book links remain.
+
+
+Version: 2026-10-11-v6  
 Status: public website copy source / verified-boundary edition.
 
 ## Executive Profile
