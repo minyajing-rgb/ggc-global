@@ -1,35 +1,25 @@
-# GGC Executive / Founder Strategic Introduction — English v3 (2026-10-11)
-> Public-facing **first-person project proof** rather than a generic consultant biography. Chinese first-party CV, independently listed 2024 book, GGC official profile and actual service scope underpin this version. For tailored 1:1 outreach **only after Joyce approves the actual company/person/copy**.
+# GGC Founder / CEO Executive Introduction | EN v4 (2026-10-11)
+> Based on [bilingual master](GGC_Executive_Intro_Bilingual_v2.md). Joyce led flagship businesses to leadership; do not reduce her career to participation or a seven-point retention anecdote. Per-company Joyce approval required.
 
-**Subject:** Joyce × [Company] | Global Flagship Games, New Ventures & AI Product Partnerships
+**Subject:** Joyce × [Company] | Category-Leading Games, New Ventures & AI Partnerships
 
 Dear [Name],
 
-I'm **Joyce Mi**, founder of GGC (Global Game Copilot) and author of ***Game Operations and Global Expansion: Strategies, Methods, and Skills*** (China Machine Press, 2024; published in Chinese under the pen name **Ai Xiaomi / 艾小米**).
+I'm **Joyce, founder of GGC and author of *Game Operations and Global Expansion*.** For over 15 years I've **led flagship game businesses** across Zynga, Gameloft, Tencent and my own ventures, taking products from greenlight and commercial rebuilding to global, platform or category leadership. My career covers **five zero-to-one builds, dozens of one-to-ten scale-ups, and revenue doubling to as much as 10x growth across different projects**—including high-stakes turnarounds and building publishing systems from scratch.
 
-For more than 15 years I've worked across **flagship game products, data, commercialization and global publishing** at **Zynga, Gameloft, Tencent and Microsoft**, including **CityVille, FarmVille, Zynga Arcade, Order & Chaos and Minion Rush**. On the Chinese CityVille project, product research and experimentation contributed to a **seven-percentage-point improvement in D1 retention**. Beyond large studios, I've also founded development/publishing businesses, built operating and distribution teams from scratch, and been involved in post-acquisition group operations.
+Today GGC operates in two areas: **new-category strategy, global publishing, self-publishing and COO/CMO operating Copilot partnerships**; and **our own games, AI consumer products and AI SaaS for games, media and intelligence**, with selected co-development opportunities.
 
-Today, GGC has two complementary tracks. We partner with CEOs and teams on **new-category strategy, greenlights, self-publishing, global launches, monetization and long-term COO/CMO operating Copilot engagements**; and we build **our own games, AI consumer products and AI tools for content/media, game intelligence and business operations**, with selected co-development and strategic partnership opportunities.
+I noticed [one verified strategic/product development] and wondered whether we might have an interesting overlap around [one specific collaboration]. It would be a pleasure to connect and exchange what we're each building, then explore a concrete project if relevant.
 
-I noticed **[one confirmed product, market or strategic initiative]** and thought there could be a meaningful overlap around **[one specific mutual opportunity]**. I'd be glad to connect, exchange what we're building and explore something concrete if the fit makes sense.
+Warm regards,
+**Joyce | Founder, GGC**
+WeChat 17701087579 · Telegram @joyceggc
+**LinkedIn:** https://www.linkedin.com/in/minyajing/
+**GGC:** https://biz.ggcgames.com/
+**Executive profile:** https://biz.ggcgames.com/joyce/
+**AI SaaS Lab:** https://biz.ggcgames.com/sme/
+**Published book:** https://ebooks.cmpbook.com/detail?id=26372
 
-Warm regards,  
-**Joyce Mi | Founder, GGC**  
-WeChat: 17701087579 · Telegram: @joyceggc
+**High-trust investor/CEO briefing (not default cold email):** historical individual title ~RMB60m monthly gross revenue/peak >RMB100m; recurring monthly profits in the tens of millions across certain products; company-level annual incremental profit contribution >RMB1bn. These are career-scale, project-specific outcomes, not GGC current revenue or guaranteed returns. Distinct 2x and up-to-10x revenue projects must not be portrayed as one named product without attribution.
 
-**Published book:** https://ebooks.cmpbook.com/detail?id=26372  
-**LinkedIn:** https://www.linkedin.com/in/minyajing/  
-**GGC:** https://biz.ggcgames.com/  
-**Why Joyce / executive profile:** https://biz.ggcgames.com/joyce/  
-**GGC AI SaaS Lab:** https://biz.ggcgames.com/sme/
-
-**Longer profile:** A 32-page internally reviewed executive PDF is available for selected discussions once confidentiality and metric permissions have been checked; do not paste a private Canva or sandbox link into an external email.
-
-## Private meetings: stronger concrete numbers, always scoped
-- Wuxia Q Zhuan (武侠Q传): project historical **~CNY60M monthly gross bookings / >CNY100M peak**, **not net profit**; require project and publication authorization.
-- A self-developed card/board venture: established and shipped in roughly three months; historical **>CNY3M monthly project profit** according to Joyce's first-party career record.
-- Zynga Arcade and Gameloft multi-studio history includes millions of DAU, major global product responsibility and cross-team operating standards. The specific year, metric and attribution must accompany any numeric business claim.
-- First-party career documents mention **hundreds of millions of CNY in annual incremental enterprise business outcomes** across some historical engagements; do not present these as GGC annual revenue, Joyce's personal take-home or an audited causal profit increase without underlying records.
-- A historic **Beijing regional equity-market / New Fourth Board listing** is not equivalent to a **Beijing Stock Exchange IPO**.
-
-**Contact guardrails:** historical company no-reply HOLD; explicit user excluded groups; person-level route verification and per-wave Joyce signoff. Do not misrepresent external partners, clients, investors, book language or AI SaaS maturity.
+**Outreach approval:** preserve company-level no-reply HOLD, Yoozoo/NetDragon no-contact, and Joyce's exact-company/executive/channel/copy review before sending.
