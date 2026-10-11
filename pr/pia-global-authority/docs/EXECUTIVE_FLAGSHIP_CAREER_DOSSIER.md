@@ -1,11 +1,15 @@
 # JOYCE MI — Flagship Commercial Scale & Category Leadership
 Updated 2026-10-11 | Canonical PR / speaker / awards / international executive storyline
 
+## 2026-10-11 outcome-first correction
+
+**2026-10-11 用户最终口径（覆盖此前“参与+小KPI”式介绍）：** Joyce 是**亲自主导多个旗舰项目从关键去留/重构节点走向全球、平台或垂类头部/第一**的商业操盘者。历史主责经历包含 **5个0→1、数十个1→10**；不同经营项目有**收入翻倍和最高10倍增长**，其中「从0搭广告/发行平台，收入10倍倍增」见本人原始4页CV；2x与关键项目曾面临cancel为本人最新直接补充，**暂不归属具名IP**。对外主打**营收/利润量级、跨组织系统、项目从风险到领导地位**，不再以CityVille D1七个百分点作为个人PR代表成果。涉及上一家公司接手时困境时，以匿名或非指责方式说明，以免无凭据指称具名团队失败。对外身份一律 **Joyce**，不加中文法定姓名。历史发行/研发业务的北京**区域性股权市场挂牌不等于北京证券交易所IPO**；不能继续无差别写regional equity-market listing。各笔历史业务成果非GGC当期财务。对外版本要短、强、可复用，不写成案件证据备忘录。
+
 ## The true headline
 **I have led game products to flagship status and global, platform or vertical-category leadership.**
 Joyce is not defined by one retention lift or by possessing an impressive resume of employers. Her distinctive commercial record is **repeated global / platform / category-leading game operations**, **large and sustained revenue and profit**, **founder-grade 0→1 launches, 1→10 scaling, commercial upgrades and organization-wide operating-system design**, followed by the transfer of those methods to top-tier consulting clients and the next generation of AI-native game and consumer products.
 
-**External communications rule:** State the achieved leadership and commercial outcome, not the incoming state of inherited projects. Do not describe prior employers, executives, studios or games as failing, collapsing, poorly managed, close to shutdown, or in need of rescue. Retain operational before/after chronology only in restricted internal case preparation when genuinely relevant.
+**External communications rule:** Lead with personally achieved global/vertical leadership, 0→1/1→10, and 2x/up-to-10x revenue uplift across separate mandates. A high-stakes go/no-go or operating turnaround may be mentioned generically, without attributing cancellation risk to a named past employer, team or title. Save detailed before/after names for consented private case discussions.
 
 ## Historic commercial results — long-standing first-party career material
 - **Dozens of titles scaled through 1→10** with mature monthly profits reaching **tens of millions of RMB** and six nine-figure historical project outcomes described in Joyce's original Chinese business presentation. These are multiple cases, not all one game, and "six over 100 million" has an original scope that should not be silently relabelled as monthly net profit.
@@ -24,7 +28,7 @@ Do not build the main public biography around a small player-retention delta. Th
 - Microsoft/Tencent/Zynga: flagship social and F2P systems; early transfer of DAU/Revenue/K-factor modelling, social-viral metrics, player analytics and experimentation to China/Asia game-company operating practice, including Tencent Qzone, Kaixin-related gaming and Guangdiantong commercial frameworks.
 - Huogu / Wuxia Q Zhuan: new product and commercial economy framework; first-party monthly game revenue benchmark >RMB 60m and peak >RMB 100m.
 - Gameloft Order & Chaos, Minion Rush, Thor and major franchise portfolio: global/Asia management system, benchmarking, commercial operations, cross-team release pipelines, and 10+ studios / 500+ cross-functional network (network, not 500 direct reports).
-- Serial founder: newly created development/publishing studios, organizations and SOP; development venture in the history of a Beijing Stock Exchange listing, and an acquired publishing company.
+- Serial founder: newly created development/publishing studios, organizations and SOP; development venture in the history of a Beijing regional equity market listing, and an acquired publishing company.
 - Enterprise architecture & advisory: led product, commercial and organizational upgrades that helped teams reach or extend flagship/category-leading business positions. Consulting engagements include established category leaders; credit the collaborative business outcome accurately.
 - 2024 China Machine Press *Game Operations and Global Expansion*; wide industry speaking and founder mentoring, used by operators and businesses beyond her immediate employers.
 - GGC: applying the same repeatable game company system to global publishing, full-cycle operating partnership, AI decision infrastructure and AI-native consumer products (Bunny, Astro, PLOT, SAGA research architecture).
