@@ -4,10 +4,22 @@ description: >
   Account-based business development for Joyce/GGC annual client acquisition.
   Use for sourcing, qualifying, penetrating, contacting and converting Chinese-led
   principal-side game companies into high-value GGC operating, publishing and commercial-operating engagements.
-version: 2.7
+version: 2.8
 ---
 
 # GGC Annual Client Development — Account-Based BD Skill
+
+## v2.8 — Joyce's flagship-led CEO pitch and turnaround proof (2026-10-11)
+
+**The first line of an executive BD introduction must explain what Joyce LED and the business magnitude.** Career: repeated game projects driven to global/platform/category leadership, **five 0→1, dozens 1→10, separate projects with 2× and up-to-10× revenue improvements**, historical high-profit franchises and major business turnarounds/organizational rebuilds. The four-page first-party CV explicitly says "从零开始搭建广告、发行平台，收入10倍倍增"; 2×/go-no-go rescue claims were directly confirmed by Joyce and must remain scoped to anonymous appropriate cases until attribution available. Primary goal: peer-to-peer CEO/investor strategic conversations, not selling services in every first message.
+
+**No more** leading with "participated in famous games", a generic 15-year consulting bio, Chinese legal name, or CityVille D1 +7pp as the flagship achievement. Use Joyce; examples of genuine leadership: Zynga PM/Lead Producer, Gameloft Asian Operations Head, Huogu Product Director, game development and publishing Founder/CEO. Mention relevant global title where appropriate, and don't assert that a named company/game was about to be cancelled without its distinct source.
+
+For strong but bounded 1:1 CEO/strategic copy, historic product gross revenue ~RMB60M/month and peak >RMB100M, historical company-level annual incremental profit uplift >RMB1B, 10+ studios/500+ collaboration network, regional equity-market listing and acquired publishing business may be used with business-level and period distinction. Preserve the published book, LinkedIn, GGC website, AI SaaS Lab and Why Joyce links from `../../bd/GGC_Executive_Intro_Bilingual_v2.md`. Never combine separate sample numbers into a fictional single-title outcome.
+
+**Buyer strategy, money/own-product qualification, no-reply company HOLD, forbidden Yoozoo/NetDragon groups and Joyce's per-recipient approval all remain unchanged.** No amount of status "CONTACT_READY" alone authorizes a send.
+
+---
 
 ## v2.7 — Joyce conditional >=78 first-touch authorization (2026-10-10; overrides blanket no-send for qualified GGC B2B only)
 
