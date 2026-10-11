@@ -1,5 +1,16 @@
 # Joyce Mi / GGC — Speaker Kit
 
+## 2026-10-11 最新高层/国际舞台口径（覆盖旧泛履历短介）
+
+**Joyce | Global Flagship Game Operator · Category-Leading Business Builder · Operating-System Architect · Author.**
+
+Joyce has **led titles from difficult go/no-go and commercial rebuild stages into global, platform and vertical category leadership**. Career record: **five 0→1 launches, dozens of 1→10 game businesses, revenue doubling and up to 10x gains across distinct projects**, profitable flagship portfolios and **more than RMB 1bn historical company-level annual incremental profit contribution**. Across Zynga, Gameloft, Tencent, entrepreneur-led ventures and global studios, she built the DAU/Revenue, social virality, commercial economy, publishing and cross-functional systems underneath those results. Her book `Game Operations and Global Expansion` is published by China Machine Press. Today GGC applies this track record to strategic operating Copilot, global publishing, own games and AI-native products/SaaS.
+
+**Avoid:** listing Joyce as a passive participant; centering the small CityVille retention example; giving her Chinese legal name in short PR; attributing a near-cancel event or 10x revenue uplift to a particular named old employer/title without mapped evidence; calling a regional equity-market listing a Beijing regional equity market IPO. Keep the real executive introduction short and outcomes-led, while preserving project/period distinctions.
+
+Sources: `../pia-global-authority/docs/EXECUTIVE_FLAGSHIP_CAREER_DOSSIER.md`, `../../bd/GGC_Executive_Intro_Bilingual_v2.md`, 2026-10-11 share `https://chatgpt.com/share/6acba559-b830-83e8-9056-afd2a74cf39a`.
+
+
 Version: 2026-10-03-v3
 
 ## Speaker positioning
@@ -16,7 +27,7 @@ These are **historical career and portfolio outcomes**, not one product, one emp
 
 ## 60-second high-impact speaking opener
 
-“I have spent more than fifteen years working on some of the flagship products and operating systems behind global games. This includes CityVille and FarmVille at Zynga, and Order & Chaos and Minion Rush at Gameloft. But what I am most known for in my career is not simply operating these titles. I helped build the DAU, revenue, viral-sharing, research and experimentation discipline that shaped early Chinese game operations; rebuilt commercial and operating architectures across more than ten studios and hundreds of cross-functional collaborators; and later took five products from zero to one and helped scale dozens of businesses from one to ten. My entrepreneurial career includes a game-development business with a Beijing Stock Exchange listing history and a publishing company that was acquired. A major lesson behind these projects is simple: lasting profit follows a system — and systems can be rebuilt, taught and transferred. That is the work I am now codifying through GGC and AI-native product operating workflows.”
+“I have spent more than fifteen years working on some of the flagship products and operating systems behind global games. This includes CityVille and FarmVille at Zynga, and Order & Chaos and Minion Rush at Gameloft. But what I am most known for in my career is not simply operating these titles. I helped build the DAU, revenue, viral-sharing, research and experimentation discipline that shaped early Chinese game operations; rebuilt commercial and operating architectures across more than ten studios and hundreds of cross-functional collaborators; and later took five products from zero to one and helped scale dozens of businesses from one to ten. My entrepreneurial career includes a game-development business with a Beijing regional equity-market listing history and a publishing company that was acquired. A major lesson behind these projects is simple: lasting profit follows a system — and systems can be rebuilt, taught and transferred. That is the work I am now codifying through GGC and AI-native product operating workflows.”
 
 Use 15/30/45 minute session formats with a true executive case, one title-specific KPI and the organizational system behind it, not a detached AI feature slide.
 
