@@ -20,6 +20,10 @@ These are **historical career and portfolio outcomes**, not one product, one emp
 
 Use 15/30/45 minute session formats with a true executive case, one title-specific KPI and the organizational system behind it, not a detached AI feature slide.
 
+## Public narrative priority — 2026-10-11
+
+**Joyce led games to flagship and global/platform/category-leading positions.** The stage introduction must attribute the transformation and resulting commercial scale to her operating leadership; avoid implying she merely joined an already successful title. Do not publicize any negative assessment of a former employer, predecessor team or inherited product. Focus on market leadership, revenue/profit scale, five 0→1 builds, dozens 1→10 expansions, operating architecture, founder outcomes, author credential and AI-native next chapter.
+
 ## Preferred formats
 
 - 20–30 min solo talk
