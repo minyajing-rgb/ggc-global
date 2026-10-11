@@ -10,6 +10,13 @@ version: 1.1
 ---
 
 # Joyce PR & BD Positioning System
+## v1.2 — Outcome-led transformation narrative (2026-10-11)
+
+**External writing rule:** Joyce's differentiator is that **under her operating leadership, multiple game products reached flagship status and global/platform/vertical category-leading positions**. She did not merely inherit or oversee already-successful flagship products. However, PR, speaker bios, award submissions, media outreach and employer/partner mentions must never criticize the inherited project or previous company/management by calling it distressed, failing, nearly shut down, poorly run or rescued. Lead with **the achieved result and the system Joyce led**, not negative before-state descriptions. Historical operating contexts may remain in restricted internal project notes. Respect past employers and collaborators. Keep short pitch paragraphs concise.
+
+**Preferred framing:** “She led multiple game businesses to global or category-leading flagship positions and built the product, commercialization and organization systems behind their performance.”
+
+
 
 ## v1.1 — Concrete flagship proof before abstract positioning (2026-10-11)
 
