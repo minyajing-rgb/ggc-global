@@ -1,6 +1,6 @@
 # Joyce Mi / GGC — Global PR Status
 
-Updated: 9 October 2026 (targeted IndieGameBusiness speaker receipt addition; other entries retain their dated evidence)
+Updated: 11 October 2026 (4YFN second consumer-AI solo submission; other entries retain dated evidence)
 
 Scope: awards, conference speaking and editorial opportunities across games, AI, wellness/spirituality, global marketing and entrepreneurship.
 
@@ -14,7 +14,7 @@ This is a working pipeline, not a list of awards won, confirmed speaking engagem
 - Existing Jordan/London panel concept was already sent 8 Oct; it is **not** a confirmed event speaker slot. Original official invite was a request to submit a concept for possible programme review, not an offer of an engagement.
 - See [Pitch opportunity shortlist](pr/authority-engine/PIA_GLOBAL_PITCH_OPPORTUNITIES_2026-10-10.md) and [PIA global industry authority strategy](pr/authority-engine/PIA_GLOBAL_AUTHORITY_AND_INDUSTRY_IMPACT_2026-10-10.md). Paid awards and travel remain uncommitted.
 
-- **4YFN second consumer-AI solo talk, NOT SUBMITTED (10 Oct).** Official CFP form entered with *From Play to Meaning: Building AI-Native Consumer Experiences People Return To*, but browser stopped before Speaker 1 details and final Submit; no receipt, do not count as filed. Working browser run `c81343e9-40af-4b60-a42a-7a34c082701f`. Requires a separate fully completed final submission if pursued; no claim of permanent saved draft.
+- **4YFN second consumer-AI solo talk, SUBMITTED / OFFICIAL SUCCESS PAGE VERIFIED (11 Oct 2026).** Joyce Mi / GGC submitted *From Play to Meaning: Building AI-Native Consumer Experiences People Return To* as a **Solo presentation**, themes **Founders; Agentic AI**, tags **APP/MOBILE SERVICES; ARTIFICIAL INTELLIGENCE; GAMING; USER EXPERIENCE**. All required submitter and Speaker 1 fields were completed; the live form has no standalone Bio field, so source-bound English bio was supplied in Comments. Official page displayed: "Thank you for submitting your information, we will be in touch by November 30th." No applicant reference was displayed. Pre-submission all-mail check found only the first proposal's 10 Oct receipt; prior execution stopped before final submission. The earlier unsubmitted second proposal is superseded. **This confirms receipt, not a speaker slot.** New automatic email was not yet found at immediate post-submission checks; do not resubmit while awaiting it. No fee, marketing subscription or attendance/travel commitment. See [submitted consumer-AI session record](pr/authority-engine/4YFN_CONSUMER_AI_SOLO_SUBMITTED_2026-10-11.md).
 
 ## 2026-10-10 direct portal and Gmail award verification
 
