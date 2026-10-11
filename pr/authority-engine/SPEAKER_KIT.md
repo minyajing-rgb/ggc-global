@@ -6,7 +6,19 @@ Version: 2026-10-03-v3
 
 **Global multi-category game operator and operating-system architect | Global flagship games | Data/social virality and Asia method transfer | Cross-company operating systems | AI-native next chapter**
 
-Joyce is best used for executive / practitioner audiences that want operational frameworks and concrete decision logic rather than high-level AI trend commentary.
+Joyce is best used for executive / practitioner audiences that want **flagship business outcomes, profit-level decision frameworks and proven company architecture**, not generic trend commentary.
+
+## Executive impact headline (choose for each organizer)
+
+**Five zero-to-one builds · Dozens of one-to-ten scales · Six nine-figure historical project outcomes · 10+ global studios / 500+ cross-functional contributors · >RMB 1 billion annual company profit uplift in an earlier operating role · BSE listing and acquired publisher in founder history · 2024 industry book.**
+
+These are **historical career and portfolio outcomes**, not one product, one employer's endorsement or GGC's current reported revenue. Source: [Executive Flagship Career Dossier](../pia-global-authority/docs/EXECUTIVE_FLAGSHIP_CAREER_DOSSIER.md).
+
+## 60-second high-impact speaking opener
+
+“I have spent more than fifteen years working on some of the flagship products and operating systems behind global games. This includes CityVille and FarmVille at Zynga, and Order & Chaos and Minion Rush at Gameloft. But what I am most known for in my career is not simply operating these titles. I helped build the DAU, revenue, viral-sharing, research and experimentation discipline that shaped early Chinese game operations; rebuilt commercial and operating architectures across more than ten studios and hundreds of cross-functional collaborators; and later took five products from zero to one and helped scale dozens of businesses from one to ten. My entrepreneurial career includes a game-development business with a Beijing Stock Exchange listing history and a publishing company that was acquired. A major lesson behind these projects is simple: lasting profit follows a system — and systems can be rebuilt, taught and transferred. That is the work I am now codifying through GGC and AI-native product operating workflows.”
+
+Use 15/30/45 minute session formats with a true executive case, one title-specific KPI and the organizational system behind it, not a detached AI feature slide.
 
 ## Preferred formats
 
