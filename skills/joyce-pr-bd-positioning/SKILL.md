@@ -249,6 +249,20 @@ Never:
 - publicly equate Joyce with a historical or business celebrity as if stature has already been proven;
 - imply employer, customer or partner endorsement merely because Joyce worked with or for them.
 
+### 4.4A Do not downgrade real historical business results in ordinary PR
+
+When writing Joyce's biography, award submission, conference speaker proposal or qualified high-level introduction, **do not collapse her achievements into “worked across product, analytics and LiveOps”.** Her dated founder-provided 26-page professional dossier explicitly states:
+- five products built **0→1**, with subsequent monthly profit at tens-of-millions levels and peak outcomes above 100 million;
+- dozens scaled **1→10**, including six cases above the 100-million outcome threshold;
+- company-level **annual profit uplift above one billion** in an earlier business;
+- 10+ global studio teams and a 500+ cross-functional network at Gameloft;
+- venture-building experience including a game-development company with a Beijing Stock Exchange listing history and an acquired publishing company;
+- the 2024 China Machine Press book, industry speaking/mentorship, and data/DAU/revenue/social virality operating methods brought from Zynga into China's game ecosystem.
+
+These are **first-party career and multi-project outcome statements**, not performance audited on behalf of the current GGC entity. A typical organizer pitch can legitimately use them with accurate scope. Do not impose an external-audit task that the recipient did not request; simply avoid merging disparate financial figures or asserting a new legal status for a named company. If venue word limits are tight, include **at least one commercial magnitude claim and one concrete operating-system example**, not only employers.
+
+Preferred honest authoritative language: “helped establish widely used data-driven operating practices across Asian game teams”; “pioneered transfer of Zynga-derived DAU, revenue and K-factor methods into the Chinese games ecosystem”; “built repeatable operating standards and systems across studios.” Don't pretend a professional operating standard is a government regulation. Reference the full internal [PIA dossier](../../pr/pia-global-authority/docs/EXECUTIVE_FLAGSHIP_CAREER_DOSSIER.md).
+
 ### 4.4 Strong first-party language
 
 For private, qualified BD, first-person career claims are permitted when they are Joyce's own account and she can substantiate them in discussion:
