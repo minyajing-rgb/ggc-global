@@ -41,6 +41,27 @@ This skill does not authorize cold contact or publication. Superseding rules for
 
 ---
 
+## 0A. Latest Joyce positioning correction — 2026-10-11 (highest priority)
+
+For executive introductions, international PR, awards, media kits, speaking bios, company positioning and business pitches **Joyce is the leader who took flagship games to category-leading outcomes; NOT a passive contributor to products already successful**.
+
+**Primary narrative:** global/platform/category-leading results → five 0→1 / dozens 1→10 → specific business revenue/profit scale and distinct 2×/up-to-10× revenue outcomes → high-stakes project turnarounds → publishing/organization/operating system → founder-led build/listing/acquisition → current GGC Principal and owned AI products/SaaS → published book.
+
+- User-confirmed across separate historical projects: certain projects faced go/no-go cancellation decisions when Joyce took responsibility; she rebuilt operations and took them to flagship levels. Do not falsely attribute the near-cancellation event to CityVille, Order & Chaos, or another specific title absent explicit matching. In public PR use an anonymized, respectful "high-stakes turnaround" rather than alleging a named former company/team failed.
+- User-confirmed **revenue doubling** across projects; historic four-page CV directly states "从零开始搭建广告、发行平台，收入10倍倍增" (10x revenue with building an advertising/publishing platform). Do not imply the same named project grew 2x then 10x, or combine metrics from different clients.
+- Historic commercial portfolio includes one product at ~RMB60m monthly *gross revenue* (peak >RMB100m), multiple mature projects with tens-of-millions monthly profit, and historical previous-company annual incremental profit contribution above RMB1bn. State the appropriate operating period/business level; never as present GGC revenue or Joyce personal cash receipts.
+- Joyce led product/operating responsibilities as Zynga PM/Lead Producer, Gameloft Asia Operations head, Huogu product director and founder/CEO. Avoid a blanket "participated in" that erases responsibility. Equally avoid sole-credit claims for an entire global company's revenue.
+- **Never put CityVille China D1 +7pp / seven-percentage-point retention in the headline**, 30-second profile, CEO/investor outreach or signature flagship proof. It belongs in a detailed product KPI appendix only.
+- Chinese-facing materials: name simply **Joyce**; omit Chinese legal full name. English signature may use Joyce.
+- Professional claim: early adoption and propagation of DAU/Revenue/K-factor/data-driven operations across platforms and Asian teams, as a substantive game-industry methodology contribution. Do not describe it as an official state standard where none was identified.
+- Venture capitalization: Beijing *regional equity market (New Fourth Board)* historical listing is not a 2014–2017 Beijing Stock Exchange IPO. Preserve acquisition/post-acquisition experience and business system building.
+- Publication is mandatory major PR proof: *Game Operations and Global Expansion* / 《游戏运营与出海实战：策略、方法与技巧》, China Machine Press (2024), https://ebooks.cmpbook.com/detail?id=26372.
+- **Current approved bilingual master:** `../../bd/GGC_Executive_Intro_Bilingual_v2.md` v4 (historic filename), with CN/EN emails `../../bd/GGC_Pitch_Email_Full_CN.md`, `...EN.md`. Specific monetary claims must follow the private flagship evidence ledger, not template invention.
+
+This correction supersedes older sections below if they focus on D1 +7pp or use a passive "participated" as Joyce's highest credential. It does not authorize publishing client secrets or contacting people without account suppression and Joyce signoff.
+
+---
+
 ## 0. Mission and precedence
 
 This is the upstream positioning skill for Joyce/GGC.
