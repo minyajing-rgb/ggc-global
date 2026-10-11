@@ -1,31 +1,35 @@
-# GGC Founder / CEO Strategic Introduction — English v2 (2026-10-10)
-> Supersedes the earlier sales-heavy annual-partnership email. Use the current bilingual public sources, real links and book reference in [GGC_Executive_Intro_Bilingual_v2.md](GGC_Executive_Intro_Bilingual_v2.md). Do not auto-send. Keep the actual CEO/company/role-specific angle and suppression gate.
+# GGC Executive / Founder Strategic Introduction — English v3 (2026-10-11)
+> Public-facing **first-person project proof** rather than a generic consultant biography. Chinese first-party CV, independently listed 2024 book, GGC official profile and actual service scope underpin this version. For tailored 1:1 outreach **only after Joyce approves the actual company/person/copy**.
 
-**Subject:** Joyce × [Company] | Global games, AI products & strategic collaboration
+**Subject:** Joyce × [Company] | Global Flagship Games, New Ventures & AI Product Partnerships
 
 Dear [Name],
 
-I'm Joyce Mi, founder of **GGC (Global Game Copilot)** and author of *Game Operations & Global Expansion* (China Machine Press). Over the past 15+ years, I've worked across game product, operations and global publishing at **Microsoft, Tencent, Zynga and Gameloft**, contributing to globally leading titles including **CityVille, FarmVille, Order & Chaos and Minion Rush**. I've also built game development and publishing businesses as a founder.
+I'm **Joyce Mi**, founder of GGC (Global Game Copilot) and author of ***Game Operations and Global Expansion: Strategies, Methods, and Skills*** (China Machine Press, 2024; published in Chinese under the pen name **Ai Xiaomi / 艾小米**).
 
-Today, my work has **two complementary tracks**: (1) strategic and operating **Copilot partnerships** with game companies, covering new-category greenlights, self-publishing, global launches, monetization and executive operating support; and (2) **our own games, AI consumer products and AI SaaS workflows** in game intelligence, content/media and commercial operations, with selected opportunities for co-development, publishing and strategic partnerships.
+For more than 15 years I've worked across **flagship game products, data, commercialization and global publishing** at **Zynga, Gameloft, Tencent and Microsoft**, including **CityVille, FarmVille, Zynga Arcade, Order & Chaos and Minion Rush**. On the Chinese CityVille project, product research and experimentation contributed to a **seven-percentage-point improvement in D1 retention**. Beyond large studios, I've also founded development/publishing businesses, built operating and distribution teams from scratch, and been involved in post-acquisition group operations.
 
-I noticed **[one independently verified recent company/product development]** and thought there might be a useful overlap around **[one specific joint opportunity]**. I'd be happy to get acquainted, share what we're each working on and explore a real project if there's a fit—no predetermined deal in mind.
+Today, GGC has two complementary tracks. We partner with CEOs and teams on **new-category strategy, greenlights, self-publishing, global launches, monetization and long-term COO/CMO operating Copilot engagements**; and we build **our own games, AI consumer products and AI tools for content/media, game intelligence and business operations**, with selected co-development and strategic partnership opportunities.
 
-Best regards,  
+I noticed **[one confirmed product, market or strategic initiative]** and thought there could be a meaningful overlap around **[one specific mutual opportunity]**. I'd be glad to connect, exchange what we're building and explore something concrete if the fit makes sense.
+
+Warm regards,  
 **Joyce Mi | Founder, GGC**  
-WeChat: **17701087579** · Telegram: **@joyceggc**
+WeChat: 17701087579 · Telegram: @joyceggc
 
+**Published book:** https://ebooks.cmpbook.com/detail?id=26372  
 **LinkedIn:** https://www.linkedin.com/in/minyajing/  
-**GGC business:** https://biz.ggcgames.com/  
-**Executive Profile / Why Joyce:** https://biz.ggcgames.com/joyce/  
-**GGC AI SaaS Lab:** https://biz.ggcgames.com/sme/  
-**Published book:** https://ebooks.cmpbook.com/detail?id=26372
+**GGC:** https://biz.ggcgames.com/  
+**Why Joyce / executive profile:** https://biz.ggcgames.com/joyce/  
+**GGC AI SaaS Lab:** https://biz.ggcgames.com/sme/
 
-**Long presentation (28-page visual PDF):** mention as `Attached: Joyce × GGC Executive Presentation` only if the exact approved PDF is truly attached; otherwise `Happy to share the longer deck on request`. The currently imported Canva design is owner-review-only, and a public deck URL has not yet been verified. Never paste a `sandbox:` URL into external email.
+**Longer profile:** A 32-page internally reviewed executive PDF is available for selected discussions once confidentiality and metric permissions have been checked; do not paste a private Canva or sandbox link into an external email.
 
-## Message quality / contact rules
-- For a game CEO: select one genuinely relevant title/new-market/self-publishing/portfolio thesis.
-- For an investor: operating DD/post-investment capabilities + owned products/AI SaaS; do not treat an investor as a consulting buyer or imply an investment is secured.
-- For an AI platform/media/industry partner: focus on concrete collaboration, content/program/product fit; do not try to sell them a yearly operating retainer.
-- Do not publish unscoped rankings or project financial metrics, guarantee ROI, invent intros, claim 500 people were direct reports, or disclose confidential cases.
-- Send only after actual company, current person, valid route, full copy, historic send/no-reply, STOP and Joyce's per-batch approval have all passed.
+## Private meetings: stronger concrete numbers, always scoped
+- Wuxia Q Zhuan (武侠Q传): project historical **~CNY60M monthly gross bookings / >CNY100M peak**, **not net profit**; require project and publication authorization.
+- A self-developed card/board venture: established and shipped in roughly three months; historical **>CNY3M monthly project profit** according to Joyce's first-party career record.
+- Zynga Arcade and Gameloft multi-studio history includes millions of DAU, major global product responsibility and cross-team operating standards. The specific year, metric and attribution must accompany any numeric business claim.
+- First-party career documents mention **hundreds of millions of CNY in annual incremental enterprise business outcomes** across some historical engagements; do not present these as GGC annual revenue, Joyce's personal take-home or an audited causal profit increase without underlying records.
+- A historic **Beijing regional equity-market / New Fourth Board listing** is not equivalent to a **Beijing Stock Exchange IPO**.
+
+**Contact guardrails:** historical company no-reply HOLD; explicit user excluded groups; person-level route verification and per-wave Joyce signoff. Do not misrepresent external partners, clients, investors, book language or AI SaaS maturity.
