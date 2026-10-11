@@ -1,9 +1,13 @@
 # PIA — English Global PR, Awards & Speaking Pitch Kit
-Updated 2026-10-11 | Quantified category-leadership version
+Updated 2026-10-11 | Flagship leadership, 2x–10x revenue and turnaround-focused version
+
+## Latest approved positioning override (2026-10-11)
+
+**Joyce is a builder of category leaders, not someone who merely worked on successful games.** She has personally led flagship portfolios through pivotal greenlight, commercial-rebuild and scale-up decisions. Career record: five 0-to-1 products, dozens of 1-to-10 scale-ups, 2x revenue improvements and up to 10x revenue growth **across separate projects**, and historical high-revenue/high-profit game businesses. She designed the regional and global operating architecture rather than simply reporting results. Public introduction leads with outcomes; the detailed D1 retention case stays in technical appendix only. Do not expose an identifiable former employer as near cancellation; generic "high-stakes turnarounds" is okay. Refer to the venture's Beijing regional equity-market listing, not a 2014–17 BSE IPO. Name used for Chinese-facing intros: Joyce only.
 
 ## Preferred short international biography — ~120 words (PUBLIC)
 
-Joyce Mi, founder of GGC — Global Game Copilot, is a global game-business operator and operating-system architect who has **led multiple games to flagship status and global, platform or category No. 1 positions**. Across Zynga, Gameloft, Tencent and founder-led ventures, her career covers five 0→1 builds and dozens of 1→10 expansions, with historical game portfolios delivering eight-figure RMB monthly profits and over RMB 1 billion in company-level annual profit contribution. She designed the product, data, monetization, publishing and organizational systems behind these results, coordinating 10+ studios and a 500+ cross-functional network. A serial founder and author of *Game Operations and Global Expansion* (China Machine Press, 2024), Joyce now applies this playbook to AI-native game and consumer businesses.
+Joyce, founder of GGC — Global Game Copilot, is a global flagship-game leader who has **personally driven products through high-stakes turnarounds and into global, platform or category-leading positions**. Across Zynga, Gameloft, Tencent and founder-led ventures, her career covers five 0→1 builds and dozens of 1→10 expansions, with historical game portfolios delivering eight-figure RMB monthly profits and over RMB 1 billion in company-level annual profit contribution. She designed the product, data, monetization, publishing and organizational systems behind these results, coordinating 10+ studios and a 500+ cross-functional network. A serial founder and author of *Game Operations and Global Expansion* (China Machine Press, 2024), Joyce now applies this playbook to AI-native game and consumer businesses.
 
 **Narrative rule:** Say "Joyce led titles to global/category-leading flagship positions"; do **not** describe a previous employer, studio or its product as failing, collapsing, distressed or close to shutdown. Internal project history can preserve operational context; outbound PR remains outcome-led and respectful of past employers.
 
