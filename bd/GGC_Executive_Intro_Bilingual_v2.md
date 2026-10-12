@@ -1,4 +1,21 @@
 # Joyce × GGC — 中英文高管自我介绍 / Executive Biography v5
+
+## 2026-10-12｜最简且完整的业务Pitch / New Preferred Pitch
+
+**一句话（中文）：** 我是Joyce，全球旗舰游戏操盘手、GGC创始人。擅长把面临去留决策或长期停滞的项目重构成全球品类标杆，也从0到1打造新旗舰、从1到10放大收入利润，建立支撑长期经营的数据、商业化、发行及企业管理体系。
+
+**30秒（中文）：** 我以前在Zynga做产品经理/Lead Producer、Gameloft负责亚洲区运营，亲自带过多个全球/平台/细分品类第一的旗舰项目，也创办过研发发行公司。核心是**救旗舰、造旗舰、造体系**：五款0→1、数十款1→10，多个项目收入翻倍，其中从0搭建的发行和广告平台做到10倍营收。早期把DAU、收入模型、K-factor和实验方法引入亚太业务，也建设过数据、平台商业化和跨国团队经营底层框架。现在GGC做项目Copilot陪跑、联合立项与CPS/收益分成，以及自有海外内容/KOL/媒体与AI SaaS分发生态。
+
+**10-second English:** I'm Joyce, founder of GGC—a global flagship-game operator and commercial operating-system architect. I turn challenged titles into category leaders, build new products from zero and scale revenue and profitability through repeatable data, publishing and operating systems.
+
+**30-second English:** I led flagship game products at Zynga and Gameloft, including category-leading operations across global and Asian markets, and later built development and publishing ventures. My track record spans five zero-to-one builds, dozens of one-to-ten scale-ups, and separate cases of doubled and tenfold revenue. I also helped establish DAU/revenue, virality, platform-monetization and cross-studio operating disciplines. Through GGC, I now partner on long-term project Copilot, jointly greenlit games and AI products with agreed CPS/revenue sharing, and an owned international creator/content/AI SaaS distribution ecosystem.
+
+**The real differentiator:** **Turnaround Operator + Zero-to-One Flagship Builder + Business Operating-System Architect.** Not a UA agency, an operations executor or a consultant who only produces decks.
+
+**书和可看资料：** 《游戏运营与出海实战：策略、方法与技巧》 https://ebooks.cmpbook.com/detail?id=26372 · LinkedIn https://www.linkedin.com/in/minyajing/ · GGC https://biz.ggcgames.com/ · Why Joyce https://biz.ggcgames.com/joyce/ · AI SaaS https://biz.ggcgames.com/sme/。
+
+**使用说明：** 此模块为当前首选；下方较长的产品明细属于第二层证据，首次见老板不必朗读全部产品金额。原始`net`单位不可自行翻译成净利润；不同项目2x/10x不可合并为单一产品业绩。个人介绍只署Joyce，不自动追加推销式CTA。
+
 **2026-10-12 · v6 · 三条业务+完整商务联络 · professional name Joyce only**
 
 > **事实源：** [Joyce全球旗舰项目主责与经营口径](../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md)。本文件只负责精炼表达；旧V2–V4在Git历史保留，不再作为当前使用版本。
