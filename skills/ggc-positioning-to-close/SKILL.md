@@ -1,11 +1,20 @@
 ---
+
+## v1.1 — Founder evidence assets and category-leading operating mandates (2026-10-12)
+
+Use [Joyce Flagship Authority OS](../joyce-flagship-authority-os/SKILL.md) before selling principal-led engagements. Positioning starts with **true flagship operating case, the strategic constraint, Joyce's owned decisions and business outcome**, not a generic resume or a cold email list. Build an evidence chain: one of three proof cards (turnaround / 0→1 / operating-system re-architecture) → buyer-specific business gap → bounded 90-day/annual Copilot or co-build/CPS offer → scope, KPI owners, implementation authority and economics.
+
+Capital partners can buy commercial DD or post-investment operating work, and may become co-build relationships, but are not automatically game-consulting buyers. Prefer financially capable teams with real product, budget, mandate and strategic change, rather than small studios lacking purchasing capacity. Parallel GGC owned product and overseas distribution lines remain in scope. The proof work itself is not outbound, contracting or financing permission.
+
+---
+
 name: ggc-positioning-to-close
 description: >
   Reusable commercial skill for turning an offer, project, product or service into a clear
   positioning, ideal-customer profile, sourcing plan, buyer-specific narrative, trust system,
   qualified opportunity, close plan and delivery handoff. Use before large-scale BD, sales,
   investor outreach, partnerships or founder-led selling.
-version: 1.0
+version: 1.1
 ---
 
 # GGC Positioning → Sourcing → Close
