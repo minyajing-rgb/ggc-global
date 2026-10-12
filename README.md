@@ -1,4 +1,9 @@
 # ggc-global
+
+## 2026-10-12｜Joyce旗舰经营与个人权威统一Skill
+
+**全项目、PR/演讲、老板级BD、投融资、品牌文章统一先读：[Joyce Flagship Authority OS](skills/joyce-flagship-authority-os/SKILL.md)**。主线为 **0→1旗舰产品 → 高风险项目重振到品类头部 → 可复制的DAU/收入模型、商业化、全球发行及组织运营底层系统**；先沉淀三项可合法公开的旗舰案例，再用于CEO/投资人关系、国际媒体、行业大会与产品共建。准确本人主责项目/地区/历史数据以 [Joyce主事实源](positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md) 为准；商业三条线仍是Copilot陪跑、联合立项+CPS、海外自有流量池。**本仓库Skill/战略文档更新不等于线上官网部署或向任何人发信。**
+
 GGC — AI-native global game commercialization website.
 
 ## Joyce capability atlas and standard fees
