@@ -1,5 +1,7 @@
 # Joyce Method — Public Pitch Master v1.0
 
+**Career fact source / 2026-10-12:** [Joyce flagship fact master](../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md). PM role and producer leadership follow Joyce’s latest clarification; retain title-specific operating scopes and reported metric definitions.
+
 Status: public-safe narrative source.
 
 ## Core Positioning
@@ -53,7 +55,7 @@ Microsoft / Tencent-related ecosystem / Zynga / Gameloft experience.
 
 ### Zynga
 Public-safe proof layer:
-- Product / Lead Producer work across CityVille, FarmVille and Arcade;
+- Zynga Product Manager (PM), leading and coordinating multiple producers; owned product and commercial operations for the Tencent edition of CityVille, the Chinese edition of FarmVille, and global Bubble, Ruby and Slingo;
 - CityVille China D1 +700bps first-party scoped project claim;
 - DAU / revenue modeling, experimentation, player research and F2P operating methods.
 

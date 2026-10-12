@@ -1,4 +1,6 @@
 # 4YFN Barcelona 2027 — Consumer-AI Solo Presentation
+
+**2026-10-12 事实纠正／历史记录边界：** 下方 Speaker bio 保留的是已提交版本的原文，其中 Zynga 职称表述已被 Joyce 本轮澄清作废。当前准确表述为：在 Zynga 以产品经理（PM）身份带领、统筹多位制作人，主责 CityVille 腾讯版、FarmVille 中文版及 Bubble/Ruby/Slingo 全球主产品的经营与商业化。此文件不是可复用模板；新材料使用 [最新职业事实母稿](../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md) 和 [当前 Speaker Kit](SPEAKER_KIT.md)。本次仅标明历史差异，未修改主办方后台、未重新提交、未发送更正邮件；主办方存档简介的更新仍待后续单独处理。
 Submitted: 11 October 2026 (Asia/Shanghai).
 
 ## Receipt and duplicate check

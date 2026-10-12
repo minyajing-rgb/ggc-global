@@ -12,19 +12,21 @@
 
 **联系方式与PR链接：** Joyce@ggcgames.com（GGC官网）｜joyce@saga1001.com（用户提供）｜minyajing@gmail.com（GGC Business官网）｜微信17701087579｜TG @joyceggc｜https://www.linkedin.com/in/minyajing/｜https://ggcgames.com/｜https://biz.ggcgames.com/｜https://biz.ggcgames.com/joyce/｜https://biz.ggcgames.com/sme/｜https://opsgo.ggcgames.com/｜https://ebooks.cmpbook.com/detail?id=26372
 
-**母版：** `minyajing-rgb/ggc-global/positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md`（现在含最新三业务口径）；`minyajing-rgb/ggc-global/bd/GGC_Executive_Intro_Bilingual_v2.md`（实际v6）；CN/EN邮件v6方向与当前补充一致。**独立Speaker Bio并不默认附业务联系方式；当前商业建联版本则是用户明确要求附上**。禁止将补充签名理解为允许陌生人群发，历史HOLD/STOP仍有效。
+**母版：** [Joyce旗舰职业事实母稿](../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md)（现在含最新三业务口径）；`minyajing-rgb/ggc-global/bd/GGC_Executive_Intro_Bilingual_v2.md`（实际v6）；CN/EN邮件v6方向与当前补充一致。**独立Speaker Bio并不默认附业务联系方式；当前商业建联版本则是用户明确要求附上**。禁止将补充签名理解为允许陌生人群发，历史HOLD/STOP仍有效。
 
 
 ## 2026-10-12 Joyce executive bio current facts (overrides prior generic description)
 
-See `../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md` for **the exact current product ownership mapping, revenue units and CN/EN biography**. Public/professional name is **Joyce** only, with **no automatically inserted CTA**. As Zynga PM/Lead Producer she directly led CityVille Tencent edition and FarmVille Chinese edition plus global Bubble/Ruby/Slingo (historic reported individual-title monthly net US$5M–20M). As Gameloft Head of Asian Operations she led global Order & Chaos and Heroes of Order & Chaos and Minion Rush in China (reported monthly net €10M–30M per flagship title, monthly peak €50M). Later Product Director for Wuxia Q Zhuan, historic gross bookings RMB60M/month, peak >RMB100M. Do not turn `net` into profit or misstate regional/global roles. She personally built new products and operations, led platform/category No.1 outcomes and business turnarounds. Small CityVille retention changes belong in a detailed technical appendix, not the flagship career headline.
+See [the Joyce flagship fact master](../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md) for **the exact current product ownership mapping, revenue units and CN/EN biography**. Public/professional name is **Joyce** only, with **no automatically inserted CTA**. At Zynga, working as a Product Manager (PM), she led and coordinated multiple producers and owned the product and commercial operating remit for CityVille Tencent edition and FarmVille Chinese edition plus global Bubble/Ruby/Slingo (historic reported individual-title monthly net US$5M–20M). As Gameloft Head of Asian Operations she led global Order & Chaos and Heroes of Order & Chaos and Minion Rush in China (reported monthly net €10M–30M per flagship title, monthly peak €50M). Later Product Director for Wuxia Q Zhuan, historic gross bookings RMB60M/month, peak >RMB100M. Do not turn `net` into profit or misstate regional/global roles. She personally built new products and operations, led platform/category No.1 outcomes and business turnarounds. Small CityVille retention changes belong in a detailed technical appendix, not the flagship career headline.
+
+**2026-10-12 latest first-party clarification:** Joyce confirmed that she worked as a PM and led several producers. “Led” describes her responsibility; it is not a Lead Producer title. Do not infer a Zynga Head, Director, Lead PM or other seniority qualifier. Gameloft's confirmed Head of Asian Operations role and the project scopes above remain unchanged.
 
 Book: [published by China Machine Press](https://ebooks.cmpbook.com/detail?id=26372). The user's reported US$100M+ single-day peak needs unit/product-period reconciliation before a categorical public number. This overrides earlier short bios below; do not change real pricing/service definitions.
 
 
 ## 2026-10-11 Flagship leadership positioning override
 
-**JOYCE — the operator who led flagship games to category leadership.** Her career is **not** a passive list of titles she “participated in.” As Zynga PM/Lead Producer, Gameloft Head of Asian Operations, a game Product Director and a serial Founder/CEO, she has led five 0→1 builds and dozens of 1→10 scale-ups. Across different mandates, Joyce directly reports revenue doubling and up to **10x revenue improvement**; her historical CV specifically attributes a tenfold revenue increase to a publishing/advertising platform built from scratch. She also led high-stakes commercial rebuilds, new publishing operations, regional business architecture and company/portfolio restructurings.
+**JOYCE — the operator who led flagship games to category leadership.** Her career is **not** a passive list of titles she “participated in.” As a Zynga PM leading multiple producers, Gameloft Head of Asian Operations, a game Product Director and a serial Founder/CEO, she has led five 0→1 builds and dozens of 1→10 scale-ups. Across different mandates, Joyce directly reports revenue doubling and up to **10x revenue improvement**; her historical CV specifically attributes a tenfold revenue increase to a publishing/advertising platform built from scratch. She also led high-stakes commercial rebuilds, new publishing operations, regional business architecture and company/portfolio restructurings.
 
 Historical commercial magnitude includes an individual game at approximately **RMB60m/month gross revenue** (peak over RMB100m), recurring high-profit flagship product groups and first-party career records of prior-company annual profit improvement exceeding RMB1bn. These are specific historic project/company outcomes, not GGC's current annual revenue or one single game result. A go/no-go turnaround should not allege failure of a named former company/game without matching source.
 
@@ -48,7 +50,7 @@ Joyce Mi is positioned publicly as a global game operator and strategic growth p
 
 - 15+ years across games and product, consistent with the live site career timeline.
 - Career experience at Microsoft, Tencent, Zynga and Gameloft.
-- Zynga Product Manager / Lead Producer experience including CityVille, FarmVille and Arcade work.
+- Zynga Product Manager (PM), leading and coordinating multiple producers; owned product and commercial operations for the Tencent edition of CityVille, the Chinese edition of FarmVille, and global Bubble, Ruby and Slingo.
 - Gameloft global operations across titles including Order & Chaos, Minion Rush and Thor 2.
 - Collaboration across 10+ studios and a 500+ cross-functional network; this is not represented as 500 direct reports.
 - Chinese CityVille D1 retention improvement of +700 bps (+7 percentage points), scoped only to that project.

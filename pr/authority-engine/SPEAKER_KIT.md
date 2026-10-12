@@ -1,4 +1,4 @@
-# Joyce Mi / GGC — Speaker Kit
+# Joyce / GGC — Speaker Kit
 
 ## 2026-10-12 GGC current three-business architecture (latest founder statement)
 
@@ -13,9 +13,9 @@ The business networking version can close with **Joyce's explicit friendly invit
 
 ## 2026-10-12 CORRECTED SPEAKER BIO / NO AUTO CTA
 
-**Joyce**, founder of GGC and author of *Game Operations and Global Expansion*, has **directly led** flagship game businesses to No.1 positions on their respective global/platform/category leaderboards. At Zynga she owned the **Tencent CityVille edition, Chinese FarmVille edition and global Bubble, Ruby and Slingo** (reported US$5M–20M monthly per-title `net`). At Gameloft she led **global Order & Chaos and Heroes of Order & Chaos and Minion Rush's China operations** (reported monthly single-title `net` €10M–30M, peak €50M). Her experience includes Wuxia Q Zhuan gross bookings around RMB60M/month and >RMB100M peak, five 0→1 and dozens of 1→10, founder-led publishing/development ventures, business acquisition and regional equity-market listing. She helped spread DAU/Revenue, K-factor and experimentation methods across Asia and continues this work at GGC through games, AI products and SaaS.
+**Joyce**, founder of GGC and author of *Game Operations and Global Expansion*, has **directly led** flagship game businesses to No.1 positions on their respective global/platform/category leaderboards. At Zynga, working as a Product Manager (PM), she led and coordinated multiple producers and owned the product and commercial operating remit for the **Tencent CityVille edition, Chinese FarmVille edition and global Bubble, Ruby and Slingo** (reported US$5M–20M monthly per-title `net`). At Gameloft she led **global Order & Chaos and Heroes of Order & Chaos and Minion Rush's China operations** (reported monthly single-title `net` €10M–30M, peak €50M). Her experience includes Wuxia Q Zhuan gross bookings around RMB60M/month and >RMB100M peak, five 0→1 and dozens of 1→10, founder-led publishing/development ventures, business acquisition and regional equity-market listing. She helped spread DAU/Revenue, K-factor and experimentation methods across Asia and continues this work at GGC through games, AI products and SaaS.
 
-Full exact scopes and pending units: `../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md`. Do not substitute "participated", small D1 uplift, Chinese legal name or a meeting CTA. The US$100M+ single-day figure remains internal pending unit reconciliation; all `net` is user's historical wording, not an audited profit statement.
+Full exact scopes and pending units: [Joyce旗舰职业事实母稿](../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md). Do not substitute "participated", small D1 uplift, Chinese legal name or a meeting CTA. The US$100M+ single-day figure remains internal pending unit reconciliation; all `net` is user's historical wording, not an audited profit statement.
 
 
 ## 2026-10-11 最新高层/国际舞台口径（覆盖旧泛履历短介）
@@ -29,7 +29,7 @@ Joyce has **led titles from difficult go/no-go and commercial rebuild stages int
 Sources: `../pia-global-authority/docs/EXECUTIVE_FLAGSHIP_CAREER_DOSSIER.md`, `../../bd/GGC_Executive_Intro_Bilingual_v2.md`, 2026-10-11 share `https://chatgpt.com/share/6acba559-b830-83e8-9056-afd2a74cf39a`.
 
 
-Version: 2026-10-03-v3
+Version: 2026-10-12-v4
 
 ## Speaker positioning
 
@@ -39,7 +39,7 @@ Joyce is best used for executive / practitioner audiences that want **flagship b
 
 ## Executive impact headline (choose for each organizer)
 
-**Five zero-to-one builds · Dozens of one-to-ten scales · Six nine-figure historical project outcomes · 10+ global studios / 500+ cross-functional contributors · >RMB 1 billion annual company profit uplift in an earlier operating role · BSE listing and acquired publisher in founder history · 2024 industry book.**
+**Five zero-to-one builds · Dozens of one-to-ten scales · Six nine-figure historical project outcomes · 10+ global studios / 500+ cross-functional contributors · >RMB 1 billion annual company profit uplift in an earlier operating role · Beijing regional equity-market listing and acquired publisher in founder history · 2024 industry book.**
 
 These are **historical career and portfolio outcomes**, not one product, one employer's endorsement or GGC's current reported revenue. Source: [Executive Flagship Career Dossier](../pia-global-authority/docs/EXECUTIVE_FLAGSHIP_CAREER_DOSSIER.md).
 

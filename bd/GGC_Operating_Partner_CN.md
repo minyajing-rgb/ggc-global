@@ -1,13 +1,15 @@
 # GGC Games — 出海团队的External Operating Partner
 
+**Career fact source / 2026-10-12:** [Joyce flagship fact master](../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md). PM role and producer leadership follow Joyce’s latest clarification; retain title-specific operating scopes and reported metric definitions.
+
 **创始人 Joyce Mi（艾小米）** | 15年全球游戏操盘 | 微软·腾讯·Zynga·Gameloft
-→ 完整履历：https://opsgo.ggcgames.com/joyce
+→ 完整履历：https://biz.ggcgames.com/joyce/
 
 ---
 
 ## 业绩档案（节选，口径限定到具体项目）
 
-**Zynga — PM/Lead Producer。** CityVille、FarmVille及Arcade产品线。CityVille中文项目把次日留存提升7个百分点（项目口径）；搭建团队沿用的DAU/收入/社交传播模型体系。
+**Zynga — 产品经理（PM），带领、统筹多位制作人。** 主责CityVille腾讯版、FarmVille中文版及Bubble、Ruby、Slingo全球主产品的经营与商业化。CityVille中文项目把次日留存提升7个百分点（项目口径）；搭建团队沿用的DAU/收入/社交传播模型体系。
 
 **Gameloft — 发行与LiveOps。** 混沌与秩序、小黄人快跑、雷神2。协同10+海内外工作室，通过500+人的跨职能网络协作（非直接下属）。
 

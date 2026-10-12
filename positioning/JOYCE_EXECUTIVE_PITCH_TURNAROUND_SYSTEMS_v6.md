@@ -1,9 +1,9 @@
 # Joyce | Flagship Turnaround & Operating Systems Architect — Executive Pitch v6
 
-**2026-10-12 Zynga 职务纠正（Joyce 本人最新说明，最高优先级）：** Joyce **没有担任过 Lead Producer**。实际是由她**带领、统筹多位 Zynga 产品经理及制作人（PMs / Producers）**共同推进多款产品的产品、经营和商业化工作；这属于多个产品与人员的协调／领导责任，不是一个制作人的岗位头衔。**其 Zynga 正式职称尚未在本文件得到重新确认，不自行称她为 Lead Producer、Head、Director 或其他更高职务。** 旧版所有 Zynga「产品经理/Lead Producer」称谓作废，按这段责任表述覆盖。Gameloft 与其他公司的明确职位不受影响。
+**2026-10-12 Zynga 身份与领导责任澄清（Joyce 本轮最新说明，最高优先级）：** Joyce 在 Zynga **以产品经理（PM）身份，带领、统筹多位制作人，主责相关旗舰产品的经营与商业化**。“lead / 带领”描述的是实际责任，**不是 Lead Producer 职称**。产品经理身份已由本人确认；不补写 Lead PM、Head、Director 或其他未经确认的职级限定。此段覆盖此前“正式职称待核”的笼统备注；Gameloft 与其他公司已确认的职位和逐项目责任、历史成果不受影响。
 
 **2026-10-12 · 对外职业表达及Pitch母稿 · PUBLIC-SAFE COPY**
-**本文件承接 `positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md` 的本人逐项目主责与各类业绩边界，不替换历史原始事实母表。** 不是自动对外发送授权。对外称 Joyce，不自动披露中文法定姓名、出生年份/年龄。书记笔名“艾小米”仅作作者说明。
+**本文件承接 [Joyce旗舰职业事实母稿](JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md) 的本人逐项目主责与各类业绩边界，不替换历史原始事实母表。** 不是自动对外发送授权。对外称 Joyce，不自动披露中文法定姓名、出生年份/年龄。书记笔名“艾小米”仅作作者说明。
 
 ## 1. 中文职业核心定位
 **全球旗舰游戏商业操盘者 × 产品生命周期经营架构师 × 行业级数据与商业化体系建设者**
@@ -19,7 +19,7 @@
 ## 2. 30秒 CEO / Founder / 高管口述版
 我是Joyce，GGC创始人，《游戏运营与出海实战》作者。
 
-过去15年以上，我在Microsoft、Tencent、Zynga和Gameloft做全球旗舰游戏。Zynga阶段统筹多位产品经理及制作人，主责CityVille腾讯版、FarmVille中文版，以及Bubble、Ruby、Slingo等全球主产品；Gameloft阶段担任亚洲区运营负责人，负责《混沌与秩序》及《混沌与秩序之英雄战歌》的全球经营，以及《小黄人快跑》的中国区业务。
+过去15年以上，我在Microsoft、Tencent、Zynga和Gameloft做全球旗舰游戏。Zynga阶段以产品经理（PM）身份带领、统筹多位制作人，主责CityVille腾讯版、FarmVille中文版，以及Bubble、Ruby、Slingo等全球主产品；Gameloft阶段担任亚洲区运营负责人，负责《混沌与秩序》及《混沌与秩序之英雄战歌》的全球经营，以及《小黄人快跑》的中国区业务。
 
 我既把产品从0做到平台或细分品类头部，也承担过复杂项目重整与长线商业化，并建立DAU、收入模型、K-factor、跨区域数据系统与运营组织。
 
@@ -48,14 +48,14 @@
 | 阶段 | 真实岗位/范围 | 实绩及系统建设重点 |
 |---|---|---|
 | Microsoft / Tencent 及平台业务经历 | 产品、数据、社交游戏与平台商业化相关经验 | 腾讯平台游戏与社交传播、QQ空间/开心网关联数据模型、广点通商业化实践；不要未经确认把所有平台成果误归某一家公司。 |
-| Zynga | **Led and coordinated multiple Zynga product managers and producers (formal job title not stated)**；主责CityVille腾讯版、FarmVille中文版、Bubble、Ruby、Slingo相关全球产品经营 | 直接承担旗舰产品及商业运营职责；DAU/Revenue、K-factor、实验和运营方法的亚太实践/推广；用户自述平台/品类第一的历史经历需要逐产品/年份映射。 |
+| Zynga | **Product Manager (PM), leading and coordinating multiple producers**；主责CityVille腾讯版、FarmVille中文版、Bubble、Ruby、Slingo相关全球产品经营 | 直接承担旗舰产品及商业运营职责；DAU/Revenue、K-factor、实验和运营方法的亚太实践/推广；用户自述平台/品类第一的历史经历需要逐产品/年份映射。 |
 | Gameloft | **Head of Asian Operations**；全球负责Order & Chaos、Heroes of Order & Chaos，**中国区**负责Minion Rush | 10余工作室、500+跨职能协作网络，跨市场长期产品、商业化、数据平台和运营组织；500+不是全部直属。 |
 | 火谷/《武侠Q传》 | **产品总监**；产品规划、收入及数据模型、上线与商业化 | 历史海内外月流水约6000万元人民币，峰值超1亿元（**流水不是净利润**）。 |
 | 创业、发行与集团 | 从零建立研发/发行组织，长期经营与项目救盘，发行资产被收购及整合 | 研发公司曾在**北京区域性股权市场挂牌**，不是“北交所IPO”；经历发行业务被收购及整合。 |
 | 2020至今：GGC | 创始人、产品与经营Principal | 全球游戏经营Copilot、新品孵化与联合立项/发行；自有Sims/Arcade/Casino及AI身心灵/消费产品；AI Traffic与游戏、媒体/商业情报SaaS部分功能研发和验证中。 |
 
 ## 5. 投资人/董事会 Executive Bio（中文约200字）
-Joyce是GGC（Global Game Copilot）创始人、《游戏运营与出海实战》作者，曾在Zynga带领多位产品经理与制作人推进旗舰经营，曾任Gameloft亚洲区运营负责人及游戏公司产品总监。她在统筹多个产品经理与制作人的同时，直接负责过CityVille腾讯版、FarmVille中文版、Bubble、Ruby、Slingo、《混沌与秩序》系列等旗舰项目相关产品经营和商业化，管理过10余跨国工作室、500+跨职能协作网络，经历5款0→1产品与数十款1→10的规模经营。她的专业壁垒在于三者结合：关键项目重整与成熟产品再商业化、旗舰产品全生命周期经营、以及DAU/收入模型、K-factor、数据和平台商业化的底层体系建设。她也有研发发行创业、区域股权市场挂牌、发行业务收购和集团整合经验。目前通过GGC开展项目Copilot、联合立项与CPS/收益合作、海外内容与AI分发工具的构建。
+Joyce是GGC（Global Game Copilot）创始人、《游戏运营与出海实战》作者，曾在Zynga以产品经理（PM）身份带领多位制作人推进旗舰经营，曾任Gameloft亚洲区运营负责人及游戏公司产品总监。她在以PM身份统筹多位制作人及多个产品的同时，直接负责过CityVille腾讯版、FarmVille中文版、Bubble、Ruby、Slingo、《混沌与秩序》系列等旗舰项目相关产品经营和商业化，管理过10余跨国工作室、500+跨职能协作网络，经历5款0→1产品与数十款1→10的规模经营。她的专业壁垒在于三者结合：关键项目重整与成熟产品再商业化、旗舰产品全生命周期经营、以及DAU/收入模型、K-factor、数据和平台商业化的底层体系建设。她也有研发发行创业、区域股权市场挂牌、发行业务收购和集团整合经验。目前通过GGC开展项目Copilot、联合立项与CPS/收益合作、海外内容与AI分发工具的构建。
 
 ## 6. 投资人/产业高管口述重点（不是投资广告）
 - 首先说可以担当**投资标的/业务部门关键经营决策人**：看项目是否值得投、何时绿灯/止损、怎样从研发变成能稳定营利的长期产品。
@@ -66,7 +66,7 @@ Joyce是GGC（Global Game Copilot）创始人、《游戏运营与出海实战�
 **Joyce is a global flagship-game operating executive and systems architect who has led zero-to-one launches, high-stakes commercial turnarounds and scaled live-game operations, while building reusable DAU/revenue models, monetization frameworks and cross-market operating systems. She now leads GGC.**
 
 ## 8. English investor/CEO Bio (public-safe)
-Joyce is the founder of Global Game Copilot (GGC) and the author of *Game Operations and Global Expansion*, published in Chinese by China Machine Press. She has over 15 years of international games experience, including leadership of several Zynga product managers and producers across products for the Tencent edition of CityVille, the Chinese edition of FarmVille, and global products including Bubble, Ruby and Slingo. As Head of Asian Operations at Gameloft, she led global operating work for Order & Chaos and Heroes of Order & Chaos, and Minion Rush in China, coordinating more than ten studios and a 500-plus cross-functional network. Her experience extends from turning around complex mature game businesses and scaling flagship franchises to building DAU/revenue models, social virality measurement, monetization frameworks and operating/data infrastructure. A former game Product Director and entrepreneur, she also brings firsthand development/publishing company formation, regional equity-market listing, acquisition and post-acquisition integration experience. GGC now develops embedded operating Copilot partnerships, jointly greenlit games and AI consumer products, and an evolving owned international audience and AI-powered distribution/tooling network.
+Joyce is the founder of Global Game Copilot (GGC) and the author of *Game Operations and Global Expansion*, published in Chinese by China Machine Press. She has over 15 years of international games experience, including working as a Zynga Product Manager (PM), leading and coordinating multiple producers and owning product and commercial operations for the Tencent edition of CityVille, the Chinese edition of FarmVille, and global products including Bubble, Ruby and Slingo. As Head of Asian Operations at Gameloft, she led global operating work for Order & Chaos and Heroes of Order & Chaos, and Minion Rush in China, coordinating more than ten studios and a 500-plus cross-functional network. Her experience extends from turning around complex mature game businesses and scaling flagship franchises to building DAU/revenue models, social virality measurement, monetization frameworks and operating/data infrastructure. A former game Product Director and entrepreneur, she also brings firsthand development/publishing company formation, regional equity-market listing, acquisition and post-acquisition integration experience. GGC now develops embedded operating Copilot partnerships, jointly greenlit games and AI consumer products, and an evolving owned international audience and AI-powered distribution/tooling network.
 
 ## 9. 公开商业背书与用法
 - 书：**《游戏运营与出海实战：策略、方法与技巧》**，笔名艾小米，机械工业出版社，ISBN 9787111750376：https://ebooks.cmpbook.com/detail?id=26372；购书：https://product.dangdang.com/29710304.html 。

@@ -1,13 +1,13 @@
 # JOYCE MI — Flagship Commercial Scale & Category Leadership
 
-**Zynga role correction, 2026-10-12 (Joyce's explicit correction):** Joyce never held the title `Lead Producer`. At Zynga, she **led and coordinated multiple Product Managers and Producers across several flagship games**, with cross-product commercial and operating responsibilities. Never invent a Zynga formal job title such as Head, Director, Product Manager or Lead Producer without further verification. Older conflicting labels are superseded. See `positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md`.
+**Zynga role clarification, 2026-10-12 (Joyce’s latest first-party statement):** Working as a **Product Manager (PM)**, Joyce **led and coordinated multiple producers and owned the product and commercial operating remit across the relevant flagship products**. “Led” is a responsibility, not a Lead Producer title. Her PM role is now confirmed by Joyce; do not infer Lead PM, Head, Director or any other seniority qualifier. This supersedes the earlier blanket note that her role was unconfirmed; confirmed Gameloft roles and project scopes remain unchanged.
 
 
 ## 2026-10-12 PRECISE OWNERSHIP AND COMMERCIAL METRICS (supersedes earlier coarse cases)
 
 **External name Joyce; standalone PR bio has NO CTA.** Canonical [Joyce flagship role/scale master](../../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md).
 
-**Zynga (coordinated multiple PMs and producers)** — **led CityVille's Tencent edition, FarmVille's Chinese edition, Bubble/Ruby/Slingo global main products**. These were taken to platform/category No.1 positions under her operating leadership (first-party career account). Reported historic **US$5M–20M monthly net per title**, definition of `net` pending.
+**Zynga (Product Manager, leading and coordinating multiple producers)** — **led CityVille's Tencent edition, FarmVille's Chinese edition, Bubble/Ruby/Slingo global main products**. These were taken to platform/category No.1 positions under her operating leadership (first-party career account). Reported historic **US$5M–20M monthly net per title**, definition of `net` pending.
 
 **Gameloft (Head of Asian Operations)** — **led global Order & Chaos and Heroes of Order & Chaos; China-market Minion Rush**; 10+ studios, 500+ cross-functional collaborators; reported **€10M–30M monthly net per flagship title, €50M monthly peak**; use `net` without presuming audited profit.
 

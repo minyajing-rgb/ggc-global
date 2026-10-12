@@ -1,6 +1,6 @@
 # Joyce × GGC — 中英文高管自我介绍 / Executive Biography v5
 
-**2026-10-12 Zynga 职务纠正（Joyce 本人最新说明，最高优先级）：** Joyce **没有担任过 Lead Producer**。实际是由她**带领、统筹多位 Zynga 产品经理及制作人（PMs / Producers）**共同推进多款产品的产品、经营和商业化工作；这属于多个产品与人员的协调／领导责任，不是一个制作人的岗位头衔。**其 Zynga 正式职称尚未在本文件得到重新确认，不自行称她为 Lead Producer、Head、Director 或其他更高职务。** 旧版所有 Zynga「产品经理/Lead Producer」称谓作废，按这段责任表述覆盖。Gameloft 与其他公司的明确职位不受影响。
+**2026-10-12 Zynga 身份与领导责任澄清（Joyce 本轮最新说明，最高优先级）：** Joyce 在 Zynga **以产品经理（PM）身份，带领、统筹多位制作人，主责相关旗舰产品的经营与商业化**。“lead / 带领”描述的是实际责任，**不是 Lead Producer 职称**。产品经理身份已由本人确认；不补写 Lead PM、Head、Director 或其他未经确认的职级限定。此段覆盖此前“正式职称待核”的笼统备注；Gameloft 与其他公司已确认的职位和逐项目责任、历史成果不受影响。
 
 
 **2026-10-12 人物定位升级｜优先使用 [Joyce Flagship Turnaround & Operating Systems Architect — Pitch v6](../positioning/JOYCE_EXECUTIVE_PITCH_TURNAROUND_SYSTEMS_v6.md) 所列的三个经营能力（高难项目重整与再商业化、0→1与1→10旗舰经营、DAU/Revenue/K-factor/数据系统和运营组织架构）。** 对外不得把主责项目淡化为“参与过”。救盘表达使用“复杂项目重整/经营反转”，不对具名公司作未核实的负面历史判断；7+排名、月度net、历史利润及挂牌并购等指标按事实母稿逐项目单独核实。此段更新人物定位，不改变原文件对人员与具体项目的主责范围；老发送模板不因此获得发信授权。
@@ -10,7 +10,7 @@
 
 **一句话（中文）：** 我是Joyce，全球旗舰游戏操盘手、GGC创始人。擅长把面临去留决策或长期停滞的项目重构成全球品类标杆，也从0到1打造新旗舰、从1到10放大收入利润，建立支撑长期经营的数据、商业化、发行及企业管理体系。
 
-**30秒（中文）：** 我以前在Zynga带领多位产品经理和制作人、Gameloft负责亚洲区运营，亲自带过多个全球/平台/细分品类第一的旗舰项目，也创办过研发发行公司。核心是**救旗舰、造旗舰、造体系**：五款0→1、数十款1→10，多个项目收入翻倍，其中从0搭建的发行和广告平台做到10倍营收。早期把DAU、收入模型、K-factor和实验方法引入亚太业务，也建设过数据、平台商业化和跨国团队经营底层框架。现在GGC做项目Copilot陪跑、联合立项与CPS/收益分成，以及自有海外内容/KOL/媒体与AI SaaS分发生态。
+**30秒（中文）：** 我以前在Zynga以产品经理（PM）身份带领多位制作人、Gameloft负责亚洲区运营，亲自带过多个全球/平台/细分品类第一的旗舰项目，也创办过研发发行公司。核心是**救旗舰、造旗舰、造体系**：五款0→1、数十款1→10，多个项目收入翻倍，其中从0搭建的发行和广告平台做到10倍营收。早期把DAU、收入模型、K-factor和实验方法引入亚太业务，也建设过数据、平台商业化和跨国团队经营底层框架。现在GGC做项目Copilot陪跑、联合立项与CPS/收益分成，以及自有海外内容/KOL/媒体与AI SaaS分发生态。
 
 **10-second English:** I'm Joyce, founder of GGC—a global flagship-game operator and commercial operating-system architect. I turn challenged titles into category leaders, build new products from zero and scale revenue and profitability through repeatable data, publishing and operating systems.
 
@@ -32,7 +32,7 @@
 
 过去15年以上，我带领多款旗舰游戏从产品、经营到商业化和全球发行做到当时所在平台或品类的全球第一，**不是简单地“参与过已经成功的项目”**。
 
-在 **Zynga** 带领、统筹多位产品经理及制作人，**负责 CityVille 腾讯版、FarmVille 中文版，以及 Bubble、Ruby、Slingo 等全球主产品**；在亚太团队建立和推广 DAU、Revenue Model、K-factor、用户实验和运营规范。这一时期的相关旗舰**单款历史月度 net 约500万至2000万美元**。
+在 **Zynga** 以产品经理（PM）身份带领、统筹多位制作人，**负责 CityVille 腾讯版、FarmVille 中文版，以及 Bubble、Ruby、Slingo 等全球主产品**；在亚太团队建立和推广 DAU、Revenue Model、K-factor、用户实验和运营规范。这一时期的相关旗舰**单款历史月度 net 约500万至2000万美元**。
 
 在 **Gameloft** 担任**亚洲区运营负责人**，负责**《混沌与秩序》《混沌与秩序之英雄战歌》的全球业务，以及《小黄人快跑》的中国区业务**；统筹十余个工作室和500多人跨职能协作，相关旗舰**单款历史月度 net 约1000万至3000万欧元，月峰值约5000万欧元**。
 
@@ -67,7 +67,7 @@
 
 **Joyce**, founder of **GGC (Global Game Copilot)** and author of *Game Operations and Global Expansion* (China Machine Press), has spent over 15 years **leading flagship games into global, platform and category-leading positions**—not merely participating in products that were already successful.
 
-At **Zynga**, she led and coordinated several product managers and producers, with product and commercial operating responsibility for **the Tencent edition of CityVille, the Chinese edition of FarmVille and global titles Bubble, Ruby and Slingo**. She established and transferred DAU, revenue forecasting, K-factor, experimentation and operating methods for Asian teams. Her historical reported individual-title scale for the portfolio was **US$5M–20M in monthly net results**.
+At **Zynga**, working as a Product Manager (PM), she led and coordinated multiple producers, with product and commercial operating responsibility for **the Tencent edition of CityVille, the Chinese edition of FarmVille and global titles Bubble, Ruby and Slingo**. She established and transferred DAU, revenue forecasting, K-factor, experimentation and operating methods for Asian teams. Her historical reported individual-title scale for the portfolio was **US$5M–20M in monthly net results**.
 
 At **Gameloft**, as **Head of Asian Operations**, she led the **global operations of Order & Chaos and Heroes of Order & Chaos, and Minion Rush in China**, coordinating over ten studios and a 500-plus cross-functional network. Her reported historical individual-title scale was **€10M–30M in monthly net results, with monthly peaks reaching €50M**.
 

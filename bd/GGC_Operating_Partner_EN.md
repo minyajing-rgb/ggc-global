@@ -1,13 +1,15 @@
 # GGC Games — External Operating Partner for Game Studios Going Global
 
+**Career fact source / 2026-10-12:** [Joyce flagship fact master](../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md). PM role and producer leadership follow Joyce’s latest clarification; retain title-specific operating scopes and reported metric definitions.
+
 **Joyce Mi, Founder** | 15 years operating some of the world's biggest games | ex-Microsoft · Tencent · Zynga · Gameloft
-→ Full track record: https://opsgo.ggcgames.com/joyce
+→ Full track record: https://biz.ggcgames.com/joyce/
 
 ---
 
 ## Track Record (selected, scoped)
 
-**Zynga — PM / Lead Producer.** CityVille, FarmVille and the Zynga Arcade portfolio. On the Chinese CityVille project, lifted D1 retention by 7 percentage points (700bps, project-scoped). Built the DAU/revenue/viral models the teams ran on.
+**Zynga — Product Manager (PM), leading and coordinating multiple producers.** Owned product and commercial operations for the Tencent edition of CityVille, the Chinese edition of FarmVille, and global Bubble, Ruby and Slingo. On the Chinese CityVille project, lifted D1 retention by 7 percentage points (700bps, project-scoped). Built the DAU/revenue/viral models the teams ran on.
 
 **Gameloft — Publishing & LiveOps.** Order & Chaos, Minion Rush, Thor 2. Coordinated 10+ studios across regions; worked through a 500+ cross-functional network (not direct reports).
 

@@ -7,8 +7,9 @@ description: >
   worldwide PR influence, qualified founder/investor networks and GGC collaboration.
   Use for personal positioning, casebooks, awards, speaker kits, LinkedIn, CEO BD,
   investor introductions, partnerships, industry content, and authority planning.
-version: 1.0
 ---
+
+**Version:** 1.0
 
 # Joyce Flagship Authority OS｜全球旗舰操盘实绩 → 个人权威资产
 
@@ -29,7 +30,7 @@ Do not dilute this into "15+ years of operations," "helped with a successful gam
 Historical career source: **5 products 0→1, dozens 1→10, distinct projects doubling revenue and up to 10×, 6 nine-figure historical outcomes as reported with differing metrics, historical high-profit/large-grossing games and earlier company-level annual incremental profit contribution over RMB1bn**. Exact project, currency, operating period, gross vs net and team role must stay distinct. Professional name **Joyce** only; published book **《游戏运营与出海实战：策略、方法与技巧》 / 艾小米**, China Machine Press. Never mistake historical employer/project profits for today's GGC revenue or personal take-home.
 
 **Product responsibility matters:**
-- Zynga PM/Lead Producer: Tencent **CityVille** edition, Chinese **FarmVille** edition; global main products **Bubble, Ruby, Slingo**.
+- Zynga Product Manager (PM), leading and coordinating multiple producers, with product and commercial ownership of: Tencent **CityVille** edition, Chinese **FarmVille** edition; global main products **Bubble, Ruby, Slingo**.
 - Gameloft Head of Asian Operations: global **Order & Chaos / Heroes of Order & Chaos**; **Minion Rush China**; 10+ studio / 500+ cross-functional collaboration network (not direct reports).
 - Huogu Product Director: **Wuxia Q Zhuan** planning, product economy, monetization and launch; career-reported RMB60m/month *gross bookings*, peak >RMB100m.
 - Source-reported per-title Zynga monthly `net` US$5m–20m, Gameloft monthly `net` €10m–30m, €50m peak; **net is not automatically audited net profit**. Zynga reported single-day >US$100m remains **UNIT_SCOPE_TO_CONFIRM** and is not a verified public one-title peak. Read source master instead of rewriting these figures.
@@ -115,7 +116,7 @@ Two internal strategic risks in the supplied opinion piece:
 
 ## 7. Workflow guardrails / reusable across conversations
 
-- **First read** this skill + `JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md` + `joyce-pr-bd-positioning`; then consult the domain-specific PR, BD, pitch or product rules.
+- **First read** this skill + [Joyce旗舰职业事实母稿](../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md) + `joyce-pr-bd-positioning`; then consult the domain-specific PR, BD, pitch or product rules.
 - Working on **authority or positioning** does not itself authorize external PR emails, calls, invites, GitHub releases, Canva public-share toggles, investment solicitation or money spent. Apply workflow-specific permissions.
 - For outreach, verify canonical parent and actual own-product/turnaround interest, person current role, relevant business connection, legitimate route, old Gmail/CRM STOP, no-reply HOLD and current specific approval.
 - **Do not conflate audience node counts with actual buyer accounts, relationships, speaking acceptances, or revenue**.

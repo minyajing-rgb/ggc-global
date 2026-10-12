@@ -1,6 +1,6 @@
 # Joyce / GGC 人设与商务证据
 
-**2026-10-12 Zynga 职务纠正（Joyce 本人最新说明，最高优先级）：** Joyce **没有担任过 Lead Producer**。实际是由她**带领、统筹多位 Zynga 产品经理及制作人（PMs / Producers）**共同推进多款产品的产品、经营和商业化工作；这属于多个产品与人员的协调／领导责任，不是一个制作人的岗位头衔。**其 Zynga 正式职称尚未在本文件得到重新确认，不自行称她为 Lead Producer、Head、Director 或其他更高职务。** 旧版所有 Zynga「产品经理/Lead Producer」称谓作废，按这段责任表述覆盖。Gameloft 与其他公司的明确职位不受影响。
+**2026-10-12 Zynga 身份与领导责任澄清（Joyce 本轮最新说明，最高优先级）：** Joyce 在 Zynga **以产品经理（PM）身份，带领、统筹多位制作人，主责相关旗舰产品的经营与商业化**。“lead / 带领”描述的是实际责任，**不是 Lead Producer 职称**。产品经理身份已由本人确认；不补写 Lead PM、Head、Director 或其他未经确认的职级限定。此段覆盖此前“正式职称待核”的笼统备注；Gameloft 与其他公司已确认的职位和逐项目责任、历史成果不受影响。
 
 
 ## 2026-10-12｜统一 3-Pillar 业务自我介绍（最新版）
@@ -22,7 +22,7 @@
 
 **唯一上位事实源**：[JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md](JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md)。对外只使用 **Joyce**；书的艾小米署名是著作信息，不作为日常对外姓名。个人简介不自动带个人手机、微信或预约会议CTA。
 
-**Zynga：**Joyce带领多位产品经理与制作人，统筹多个产品，主责 **CityVille腾讯版、FarmVille中文版、Bubble/Ruby/Slingo全球主产品**；本人说明全部带到当时对应平台全球第一，旗舰单款历史月度 `net` **US$5M–20M**。**Gameloft：**任亚洲区运营负责人，主责**全球Order & Chaos / Heroes of Order & Chaos、Minion Rush中国区**，对应单款月度 `net` **€10M–30M、月峰值€50M**。**Huogu产品总监：**主导《武侠Q传》产品规划、经济与商业化，月流水人民币6000万、峰值破亿（流水不是利润）。
+**Zynga：**Joyce以产品经理（PM）身份带领、统筹多位制作人，统筹多个产品，主责 **CityVille腾讯版、FarmVille中文版、Bubble/Ruby/Slingo全球主产品**；本人说明全部带到当时对应平台全球第一，旗舰单款历史月度 `net` **US$5M–20M**。**Gameloft：**任亚洲区运营负责人，主责**全球Order & Chaos / Heroes of Order & Chaos、Minion Rush中国区**，对应单款月度 `net` **€10M–30M、月峰值€50M**。**Huogu产品总监：**主导《武侠Q传》产品规划、经济与商业化，月流水人民币6000万、峰值破亿（流水不是利润）。
 
 这组最新职责与财务单位优先于下方旧的「参与头部项目」或 D1 +7pp 描述；后者只作历史技术案例。单日峰值>US$100M为Joyce用户陈述、与旧简历原始指标口径存在歧义，已在总账保留待核，不自动生成公示的单日指标。平台第一、月度net和净利润不自动互换。跨项目历史2倍/10倍增收与年度利润贡献分别标注。不把历史区域股权市场挂牌写成北交所IPO。
 
@@ -59,7 +59,7 @@ OpsGo 的研究、课程、工具和评审是了解方法及购买相关服务�
 
 Joyce的核心是带领旗舰产品通过立项、商业化重构与全球发行走向品类头部，并把产品、数据、商业化、全球发行和组织执行连起来。她不是“会很多品类”的泛化顾问，而是能够抽取控制结果的底层变量，在不同产品、团队和市场中重建经营系统的多品类操盘手。按本人职业材料说明具体工作，不把“运营顾问”当完整介绍。
 
-- Zynga跨产品统筹与多位产品经理／制作人协作经历：CityVille、FarmVille及Arcade产品；DAU/收入/社交传播模型、用户研究与实验、团队规范，重点是领先品类、多项目商业收入利润与数据驱动的经营系统。
+- Zynga产品经理（PM），带领多位制作人，主责CityVille腾讯版、FarmVille中文版及Bubble/Ruby/Slingo全球主产品；DAU/收入/社交传播模型、用户研究与实验、团队规范，重点是领先品类、多项目商业收入利润与数据驱动的经营系统。
 - Gameloft运营经历：混沌与秩序、小黄人快跑、雷神2等；协同10+海内外工作室及500+跨职能网络，不写500名直接下属。
 - 技术与经营结合：软件工程、产品研发背景，能把指标及方向转成产品要求、研发配合与经营节奏。
 - 从零建设业务：创业研发与发行，搭团队、平台、渠道和流程；发行业务被收购后担任海外集团CMO，属于本人职业记录，不公开交易细节。
@@ -106,7 +106,7 @@ Joyce 提供的 26 页职业业务介绍中，具体商业成果不应继续被�
 - [Joyce PR / BD Positioning Skill](../skills/joyce-pr-bd-positioning/SKILL.md)
 - [本人 LinkedIn](https://www.linkedin.com/in/minyajing/?locale=zh)
 - [OpsGo](https://opsgo.ggcgames.com)
-- [项目经历入口](https://opsgo.ggcgames.com/joyce)
+- [项目经历入口](https://biz.ggcgames.com/joyce/)
 - [业务与服务](https://opsgo.ggcgames.com/store)
 - [出版社书页](https://ebooks.cmpbook.com/detail?id=26372)
 - [当前两张业务素材及说明](../assets/marketing/2026-09-14/README.md)

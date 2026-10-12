@@ -57,7 +57,7 @@ T.update({
  'exec.cta':['See annual partnership','查看年度合作'],
  'exec.linkedin':['LinkedIn profile','LinkedIn 档案'],
  'exec.proof1':['Years in games & product','游戏与产品经验'],
- 'exec.proof2':['Product Manager / Lead Producer · CityVille · FarmVille · Arcade','产品经理 / Lead Producer · CityVille · FarmVille · Arcade'],
+ 'exec.proof2':['Product Manager (PM) · Led multiple producers','产品经理（PM）· 带领多位制作人'],
  'exec.proof3':['Studios · 500+ collaboration network','工作室 · 500+ 跨职能协作网络'],
  'exec.proof4':['Chinese CityVille D1 retention on that scoped project','Chinese CityVille 该项目 D1 留存提升'],
  'exec.proof5':['Career experience across four major game companies','四家头部游戏公司职业经历'],

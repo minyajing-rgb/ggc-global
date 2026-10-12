@@ -1,5 +1,7 @@
 # Inspiring Women in CX Awards 2026 — Industry Impact | Joyce Mi
 
+**Career fact source / 2026-10-12:** [Joyce flagship fact master](../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md). PM role and producer leadership follow Joyce’s latest clarification; retain title-specific operating scopes and reported metric definitions.
+
 **Last revised:** 2026-10-10 — corrected to foreground historic global game operating systems and multi-organization industry influence.
 **Status:** REVIEW DRAFT ONLY; Joyce reports having submitted Industry Impact on 3 October, but no matching category receipt/entry ID has yet been reconciled. Two Customer Insight receipts do NOT prove an Industry Impact submission. Do not duplicate without checking original Typeform/organizer records. Deadline: 16 October 2026. No fee.
 
@@ -13,7 +15,7 @@ Official criteria: https://womenincx.community/awards — contribution to the cu
 
 ### 1. Original contribution to CX practice
 
-My contribution has been to turn player-experience evidence into an operating architecture used to guide how games are designed, released, monetized and sustained. Across more than fifteen years, I have connected daily active users, cohort retention, revenue modelling, social/viral loops, research and experimentation with product economy, LiveOps, acquisition, publishing and accountable management decisions. My Product Manager / Lead Producer work at Zynga across CityVille, FarmVille and Arcade products gave me practical experience building and applying that model-led approach. I later worked to adapt and transfer operating methods learned at Zynga into teams in Asia. The distinctive contribution is not inventing a metric but building shared definitions, review rhythms and decision ownership so customer behaviour changes product choices rather than only appearing in a report.
+My contribution has been to turn player-experience evidence into an operating architecture used to guide how games are designed, released, monetized and sustained. Across more than fifteen years, I have connected daily active users, cohort retention, revenue modelling, social/viral loops, research and experimentation with product economy, LiveOps, acquisition, publishing and accountable management decisions. My work at Zynga as a Product Manager (PM), leading and coordinating multiple producers and owning product and commercial operations for the Tencent edition of CityVille, the Chinese edition of FarmVille, and global Bubble, Ruby and Slingo gave me practical experience building and applying that model-led approach. I later worked to adapt and transfer operating methods learned at Zynga into teams in Asia. The distinctive contribution is not inventing a metric but building shared definitions, review rhythms and decision ownership so customer behaviour changes product choices rather than only appearing in a report.
 
 ### 2. Influence beyond one organization
 

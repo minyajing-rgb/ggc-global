@@ -1,16 +1,18 @@
 # Joyce / GGC — Public PR Evidence Map
 
-Version: 2026-10-01-v1
+Version: 2026-10-12-v2
 
 This map prevents public PR copy from drifting beyond the repository's approved evidence boundary.
+
+**Career-source precedence:** [Joyce flagship fact master](../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md), incorporating Joyce's 2026-10-12 clarification that she worked as a PM and led multiple producers, governs career responsibility and role wording. “Led” is a responsibility, not a Lead Producer title; no Zynga Head, Director, Lead PM or other seniority qualifier may be inferred. Public master, Media Kit, Speaker Kit and reusable templates must follow this source. Gameloft's confirmed role and title-specific scopes remain unchanged.
 
 | Claim / asset | Current status | Canonical source | Public use |
 |---|---|---|---|
 | Founder, GGC | approved public identity | `joyce/docs/PUBLIC-BUSINESS-MASTER.md` | Yes |
 | 15+ years across games and product | approved public wording | `joyce/docs/PUBLIC-BUSINESS-MASTER.md` | Yes |
 | Microsoft / Tencent / Zynga / Gameloft career experience | approved; career record | public master / Joyce profile | Yes, no implied employer endorsement |
-| Zynga PM / Lead Producer; CityVille / FarmVille / Arcade | first-party career record | public master / persona | Yes, label as career experience |
-| Gameloft global operations; Order & Chaos / Minion Rush / Thor 2 | first-party career record | public master / persona | Yes |
+| Zynga Product Manager (PM), leading and coordinating multiple producers; owned product and commercial operations for CityVille Tencent edition, FarmVille Chinese edition, and global Bubble / Ruby / Slingo | latest first-party PM / producer-leadership clarification, 2026-10-12 | [flagship fact master](../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md) → public master / Media Kit / Speaker Kit | Yes; retain ownership and regional/global scopes; no inferred seniority title |
+| Gameloft Head of Asian Operations; global Order & Chaos and Heroes of Order & Chaos; Minion Rush in China | confirmed role and latest first-party project scopes | [flagship fact master](../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md) → public master / persona | Yes; do not extend Minion Rush China responsibility to global product ownership; other title experience requires its own scope |
 | 10+ studios / 500+ cross-functional network | approved boundary wording | public master / persona | Yes; never “500 direct reports” |
 | Chinese CityVille D1 +700bps | approved scoped metric | public master / persona | Yes; only that project and definition |
 | 2024 China Machine Press book | third-party publisher evidence | `joyce/docs/PUBLIC-NEWSROOM.md` | Yes |
@@ -24,6 +26,7 @@ This map prevents public PR copy from drifting beyond the repository's approved 
 
 ## Canonical evidence files
 
+- [Joyce Flagship Fact Master — latest role and project scopes](../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md)
 - [Public Newsroom](../../joyce/docs/PUBLIC-NEWSROOM.md)
 - [Comprehensive Speaking Archive](../../joyce/docs/SPEAKING-ARCHIVE.md)
 - [Public Business Master](../../joyce/docs/PUBLIC-BUSINESS-MASTER.md)

@@ -1,12 +1,14 @@
 # Joyce 实力自我介绍
 
+**Career fact source / 2026-10-12:** [Joyce flagship fact master](../../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md). PM role and producer leadership follow Joyce’s latest clarification; retain title-specific operating scopes and reported metric definitions.
+
 更新：2026-09-15；候选母稿，非已批准客户发送内容。资料依据本人职业原件、LinkedIn项目记录、GitHub档案及OpsGo Store；个人证件档案不用于公开人设。
 
 ## 核心优势：不能在精简时丢失（2026-09-15）
 
 Joyce的核心是识别和定义细分赛道、参与头部产品建设，并把产品、数据、商业化、全球发行和组织执行连起来。按本人职业材料说明具体工作，不把“运营顾问”当完整介绍。
 
-- Zynga产品经理/Lead Producer经历：CityVille、FarmVille及Arcade产品；DAU/收入/社交传播模型、用户研究与实验、团队规范。Chinese CityVille公开项目条目记载D1提升700bps，即7个百分点，限定该项目。
+- Zynga产品经理（PM），带领、统筹多位制作人，主责CityVille腾讯版、FarmVille中文版及Bubble、Ruby、Slingo全球主产品的经营与商业化；DAU/收入/社交传播模型、用户研究与实验、团队规范。Chinese CityVille公开项目条目记载D1提升700bps，即7个百分点，限定该项目。
 - Gameloft运营经历：混沌与秩序、小黄人快跑、雷神2等；协同10+海内外工作室及500+跨职能网络，不写500名直接下属。
 - 技术与经营结合：软件工程、产品研发背景，能把指标及方向转成产品要求、研发配合与经营节奏。
 - 从零建设业务：创业研发与发行，搭团队、平台、渠道和流程；发行业务被收购后担任海外集团CMO，属于本人职业记录，不公开交易细节。
@@ -18,7 +20,7 @@ Joyce的核心是识别和定义细分赛道、参与头部产品建设，并把
 
 您好，我是Joyce，GGC创始人，也是《游戏运营与出海实战：策略、方法与技巧》的作者。我擅长识别和定义有机会的细分赛道，确定产品方向，再把数据、运营、商业化、全球发行和团队组织起来，推动产品从0到1、从已有基础做到品类头部。
 
-我有软件工程和产品研发背景，先后在微软、腾讯、Zynga、Gameloft做产品与运营。在Zynga担任产品经理、Lead Producer期间，参与CityVille、FarmVille及Arcade产品的经营，搭建DAU、收入和社交传播模型，把用户研究、实验、产品迭代和买量连接起来，也负责将这些方法整理成团队使用的规范。CityVille中国项目的相关工作中，次日留存曾提升700个基点，也就是7个百分点。
+我有软件工程和产品研发背景，先后在微软、腾讯、Zynga、Gameloft做产品与运营。在Zynga以产品经理（PM）身份带领、统筹多位制作人，主责CityVille腾讯版、FarmVille中文版及Bubble、Ruby、Slingo全球主产品的经营与商业化，搭建DAU、收入和社交传播模型，把用户研究、实验、产品迭代和买量连接起来，也负责将这些方法整理成团队使用的规范。CityVille中国项目的相关工作中，次日留存曾提升700个基点，也就是7个百分点。
 
 在Gameloft负责亚洲区运营时，我参与《混沌与秩序》系列、《神偷奶爸：小黄人快跑》《雷神2》等产品，协同10多个海内外工作室、500多人跨职能团队，推进产品、研发、运营与发行。对我来说，判断方向、搭建方法和带团队执行，是连在一起的工作。
 

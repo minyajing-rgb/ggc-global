@@ -7,10 +7,11 @@ description: >
   partnership outreach. Use before drafting or approving any outward-facing copy
   about Joyce's multi-category track record, operating ability, AI-native work or
   GGC commercial value.
-version: 1.5
 ---
 
-**Zynga 角色事实纠正｜2026-10-12，Joyce 本人直接更正：** 她从未担任 `Lead Producer` 职衔；在 Zynga 的实际职责是**带领和协调多位产品经理及制作人（PMs/Producers），共同推进多个旗舰产品的产品/经营/商业化**。仅写跨产品领导及主责，不推断未经核实的正式职衔（Head、Director、Product Manager 或 Lead Producer）。历史文件中出现的职衔与最新事实冲突时，以本纠正覆盖；不贬低她多产品主责。更多见 `positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md`。
+**Version:** 1.5
+
+**Zynga 角色事实｜2026-10-12，Joyce 本轮最新澄清：** 按本人确认写为**产品经理（PM），带领和统筹多位制作人，主责相关旗舰产品的经营与商业化**。将 lead 作为领导职责的动词，不称她为 `Lead Producer`；不推断 Lead PM、Head、Director 等职级。保留 CityVille 腾讯版、FarmVille 中文版及 Bubble/Ruby/Slingo 全球主产品的主责。以 [最新职业事实母稿](../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md) 覆盖旧口径，不弱化成普通参与。
 
 
 # Joyce PR & BD Positioning System
@@ -32,7 +33,7 @@ Always distinguish GGC's **three** current cooperation modes, in this order: **(
 
 Required BUSINESS-INTRO contact resource footer: **Joyce@ggcgames.com** (on GGC site), **joyce@saga1001.com** (user-supplied), **minyajing@gmail.com** (on GGC business site); WeChat **17701087579**; Telegram **@joyceggc**; LinkedIn https://www.linkedin.com/in/minyajing/ ; GGC https://ggcgames.com/ ; business https://biz.ggcgames.com/ ; Why Joyce https://biz.ggcgames.com/joyce/ ; AI SaaS https://biz.ggcgames.com/sme/ ; OpsGo https://opsgo.ggcgames.com/ ; book https://ebooks.cmpbook.com/detail?id=26372 . For very short first emails prioritize the company email and the core four links without hiding the book.
 
-See public source `../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md` and updated bilingual `../../bd/GGC_Executive_Intro_Bilingual_v2.md` (content v6). Preserve exact Zynga/Gameloft role/product/region/metric mapping and public name Joyce only. Book's author byline 艾小米 may remain as publication credit. **Do not confuse 'user asks business profile to include contacts' with 'permission for unscreened outbound email'.**
+See public source [Joyce旗舰职业事实母稿](../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md) and updated bilingual `../../bd/GGC_Executive_Intro_Bilingual_v2.md` (content v6). Preserve exact Zynga/Gameloft role/product/region/metric mapping and public name Joyce only. Book's author byline 艾小米 may remain as publication credit. **Do not confuse 'user asks business profile to include contacts' with 'permission for unscreened outbound email'.**
 
 
 ---
@@ -71,7 +72,7 @@ See public source `../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md` and upda
 **Upstream correction:** Joyce's first-party career archive is now reconciled into `minyajing-rgb/GGC-FA/ops/bd/strategy/2026-10-11_JOYCE_FLAGSHIP_TRACK_RECORD_PROJECT_EVIDENCE_v1.md`. Do not water her down into "15-year senior game operations adviser"; she has **specific flagship titles, 0-to-1 venture builds, 1-to-10 multi-title operating outcomes, founder/CEO and publishing acquisitions/post-merger experience, and method/operating standards**. Every substantial PR/Pitch should show at least 2 concrete case anchors, plus her **book author title**.
 
 **Mandatory header proof:**
-- Zynga cross-product coordination of several PMs/producers: flagship CityVille/FarmVille/Arcade; DAU/Revenue/K-factor/AB testing, social distribution and profitable F2P operating practices transferred into Chinese game teams.
+- Zynga Product Manager (PM), leading and coordinating multiple producers: flagship CityVille/FarmVille/Arcade; DAU/Revenue/K-factor/AB testing, social distribution and profitable F2P operating practices transferred into Chinese game teams.
 - Gameloft Asian Operations: Order & Chaos, Minion Rush and licensed flagship projects; 10+ studios / 500+ collaborators = network, not direct employees.
 - Founder/CEO: Beijing Taoyuan Xigu developed and published products; old CV records a Beijing regional equity-market/Fourth Board listing, **not** a substantiated Beijing Stock Exchange IPO; publisher venture business acquisition followed by overseas group CMO.
 - Author: `《游戏运营与出海实战：策略、方法与技巧》`, 艾小米, China Machine Press, 2024, ISBN 978-7-111-75037-6. Publisher `https://ebooks.cmpbook.com/detail?id=26372`. The book is in the **first two sentences** or the immediately adjacent credential area; don't hide it in a footnote.
@@ -98,7 +99,7 @@ For executive introductions, international PR, awards, media kits, speaking bios
 - User-confirmed across separate historical projects: certain projects faced go/no-go cancellation decisions when Joyce took responsibility; she rebuilt operations and took them to flagship levels. Do not falsely attribute the near-cancellation event to CityVille, Order & Chaos, or another specific title absent explicit matching. In public PR use an anonymized, respectful "high-stakes turnaround" rather than alleging a named former company/team failed.
 - User-confirmed **revenue doubling** across projects; historic four-page CV directly states "从零开始搭建广告、发行平台，收入10倍倍增" (10x revenue with building an advertising/publishing platform). Do not imply the same named project grew 2x then 10x, or combine metrics from different clients.
 - Historic commercial portfolio includes one product at ~RMB60m monthly *gross revenue* (peak >RMB100m), multiple mature projects with tens-of-millions monthly profit, and historical previous-company annual incremental profit contribution above RMB1bn. State the appropriate operating period/business level; never as present GGC revenue or Joyce personal cash receipts.
-- Joyce led product/operating responsibilities as Zynga cross-product coordination of several PMs/producers, Gameloft Asia Operations head, Huogu product director and founder/CEO. Avoid a blanket "participated in" that erases responsibility. Equally avoid sole-credit claims for an entire global company's revenue.
+- Joyce led product/operating responsibilities as Zynga Product Manager (PM), leading and coordinating multiple producers, Gameloft Asia Operations head, Huogu product director and founder/CEO. Avoid a blanket "participated in" that erases responsibility. Equally avoid sole-credit claims for an entire global company's revenue.
 - **Never put CityVille China D1 +7pp / seven-percentage-point retention in the headline**, 30-second profile, CEO/investor outreach or signature flagship proof. It belongs in a detailed product KPI appendix only.
 - Chinese-facing materials: name simply **Joyce**; omit Chinese legal full name. English signature may use Joyce.
 - Professional claim: early adoption and propagation of DAU/Revenue/K-factor/data-driven operations across platforms and Asian teams, as a substantive game-industry methodology contribution. Do not describe it as an official state standard where none was identified.
