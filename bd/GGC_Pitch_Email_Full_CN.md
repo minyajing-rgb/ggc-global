@@ -1,4 +1,7 @@
 # GGC｜中文CEO/投资人友好建联邮件母稿 v6（2026-10-12）
+
+**2026-10-12｜Flagship Turnaround & Systems positioning v6：** 本对外建联正文应先突出 Joyce 担任 Zynga PM/Lead Producer、Gameloft 亚洲区运营负责人等旗舰主责，再说明 **高压项目经营重整/成熟产品再商业化；0→1立项至全球头部、1→10长线经营；DAU/Revenue/K-factor模型、广点通相关平台商业化实践、Gameloft数据与经营组织体系重构**。与客户沟通使用“经营反转/体系建设”而非公开指名某公司项目“濒临倒闭”。新的完整版事实用 [Joyce Executive Pitch v6](../positioning/JOYCE_EXECUTIVE_PITCH_TURNAROUND_SYSTEMS_v6.md)；历史净值、项目奖金和收益必须分口径，用户明确的已主责项目不要淡化为“参与”。仅人物定位更新，不授权新发信。
+
 > 当前简洁版；历史v5长版保存Git历史。以 `positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md` 为主责事实源。对外只用 Joyce，真甲方/本人路线/旧邮件/STOP逐一核对并经用户审批后使用。
 
 **主题：** Joyce × [公司]｜全球旗舰游戏与新项目合作交流
