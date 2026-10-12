@@ -1,4 +1,13 @@
 # PIA — English Global PR, Awards & Speaking Pitch Kit
+
+## 2026-10-12 FINAL SOURCE — REPLACE EARLIER INFERIOR BIOGRAPHIES
+
+**Official executive profile is Joyce-only, NO CTA.** Canonical [Joyce flagship role and revenue source](../../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md).
+
+**Joyce**, founder of GGC and author of *Game Operations and Global Expansion*, directly led flagship titles into No.1 positions on their respective platforms or categories. As **Zynga PM/Lead Producer**, she owned **CityVille Tencent edition**, **FarmVille Chinese edition**, and global **Bubble, Ruby, Slingo**, developing the Asia operating models behind them; reported historical individual-title monthly **net US$5M–20M**. As **Gameloft Head of Asian Operations**, she led worldwide **Order & Chaos / Heroes of Order & Chaos** and **China Minion Rush**, with a 10+ studio/500+ collaboration network and historic single-title monthly **net €10M–30M, monthly peak €50M**. As Product Director, she led the core product/economy/launch work on **Wuxia Q Zhuan** (≈RMB60M monthly gross bookings, >RMB100M peak). She has built five 0→1 and scaled dozens 1→10, with business revenue up to 10× across separate historical projects, founder-led ventures, a regional equity-market listing, publishing-business acquisition and group integration.
+
+**Metrics:** keep `net` as a first-party label; no unsourced conversion to net profit. Zynga claimed single-day >US$100M is **UNIT_SCOPE_TO_CONFIRM** in the private ledger, not a checked public daily claim. Earlier paragraphs that put Joyce as a passive contributor, as a 7pp retention case, with the wrong game-market ownership, or in a BSE IPO are obsolete. Chinese legal name is not for externally submitted bios.
+
 Updated 2026-10-11 | Flagship leadership, 2x–10x revenue and turnaround-focused version
 
 ## Latest approved positioning override (2026-10-11)
