@@ -77,7 +77,7 @@ def browser_review():
                     okay = bounds['scroll'] <= bounds['client'] + 1
                     report['layouts'].append({'locale': locale, 'route': route, 'width': width, 'passed': okay})
                     check('no_overflow:' + locale + '/' + route + '/' + str(width), okay, bounds)
-                    check('no_internal_release_copy:' + locale + '/' + route, not any(x in page.locator('body').inner_text() for x in ['Implementation preview', 'not a production cutover', '预览实现', '尚未切换正式域名', '旧职业材料', 'written to CRM']))
+                    check('no_internal_release_copy:' + locale + '/' + route, not any(x in page.locator('body').inner_text() for x in ['Implementation preview', 'not a production cutover', '预览实现', '尚未切换正式域名', '旧职业材料', 'written to CRM', 'Production CRM', '正式CRM', 'Existing working name']))
                     if width in [390, 1440]:
                         page.screenshot(path=str(OUT / (locale + '_' + route + '_' + str(width) + '.png')), full_page=True)
             page.set_viewport_size({'width': 1440, 'height': 1000})
