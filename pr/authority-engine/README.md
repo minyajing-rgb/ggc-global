@@ -1,5 +1,10 @@
 # Joyce Authority Engine
 
+## 2026-10-12 — Joyce Flagship Authority OS / 核心权威资产
+
+**[Joyce Flagship Authority OS](../../skills/joyce-flagship-authority-os/SKILL.md)** is now the first-read PR/media/award/speaking and international professional-positioning rule. Its three signature case assets are **0→1 category-leading flagship**, **high-stakes turnaround**, and **data/monetization/global-publishing operating-system architecture**. Build this evidence once and reuse across award dossiers, signature sessions, interviews, founder conversations and book-linked long-form research; do not replace it with a generic biography or isolated retention KPI. Keep the exact role/territory/financial source from [Joyce Master](../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md). Private case details and planning remain in `GGC-FA/ops/bd/strategy/2026-10-12_JOYCE_FLAGSHIP_AUTHORITY_6M_EXECUTION_PLAN_v1.md`. No external application, spend or outreach is authorized by these documents.
+
+
 ## 2026-10-12 — Flagship Authority OS
 
 All Joyce personal media, speaker, awards, industry-influence and authored content must first read [Joyce Flagship Authority OS Skill](../../skills/joyce-flagship-authority-os/SKILL.md) and [Joyce Career/Title Source](../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md). Lead with **0→1 flagship builds, high-stakes turnarounds, and commercial/data/global-publishing operating systems**, then concrete scale and the China Machine Press book. Produce reusable three-case cards/diagrams and substantive analyses rather than generic visibility posts. Update case and talk provenance before publishing, keep PR application status truthful and always respect outreach/financial approvals.
