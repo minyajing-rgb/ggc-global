@@ -1,5 +1,14 @@
 # PIA execution SOP · source → opportunity → international authority
 
+## 2026-10-12 — Joyce Flagship Authority OS cross-workstream entry
+
+**Mandatory preflight:** [Joyce flagship authority skill](../../../skills/joyce-flagship-authority-os/SKILL.md). International awards/media/speaker/substantive content priorities should communicate Joyce's three coupled differentiators: *personally led 0→1 category-leading game creation, large-scale/high-risk operating turnarounds, and data-commercial-publishing-organizational system building*. This is a proof/authority creation program, not mere PR mass-mailing. Prioritize three anonymized/scoped cases, signature operating-system publication, 1–2 strong technical essays, verified keynote/industry board pathways, and qualified overseas founder/fund operating contacts.
+
+Keep international PIA awards/speaking schedule and confirmed organizer reply statuses intact. Apply the exact CN/EN source of truth [Joyce product/role v5](../../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md) and user-approved GGC three business models. Do not repeat weak D1 uplift as lead proof, erase Joyce's role to "participation" or leak private-life/compensation framing. Existing application/outbound governance does not change; proposals and due dates do not mean accepted speaker slots.
+
+---
+
+
 ## 1. Source and prioritization (full coverage, paced execution)
 Each Monday check all 74 records, not only the 10 most obvious events. Prioritize:
 1) submission/correction deadlines ≤14d; 2) organizer's direct human asks; 3) accepted-program logistics; 4) high-authority zero-fee independent CFP; 5) company PR awards; 6) 2027 date/CFP watches. Work P0 before P1 before P2 only after deadline and benefit checks.
