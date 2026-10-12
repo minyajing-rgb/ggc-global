@@ -1,5 +1,16 @@
 # Joyce Mi / GGC — Speaker Kit
 
+## 2026-10-12 GGC current three-business architecture (latest founder statement)
+
+**(1) Project Copilot / embedded operating partnership** — product/category strategy, greenlighting, global publishing, self-publishing, monetization, LiveOps and actual execution alongside the client's team, rather than stand-alone advice.
+
+**(2) Joint greenlighting + project-specific CPS / revenue sharing** — GGC's own game and AI consumer product pipeline, co-development and publishing with selected studios/partners; rights, budgets, ownership and performance settlement must be negotiated separately.
+
+**(3) Building GGC's owned overseas audience and distribution network** — proprietary/global content, creator and KOL relationships, social/community reach and AI SaaS-supported product distribution. This network is being developed and must not be represented as an already verified traffic asset at scale.
+
+The business networking version can close with **Joyce's explicit friendly invitation** to founders, CEOs, operators and investors to connect and compare real projects. Use company email Joyce@ggcgames.com, SAGA email joyce@saga1001.com, Gmail alternate minyajing@gmail.com, WeChat 17701087579, Telegram @joyceggc, LinkedIn/website/book links from the canonical [Joyce flagship master](../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md). **A conference speaker abstract or editorial quote needs no generic sales CTA by default.** This note supplements career evidence and does not grant permission to send anything.
+
+
 ## 2026-10-12 CORRECTED SPEAKER BIO / NO AUTO CTA
 
 **Joyce**, founder of GGC and author of *Game Operations and Global Expansion*, has **directly led** flagship game businesses to No.1 positions on their respective global/platform/category leaderboards. At Zynga she owned the **Tencent CityVille edition, Chinese FarmVille edition and global Bubble, Ruby and Slingo** (reported US$5M–20M monthly per-title `net`). At Gameloft she led **global Order & Chaos and Heroes of Order & Chaos and Minion Rush's China operations** (reported monthly single-title `net` €10M–30M, peak €50M). Her experience includes Wuxia Q Zhuan gross bookings around RMB60M/month and >RMB100M peak, five 0→1 and dozens of 1→10, founder-led publishing/development ventures, business acquisition and regional equity-market listing. She helped spread DAU/Revenue, K-factor and experimentation methods across Asia and continues this work at GGC through games, AI products and SaaS.
