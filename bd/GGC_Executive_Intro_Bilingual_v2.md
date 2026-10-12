@@ -1,9 +1,9 @@
 # Joyce × GGC — 中英文高管自我介绍 / Executive Biography v5
-**2026-10-12 · FINAL USER CORRECTION PRIORITY · NO AUTOMATIC CTA · professional name Joyce only**
+**2026-10-12 · v6 · 三条业务+完整商务联络 · professional name Joyce only**
 
 > **事实源：** [Joyce全球旗舰项目主责与经营口径](../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md)。本文件只负责精炼表达；旧V2–V4在Git历史保留，不再作为当前使用版本。
 
-## 中文高管介绍（不加CTA、不用中文原名）
+## 中文高管介绍（保留友好建联与完整联系方式；只用Joyce）
 
 **我是 Joyce，GGC（Global Game Copilot）创始人、机械工业出版社《游戏运营与出海实战：策略、方法与技巧》作者。**
 
@@ -17,11 +17,30 @@
 
 同时，我做过**5款产品从0到1、数十款从1到10，多个项目收入翻倍及最高10倍提升**，并经历从0建立研发与发行公司、北京区域性股权市场挂牌、发行资产被收购及收购后集团经营。
 
-**目前GGC有两项业务：**第一，与企业合作做新项目/新品类战略、立项、全球发行、自研自发、商业化与COO/CMO经营Copilot；第二，开发自有游戏、AI消费产品及游戏、媒体与商业情报AI SaaS，开放联合研发、共建与战略合作。
+**现在GGC主要在做三件事：**
+
+**1｜项目 Copilot，长期陪跑。** 和游戏公司、团队一起做战略、品类选择、立项、产品经营、全球发行、自研自发、商业化和运营体系。从判断到执行按季度或年度持续陪跑，负责人、交付和经营目标跟项目走，不是只提供咨询报告。
+
+**2｜联合立项 + CPS / 收益分成。** GGC有自己的游戏与AI消费产品，也与合适的团队共同发现新赛道、选项目、做MVP、研发/发行和商业化。合作可以讨论CPS（按销售/转化成果结算）或按项目约定收益分成，具体投入、IP、发行权和分配机制分别协商，不预设所有项目同一种模式。
+
+**3｜积累自己的海外流量池。** 正在建设面向海外市场的自有内容、品牌/社媒、创作者/KOL、社区和跨产品分发网络，同时搭建面向媒体、游戏、商业情报的AI SaaS，让自有及合作产品能够逐步获得可复用的海外触达和商业化渠道。
+
+我希望先和真正负责产品、经营和投资决策的创始人、CEO以及产业伙伴建立联系，交换彼此正在做的项目，看未来有没有共同立项、经营陪跑、联合发行或其他合作的机会。
 
 **Joyce | GGC**
 
-## English executive biography (no CTA)
+**邮箱 / Email：** Joyce@ggcgames.com（GGC）；joyce@saga1001.com（SAGA）；minyajing@gmail.com（备用）
+**微信 / WeChat：** 17701087579　**Telegram：** @joyceggc
+
+**LinkedIn：** https://www.linkedin.com/in/minyajing/
+**GGC主站：** https://ggcgames.com/
+**公司业务：** https://biz.ggcgames.com/
+**个人履历：** https://biz.ggcgames.com/joyce/
+**AI SaaS：** https://biz.ggcgames.com/sme/
+**OpsGo：** https://opsgo.ggcgames.com/
+**出版著作：** https://ebooks.cmpbook.com/detail?id=26372
+
+## English executive introduction (friendly relationship-first; full contact details)
 
 **Joyce**, founder of **GGC (Global Game Copilot)** and author of *Game Operations and Global Expansion* (China Machine Press), has spent over 15 years **leading flagship games into global, platform and category-leading positions**—not merely participating in products that were already successful.
 
@@ -31,9 +50,25 @@ At **Gameloft**, as **Head of Asian Operations**, she led the **global operation
 
 As a subsequent **Product Director**, Joyce led product planning and monetization for **Wuxia Q Zhuan**, whose historical monthly gross bookings reached **RMB60M, peaking above RMB100M**. Her broader track record spans **five 0→1 builds, dozens of 1→10 scale-ups, multiple 2x–10x revenue improvements**, founding development/publishing businesses, regional equity-market listing experience, an acquired publishing operation and post-acquisition group management.
 
-GGC today brings that operating experience into two tracks: **strategic operating Copilot for game companies**, and **owned games, AI consumer products, game/media/commercial-intelligence SaaS and selected co-development partnerships**.
+Today, GGC is focused on **three complementary areas**:
+
+**1. Project Copilot — embedded operating partnerships.** We work alongside teams over a project, quarter or year on new-category strategy, game greenlights, global publishing, self-publishing, monetization, LiveOps and the management systems needed to execute—not just a report.
+
+**2. Joint greenlights + CPS / revenue sharing.** Alongside our own games and AI consumer products, we explore co-development, publishing and new projects with capable teams. Commercial structures may include CPS (cost-per-sale / performance-based settlement) or project-specific revenue sharing, with investment, IP ownership and responsibilities agreed separately.
+
+**3. Building GGC's own overseas audience and distribution network.** We're developing reusable international channels across owned content, social media, creators/KOLs, communities and distribution, supported by game/media/commercial-intelligence AI SaaS. This is an ecosystem currently being built, not a claim of already owning a particular traffic volume.
+
+I'm interested in getting to know founders, CEOs, product operators and investment decision-makers, exchanging what we're currently building, and exploring where a future project or partnership may make sense.
 
 **Joyce | Founder, GGC**
+
+**Email:** Joyce@ggcgames.com (GGC) · joyce@saga1001.com (SAGA) · minyajing@gmail.com (alternate)
+**WeChat:** 17701087579 · **Telegram:** @joyceggc
+**LinkedIn:** https://www.linkedin.com/in/minyajing/
+**GGC:** https://ggcgames.com/ · **Business:** https://biz.ggcgames.com/
+**Why Joyce:** https://biz.ggcgames.com/joyce/ · **AI SaaS:** https://biz.ggcgames.com/sme/
+**OpsGo:** https://opsgo.ggcgames.com/
+**Published book:** https://ebooks.cmpbook.com/detail?id=26372
 
 ## PR credentials / 对外资料
 
@@ -47,7 +82,7 @@ GGC today brings that operating experience into two tracks: **strategic operatin
 
 - **`net` is deliberately unchanged.** Do not translate user-supplied monthly net amounts into net profit without confirming accounting basis. They are reported historical project outcomes, not GGC revenue.
 - The **user-supplied Zynga single-day US$100M+ peak** is recorded verbatim in [the source ledger](../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md), flagged `UNIT_SCOPE_TO_CONFIRM` because the historical CV used different day-peak units/contexts. Do not silently publish it as independently corroborated.
-- No legal Chinese personal name, no automatic meeting invitation, WeChat/TG, sales CTA, newsletter subscribe, attached sales deck or generic revenue guarantee in a **biography**.
+- No legal Chinese personal name, no automatically invented meeting booking CTA or generic revenue guarantee. **Explicit user-requested business introductions do include contacts and a friendly invitation to establish a relationship; a media/speaker bio without such a request remains neutral.**
 - Specific Zynga vs Gameloft **named titles, territories, roles and group figures stay separate**; Huogu RMB monthly gross bookings are not a profit number.
 - Real named former games are not described as almost cancelled without a product-level matching case; the user directly reports high-stakes rescues in her career and these can be discussed as unnamed turnarounds.
 - The book was published in Chinese under the byline 艾小米; English title is a translation, not an independently published English edition.
