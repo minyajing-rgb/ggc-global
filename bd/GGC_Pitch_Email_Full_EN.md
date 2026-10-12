@@ -1,6 +1,6 @@
 # GGC｜English executive introduction template v5 (2026-10-12)
 
-> Source: [Joyce flagship ownership & commercial metrics](../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md). Use the name **Joyce** only. No generic automated CTA, meeting request, phone number or recipient. Future sending requires independent account checks.
+> Source: [Joyce flagship ownership & commercial metrics](../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md). Use the name **Joyce** only. No unrequested booking or meeting CTA; user's requested friendly relationship invitation and full contacts are included, without inventing a recipient. Future sending requires independent account checks.
 
 **Subject:** Joyce / GGC | Flagship Games, Global Operating Systems & AI Products
 
@@ -16,11 +16,16 @@ At **Gameloft**, as Head of Asian Operations, I led **global operations for Orde
 
 My career includes **five 0-to-1 products, dozens of 1-to-10 expansions, and separate revenue-doubling/up-to-10x mandates**, as well as founding game studios, publishing operations, a regional equity-market listing, an acquired publishing business and post-acquisition management.
 
-GGC today works in two areas: **strategic operating Copilot partnerships for new games, self-publishing and global commercialization**, and **owned games, AI consumer products, game/media/intelligence SaaS and selected co-development partnerships**.
+Today GGC works across **three areas**: **(1) embedded Project Copilot partnerships** alongside studios on strategy, greenlights, publishing and ongoing business operations; **(2) jointly greenlit games/AI products with project-specific CPS or revenue-sharing cooperation**, where scope, IP and responsibilities are agreed together; and **(3) building our own overseas audience and distribution network** through owned content, creators/KOLs, social channels, communities and game/media-intelligence AI SaaS.
 
-[Insert one verified company-specific business intersection only; no generic sales CTA or meeting request by default.]
+[Insert one verified company-specific initiative and genuine area of overlap.]
+
+I'd be glad to get acquainted with founders, CEOs, product and investment decision-makers, compare what we're building and see whether a suitable project or partnership may emerge over time.
 
 **Joyce | Founder, GGC**
+Business email: Joyce@ggcgames.com | SAGA: joyce@saga1001.com | Alternate: minyajing@gmail.com
+WeChat: 17701087579 | Telegram: @joyceggc
+GGC website: https://ggcgames.com/ | OpsGo: https://opsgo.ggcgames.com/
 
 LinkedIn: https://www.linkedin.com/in/minyajing/
 GGC: https://biz.ggcgames.com/
