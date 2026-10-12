@@ -1,5 +1,8 @@
 # JOYCE | FLAGSHIP OPERATOR — 项目主责、规模与中英文职业母稿
 
+**2026-10-12 ｜原始4页简历复核后的叙事优先级升级：** [Joyce 旗舰产品操盘与企业 OS 完整母稿 v7](https://github.com/minyajing-rgb/ggc-global/blob/main/positioning/JOYCE_FLAGSHIP_OPERATOR_ENTERPRISE_OS_MASTER_v7.md) 是今后 CEO / PR / BD / 演讲与投资人展示的**首读职业叙事**；原逐项目母稿继续负责确切职务、职责及财务口径。先讲“多次把复杂项目从关键经营节点/0→1带到历史高点或全球品类标杆”，再讲两周到数月真实上线、1→10放量，然后展开**从产品内核到研发发布、数据/商业化、团队招募组织、全球渠道和资本资源**的整套企业级经营系统。突出跨Casino/Arcade/Sims/MMO/MOBA、直播/社交、DApp/Web3、软件/AI消费的可迁移性。最后落到**Joyce OS / Joyce Method（DECIDE→BUILD→COMPOUND及七模块）/ GGC Principle（12条运营原则）**如何在今天GGC Principal与精选联合项目中应用；工具/流量池建设状态不得伪称已全部上线。**Zynga为PM，带领多个PM和制作人，不曾担任Lead Producer**；正式GM/CEO/CMO等职位仅按原简历的公司阶段写。公司经营、出版、组织人才与资本资源不可被缩写成“3个KPI技能”。此更新不包含发件许可。
+
+
 **2026-10-12 Zynga 身份与领导责任澄清（Joyce 本轮最新说明，最高优先级）：** Joyce 在 Zynga **以产品经理（PM）身份，带领、统筹多位制作人，主责相关旗舰产品的经营与商业化**。“lead / 带领”描述的是实际责任，**不是 Lead Producer 职称**。产品经理身份已由本人确认；不补写 Lead PM、Head、Director 或其他未经确认的职级限定。此段覆盖此前“正式职称待核”的笼统备注；Gameloft 与其他公司已确认的职位和逐项目责任、历史成果不受影响。
 
 
