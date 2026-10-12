@@ -1,11 +1,20 @@
 ---
+
+## v1.1 — Flagship result and authority-asset integration (2026-10-12)
+
+Read [Joyce Flagship Authority OS](../joyce-flagship-authority-os/SKILL.md) before turning case evidence into commercial positioning, category operating systems and value capture. **Demonstrate the triple capability**: (1) category/0→1 flagship greenlight; (2) high-stakes 1→10 business turnaround and scale; (3) replicable DAU/Revenue, viral acquisition, economy, LiveOps and publishing/team operating architecture. This is not merely a module library: create three *real, anonymized* case cards and one signature blueprint that the buyer, VC, industry editor and keynote organizer can all understand without revealing confidential prior-employer data.
+
+Current GGC commercial paths all remain active: **embedded Project Copilot**, **co-greenlight plus CPS/revenue share**, and **own overseas media/creator/distribution ecosystem**. The supplied "operating partner versus independent studio" dichotomy is a decision on *marginal high-capital commitments*, not an order to shut down existing owned products or co-build. Only offer legal/permitted project structures, use real budget/decision owners and execute when authorized.
+
+---
+
 name: joyce-category-operating-architect
 description: >
   Commercial capability, offer and value-capture skill for Joyce/GGC. Use after
   joyce-pr-bd-positioning to translate Joyce's repeated cross-category operating
   record into category strategy, operating-system design, founder/CEO value,
   PR/BD narratives, partnership structures, ownership and executable scopes.
-version: 1.0
+version: 1.1
 ---
 
 # Joyce Category Operating Architect — Commercial Skill
