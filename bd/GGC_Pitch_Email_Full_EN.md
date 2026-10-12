@@ -1,4 +1,7 @@
 # GGC | Founder/CEO Strategic Introduction — EN v6 (2026-10-12)
+
+**2026-10-12｜Flagship Turnaround & Systems positioning v6:** Lead with Joyce's direct Zynga Product Manager/Lead Producer and Gameloft Asian Operations responsibilities, then the three pillars: **high-stakes flagship turnarounds and mature-game commercial renewal; zero-to-one launches and one-to-ten scaling; DAU/revenue/K-factor systems, platform monetization, and repeatable cross-market data/operating infrastructure**. Do not allege any named franchise was about to be cancelled without evidence; do not downgrade documented leadership to passive “participation”. See [Joyce Executive Pitch v6](../positioning/JOYCE_EXECUTIVE_PITCH_TURNAROUND_SYSTEMS_v6.md). Historic reported monthly net metrics are not automatically profit. This source update grants no outbound sending rights.
+
 > Short relationship-first approved-style template, not an authorization to send. Full facts: `positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md`. Use only Joyce's professional name; customize to the actual company and decision-maker.
 
 **Subject:** Joyce × [Company] | Flagship Games, Commercial Turnarounds & New Ventures
