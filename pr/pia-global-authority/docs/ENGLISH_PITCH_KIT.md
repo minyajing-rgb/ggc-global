@@ -1,5 +1,16 @@
 # PIA — English Global PR, Awards & Speaking Pitch Kit
 
+## 2026-10-12 GGC current three-business architecture (latest founder statement)
+
+**(1) Project Copilot / embedded operating partnership** — product/category strategy, greenlighting, global publishing, self-publishing, monetization, LiveOps and actual execution alongside the client's team, rather than stand-alone advice.
+
+**(2) Joint greenlighting + project-specific CPS / revenue sharing** — GGC's own game and AI consumer product pipeline, co-development and publishing with selected studios/partners; rights, budgets, ownership and performance settlement must be negotiated separately.
+
+**(3) Building GGC's owned overseas audience and distribution network** — proprietary/global content, creator and KOL relationships, social/community reach and AI SaaS-supported product distribution. This network is being developed and must not be represented as an already verified traffic asset at scale.
+
+The business networking version can close with **Joyce's explicit friendly invitation** to founders, CEOs, operators and investors to connect and compare real projects. Use company email Joyce@ggcgames.com, SAGA email joyce@saga1001.com, Gmail alternate minyajing@gmail.com, WeChat 17701087579, Telegram @joyceggc, LinkedIn/website/book links from the canonical [Joyce flagship master](../../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md). **A conference speaker abstract or editorial quote needs no generic sales CTA by default.** This note supplements career evidence and does not grant permission to send anything.
+
+
 ## 2026-10-12 FINAL SOURCE — REPLACE EARLIER INFERIOR BIOGRAPHIES
 
 **Official executive profile is Joyce-only, NO CTA.** Canonical [Joyce flagship role and revenue source](../../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md).
