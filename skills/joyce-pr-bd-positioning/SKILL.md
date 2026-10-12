@@ -10,6 +10,9 @@ description: >
 version: 1.5
 ---
 
+**Zynga 角色事实纠正｜2026-10-12，Joyce 本人直接更正：** 她从未担任 `Lead Producer` 职衔；在 Zynga 的实际职责是**带领和协调多位产品经理及制作人（PMs/Producers），共同推进多个旗舰产品的产品/经营/商业化**。仅写跨产品领导及主责，不推断未经核实的正式职衔（Head、Director、Product Manager 或 Lead Producer）。历史文件中出现的职衔与最新事实冲突时，以本纠正覆盖；不贬低她多产品主责。更多见 `positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md`。
+
+
 # Joyce PR & BD Positioning System
 
 ## v1.5 — Flagship Authority OS (2026-10-12)
@@ -42,7 +45,7 @@ See public source `../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md` and upda
 **External name**: **Joyce**, only. Do not automatically add Chinese legal name or expand to Joyce Mi. The book's Chinese byline 艾小米 may be shown only as a publication credit. For standalone executive/media/speaker bios, do not auto-add **CTA**, WeChat, telephone, meeting request or "book a call" paragraphs.
 
 **Explicit leadership/product mapping from Joyce's latest correction:**
-- **Zynga — PM / Lead Producer**: Joyce directly owned **CityVille Tencent edition** and **FarmVille Chinese edition**, plus the **global lead products Bubble, Ruby and Slingo**. These were led into **No.1 standing on their respective platforms/categories at the time**, not merely attended as already successful flagships. Reported individual-title historical **monthly net US$5M–20M**, accounting meaning of `net` pending; do not relabel as net profit.
+- **Zynga — Cross-product leadership of several PMs / producers (formal title not asserted)**: Joyce directly owned **CityVille Tencent edition** and **FarmVille Chinese edition**, plus the **global lead products Bubble, Ruby and Slingo**. These were led into **No.1 standing on their respective platforms/categories at the time**, not merely attended as already successful flagships. Reported individual-title historical **monthly net US$5M–20M**, accounting meaning of `net` pending; do not relabel as net profit.
 - **Gameloft — Head of Asian Operations**: Joyce directly owned the **global operating work on Order & Chaos and Heroes of Order & Chaos**, and **Minion Rush's China operations**; more than 10 studios and 500+ cross-functional collaborators. Reported historic single-title **monthly net €10M–30M**, monthly peak €50M, `net` not independently defined as audited profit.
 - **Huogu — Product Director**: Joyce directly led Wuxia Q Zhuan's planning, game economy/revenue model, launch and monetization; product historical **monthly gross bookings ≈RMB60M, peak >RMB100M**. This is gross revenue, not net profit.
 - Broader: five 0→1, dozens 1→10, separate doubling and 10× revenue projects; old CV ties 10× to building an advertising/publishing platform. Founder-side acquisitions, reorganizations, and regional equity-market listing are distinct legal/operational events.
@@ -68,7 +71,7 @@ See public source `../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md` and upda
 **Upstream correction:** Joyce's first-party career archive is now reconciled into `minyajing-rgb/GGC-FA/ops/bd/strategy/2026-10-11_JOYCE_FLAGSHIP_TRACK_RECORD_PROJECT_EVIDENCE_v1.md`. Do not water her down into "15-year senior game operations adviser"; she has **specific flagship titles, 0-to-1 venture builds, 1-to-10 multi-title operating outcomes, founder/CEO and publishing acquisitions/post-merger experience, and method/operating standards**. Every substantial PR/Pitch should show at least 2 concrete case anchors, plus her **book author title**.
 
 **Mandatory header proof:**
-- Zynga PM/Lead Producer: flagship CityVille/FarmVille/Arcade; DAU/Revenue/K-factor/AB testing, social distribution and profitable F2P operating practices transferred into Chinese game teams.
+- Zynga cross-product coordination of several PMs/producers: flagship CityVille/FarmVille/Arcade; DAU/Revenue/K-factor/AB testing, social distribution and profitable F2P operating practices transferred into Chinese game teams.
 - Gameloft Asian Operations: Order & Chaos, Minion Rush and licensed flagship projects; 10+ studios / 500+ collaborators = network, not direct employees.
 - Founder/CEO: Beijing Taoyuan Xigu developed and published products; old CV records a Beijing regional equity-market/Fourth Board listing, **not** a substantiated Beijing Stock Exchange IPO; publisher venture business acquisition followed by overseas group CMO.
 - Author: `《游戏运营与出海实战：策略、方法与技巧》`, 艾小米, China Machine Press, 2024, ISBN 978-7-111-75037-6. Publisher `https://ebooks.cmpbook.com/detail?id=26372`. The book is in the **first two sentences** or the immediately adjacent credential area; don't hide it in a footnote.
@@ -95,7 +98,7 @@ For executive introductions, international PR, awards, media kits, speaking bios
 - User-confirmed across separate historical projects: certain projects faced go/no-go cancellation decisions when Joyce took responsibility; she rebuilt operations and took them to flagship levels. Do not falsely attribute the near-cancellation event to CityVille, Order & Chaos, or another specific title absent explicit matching. In public PR use an anonymized, respectful "high-stakes turnaround" rather than alleging a named former company/team failed.
 - User-confirmed **revenue doubling** across projects; historic four-page CV directly states "从零开始搭建广告、发行平台，收入10倍倍增" (10x revenue with building an advertising/publishing platform). Do not imply the same named project grew 2x then 10x, or combine metrics from different clients.
 - Historic commercial portfolio includes one product at ~RMB60m monthly *gross revenue* (peak >RMB100m), multiple mature projects with tens-of-millions monthly profit, and historical previous-company annual incremental profit contribution above RMB1bn. State the appropriate operating period/business level; never as present GGC revenue or Joyce personal cash receipts.
-- Joyce led product/operating responsibilities as Zynga PM/Lead Producer, Gameloft Asia Operations head, Huogu product director and founder/CEO. Avoid a blanket "participated in" that erases responsibility. Equally avoid sole-credit claims for an entire global company's revenue.
+- Joyce led product/operating responsibilities as Zynga cross-product coordination of several PMs/producers, Gameloft Asia Operations head, Huogu product director and founder/CEO. Avoid a blanket "participated in" that erases responsibility. Equally avoid sole-credit claims for an entire global company's revenue.
 - **Never put CityVille China D1 +7pp / seven-percentage-point retention in the headline**, 30-second profile, CEO/investor outreach or signature flagship proof. It belongs in a detailed product KPI appendix only.
 - Chinese-facing materials: name simply **Joyce**; omit Chinese legal full name. English signature may use Joyce.
 - Professional claim: early adoption and propagation of DAU/Revenue/K-factor/data-driven operations across platforms and Asian teams, as a substantive game-industry methodology contribution. Do not describe it as an official state standard where none was identified.
@@ -261,7 +264,7 @@ Every substantial Joyce story should contain four layers.
 
 Use the most relevant subset of:
 - Microsoft, Tencent, Zynga and Gameloft career experience;
-- Zynga Product Manager / Lead Producer work across CityVille, FarmVille and Arcade;
+- Zynga cross-product leadership of multiple product managers and producers work across CityVille, FarmVille and Arcade;
 - Gameloft global operations across Order & Chaos, Minion Rush, Thor 2 and other approved records;
 - documented historical high-earning flagship portfolios, recurring eight-figure monthly revenue/profit outcomes and company-level RMB-billion annual profit contribution;
 - 10+ studios and 500+ cross-functional collaboration network, never “500 direct reports”;
