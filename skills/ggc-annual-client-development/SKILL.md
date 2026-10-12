@@ -8,6 +8,9 @@ description: >
 version: 3.1
 ---
 
+**Zynga 角色事实纠正｜2026-10-12，Joyce 本人直接更正：** 她从未担任 `Lead Producer` 职衔；在 Zynga 的实际职责是**带领和协调多位产品经理及制作人（PMs/Producers），共同推进多个旗舰产品的产品/经营/商业化**。仅写跨产品领导及主责，不推断未经核实的正式职衔（Head、Director、Product Manager 或 Lead Producer）。历史文件中出现的职衔与最新事实冲突时，以本纠正覆盖；不贬低她多产品主责。更多见 `positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md`。
+
+
 # GGC Annual Client Development — Account-Based BD Skill
 
 ## v3.1 — Authority-qualified accounts and three proof stories (2026-10-12)
@@ -39,7 +42,7 @@ Latest CN/EN copy: `../../bd/GGC_Executive_Intro_Bilingual_v2.md` content v6. Ne
 Read [Joyce flagship master v5](../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md) **before** creating any account-specific Chinese or English introductory copy. Effective precedence: user's latest explicit project mapping and the v5 master > older generic message snippets > v2.8 annual BD guidance when conflicts occur.
 
 - **Use Joyce only**; omit Chinese legal name and generic `Joyce Mi` expansion. A book byline is not an alternate personal name to use in email salutations.
-- **Zynga**: her PM/Lead Producer responsibilities **CityVille Tencent edition, FarmVille Chinese edition, Bubble/Ruby/Slingo global main products**; category/platform No.1 achieved under her leadership. Historical reported monthly single-title `net` US$5M–20M; never convert `net` to audited profit.
+- **Zynga**: her cross-product leadership of several product managers/producers **CityVille Tencent edition, FarmVille Chinese edition, Bubble/Ruby/Slingo global main products**; category/platform No.1 achieved under her leadership. Historical reported monthly single-title `net` US$5M–20M; never convert `net` to audited profit.
 - **Gameloft**: Head of Asian Operations on **global Order & Chaos / Heroes of Order & Chaos; China Minion Rush**; 10+ studios, 500+ cross-functional network. Historical monthly single-title `net` €10M–30M, peak monthly €50M; `net` accounting meaning still to be specified.
 - **Huogu**: Product Director with specific lead scope on `Wuxia Q Zhuan`; historic monthly **RMB60M gross game bookings, peak >RMB100M**, not a monthly net-profit figure.
 - 5 game projects built 0→1, dozens scaled 1→10, 2× and up-to-10× revenue improvement across **different** projects, earlier business acquisitions and company formation. Do not replace these with a D1 retention vignette.
@@ -54,7 +57,7 @@ Read [Joyce flagship master v5](../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5
 
 **The first line of an executive BD introduction must explain what Joyce LED and the business magnitude.** Career: repeated game projects driven to global/platform/category leadership, **five 0→1, dozens 1→10, separate projects with 2× and up-to-10× revenue improvements**, historical high-profit franchises and major business turnarounds/organizational rebuilds. The four-page first-party CV explicitly says "从零开始搭建广告、发行平台，收入10倍倍增"; 2×/go-no-go rescue claims were directly confirmed by Joyce and must remain scoped to anonymous appropriate cases until attribution available. Primary goal: peer-to-peer CEO/investor strategic conversations, not selling services in every first message.
 
-**No more** leading with "participated in famous games", a generic 15-year consulting bio, Chinese legal name, or CityVille D1 +7pp as the flagship achievement. Use Joyce; examples of genuine leadership: Zynga PM/Lead Producer, Gameloft Asian Operations Head, Huogu Product Director, game development and publishing Founder/CEO. Mention relevant global title where appropriate, and don't assert that a named company/game was about to be cancelled without its distinct source.
+**No more** leading with "participated in famous games", a generic 15-year consulting bio, Chinese legal name, or CityVille D1 +7pp as the flagship achievement. Use Joyce; examples of genuine leadership: Zynga cross-product coordination of several PMs/producers, Gameloft Asian Operations Head, Huogu Product Director, game development and publishing Founder/CEO. Mention relevant global title where appropriate, and don't assert that a named company/game was about to be cancelled without its distinct source.
 
 For strong but bounded 1:1 CEO/strategic copy, historic product gross revenue ~RMB60M/month and peak >RMB100M, historical company-level annual incremental profit uplift >RMB1B, 10+ studios/500+ collaboration network, regional equity-market listing and acquired publishing business may be used with business-level and period distinction. Preserve the published book, LinkedIn, GGC website, AI SaaS Lab and Why Joyce links from `../../bd/GGC_Executive_Intro_Bilingual_v2.md`. Never combine separate sample numbers into a fictional single-title outcome.
 
