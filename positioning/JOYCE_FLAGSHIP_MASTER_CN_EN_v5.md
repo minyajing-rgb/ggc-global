@@ -2,6 +2,34 @@
 **2026-10-12 · 用户最新逐项目指定 · TOP PRIORITY OVER OLD BIO, DECK & PR SNIPPETS**
 **Audience:** CEO/Founder, institutional investor, strategic partner, media/speaker applications. **Scope:** biographical source, NOT authorization to send, post, submit or deploy.
 
+## 2026-10-12 最新 GGC 三项业务与完整商务联系方式（优先于下方旧 Two Tracks）
+
+**用户确认的三条合作主线，不可缩减为「咨询 + 自有产品」两块：**
+
+**1｜Project Copilot / 经营陪跑：** 给有真实项目、组织或新业务的公司提供战略和经营层面的长期共建。从立项/市场/产品战略到研发协作、全球发行、商业化、LiveOps、组织与经营复盘，Joyce以 Principal/COO/CMO Copilot 形式**陪团队一起判断并执行**，按项目、季度或年度约定责任、团队与交付；不是卖一份报告、外包一批人。
+
+**2｜联合立项 + CPS / 业绩分成：** 与有产品能力、预算、技术、IP或渠道资源的团队一起判断新品类，合作立项、孵化、共研、发行和商业化。双方按具体项目约定投入、IP/数据/发行权、管理分工和**CPS（按实际销售/转化结果计费）或收益分成**等机制；CPS为可谈方案，**不是GGC对所有项目已签或保证的收益率**。
+
+**3｜自有海外流量池与分发生态：** GGC正在逐步建立自有的**海外内容、媒体、KOL/创作者、社区、品牌站、AI工具和产品分发**网络，形成跨产品复用的全球受众与合作渠道，服务GGC自有游戏、AI消费产品/SaaS与精选合作项目。**在建设、梳理和验证中，不声称已拥有某个未经核实的总流量规模或已买下海外渠道**。
+
+**友好建联目的（当前用户明确要求放进Business Intro）：** 「希望先认识真正负责产品、经营和投资决策的创始人、CEO和产业伙伴，交流彼此正在做的新项目，看看未来是否有联合立项、Copilot陪跑、CPS或海外市场合作的空间。」这是一句**用户明确要求的关系邀请**；不同于未获指令时自动往媒体Speaker Bio末尾塞约会或行动按钮。两种内容必须分开存储。
+
+**完整对外联系与背书：**
+- **公司商务邮箱（GGC官网公布）：** Joyce@ggcgames.com
+- **SAGA业务邮箱（用户此前直接提供）：** joyce@saga1001.com
+- **现有公开业务站及Gmail往来邮箱：** minyajing@gmail.com（备用）
+- **微信/电话：** 17701087579
+- **Telegram：** @joyceggc
+- **LinkedIn：** https://www.linkedin.com/in/minyajing/
+- **GGC主站：** https://ggcgames.com/
+- **业务与合作：** https://biz.ggcgames.com/
+- **Why Joyce / 个人履历：** https://biz.ggcgames.com/joyce/
+- **AI SaaS：** https://biz.ggcgames.com/sme/
+- **OpsGo：** https://opsgo.ggcgames.com/
+- **出版著作（机械工业出版社）：** https://ebooks.cmpbook.com/detail?id=26372
+
+**信息来源：** 本轮现场读取官方 `ggcgames.com`（列Joyce@ggcgames.com）与 `biz.ggcgames.com`（列minyajing@gmail.com）；SAGA邮箱/微信/TG来自用户提供。不要把上述三个邮箱误称为三个独立公司的员工或未经确认全部长期收件。实际定向发送以有效发件身份为准。
+
 ## 1｜只有 Joyce 这个对外名字
 
 - 对外称呼 / English professional name: **Joyce**（品牌签名 Joyce | GGC）。不写中文法定姓名，不自动扩成 `Joyce Mi`，不把旧PDF中的个人原名复制到对外版本。
@@ -34,9 +62,11 @@
 
 我的经历还包括**5款0→1、数十款1→10、业务收入翻倍至十倍的经营改善**，以及从零组建研发发行公司、区域性股权市场挂牌、发行业务收购和收购后的集团经营。
 
-**现在，GGC做两条业务：**一是企业的新赛道立项、全球发行、自研自发、商业化及COO/CMO经营Copilot；二是自有游戏、AI消费产品、游戏/媒体/商业情报SaaS，开放联合研发、产品共建与战略合作。
+**现在，GGC做三件事：** **① 项目Copilot经营陪跑**，从立项、发行到商业化与团队落地；**② 联合立项与CPS/收益分成合作**，共同研发、测试、发行新游戏与AI产品；**③ 建设自有海外流量池和分发生态**，连接全球内容、KOL、社区、媒体与自有产品。
 
 **Joyce | GGC**
+
+**商务联系：** Joyce@ggcgames.com · joyce@saga1001.com · minyajing@gmail.com | 微信 17701087579 | TG @joyceggc。以上个人与公司链接见本文件开头清单。
 
 本段保留历史 `net` 原词；**不自动给出CTA或手机**。书的官方页面、LinkedIn及公司/个人页面可作为随行的资料链接，而非正文结尾的强行约会要求。
 
@@ -50,7 +80,9 @@ As **Gameloft's Head of Asian Operations**, she led global operating work for **
 
 Her wider career includes five zero-to-one products, dozens of one-to-ten scale-ups, individual mandates with **2x to 10x revenue improvement**, founding game-development and publishing businesses, a regional equity-market listing, an acquired publishing operation and post-acquisition company operations.
 
-Today GGC works across two complementary tracks: **strategic operating Copilot partnerships for game businesses**, and **owned games, AI consumer products and game/media/business-intelligence SaaS**, with selected co-development and strategic partnerships.
+Today GGC works through **three complementary initiatives**: **(1) long-term project Copilot / embedded operating partnerships** with game companies; **(2) jointly greenlit products and games with project-specific CPS (cost per sale) or revenue-sharing arrangements**; and **(3) building an owned overseas audience, creator, media, community and distribution network** to support GGC's games, AI consumer products/SaaS and selected partners.
+
+**Business connection:** We'd welcome introductions to founders, CEOs, product and investment decision-makers to explore where our current projects might fit future collaboration. Email Joyce@ggcgames.com / joyce@saga1001.com (alternate minyajing@gmail.com), WeChat 17701087579, Telegram @joyceggc. See the full verified profile and site links above.
 
 **Do not use `net profit` as an automatic translation of the reported `net` figures.** The historical US$100m+ single-day peak supplied in the latest first-party description is preserved in the internal metric register pending product, currency and accounting-basis identification. This is not a reason to delete verified role ownership or all other scale data.
 
