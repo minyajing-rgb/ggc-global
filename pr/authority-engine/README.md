@@ -1,5 +1,12 @@
 # Joyce Authority Engine
 
+## 2026-10-12 — Flagship Authority OS
+
+All Joyce personal media, speaker, awards, industry-influence and authored content must first read [Joyce Flagship Authority OS Skill](../../skills/joyce-flagship-authority-os/SKILL.md) and [Joyce Career/Title Source](../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md). Lead with **0→1 flagship builds, high-stakes turnarounds, and commercial/data/global-publishing operating systems**, then concrete scale and the China Machine Press book. Produce reusable three-case cards/diagrams and substantive analyses rather than generic visibility posts. Update case and talk provenance before publishing, keep PR application status truthful and always respect outreach/financial approvals.
+
+---
+
+
 Version: 2026-10-03-v2
 
 Purpose: turn Joyce's verified operating experience and current GGC work into repeatable **research → point of view → media → stage → distribution → authority → business conversation**.
