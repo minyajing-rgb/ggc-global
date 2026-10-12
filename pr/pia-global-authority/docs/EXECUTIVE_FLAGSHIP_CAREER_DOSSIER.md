@@ -1,4 +1,17 @@
 # JOYCE MI — Flagship Commercial Scale & Category Leadership
+
+## 2026-10-12 PRECISE OWNERSHIP AND COMMERCIAL METRICS (supersedes earlier coarse cases)
+
+**External name Joyce; standalone PR bio has NO CTA.** Canonical [Joyce flagship role/scale master](../../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md).
+
+**Zynga (PM/Lead Producer)** — **led CityVille's Tencent edition, FarmVille's Chinese edition, Bubble/Ruby/Slingo global main products**. These were taken to platform/category No.1 positions under her operating leadership (first-party career account). Reported historic **US$5M–20M monthly net per title**, definition of `net` pending.
+
+**Gameloft (Head of Asian Operations)** — **led global Order & Chaos and Heroes of Order & Chaos; China-market Minion Rush**; 10+ studios, 500+ cross-functional collaborators; reported **€10M–30M monthly net per flagship title, €50M monthly peak**; use `net` without presuming audited profit.
+
+**Huogu (Product Director)** — owned Wuxia Q Zhuan's planning, economy/revenue model, launch and monetization; **RMB60M monthly gross bookings, >RMB100M peak**; not net profit.
+
+Historical five 0→1, dozens 1→10, distinct 2× and up to 10× revenue mandates, and company founding/acquisition/listing claims stay scoped by project/company. The additional user-reported `Zynga single-day >US$100M` is preserved as **UNIT_SCOPE_TO_CONFIRM**, NOT a verified public one-title daily net result. Do not name old teams/titles as nearly cancelled without a matching before-state record. Never substitute a D1 7pp detail for flagship commercial outcomes.
+
 Updated 2026-10-11 | Canonical PR / speaker / awards / international executive storyline
 
 ## 2026-10-11 outcome-first correction
