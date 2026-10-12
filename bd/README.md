@@ -1,8 +1,15 @@
 # GGC BD Workspace
 
+## 2026-10-12 SOURCE OF TRUTH — Joyce role mapping / no CTA
+
+[**JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md**](../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md) is the upstream factual master. The old bilingual filename [GGC_Executive_Intro_Bilingual_v2.md](GGC_Executive_Intro_Bilingual_v2.md) now contains **v5** English and Chinese bios; [CN email](GGC_Pitch_Email_Full_CN.md) / [EN email](GGC_Pitch_Email_Full_EN.md) also contain v5. These files have been updated to reflect **Joyce's actual project ownership**: Zynga CityVille Tencent edition, FarmVille Chinese edition, Bubble/Ruby/Slingo global; Gameloft worldwide Order & Chaos/Heroes of Order & Chaos, China Minion Rush; Huogu Wuxia Q Zhuan product director. Historic monthly net report US$5M–20M / €10M–30M (EUR peak €50M) and Wuxia RMB60M monthly gross / >RMB100M peak are **separate title/region/accounting claims**.
+
+**Never reduce Joyce to "participated", "helped", or the 7pp retention micro-case**. Use **Joyce only** as professional identity. A biography is **not** a sales email, so CTA/phone/WeChat and meeting invitations must **not** be filled by default. This correction is about collateral; no outreach or website production deploy is authorized by it.
+
+
 ## 最新对外高管介绍（中英双语、已核链接）
 
-- [中文/English 公共母稿 v2](GGC_Executive_Intro_Bilingual_v2.md)：LinkedIn、GGC Business、Why Joyce、GGC AI SaaS Lab、机械工业出版社著作链接，以及长版PPT附件规则。
+- [中文/English 公共母稿 v5](GGC_Executive_Intro_Bilingual_v2.md)：LinkedIn、GGC Business、Why Joyce、GGC AI SaaS Lab、机械工业出版社著作链接，以及长版PPT附件规则。
 - [中文实际邮件稿](GGC_Pitch_Email_Full_CN.md) · [English actual email](GGC_Pitch_Email_Full_EN.md)：已按友好建立创始人关系与战略合作口径重写，不再按旧版硬卖百万年框。
 - **长版Deck**：Library 28页视觉PDF已导入用户Canva账号供内部审阅，匿名访问仍需登录；未公开前邮件不能放私有Canva或ChatGPT `sandbox:` URL。见私有 `GGC-FA/ops/bd/strategy/2026-10-10_BILINGUAL_PR_LINKS_AND_DECK_ASSET_REGISTER_v1.md`。
 - 书籍作者、企业经历为职业PR背书；所有具体ROI/利润仍遵循按项目/可公开证据规则。
