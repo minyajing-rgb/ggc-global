@@ -6,10 +6,31 @@ description: >
   partnership outreach. Use before drafting or approving any outward-facing copy
   about Joyce's multi-category track record, operating ability, AI-native work or
   GGC commercial value.
-version: 1.1
+version: 1.3
 ---
 
 # Joyce PR & BD Positioning System
+
+## v1.3 — 2026-10-12 Joyce product-ownership source of truth / 姓名与主责
+
+**READ FIRST:** [JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md](../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md). It supersedes earlier generic/weak biographies, older evidence snippets, deck text, and v1.1/v1.2 wording whenever these conflict.
+
+**External name**: **Joyce**, only. Do not automatically add Chinese legal name or expand to Joyce Mi. The book's Chinese byline 艾小米 may be shown only as a publication credit. For standalone executive/media/speaker bios, do not auto-add **CTA**, WeChat, telephone, meeting request or "book a call" paragraphs.
+
+**Explicit leadership/product mapping from Joyce's latest correction:**
+- **Zynga — PM / Lead Producer**: Joyce directly owned **CityVille Tencent edition** and **FarmVille Chinese edition**, plus the **global lead products Bubble, Ruby and Slingo**. These were led into **No.1 standing on their respective platforms/categories at the time**, not merely attended as already successful flagships. Reported individual-title historical **monthly net US$5M–20M**, accounting meaning of `net` pending; do not relabel as net profit.
+- **Gameloft — Head of Asian Operations**: Joyce directly owned the **global operating work on Order & Chaos and Heroes of Order & Chaos**, and **Minion Rush's China operations**; more than 10 studios and 500+ cross-functional collaborators. Reported historic single-title **monthly net €10M–30M**, monthly peak €50M, `net` not independently defined as audited profit.
+- **Huogu — Product Director**: Joyce directly led Wuxia Q Zhuan's planning, game economy/revenue model, launch and monetization; product historical **monthly gross bookings ≈RMB60M, peak >RMB100M**. This is gross revenue, not net profit.
+- Broader: five 0→1, dozens 1→10, separate doubling and 10× revenue projects; old CV ties 10× to building an advertising/publishing platform. Founder-side acquisitions, reorganizations, and regional equity-market listing are distinct legal/operational events.
+
+**One exceptional high-variance number**: Joyce's supplied Zynga `single-day peak >US$100M` must be retained verbatim in the private source and flagged `UNIT_SCOPE_TO_CONFIRM`. Do not silently change currency, mix it with monthly values, or publish it as a corroborated per-title daily result before title/unit/period are pinned down. This does not prevent publishing the other correctly bounded first-party history.
+
+**Copy priority:** lead with what Joyce personally built and took to No.1 and commercial scale. Small CityVille D1+7pp belongs in detailed KPI appendices only. Do not describe Joyce as passively "参与" flagship titles; do not imply she owned Minion Rush globally or every corporate bottom-line. Industry standard influence: name DAU/Revenue Model, K-factor, platform monetization, spec/process and regional cross-team adoption, not ungrounded statutory standards.
+
+**Communication permission unchanged**: biographies do not automatically authorize founder/business cold outreach, media PR submissions or contacts. Old company STOP/no-reply controls still apply to actual sends.
+
+---
+
 ## v1.2 — Outcome-led transformation narrative (2026-10-11)
 
 **External writing rule:** Joyce's differentiator is that **under her operating leadership, multiple game products reached flagship status and global/platform/vertical category-leading positions**. She did not merely inherit or oversee already-successful flagship products. However, PR, speaker bios, award submissions, media outreach and employer/partner mentions must never criticize the inherited project or previous company/management by calling it distressed, failing, nearly shut down, poorly run or rescued. Lead with **the achieved result and the system Joyce led**, not negative before-state descriptions. Historical operating contexts may remain in restricted internal project notes. Respect past employers and collaborators. Keep short pitch paragraphs concise.
