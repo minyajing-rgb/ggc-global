@@ -1,13 +1,5 @@
 ---
 
-## v1.5 — Flagship Authority OS (2026-10-12)
-
-**First read the canonical [Joyce Flagship Authority OS](../joyce-flagship-authority-os/SKILL.md)** for personal brand, conference, author, CEO, partner or investor work. Its priority hierarchy is **0→1 category leadership + high-stakes turnaround + commercial/data/organization operating system**. Three selected flagship case narratives should be turned into reusable, permission-safe personal authority assets, not scattered generic success stories. For business contacts, also retain the user-approved GGC three-track offering (operating Copilot, joint greenlight/CPS, own overseas distribution). Preserve the exact role/region/metric and Joyce-only name mapping in [flagship v5 master](../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md). Do not publish private-life/compensation weakness framing; do not downgrade Joyce to a general ops consultant.
-
-For senior executives and industrial funds, connect one business decision to a relevant **flagship operating action and measurable result**; for conferences, offer a real practitioner model; for VC/PE, show DD and post-investment operating systems. A signature book, flagship case diagrams, public byline, keynote and consented founder reviews are long-term assets. This does not authorize any external outreach/award submissions, personal data exchange or spending.
-
----
-
 name: joyce-pr-bd-positioning
 description: >
   Canonical positioning and claim-control skill for Joyce/GGC PR, media, awards,
@@ -19,6 +11,15 @@ version: 1.5
 ---
 
 # Joyce PR & BD Positioning System
+
+## v1.5 — Flagship Authority OS (2026-10-12)
+
+**First read the canonical [Joyce Flagship Authority OS](../joyce-flagship-authority-os/SKILL.md)** for personal brand, conference, author, CEO, partner or investor work. Its priority hierarchy is **0→1 category leadership + high-stakes turnaround + commercial/data/organization operating system**. Three selected flagship case narratives should be turned into reusable, permission-safe personal authority assets, not scattered generic success stories. For business contacts, also retain the user-approved GGC three-track offering (operating Copilot, joint greenlight/CPS, own overseas distribution). Preserve the exact role/region/metric and Joyce-only name mapping in [flagship v5 master](../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md). Do not publish private-life/compensation weakness framing; do not downgrade Joyce to a general ops consultant.
+
+For senior executives and industrial funds, connect one business decision to a relevant **flagship operating action and measurable result**; for conferences, offer a real practitioner model; for VC/PE, show DD and post-investment operating systems. A signature book, flagship case diagrams, public byline, keynote and consented founder reviews are long-term assets. This does not authorize any external outreach/award submissions, personal data exchange or spending.
+
+---
+
 
 ## v1.4 — Explicit business introduction: three GGC services and complete contact (2026-10-12)
 
