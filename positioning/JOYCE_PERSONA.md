@@ -1,5 +1,14 @@
 # Joyce / GGC 人设与商务证据
 
+## 2026-10-12 最新个人定位：精确产品主责，不填CTA
+
+**唯一上位事实源**：[JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md](JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md)。对外只使用 **Joyce**；书的艾小米署名是著作信息，不作为日常对外姓名。个人简介不自动带个人手机、微信或预约会议CTA。
+
+**Zynga：**Joyce担任PM/Lead Producer，主责 **CityVille腾讯版、FarmVille中文版、Bubble/Ruby/Slingo全球主产品**；本人说明全部带到当时对应平台全球第一，旗舰单款历史月度 `net` **US$5M–20M**。**Gameloft：**任亚洲区运营负责人，主责**全球Order & Chaos / Heroes of Order & Chaos、Minion Rush中国区**，对应单款月度 `net` **€10M–30M、月峰值€50M**。**Huogu产品总监：**主导《武侠Q传》产品规划、经济与商业化，月流水人民币6000万、峰值破亿（流水不是利润）。
+
+这组最新职责与财务单位优先于下方旧的「参与头部项目」或 D1 +7pp 描述；后者只作历史技术案例。单日峰值>US$100M为Joyce用户陈述、与旧简历原始指标口径存在歧义，已在总账保留待核，不自动生成公示的单日指标。平台第一、月度net和净利润不自动互换。跨项目历史2倍/10倍增收与年度利润贡献分别标注。不把历史区域股权市场挂牌写成北交所IPO。
+
+
 更新：2026-10-03。定位按 Joyce 本次要求及已确认表达方向整理；履历属于本人提供或本人公开自述，不冒充独立审计。此文件是公开可复用口径，具体客户、合同、私有案例另存。
 
 所有 Joyce/GGC 的 PR、媒体、演讲、奖项、官网、BD Pitch 与高管介绍，先使用 [Joyce PR / BD Positioning Skill](../skills/joyce-pr-bd-positioning/SKILL.md) 确定受众、层级、叙事和证据口径。证据风险不能通过把 Joyce 降格成“普通顾问”或功能清单来解决。
