@@ -5,10 +5,14 @@ description: >
   setting wave-level outreach caps, measuring stage conversion, comparing market benchmarks
   with GGC observed data, diagnosing funnel leaks and scaling only after each stage passes
   evidence gates. Applies to B2B client sales and FA investor development with separate funnels.
-version: 1.3
+version: 1.4
 ---
 
 # GGC Incremental Commercial Engine
+
+## v1.4 — Joyce biography is distinct from a sales CTA
+
+Reference: `../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md` for up-to-date product ownership, revenue units, English and Chinese executive bios. Use Joyce as the public name. A generic executive profile needs no CTA; reserve next-step prompts for independently authorized account-specific correspondence. Keep company history, contact restrictions and quantitative pipeline tracking unchanged.
 
 ## v1.3 — Match 78% authorization and result-first wave audit (2026-10-10)
 
