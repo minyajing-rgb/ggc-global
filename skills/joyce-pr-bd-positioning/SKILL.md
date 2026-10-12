@@ -6,10 +6,24 @@ description: >
   partnership outreach. Use before drafting or approving any outward-facing copy
   about Joyce's multi-category track record, operating ability, AI-native work or
   GGC commercial value.
-version: 1.3
+version: 1.4
 ---
 
 # Joyce PR & BD Positioning System
+
+## v1.4 — Explicit business introduction: three GGC services and complete contact (2026-10-12)
+
+**Current user instruction supersedes the general no-CTA stance for the GGC BUSINESS INTRODUCTION only.** Generic award/media/speaker biographies must not have unsolicited meeting asks, but a user-requested business introduction DOES end with a soft, peer-level "let's get to know each other, exchange projects, and see where future collaboration might fit" plus all actual public contact methods. This is not permission to send.
+
+Always distinguish GGC's **three** current cooperation modes, in this order: **(1) Project Copilot / principal-led operating companionship** (quarter/annual decisions and execution); **(2) co-greenlit/co-developed game and AI projects, with negotiated CPS (cost-per-sale) and/or revenue-sharing**; **(3) building GGC's own overseas audience and distribution assets**, using owned content, brands, KOL/creator networks, social channels and AI SaaS. Third is in development—do not inflate audience or imply already owned channels.
+
+Required BUSINESS-INTRO contact resource footer: **Joyce@ggcgames.com** (on GGC site), **joyce@saga1001.com** (user-supplied), **minyajing@gmail.com** (on GGC business site); WeChat **17701087579**; Telegram **@joyceggc**; LinkedIn https://www.linkedin.com/in/minyajing/ ; GGC https://ggcgames.com/ ; business https://biz.ggcgames.com/ ; Why Joyce https://biz.ggcgames.com/joyce/ ; AI SaaS https://biz.ggcgames.com/sme/ ; OpsGo https://opsgo.ggcgames.com/ ; book https://ebooks.cmpbook.com/detail?id=26372 . For very short first emails prioritize the company email and the core four links without hiding the book.
+
+See public source `../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md` and updated bilingual `../../bd/GGC_Executive_Intro_Bilingual_v2.md` (content v6). Preserve exact Zynga/Gameloft role/product/region/metric mapping and public name Joyce only. Book's author byline 艾小米 may remain as publication credit. **Do not confuse 'user asks business profile to include contacts' with 'permission for unscreened outbound email'.**
+
+
+---
+
 
 ## v1.3 — 2026-10-12 Joyce product-ownership source of truth / 姓名与主责
 
