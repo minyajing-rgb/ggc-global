@@ -48,14 +48,14 @@
 | 阶段 | 真实岗位/范围 | 实绩及系统建设重点 |
 |---|---|---|
 | Microsoft / Tencent 及平台业务经历 | 产品、数据、社交游戏与平台商业化相关经验 | 腾讯平台游戏与社交传播、QQ空间/开心网关联数据模型、广点通商业化实践；不要未经确认把所有平台成果误归某一家公司。 |
-| Zynga | **Cross-product business leadership (coordinating multiple PMs and producers; formal title pending verification)**；主责CityVille腾讯版、FarmVille中文版、Bubble、Ruby、Slingo相关全球产品经营 | 直接承担旗舰产品及商业运营职责；DAU/Revenue、K-factor、实验和运营方法的亚太实践/推广；用户自述平台/品类第一的历史经历需要逐产品/年份映射。 |
+| Zynga | **Led and coordinated multiple Zynga product managers and producers (formal job title not stated)**；主责CityVille腾讯版、FarmVille中文版、Bubble、Ruby、Slingo相关全球产品经营 | 直接承担旗舰产品及商业运营职责；DAU/Revenue、K-factor、实验和运营方法的亚太实践/推广；用户自述平台/品类第一的历史经历需要逐产品/年份映射。 |
 | Gameloft | **Head of Asian Operations**；全球负责Order & Chaos、Heroes of Order & Chaos，**中国区**负责Minion Rush | 10余工作室、500+跨职能协作网络，跨市场长期产品、商业化、数据平台和运营组织；500+不是全部直属。 |
 | 火谷/《武侠Q传》 | **产品总监**；产品规划、收入及数据模型、上线与商业化 | 历史海内外月流水约6000万元人民币，峰值超1亿元（**流水不是净利润**）。 |
 | 创业、发行与集团 | 从零建立研发/发行组织，长期经营与项目救盘，发行资产被收购及整合 | 研发公司曾在**北京区域性股权市场挂牌**，不是“北交所IPO”；经历发行业务被收购及整合。 |
 | 2020至今：GGC | 创始人、产品与经营Principal | 全球游戏经营Copilot、新品孵化与联合立项/发行；自有Sims/Arcade/Casino及AI身心灵/消费产品；AI Traffic与游戏、媒体/商业情报SaaS部分功能研发和验证中。 |
 
 ## 5. 投资人/董事会 Executive Bio（中文约200字）
-Joyce是GGC（Global Game Copilot）创始人、《游戏运营与出海实战》作者，曾在Zynga带领多位产品经理与制作人推进旗舰经营，曾任Gameloft亚洲区运营负责人及游戏公司产品总监。她直接负责过CityVille腾讯版、FarmVille中文版、Bubble、Ruby、Slingo、《混沌与秩序》系列等旗舰项目相关产品经营和商业化，管理过10余跨国工作室、500+跨职能协作网络，经历5款0→1产品与数十款1→10的规模经营。她的专业壁垒在于三者结合：关键项目重整与成熟产品再商业化、旗舰产品全生命周期经营、以及DAU/收入模型、K-factor、数据和平台商业化的底层体系建设。她也有研发发行创业、区域股权市场挂牌、发行业务收购和集团整合经验。目前通过GGC开展项目Copilot、联合立项与CPS/收益合作、海外内容与AI分发工具的构建。
+Joyce是GGC（Global Game Copilot）创始人、《游戏运营与出海实战》作者，曾在Zynga带领多位产品经理与制作人推进旗舰经营，曾任Gameloft亚洲区运营负责人及游戏公司产品总监。她在统筹多个产品经理与制作人的同时，直接负责过CityVille腾讯版、FarmVille中文版、Bubble、Ruby、Slingo、《混沌与秩序》系列等旗舰项目相关产品经营和商业化，管理过10余跨国工作室、500+跨职能协作网络，经历5款0→1产品与数十款1→10的规模经营。她的专业壁垒在于三者结合：关键项目重整与成熟产品再商业化、旗舰产品全生命周期经营、以及DAU/收入模型、K-factor、数据和平台商业化的底层体系建设。她也有研发发行创业、区域股权市场挂牌、发行业务收购和集团整合经验。目前通过GGC开展项目Copilot、联合立项与CPS/收益合作、海外内容与AI分发工具的构建。
 
 ## 6. 投资人/产业高管口述重点（不是投资广告）
 - 首先说可以担当**投资标的/业务部门关键经营决策人**：看项目是否值得投、何时绿灯/止损、怎样从研发变成能稳定营利的长期产品。
