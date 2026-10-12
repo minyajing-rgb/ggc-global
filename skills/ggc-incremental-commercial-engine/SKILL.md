@@ -5,10 +5,18 @@ description: >
   setting wave-level outreach caps, measuring stage conversion, comparing market benchmarks
   with GGC observed data, diagnosing funnel leaks and scaling only after each stage passes
   evidence gates. Applies to B2B client sales and FA investor development with separate funnels.
-version: 1.4
+version: 1.5
 ---
 
 # GGC Incremental Commercial Engine
+
+## v1.5 — Authority-qualified buyer messaging, distinct from raw contact metrics (2026-10-12)
+
+For GGC executive relationship and capital-conversion analysis, reference [Joyce Flagship Authority OS](../joyce-flagship-authority-os/SKILL.md). The three reusable proof stories (0→1 category leader, rescue/turnaround, and operating-system architecture) should be linked to a **specific qualified account thesis and budget owner**, rather than being copied into every message. Value from a verified biography, accepted speaking opportunity, a connected executive, a commercially qualified buyer and collected cash must be tracked as **separate funnel events**.
+
+Current GGC offers remain **Project Copilot**, **joint greenlight with contract-specific CPS/revenue sharing**, and **owned overseas audience/distribution**. Influence/industry graph may contain studios, funds, publishers and creators who are *not* paying consultants. Neither this authority program nor its six-month roadmap authorizes email, spending, or relaxation of history/no-reply/company STOP filters.
+
+
 
 ## v1.4 — Joyce biography is distinct from a sales CTA
 
