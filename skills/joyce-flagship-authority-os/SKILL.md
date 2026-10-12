@@ -111,7 +111,7 @@ Maintain GGC's three tracks in parallel as already defined. For the **next visib
 
 Two internal strategic risks in the supplied opinion piece:
 1. Historic commercial wins often belong to employer-owned products; the operational solution is **person-owned permission-safe case narratives, book/public talks, repeatable diagrams and attributed current work**, not disclosing confidential data or taking full credit for every department.
-2. Some audiences may question the recency or scope of current work; emphasize **documented recent client/AI product experiments, active GGC operating initiatives and verifiable current execution**. **Do not include childcare, family responsibilities, compensation complaints or claims of an unverified resume gap in a public Skill, CEO biography, applicant package, or outreach email.** These are private narrative-planning concerns, not established negative facts.
+2. Some audiences may question the recency or scope of current work; emphasize **documented recent client/AI product experiments, active GGC operating initiatives and verifiable current execution**. Avoid private-life explanations, unsupported career-gap claims or historical compensation grievances in public biographies, award pitches and CEO outreach. These are not relevant commercial credentials.
 
 ## 7. Workflow guardrails / reusable across conversations
 
