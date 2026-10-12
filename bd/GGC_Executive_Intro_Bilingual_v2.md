@@ -32,7 +32,7 @@
 
 过去15年以上，我带领多款旗舰游戏从产品、经营到商业化和全球发行做到当时所在平台或品类的全球第一，**不是简单地“参与过已经成功的项目”**。
 
-在 **Zynga** 担任**跨产品业务统筹（带领多位产品经理及制作人）**，**负责 CityVille 腾讯版、FarmVille 中文版，以及 Bubble、Ruby、Slingo 等全球主产品**；在亚太团队建立和推广 DAU、Revenue Model、K-factor、用户实验和运营规范。这一时期的相关旗舰**单款历史月度 net 约500万至2000万美元**。
+在 **Zynga** 带领、统筹多位产品经理及制作人，**负责 CityVille 腾讯版、FarmVille 中文版，以及 Bubble、Ruby、Slingo 等全球主产品**；在亚太团队建立和推广 DAU、Revenue Model、K-factor、用户实验和运营规范。这一时期的相关旗舰**单款历史月度 net 约500万至2000万美元**。
 
 在 **Gameloft** 担任**亚洲区运营负责人**，负责**《混沌与秩序》《混沌与秩序之英雄战歌》的全球业务，以及《小黄人快跑》的中国区业务**；统筹十余个工作室和500多人跨职能协作，相关旗舰**单款历史月度 net 约1000万至3000万欧元，月峰值约5000万欧元**。
 
@@ -67,7 +67,7 @@
 
 **Joyce**, founder of **GGC (Global Game Copilot)** and author of *Game Operations and Global Expansion* (China Machine Press), has spent over 15 years **leading flagship games into global, platform and category-leading positions**—not merely participating in products that were already successful.
 
-At **Zynga**, she served as **Cross-product business leadership (coordinating multiple PMs and producers; formal title pending verification)**, owning the product and commercial operating remit for **the Tencent edition of CityVille, the Chinese edition of FarmVille and global titles Bubble, Ruby and Slingo**. She established and transferred DAU, revenue forecasting, K-factor, experimentation and operating methods for Asian teams. Her historical reported individual-title scale for the portfolio was **US$5M–20M in monthly net results**.
+At **Zynga**, she led and coordinated several product managers and producers, with product and commercial operating responsibility for **the Tencent edition of CityVille, the Chinese edition of FarmVille and global titles Bubble, Ruby and Slingo**. She established and transferred DAU, revenue forecasting, K-factor, experimentation and operating methods for Asian teams. Her historical reported individual-title scale for the portfolio was **US$5M–20M in monthly net results**.
 
 At **Gameloft**, as **Head of Asian Operations**, she led the **global operations of Order & Chaos and Heroes of Order & Chaos, and Minion Rush in China**, coordinating over ten studios and a 500-plus cross-functional network. Her reported historical individual-title scale was **€10M–30M in monthly net results, with monthly peaks reaching €50M**.
 
