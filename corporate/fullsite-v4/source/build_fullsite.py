@@ -161,7 +161,7 @@ def product_detail(i):
 
 def ventures():
     old=BASE_RENDER['ventures']();rest=old[old.index('<section class="section'):]
-    v=sheet(x('共同做成一个项目。','Build something together.'),[x('好的方向与验证条件','A strong thesis and validation gates'),x('互补的团队与资源','Complementary teams and resources'),x('明确的投入、职责与权益','Explicit contributions, responsibilities and rights')],'CO-BUILD / GGC')
+    v=sheet(x('共同做成一个项目。','Build something together.'),[x('好的方向与验证条件','A strong thesis and validation gates'),x('互补的团队与资源','Complementary teams and resources'),x('明确的投入、职责与权益','Explicit contributions, roles and rights')],'CO-BUILD / VENTURES')
     return hero('CO-BUILD / VENTURES',x('有好的方向，<br>也要有做成的组合。','The right idea.<br>The right team to build it.'),x('从联合立项到MVP、研发、发行与产业协作。找到互补优势，共同推进下一步。','From joint greenlight to MVP, development, publishing and strategic collaboration. Bring complementary strengths to the next milestone.'),v,btn(x('提交项目讨论','Discuss a project'),'contact.html?track=ventures','06'))+rest.replace(b.close(),'')+section('PARTNERSHIP FLOW',x('合作不是一句话，而是一条路径。','A partnership needs a working path.'),flow([('洞察','Insight','发现真实需求与机会。','Identify the real need.'),('共创','Co-create','找到互补的人与资源。','Bring complementary strengths.'),('验证','Validate','用产品和数据验证价值。','Test value with product and data.'),('推进','Build','明确分工和后续里程碑。','Agree roles and milestones.')]),kind='alt')+b.close()
 
 
