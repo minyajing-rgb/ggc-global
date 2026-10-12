@@ -4,10 +4,26 @@ description: >
   Account-based business development for Joyce/GGC annual client acquisition.
   Use for sourcing, qualifying, penetrating, contacting and converting Chinese-led
   principal-side game companies into high-value GGC operating, publishing and commercial-operating engagements.
-version: 2.8
+version: 2.9
 ---
 
 # GGC Annual Client Development — Account-Based BD Skill
+
+## v2.9 — 2026-10-12 precise role, historic revenue scale, and no default bio CTA
+
+Read [Joyce flagship master v5](../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md) **before** creating any account-specific Chinese or English introductory copy. Effective precedence: user's latest explicit project mapping and the v5 master > older generic message snippets > v2.8 annual BD guidance when conflicts occur.
+
+- **Use Joyce only**; omit Chinese legal name and generic `Joyce Mi` expansion. A book byline is not an alternate personal name to use in email salutations.
+- **Zynga**: her PM/Lead Producer responsibilities **CityVille Tencent edition, FarmVille Chinese edition, Bubble/Ruby/Slingo global main products**; category/platform No.1 achieved under her leadership. Historical reported monthly single-title `net` US$5M–20M; never convert `net` to audited profit.
+- **Gameloft**: Head of Asian Operations on **global Order & Chaos / Heroes of Order & Chaos; China Minion Rush**; 10+ studios, 500+ cross-functional network. Historical monthly single-title `net` €10M–30M, peak monthly €50M; `net` accounting meaning still to be specified.
+- **Huogu**: Product Director with specific lead scope on `Wuxia Q Zhuan`; historic monthly **RMB60M gross game bookings, peak >RMB100M**, not a monthly net-profit figure.
+- 5 game projects built 0→1, dozens scaled 1→10, 2× and up-to-10× revenue improvement across **different** projects, earlier business acquisitions and company formation. Do not replace these with a D1 retention vignette.
+- Single-day US$100M+ peak reported by user has `UNIT_SCOPE_TO_CONFIRM` and must remain internal until mapped; don't invent the title or convert to another metric.
+- **Generic bio = NO CTA by default**. A user-authorized, recipient-specific outgoing business message may separately have a single context-appropriate call to action, but never inject it into generic profile, speaker bio, investment biography, corporate PR descriptions.
+- All real outreach still obeys the currently effective buyer screening, hard STOP/no-reply HOLD, historical mail matching, legal route and actual user-approved/current narrow-authorization send gates. The user request to sync bios is **not** consent to start or resume sending.
+
+---
+
 
 ## v2.8 — Joyce's flagship-led CEO pitch and turnaround proof (2026-10-11)
 
