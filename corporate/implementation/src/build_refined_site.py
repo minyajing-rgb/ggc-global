@@ -65,6 +65,12 @@ def main():
     assets=out/'assets';assets.mkdir(parents=True,exist_ok=True)
     for name in ['buttons.css','site.css','app.js','fidelity.css']:shutil.copyfile(SRC/name,assets/name)
     shutil.copyfile(SRC/'ggc-logo-refined.svg',assets/'ggc-logo.svg')
+    # Load real requested weights on devices without local design fonts.
+    # Only the external CSS reference is emitted; no font binaries are distributed.
+    font_url='https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Noto+Sans+SC:wght@400;500;600;700;800;900&display=swap'
+    style=assets/'fidelity.css'
+    css=style.read_text(encoding='utf-8').replace("'Noto Sans CJK SC'","'Noto Sans SC','Noto Sans CJK SC'")
+    style.write_text('@import url("'+font_url+'");\n'+css,encoding='utf-8')
     base.memo=refined_memo
     base.RENDER['index']=refined_home
     for locale in ['zh','en']:
