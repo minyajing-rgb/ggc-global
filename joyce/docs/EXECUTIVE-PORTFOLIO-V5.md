@@ -1,5 +1,10 @@
 # Joyce / GGC — Executive Portfolio & Annual Partnership
 
+## 2026-10-12 — Source-of-truth career profile update
+
+See `../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md` for product-by-product flagship operating responsibility and precise geographic scope. Joyce led **Zynga CityVille Tencent edition, FarmVille Chinese edition, global Bubble, Ruby, Slingo** and **Gameloft global Order & Chaos/Heroes of Order & Chaos, China Minion Rush**. User reports single-title historic monthly net US$5M–20M / €10M–30M (EUR monthly peak €50M); keep net as reported rather than automatically as net profit. Wuxia Q Zhuan Product Director: RMB60M/month historical gross, >RMB100M peak. The professional name is Joyce, no legal Chinese name; biography should not include a default sales CTA. Supersedes old generic executive summary text below.
+
+
 ## 2026-10-11 Flagship leadership positioning override
 
 **JOYCE — the operator who led flagship games to category leadership.** Her career is **not** a passive list of titles she “participated in.” As Zynga PM/Lead Producer, Gameloft Head of Asian Operations, a game Product Director and a serial Founder/CEO, she has led five 0→1 builds and dozens of 1→10 scale-ups. Across different mandates, Joyce directly reports revenue doubling and up to **10x revenue improvement**; her historical CV specifically attributes a tenfold revenue increase to a publishing/advertising platform built from scratch. She also led high-stakes commercial rebuilds, new publishing operations, regional business architecture and company/portfolio restructurings.
