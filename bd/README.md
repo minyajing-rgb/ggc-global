@@ -1,5 +1,14 @@
 # GGC BD Workspace
 
+## 2026-10-12 — Flagship authority and qualified executive development
+
+**[Joyce Flagship Authority OS Skill](../skills/joyce-flagship-authority-os/SKILL.md)** is the shared cross-conversation baseline for building genuine brand assets (anonymized 0→1 flagship, turnaround, operating-system cases; technical writing; earned authority; qualified C-suite and fund relationships). Use it with [Joyce PR/BD positioning](../skills/joyce-pr-bd-positioning/SKILL.md), [Category Operating Architect](../skills/joyce-category-operating-architect/SKILL.md), [GGC Positioning to Close](../skills/ggc-positioning-to-close/SKILL.md), and [Annual Client BD](../skills/ggc-annual-client-development/SKILL.md).
+
+Do not treat a listed company, conference attendee, personal connection or investor as a paid-consulting client before economic/role/need gates pass. The latest GGC offer remains three tracks, and existing no-reply HOLD/STOP/no-unsolicited-send rules remain in force. This source lives in GitHub for agents **in other conversations to read**; previous transcripts are not rewritten by this commit.
+
+---
+
+
 ## 2026-10-12 用户确认的 GGC 对外合作三项主线
 
 **1. Project Copilot / 长期经营陪跑**：Joyce与甲方团队按项目/季度/年度共同做战略判断、立项、产品运营、全球发行、商业化与经营体系落地，承担双方约定的持续协作任务，不止是一次咨询报告。
