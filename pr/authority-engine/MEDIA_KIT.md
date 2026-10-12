@@ -1,5 +1,16 @@
 # Joyce / GGC — Media Kit
 
+## 2026-10-12 GGC current three-business architecture (latest founder statement)
+
+**(1) Project Copilot / embedded operating partnership** — product/category strategy, greenlighting, global publishing, self-publishing, monetization, LiveOps and actual execution alongside the client's team, rather than stand-alone advice.
+
+**(2) Joint greenlighting + project-specific CPS / revenue sharing** — GGC's own game and AI consumer product pipeline, co-development and publishing with selected studios/partners; rights, budgets, ownership and performance settlement must be negotiated separately.
+
+**(3) Building GGC's owned overseas audience and distribution network** — proprietary/global content, creator and KOL relationships, social/community reach and AI SaaS-supported product distribution. This network is being developed and must not be represented as an already verified traffic asset at scale.
+
+The business networking version can close with **Joyce's explicit friendly invitation** to founders, CEOs, operators and investors to connect and compare real projects. Use company email Joyce@ggcgames.com, SAGA email joyce@saga1001.com, Gmail alternate minyajing@gmail.com, WeChat 17701087579, Telegram @joyceggc, LinkedIn/website/book links from the canonical [Joyce flagship master](../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md). **A conference speaker abstract or editorial quote needs no generic sales CTA by default.** This note supplements career evidence and does not grant permission to send anything.
+
+
 ## 2026-10-12 CURRENT MEDIA BIO — Joyce's direct flagship leadership (supersedes older short/extended bios)
 
 **Joyce | GGC Founder · Global Flagship Game Operator · Industry Operating-System Architect · Published Author.** As Zynga PM/Lead Producer she led the **Tencent edition of CityVille, Chinese edition of FarmVille, and global products Bubble, Ruby and Slingo**, taking product businesses to No.1 positions within their respective historic platforms/categories. The historical single-title portfolio monthly `net` reported by Joyce is **US$5M–20M**. At Gameloft, as Head of Asian Operations, she led **global Order & Chaos and Heroes of Order & Chaos, and Minion Rush's China operations**, with historic single-title monthly `net` **€10M–30M** and a **€50M monthly peak**; she coordinated 10+ studios and a 500+ cross-functional network. She later led Wuxia Q Zhuan product/monetization work (gross bookings ≈RMB60M/month, peak >RMB100M). She has also founded development and publishing ventures, built five 0→1 products, scaled dozens of 1→10 businesses, and led high-stakes commercial upgrades and acquisitions.
