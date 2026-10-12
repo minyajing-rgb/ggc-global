@@ -1,4 +1,28 @@
 # JOYCE | FLAGSHIP OPERATOR — 项目主责、规模与中英文职业母稿
+
+## 2026-10-12｜新增最短最高效的业务定位（用于名片/开场/演讲；不覆盖逐项目主责事实）
+
+**一句话：** 我是Joyce，全球旗舰游戏操盘手、GGC创始人。擅长把处于关键去留节点或长期停滞的项目重构为全球品类标杆，也从0→1打造新旗舰、从1→10放大收入利润，并建立支撑长期经营的数据、商业化、全球发行与企业管理底层体系。
+
+**三个核心价值：救旗舰、造旗舰、造体系。**
+1. **救旗舰｜Turnaround**：接手困难或陷入停滞的产品，重构玩法/经济/产品节奏、发行策略、P&L与组织责任，重新进入盈利和头部竞争。用户历史确认多次有项目濒临关停；未对照具体IP前，对外讲匿名情境而非断言某具名IP曾被cancel。
+2. **造旗舰｜0→1 / 1→10**：5款0→1、数十款1→10、不同项目收入翻倍或最高10倍增长；从商业策略到立项、研发协同、上线、区域发行、长期LiveOps，不止单点买量。收入10倍对应原履历明确的“从0搭广告/发行平台”案例，避免误配其他具体IP。
+3. **造体系｜Operating Architecture**：在Zynga及亚太市场建立/应用DAU、Revenue Model、K-factor、社交传播、实验和经营框架；在腾讯Qzone/开心、广点通商业化及Gameloft跨工作室数据/经营体系中实践与推广，覆盖产品经济、平台商业化、组织/流程/数据架构。属于推动方法成为跨团队的早期经营规范，不无证据冒称政府法定行业标准。
+
+**主责型简历的四段骨架：**
+- **Zynga PM / Lead Producer**：主负责CityVille腾讯版、FarmVille中文版，Bubble/Ruby/Slingo全球主产品，主导相应产品/数据/收入与商业化决策；做到当时相应平台或细分品类第一，旗舰历史单款月度`net`为US$5M–20M（按用户原词，不翻译成审计净利润）。
+- **Gameloft亚洲运营负责人**：主负责全球Order & Chaos及Heroes of Order & Chaos、中国区Minion Rush；搭/改跨区版本/LiveOps/商业化经营体系，协同10+工作室、500+跨职能网络。用户历史对应单款月度`net` €10M–30M、月峰值€50M（`net`定义仍按原用户称谓）。
+- **Huogu产品总监**：主负责《武侠Q传》立项、收入/经济模型、商业化和发行，历史海内外月流水RMB60M、峰值RMB100M+（月流水非净利润）。
+- **Founder / CEO及企业经营**：0→1建设研发和发行公司/产品团队，平台与商业化10倍增收、复杂项目救盘、区域股权市场挂牌、发行业务被收购及后续集团经营；历史企业年增利润超RMB1bn为职业自述企业成果，而非个人分成或GGC现阶段营收。
+
+**当前GGC始终三块：** ①项目战略/经营Copilot（长期陪跑、CEO/COO/CMO经营共建）；②联合立项、开发和发行，按照具体项目讨论CPS/收入分成；③打造自有海外内容、KOL、媒体、社区、品牌和AI SaaS/消费产品的流量及分发生态。三块不可减成仅「咨询+产品」。
+
+**一段精简口述：** 我过去在Zynga和Gameloft带过全球旗舰产品，从重做濒临取消的业务、商业化规模放大到跨国研发发行系统都做过。五款0→1、数十款1→10，多个业务翻倍，曾把从零搭建的发行/广告平台收入做到10倍。我现在做GGC，跟企业一起做下一款旗舰和全球经营，也联合立项孵化游戏/AI产品，并建立自己的海外内容与分发生态。
+
+**Business links**：LinkedIn https://www.linkedin.com/in/minyajing/；GGC https://biz.ggcgames.com/；Why Joyce https://biz.ggcgames.com/joyce/；AI SaaS https://biz.ggcgames.com/sme/；机械工业出版社《游戏运营与出海实战》https://ebooks.cmpbook.com/detail?id=26372。
+
+**文案边界：** 个人职业介绍使用Joyce，无中文姓名；非用户当次明确要求不要自动附联络CTA；一款产品的流水、net、利润、不同项目倍数与企业年度总贡献不可混算。主负责与协同经验分开；不可把团队结果写成单人独揽。获客邮件的CTA以当前授权与STOP/HOLD规则为准。
+
 **2026-10-12 · 用户最新逐项目指定 · TOP PRIORITY OVER OLD BIO, DECK & PR SNIPPETS**
 **Audience:** CEO/Founder, institutional investor, strategic partner, media/speaker applications. **Scope:** biographical source, NOT authorization to send, post, submit or deploy.
 
