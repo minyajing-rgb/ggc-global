@@ -54,6 +54,7 @@ def static_checks(site,mode):
         check('social:'+mode+'/'+path,all(doc.select_one(sel) for sel in ['meta[property="og:title"]','meta[property="og:description"]','meta[property="og:locale"]','meta[name="twitter:card"]']))
         check('skip_target:'+mode+'/'+path,doc.select_one('main#main[tabindex="-1"]') is not None)
         for form in doc.select('form'):
+            check('notice_inside_form:'+mode+'/'+path,form.select_one('.p0-note') is not None)
             check('noscript_no_PII_names:'+mode+'/'+path,not form.select('input[name],select[name],textarea[name]'))
             check('noscript_disabled_submit:'+mode+'/'+path,all(b.has_attr('disabled') for b in form.select('button[type=submit]')))
         if key in ['contact','updates']:check('privacy_link_and_actual_state:'+mode+'/'+path,bool(doc.select_one('a[href="privacy.html"]')) and bool(doc.select_one('.p0-note')))
@@ -158,14 +159,14 @@ def browser_checks(preview,release):
                 if not args.offline:
                     load(loc,'contact',query='?service=S12');check('service_prefill:'+loc,'S12' in page.locator('#message').input_value());page.locator('[data-locale]').click();check('locale_referral:'+loc,'service=S12' in page.url)
                     load(loc,'index',query='?service=private-email&track=secrets&email=do-not-propagate');page.locator('[data-locale]').click();check('referral_allowlist:'+loc,'?' not in page.url)
-                nc=browser.new_context(java_script_enabled=False);np=nc.new_page();nc.on('request',req)
+                nc=browser.new_context(java_script_enabled=False,reduced_motion='reduce');np=nc.new_page();nc.on('request',req)
                 nc.route('https://fonts.googleapis.com/**',lambda r:r.fulfill(status=200,content_type='text/css',body=''))
                 if args.offline:np.set_content(inline(release,release/loc/'contact.html'))
                 else:np.goto(origin+'/'+loc+'/contact.html',wait_until='networkidle')
                 check('nojs_disabled:'+loc,np.locator('button[type=submit]').is_disabled());check('nojs_unnamed:'+loc,np.locator('form [name]').count()==0)
                 if not args.offline:
                     for k,v in {'name':'qa-private-token','email':'qa@example.com','company':'qa-private-token','message':'qa-private-token business question'}.items():np.locator('#'+k).fill(v)
-                    np.locator('[data-p0-name=consent]').check();before=np.url;np.locator('#email').press('Enter');np.wait_for_timeout(150);check('nojs_no_navigation:'+loc,np.url==before)
+                    np.locator('[data-p0-name=consent]').focus();np.keyboard.press('Space');check('nojs_consent_keyboard:'+loc,np.locator('[data-p0-name=consent]').is_checked());before=np.url;np.locator('#email').press('Enter');np.wait_for_timeout(150);check('nojs_no_navigation:'+loc,np.url==before)
                 nc.close()
             if not args.offline:
                 for path in ['/en/deep/path/missing','/zh/deep/path/missing','/unknown']:

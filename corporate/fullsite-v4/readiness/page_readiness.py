@@ -96,7 +96,8 @@ def patch_contact(html, loc):
         info=notice['form'] if 'data-inquiry' in form else notice['interest']
         prefix=f'<p id="{label}" class="note p0-note">{escape(info)} <a class="source-link" href="privacy.html">{escape(notice["title"])}</a></p>'
         noscript=f'<noscript><p class="note">{escape(notice["noscript"])} <a href="mailto:minyajing@gmail.com">minyajing@gmail.com</a></p></noscript>'
-        return prefix+noscript+form
+        # Keep the existing two-column grid: notices belong inside the form.
+        return re.sub(r'(<form\b[^>]*>)',lambda m:m[1]+prefix+noscript,form,count=1)
     return re.sub(r'<form\b[^>]*data-(?:inquiry|interest)[\s\S]*?</form>',form_patch,html)
 
 
