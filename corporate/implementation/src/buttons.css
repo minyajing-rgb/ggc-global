@@ -1,6 +1,6 @@
 /* GGC / approved 01,04,06,08,09,10. 2026-10-12. */
 :root{--ggc-ink:#161c48;--ggc-blue:#2444ed;--ggc-violet:#6829e6;--ggc-mint:#76dcfa;--ggc-radius:999px;--ggc-focus:#1834b6}
-.ggc-btn{--edge:linear-gradient(110deg,#82cfff,#8980fb 52%,#e0a0ff);--fill:linear-gradient(120deg,#ffffffed,#f9f8ffeb);position:relative;isolation:isolate;display:inline-flex;align-items:center;justify-content:center;gap:14px;min-height:46px;max-width:100%;padding:12px 22px;border:1px solid transparent;border-radius:var(--ggc-radius);background:var(--fill) padding-box,var(--edge) border-box;color:var(--ggc-ink);font:600 13px/1.4 var(--font,Inter,Arial,sans-serif);letter-spacing:-.01em;text-decoration:none;vertical-align:middle;cursor:pointer;appearance:none;-webkit-tap-highlight-color:transparent;transition:box-shadow .18s ease,transform .18s ease,background .18s ease;color-scheme:light}
+.ggc-btn{--edge:linear-gradient(110deg,#82cfff,#8980fb 52%,#e0a0ff);--fill:linear-gradient(120deg,#ffffffed,#f9f8ffeb);position:relative;isolation:isolate;display:inline-flex;align-items:center;justify-content:center;gap:14px;min-height:46px;max-width:100%;padding:12px 22px;border:1px solid transparent;border-radius:var(--ggc-radius);background:var(--fill) padding-box,var(--edge) border-box;color:var(--ggc-ink);font:600 13px/1.4 var(--font,Inter,Arial,sans-serif);letter-spacing:-.01em;text-decoration:none;vertical-align:middle;text-decoration:none;cursor:pointer;appearance:none;-webkit-tap-highlight-color:transparent;transition:box-shadow .18s ease,transform .18s ease,background .18s ease;color-scheme:light}
 .ggc-btn svg{width:17px;height:17px;flex-shrink:0;stroke:currentColor;fill:none;stroke-width:1.5;transition:transform .18s ease}
 .ggc-btn:hover svg{transform:translateX(2px)}
 .ggc-btn:focus-visible,.ggc-btn[data-preview-state=focus]{outline:2px solid var(--ggc-focus);outline-offset:4px}
@@ -38,3 +38,4 @@
 .ggc-btn[data-button-id="10"]:hover,.ggc-btn[data-button-id="10"][data-preview-state=hover]{background:linear-gradient(120deg,#ffffffed,#f2f0ffc7);border-color:#c9c5ed}
 .ggc-btn[data-button-id="09"]::before{content:'';position:absolute;inset:2px 8px 52%;border-radius:999px;background:linear-gradient(#ffffff32,#ffffff00);pointer-events:none;z-index:-1}
 .ggc-btn[data-button-id]:active,.ggc-btn[data-button-id][data-preview-state=pressed]{transform:translateY(1px);box-shadow:inset 0 2px 5px #24276129}
+.sample.dark .ggc-btn[data-button-id="10"]:hover,.sample.dark .ggc-btn[data-button-id="10"][data-preview-state=hover]{color:#253bbb}
