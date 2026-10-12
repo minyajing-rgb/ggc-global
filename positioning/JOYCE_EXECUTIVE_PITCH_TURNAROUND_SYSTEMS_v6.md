@@ -5,6 +5,19 @@
 **2026-10-12 · 对外职业表达及Pitch母稿 · PUBLIC-SAFE COPY**
 **本文件承接 [Joyce旗舰职业事实母稿](JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md) 的本人逐项目主责与各类业绩边界，不替换历史原始事实母表。** 不是自动对外发送授权。对外称 Joyce，不自动披露中文法定姓名、出生年份/年龄。书记笔名“艾小米”仅作作者说明。
 
+## 2026-10-12｜最新纠偏：救产品 → 造旗舰 → 建体系、立标准（覆盖下方旧标签）
+
+**三层逻辑严格区分：**
+1. **救产品｜Turnaround：** 接手时部分产品处于要被取消/关停的决策边缘，首先将产品业务救活，重做产品、商业化、发行和团队机制。**那时它还不是旗舰，故禁止再称「救产品」**；对外不臆指具名旧公司某款作品曾要关停。
+2. **造旗舰｜Category Leadership：** 通过0→1立项或1→10重构规模，把被救活的业务及其他新品真正做到全球、平台或垂类头部/第一；创造收入利润规模。
+3. **建体系、立标准｜Operating Architecture & Operating Standards：** 建立并在亚太公司/项目间推广DAU/Revenue Model、K-factor、数据与实验、平台商业化、全球发行与组织运营的底层架构和实践标准；不是只解决单款产品，也不是声称自己颁布国家法定行业标准。
+
+**对外一句话：** 我是Joyce，GGC创始人。过去15年以上，我在Zynga、Gameloft及创业公司负责全球旗舰游戏的产品、运营与商业化。最擅长三件事：**救产品、造旗舰、建体系立标准**——把濒临取消的产品重新做活，从0到1打造新品、从1到10做到全球头部，再将DAU、收入、商业化和公司经营方法建立成跨产品、跨团队可复用的体系与行业实践标准。
+
+**English:** I rescue at-risk products, build them into category-leading flagships, and establish reusable operating systems and industry practices across game businesses. Turnaround comes **before** flagship status.
+
+**规范：** 不自动称Zynga的Zynga PM为正式Lead Producer职位：Joyce是**PM，以该身份带领/统筹多个制作人**。书和三条GGC商业合作线继续保留，个人简介不自动添加未经用户要求的CTA。
+
 ## 1. 中文职业核心定位
 **全球旗舰游戏商业操盘者 × 产品生命周期经营架构师 × 行业级数据与商业化体系建设者**
 
