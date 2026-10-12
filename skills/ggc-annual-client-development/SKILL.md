@@ -4,10 +4,25 @@ description: >
   Account-based business development for Joyce/GGC annual client acquisition.
   Use for sourcing, qualifying, penetrating, contacting and converting Chinese-led
   principal-side game companies into high-value GGC operating, publishing and commercial-operating engagements.
-version: 2.9
+version: 3.0
 ---
 
 # GGC Annual Client Development — Account-Based BD Skill
+
+## v3.0 — 2026-10-12 relationship-first GGC 3-offer business profile
+
+**Authoritative recent offer wording:**
+1. **Project Copilot operating accompaniment**: owner-level strategy, product/project greenlight, worldwide publishing, monetization and execution alongside existing product/studio teams, with bounded scope by project/quarter/annual partnership.
+2. **Joint greenlighting and CPS/revenue sharing**: co-develop or publish GGC owned/new partner game and AI-native products, clarify investment, IP, responsibilities, commercial terms and per-project CPS or revenue share. Never imply all partners get the same terms or a guaranteed return.
+3. **Building proprietary overseas audience/distribution capacity**: owned global content, KOL/creator, social/community reach and AI SaaS distribution tools; this is ongoing asset-building, not an audited traffic inventory.
+
+**Different content types:** Standalone CV/speaker bio no sales CTA by default. But Joyce explicitly instructs BUSINESS introductions to **invite an initial professional relationship and provide her contact info**, including Joyce@ggcgames.com, joyce@saga1001.com, minyajing@gmail.com, WeChat 17701087579, Telegram @joyceggc, LinkedIn, GGC site/business, Why Joyce, AI SaaS, OpsGo and publisher book. This friendly peer-level footer is part of the approved template schema; it is not blanket send approval.
+
+Latest CN/EN copy: `../../bd/GGC_Executive_Intro_Bilingual_v2.md` content v6. Never revert to previous "two tracks" summary in outreach. All prior account qualification, parent de-dup, first-touch no-reply HOLD and explicit hard STOPs remain.
+
+
+---
+
 
 ## v2.9 — 2026-10-12 precise role, historic revenue scale, and no default bio CTA
 
