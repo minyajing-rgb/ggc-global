@@ -1,5 +1,8 @@
 # JOYCE | FLAGSHIP OPERATOR — 项目主责、规模与中英文职业母稿
 
+**2026-10-12 最新GGC商业模型 v8 — 本文件后续描述“Joyce现在做什么/GGC做什么”必须先读 [AI-native Cash Flow × User Flow 统一 Skill](https://github.com/minyajing-rgb/ggc-global/blob/main/skills/ggc-principal-ai-native-two-flow-os/SKILL.md)。** 内部具体合同、Base+CPS定价样例、千万级Creator系统能力及资本/GP边界详见[私有母稿](https://github.com/minyajing-rgb/GGC-FA/blob/main/ops/strategy/2026-10-12_GGC_PRINCIPAL_AI_NATIVE_TWO_FLOW_MASTER_v8.md)。当前经营闭环：①Principal/经营Copilot，按项目介入、Base Fee + 合同定义的CPS/业绩分成；②轻量联合立项与AI-native产品孵化（合作伙伴主要出研发，GGC主要出市场/经营/发行/商业化，权属与分成按项目）；③积累全球自有/可控用户流量，建设AI-native KOL、社媒账号、社群、内容媒体与Traffic SaaS。底层是Joyce OS七模块/GGC Principle十二原则。**战略关注Cash Flow（资本及经营现金流）和User Flow（用户、账号、内容与分发），项目/IP是合作和变现的载体。** 历史公司的岗位和成果继续依据v7及原CV；不能把合作伙伴千万级KOL数据写成已签约或GGC自有千万KOL，不声称已注册GP或已有AUM，不能把研发中AI工具写成全量生产验证。该规则为描述同步，**不是外联/发信/投融资/部署授权**。
+
+
 **2026-10-12 ｜原始4页简历复核后的叙事优先级升级：** [Joyce 旗舰产品操盘与企业 OS 完整母稿 v7](https://github.com/minyajing-rgb/ggc-global/blob/main/positioning/JOYCE_FLAGSHIP_OPERATOR_ENTERPRISE_OS_MASTER_v7.md) 是今后 CEO / PR / BD / 演讲与投资人展示的**首读职业叙事**；原逐项目母稿继续负责确切职务、职责及财务口径。先讲“多次把复杂项目从关键经营节点/0→1带到历史高点或全球品类标杆”，再讲两周到数月真实上线、1→10放量，然后展开**从产品内核到研发发布、数据/商业化、团队招募组织、全球渠道和资本资源**的整套企业级经营系统。突出跨Casino/Arcade/Sims/MMO/MOBA、直播/社交、DApp/Web3、软件/AI消费的可迁移性。最后落到**Joyce OS / Joyce Method（DECIDE→BUILD→COMPOUND及七模块）/ GGC Principle（12条运营原则）**如何在今天GGC Principal与精选联合项目中应用；工具/流量池建设状态不得伪称已全部上线。**Zynga为PM，带领多个PM和制作人，不曾担任Lead Producer**；正式GM/CEO/CMO等职位仅按原简历的公司阶段写。公司经营、出版、组织人才与资本资源不可被缩写成“3个KPI技能”。此更新不包含发件许可。
 
 
