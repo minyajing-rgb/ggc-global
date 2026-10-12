@@ -1,5 +1,8 @@
 # Joyce × GGC — 中英文高管自我介绍 / Executive Biography v5
 
+**2026-10-12 人物定位升级｜优先使用 [Joyce Flagship Turnaround & Operating Systems Architect — Pitch v6](../positioning/JOYCE_EXECUTIVE_PITCH_TURNAROUND_SYSTEMS_v6.md) 所列的三个经营能力（高难项目重整与再商业化、0→1与1→10旗舰经营、DAU/Revenue/K-factor/数据系统和运营组织架构）。** 对外不得把主责项目淡化为“参与过”。救盘表达使用“复杂项目重整/经营反转”，不对具名公司作未核实的负面历史判断；7+排名、月度net、历史利润及挂牌并购等指标按事实母稿逐项目单独核实。此段更新人物定位，不改变原文件对人员与具体项目的主责范围；老发送模板不因此获得发信授权。
+
+
 ## 2026-10-12｜最简且完整的业务Pitch / New Preferred Pitch
 
 **一句话（中文）：** 我是Joyce，全球旗舰游戏操盘手、GGC创始人。擅长把面临去留决策或长期停滞的项目重构成全球品类标杆，也从0到1打造新旗舰、从1到10放大收入利润，建立支撑长期经营的数据、商业化、发行及企业管理体系。
