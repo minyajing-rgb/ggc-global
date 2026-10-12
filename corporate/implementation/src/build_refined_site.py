@@ -48,8 +48,8 @@ def refined_home():
 
 def refined_document(key,body):
     html=base_document(key,body)
-    html=html.replace('<link rel="stylesheet" href="../assets/site.css">','<link rel="stylesheet" href="../assets/site.css"><link rel="stylesheet" href="../assets/fidelity.css">')
-    html=html.replace('<body>','<body class="fidelity-v2 page-'+key+'">',1)
+    html=html.replace('<link rel="stylesheet" href="../assets/site.css">','<link rel="stylesheet" href="../assets/site.css"><link rel="stylesheet" href="../assets/fidelity.css"><link rel="stylesheet" href="../assets/prism.css">')
+    html=html.replace('<body>','<body class="fidelity-v2 prism-v3 page-'+key+'">',1)
     html=html.replace('width="109" height="40"','width="146" height="54"')
     # Keep the development-state disclosure readable, but out of the company masthead.
     start=html.index('<div class="review-note">');end=html.index('<main id="main">',start)
@@ -63,7 +63,7 @@ def main():
     parser=argparse.ArgumentParser();parser.add_argument('--out',type=Path,default=SRC.parent/'site');args=parser.parse_args();out=args.out.resolve()
     if out in [SRC,Path('/'),Path.home(),Path('/app')]:raise SystemExit('Refusing unsafe output root')
     assets=out/'assets';assets.mkdir(parents=True,exist_ok=True)
-    for name in ['buttons.css','site.css','app.js','fidelity.css']:shutil.copyfile(SRC/name,assets/name)
+    for name in ['buttons.css','site.css','app.js','fidelity.css','prism.css','prism-ribbon.svg']:shutil.copyfile(SRC/name,assets/name)
     shutil.copyfile(SRC/'ggc-logo-refined.svg',assets/'ggc-logo.svg')
     # Load real requested weights on devices without local design fonts.
     # Only the external CSS reference is emitted; no font binaries are distributed.
@@ -79,8 +79,8 @@ def main():
         for key,render in base.RENDER.items():
             (directory/(key+'.html')).write_text(refined_document(key,render()),encoding='utf-8')
     (out/'index.html').write_text('<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="robots" content="noindex"><meta http-equiv="refresh" content="0;url=zh/index.html"><title>GGC</title></head><body><a href="zh/index.html">中文</a> · <a href="en/index.html">English</a></body></html>',encoding='utf-8')
-    names=['build_site.py','build_refined_site.py','buttons.css','site.css','app.js','fidelity.css','ggc-logo-refined.svg']
-    manifest={'version':'2026-10-12-visual-fidelity-v2','approvedButtons':[1,4,6,8,9,10],'pagesPerLocale':len(base.RENDER),'locales':['zh','en'],'production':False,'backend':'local mail draft only','sourceSHA256':{n:hashlib.sha256((SRC/n).read_bytes()).hexdigest() for n in names}}
+    names=['build_site.py','build_refined_site.py','buttons.css','site.css','app.js','fidelity.css','ggc-logo-refined.svg','prism.css','prism-ribbon.svg']
+    manifest={'version':'2026-10-12-magenta-prism-v3','approvedButtons':[1,4,6,8,9,10],'pagesPerLocale':len(base.RENDER),'locales':['zh','en'],'production':False,'backend':'local mail draft only','sourceSHA256':{n:hashlib.sha256((SRC/n).read_bytes()).hexdigest() for n in names}}
     (out/'build-manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2),encoding='utf-8')
     print(json.dumps({'output':str(out),'pages':len(base.RENDER)*2,'version':manifest['version']}))
 if __name__=='__main__':main()
