@@ -1,4 +1,9 @@
 # PIA — Global Authority & PR Program OS
+
+## 2026-10-12 — flagship industry authority, not vanity PR
+
+Read [Joyce Flagship Authority OS](../../skills/joyce-flagship-authority-os/SKILL.md) and the updated [PIA operating SOP](docs/OPERATING_SOP.md) before creating a speaker/award/media pitch. The signature claim is Joyce's combined **0→1 flagship leadership + mature-business turnaround to category-leading performance + enterprise commercial/data/organization operating-system design**, supported by anonymized projects, her 2024 published book and applied China/Asia operating disciplines. Use a reusable three-case evidence matrix, two serious signature articles and a sector-relevant executive network; keep awards, speaker applications and actual acceptance separate. This read dependency does not authorize a new submission or email.
+
 > 2026-10-10 → 2027-12-31 | **Joyce international authority + GGC corporate PR + AI consumer products + SAGA global ecosystem**
 > Project engineering, not a one-off event list.
 
