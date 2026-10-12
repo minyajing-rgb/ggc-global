@@ -16,7 +16,7 @@
 3. **造体系｜Operating Architecture**：在Zynga及亚太市场建立/应用DAU、Revenue Model、K-factor、社交传播、实验和经营框架；在腾讯Qzone/开心、广点通商业化及Gameloft跨工作室数据/经营体系中实践与推广，覆盖产品经济、平台商业化、组织/流程/数据架构。属于推动方法成为跨团队的早期经营规范，不无证据冒称政府法定行业标准。
 
 **主责型简历的四段骨架：**
-- **Zynga 跨产品负责人（统筹多位 PM／制作人；正式职称待核）**：主负责CityVille腾讯版、FarmVille中文版，Bubble/Ruby/Slingo全球主产品，主导相应产品/数据/收入与商业化决策；做到当时相应平台或细分品类第一，旗舰历史单款月度`net`为US$5M–20M（按用户原词，不翻译成审计净利润）。
+- **Zynga 多产品经营及团队统筹（带领多位 PM／制作人；正式职称待核）**：主负责CityVille腾讯版、FarmVille中文版，Bubble/Ruby/Slingo全球主产品，主导相应产品/数据/收入与商业化决策；做到当时相应平台或细分品类第一，旗舰历史单款月度`net`为US$5M–20M（按用户原词，不翻译成审计净利润）。
 - **Gameloft亚洲运营负责人**：主负责全球Order & Chaos及Heroes of Order & Chaos、中国区Minion Rush；搭/改跨区版本/LiveOps/商业化经营体系，协同10+工作室、500+跨职能网络。用户历史对应单款月度`net` €10M–30M、月峰值€50M（`net`定义仍按原用户称谓）。
 - **Huogu产品总监**：主负责《武侠Q传》立项、收入/经济模型、商业化和发行，历史海内外月流水RMB60M、峰值RMB100M+（月流水非净利润）。
 - **Founder / CEO及企业经营**：0→1建设研发和发行公司/产品团队，平台与商业化10倍增收、复杂项目救盘、区域股权市场挂牌、发行业务被收购及后续集团经营；历史企业年增利润超RMB1bn为职业自述企业成果，而非个人分成或GGC现阶段营收。
@@ -104,7 +104,7 @@
 
 **Joyce** is the founder of **GGC — Global Game Copilot** and the author of *Game Operations and Global Expansion* (China Machine Press, published in Chinese under the name Ai Xiaomi).
 
-Over 15 years, Joyce has **directly led flagship game businesses into No. 1 positions on their respective platforms or in their categories**. At **Zynga**, as Product Manager / Lead Producer, she owned the product and commercial operating remit for **the Tencent edition of CityVille, the Chinese edition of FarmVille, and global titles Bubble, Ruby and Slingo**. Her role encompassed DAU and revenue modeling, K-factor/social virality, experimentation and operating methods subsequently applied across Asian teams. The historical single-title scale she reports for this portfolio was approximately **US$5 million–20 million in monthly net results** (accounting definition retained as reported).
+Over 15 years, Joyce has **directly led flagship game businesses into No. 1 positions on their respective platforms or in their categories**. At **Zynga**, she coordinated several product managers and producers while directing the product and commercial operating remit for **the Tencent edition of CityVille, the Chinese edition of FarmVille, and global titles Bubble, Ruby and Slingo**. Her role encompassed DAU and revenue modeling, K-factor/social virality, experimentation and operating methods subsequently applied across Asian teams. The historical single-title scale she reports for this portfolio was approximately **US$5 million–20 million in monthly net results** (accounting definition retained as reported).
 
 As **Gameloft's Head of Asian Operations**, she led global operating work for **Order & Chaos and Heroes of Order & Chaos**, and **Minion Rush in China**. Coordinating more than ten studios and a 500-plus cross-functional network, the historical single-title operations she describes delivered **€10 million–30 million in monthly net results, with monthly peaks near €50 million**. As a subsequent **Product Director**, she owned key product and monetization responsibilities on **Wuxia Q Zhuan**, whose historical gross monthly bookings reached approximately **RMB 60 million, with peaks above RMB 100 million**.
 
