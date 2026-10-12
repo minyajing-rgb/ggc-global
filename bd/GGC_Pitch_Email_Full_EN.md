@@ -1,5 +1,8 @@
 # GGC | Founder/CEO Strategic Introduction — EN v6 (2026-10-12)
 
+**2026-10-12 authoritative narrative upgrade:** Use [Joyce Flagship Operator & Enterprise Operating System Architect v7](https://github.com/minyajing-rgb/ggc-global/blob/main/positioning/JOYCE_FLAGSHIP_OPERATOR_ENTERPRISE_OS_MASTER_v7.md) before all prior CEO, BD and PR snippets. Her career is repeated **flagship turnaround / 0→1 launch / 1→10 category leadership**, followed by enterprise-level **product & release architecture, economics/data, team hiring and organization, global platform/partner network and capital allocation**. Highlight transferable application across games, social/live entertainment, DApp/Web3 and other digital consumer products, and today's Joyce OS / Joyce Method / GGC Principle (7 modules, 12 principles), not just KPI consulting. **At Zynga she was PM coordinating multiple PMs/producers, NOT Lead Producer.** Public ranking/effect claims must remain scoped to named period/platform and first-party sources. This is not authorization to send email.
+
+
 **Zynga role clarification, 2026-10-12 (Joyce’s latest first-party statement):** Working as a **Product Manager (PM)**, Joyce **led and coordinated multiple producers and owned the product and commercial operating remit across the relevant flagship products**. “Led” is a responsibility, not a Lead Producer title. Her PM role is now confirmed by Joyce; do not infer Lead PM, Head, Director or any other seniority qualifier. This supersedes the earlier blanket note that her role was unconfirmed; confirmed Gameloft roles and project scopes remain unchanged.
 
 
