@@ -1,5 +1,20 @@
 # GGC BD Workspace
 
+## 2026-10-12 用户确认的 GGC 对外合作三项主线
+
+**1. Project Copilot / 长期经营陪跑**：Joyce与甲方团队按项目/季度/年度共同做战略判断、立项、产品运营、全球发行、商业化与经营体系落地，承担双方约定的持续协作任务，不止是一次咨询报告。
+
+**2. 联合立项 + CPS/收益分成**：从新游戏、新市场、AI产品的立项与MVP开始，双方就研发、发行、产品商业化共同投入与共建；可按单项目约定Cost per Sale（CPS）或其他收益分成与权责安排，不承诺既定合作数或确定回报。
+
+**3. GGC 自有海外流量池**：正在建设海外内容/社媒/媒体、KOL/创作者、社区与自有产品、AI SaaS的分发渠道，服务GGC自有与合作项目的长期海外获客。现处建设阶段，不能称已有特定总流量或已完成规模。
+
+**关系目标：** Joyce希望先与真正的Founder、CEO、产品经营负责人和产业投资人建立联系，交流彼此在做的项目，未来探索Copilot、联合立项、CPS和海外发行合作机会；商务介绍必须保留如下签名，不能只留下一个泛泛的CEO愿景。
+
+**联系方式与PR链接：** Joyce@ggcgames.com（GGC官网）｜joyce@saga1001.com（用户提供）｜minyajing@gmail.com（GGC Business官网）｜微信17701087579｜TG @joyceggc｜https://www.linkedin.com/in/minyajing/｜https://ggcgames.com/｜https://biz.ggcgames.com/｜https://biz.ggcgames.com/joyce/｜https://biz.ggcgames.com/sme/｜https://opsgo.ggcgames.com/｜https://ebooks.cmpbook.com/detail?id=26372
+
+**母版：** `minyajing-rgb/ggc-global/positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md`（现在含最新三业务口径）；`minyajing-rgb/ggc-global/bd/GGC_Executive_Intro_Bilingual_v2.md`（实际v6）；CN/EN邮件v6方向与当前补充一致。**独立Speaker Bio并不默认附业务联系方式；当前商业建联版本则是用户明确要求附上**。禁止将补充签名理解为允许陌生人群发，历史HOLD/STOP仍有效。
+
+
 ## 2026-10-12 SOURCE OF TRUTH — Joyce role mapping / no CTA
 
 [**JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md**](../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md) is the upstream factual master. The old bilingual filename [GGC_Executive_Intro_Bilingual_v2.md](GGC_Executive_Intro_Bilingual_v2.md) now contains **v5** English and Chinese bios; [CN email](GGC_Pitch_Email_Full_CN.md) / [EN email](GGC_Pitch_Email_Full_EN.md) also contain v5. These files have been updated to reflect **Joyce's actual project ownership**: Zynga CityVille Tencent edition, FarmVille Chinese edition, Bubble/Ruby/Slingo global; Gameloft worldwide Order & Chaos/Heroes of Order & Chaos, China Minion Rush; Huogu Wuxia Q Zhuan product director. Historic monthly net report US$5M–20M / €10M–30M (EUR peak €50M) and Wuxia RMB60M monthly gross / >RMB100M peak are **separate title/region/accounting claims**.
