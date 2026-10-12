@@ -1,5 +1,12 @@
 # Joyce / GGC — Media Kit
 
+## 2026-10-12 CURRENT MEDIA BIO — Joyce's direct flagship leadership (supersedes older short/extended bios)
+
+**Joyce | GGC Founder · Global Flagship Game Operator · Industry Operating-System Architect · Published Author.** As Zynga PM/Lead Producer she led the **Tencent edition of CityVille, Chinese edition of FarmVille, and global products Bubble, Ruby and Slingo**, taking product businesses to No.1 positions within their respective historic platforms/categories. The historical single-title portfolio monthly `net` reported by Joyce is **US$5M–20M**. At Gameloft, as Head of Asian Operations, she led **global Order & Chaos and Heroes of Order & Chaos, and Minion Rush's China operations**, with historic single-title monthly `net` **€10M–30M** and a **€50M monthly peak**; she coordinated 10+ studios and a 500+ cross-functional network. She later led Wuxia Q Zhuan product/monetization work (gross bookings ≈RMB60M/month, peak >RMB100M). She has also founded development and publishing ventures, built five 0→1 products, scaled dozens of 1→10 businesses, and led high-stakes commercial upgrades and acquisitions.
+
+**No generic call-to-action in Media Kit.** Do not expose Chinese legal name, make a passive "participated" description, relabel user `net` as net profit, or cite the user-supplied `>$100M single day` as verified until its metric scope is clarified. Source of truth: `../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md`. Publication: 《游戏运营与出海实战》 (China Machine Press) https://ebooks.cmpbook.com/detail?id=26372.
+
+
 Version: 2026-10-03-v2
 
 Status: public, sanitized, source-bound.
