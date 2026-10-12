@@ -1,0 +1,40 @@
+/* GGC / approved 01,04,06,08,09,10. 2026-10-12. */
+:root{--ggc-ink:#161c48;--ggc-blue:#2444ed;--ggc-violet:#6829e6;--ggc-mint:#76dcfa;--ggc-radius:999px;--ggc-focus:#1834b6}
+.ggc-btn{--edge:linear-gradient(110deg,#82cfff,#8980fb 52%,#e0a0ff);--fill:linear-gradient(120deg,#ffffffed,#f9f8ffeb);position:relative;isolation:isolate;display:inline-flex;align-items:center;justify-content:center;gap:14px;min-height:46px;max-width:100%;padding:12px 22px;border:1px solid transparent;border-radius:var(--ggc-radius);background:var(--fill) padding-box,var(--edge) border-box;color:var(--ggc-ink);font:600 13px/1.4 var(--font,Inter,Arial,sans-serif);letter-spacing:-.01em;text-decoration:none;vertical-align:middle;cursor:pointer;appearance:none;-webkit-tap-highlight-color:transparent;transition:box-shadow .18s ease,transform .18s ease,background .18s ease;color-scheme:light}
+.ggc-btn svg{width:17px;height:17px;flex-shrink:0;stroke:currentColor;fill:none;stroke-width:1.5;transition:transform .18s ease}
+.ggc-btn:hover svg{transform:translateX(2px)}
+.ggc-btn:focus-visible,.ggc-btn[data-preview-state=focus]{outline:2px solid var(--ggc-focus);outline-offset:4px}
+.ggc-btn:active,.ggc-btn[data-preview-state=pressed]{transform:translateY(1px);box-shadow:inset 0 2px 5px #24276120}
+.ggc-btn:disabled,.ggc-btn[aria-disabled=true]{cursor:not-allowed;opacity:.42;filter:saturate(.3);pointer-events:none;box-shadow:none;transform:none}
+/* 01: slim optical edge, almost weightless at rest. */
+.ggc-btn[data-button-id="01"]{--fill:linear-gradient(118deg,#fff,#f8faff);box-shadow:inset 0 1px 0 #fff,0 2px 5px #1e42b505}
+.ggc-btn[data-button-id="01"]:hover,.ggc-btn[data-button-id="01"][data-preview-state=hover]{--fill:linear-gradient(125deg,#f9fdff,#f2f1ff 64%,#faf3ff);box-shadow:inset 0 0 0 1px #fff,0 5px 14px #5678ed22,0 0 9px #9676ee15;transform:translateY(-1px)}
+/* 04: optically clean outline, no resting glow. */
+.ggc-btn[data-button-id="04"]{--fill:linear-gradient(#fff,#fff);--edge:linear-gradient(115deg,#bba1ff,#6e7cff,#b6d9ff);box-shadow:none}
+.ggc-btn[data-button-id="04"]:hover,.ggc-btn[data-button-id="04"][data-preview-state=hover]{--fill:linear-gradient(#f8f6ff,#f8f6ff);--edge:linear-gradient(115deg,#a533ff,#3960ff,#78cfff);box-shadow:0 3px 10px #6337ef0c}
+/* 06: darker blue-violet core preserves contrast under the fine surface highlight. */
+.ggc-btn[data-button-id="06"]{--fill:linear-gradient(115deg,#244aef 2%,#3b37ea 50%,#6929d9 98%);--edge:linear-gradient(125deg,#b4e9ff,#8b90ff 48%,#cda9fb);color:#fff;box-shadow:inset 0 1px 1px #ffffff73,0 5px 15px #4447cf22}
+.ggc-btn[data-button-id="06"]:hover,.ggc-btn[data-button-id="06"][data-preview-state=hover]{--fill:linear-gradient(115deg,#173ade,#3524db 50%,#5920c9);box-shadow:inset 0 1px 2px #ffffff88,0 7px 18px #5153d93d;transform:translateY(-1px)}
+/* 08: native buttons in a real tablist, with roving focus in app.js. */
+.ggc-tabs{display:flex;align-items:center;gap:3px;width:fit-content;max-width:100%;padding:4px;background:linear-gradient(115deg,#f4f5fc,#f0f0ff);border:1px solid #dce2f5;border-radius:15px}
+.ggc-tabs .ggc-btn[data-button-id="08"]{--fill:linear-gradient(transparent,transparent);--edge:linear-gradient(transparent,transparent);border-radius:11px;min-height:44px;padding:9px 14px;font-size:12px;font-weight:500;color:#4d5674;box-shadow:none}
+.ggc-tabs .ggc-btn[data-button-id="08"][aria-selected=true],.ggc-tabs .ggc-btn[data-button-id="08"][aria-pressed=true],.ggc-btn[data-button-id="08"][data-preview-state=selected]{--fill:linear-gradient(130deg,#fff,#fdfbff);--edge:linear-gradient(130deg,#d4dfff,#c8bdfa);color:#253bbb;box-shadow:inset 0 1px 1px #fff,0 2px 5px #35317115;font-weight:650}
+.ggc-tabs .ggc-btn[data-button-id="08"]:hover{background:#ffffffa6;color:#253bbb}
+/* 09: closing CTA only; a thin translucent rim, never flashing. */
+.ggc-btn[data-button-id="09"]{--fill:linear-gradient(115deg,#3450f1,#4630f4 65%,#7025e5);--edge:linear-gradient(115deg,#c8e7ff,#e6daff,#f3d1ff);color:#fff;box-shadow:inset 0 1px 3px #ffffffe6,0 0 0 3px #c7caff25,0 7px 19px #664bf844,0 0 13px #71beff2b}
+.ggc-btn[data-button-id="09"]:hover,.ggc-btn[data-button-id="09"][data-preview-state=hover]{--fill:linear-gradient(115deg,#243de4,#4525e5 65%,#6c24cd);box-shadow:inset 0 1px 3px #fff,0 0 0 3px #c7caff3c,0 9px 23px #6242df55;transform:translateY(-1px)}
+/* 10: quiet action with a faint structural rim, not another primary CTA. */
+.ggc-btn[data-button-id="10"]{--fill:linear-gradient(#ffffff0d,#ffffff0d);--edge:linear-gradient(#c7cff357,#e5dcff70);box-shadow:none;color:#2f3d83;padding-inline:17px}
+.ggc-btn[data-button-id="10"]:hover,.ggc-btn[data-button-id="10"][data-preview-state=hover]{--fill:linear-gradient(120deg,#ffffffde,#efedffae);--edge:linear-gradient(120deg,#c5d0ff,#cdc0f5);box-shadow:0 4px 12px #39357710}
+.ggc-btn[aria-busy=true]{cursor:progress}
+.ggc-btn[aria-busy=true] .btn-label{opacity:.8}
+.ggc-btn[aria-busy=true]::after{content:'';width:13px;height:13px;border:1.5px solid currentColor;border-right-color:transparent;border-radius:50%;animation:ggc-spin .75s linear infinite}
+.ggc-btn--small{padding:10px 17px;min-height:44px;font-size:12px}
+@keyframes ggc-spin{to{transform:rotate(1turn)}}
+@media(prefers-reduced-motion:reduce){.ggc-btn,.ggc-btn svg{transition:none!important}.ggc-btn:hover{transform:none!important}.ggc-btn[aria-busy=true]::after{animation:none;border-style:dashed}}
+@media(forced-colors:active){.ggc-btn{border:1px solid ButtonText!important;background:ButtonFace!important;color:ButtonText!important}.ggc-btn:focus-visible{outline:2px solid Highlight}.ggc-tabs [aria-selected=true]{outline:2px solid Highlight}}
+/* Final optical polish: leave Ghost truly clear; protect pressed-state precedence. */
+.ggc-btn[data-button-id="10"]{background:transparent;border-color:#cbd4f280}
+.ggc-btn[data-button-id="10"]:hover,.ggc-btn[data-button-id="10"][data-preview-state=hover]{background:linear-gradient(120deg,#ffffffed,#f2f0ffc7);border-color:#c9c5ed}
+.ggc-btn[data-button-id="09"]::before{content:'';position:absolute;inset:2px 8px 52%;border-radius:999px;background:linear-gradient(#ffffff32,#ffffff00);pointer-events:none;z-index:-1}
+.ggc-btn[data-button-id]:active,.ggc-btn[data-button-id][data-preview-state=pressed]{transform:translateY(1px);box-shadow:inset 0 2px 5px #24276129}
