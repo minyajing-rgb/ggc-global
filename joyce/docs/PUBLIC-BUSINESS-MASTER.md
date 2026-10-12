@@ -1,5 +1,12 @@
 # Joyce / GGC — Public Business Master
 
+## 2026-10-12 Joyce executive bio current facts (overrides prior generic description)
+
+See `../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md` for **the exact current product ownership mapping, revenue units and CN/EN biography**. Public/professional name is **Joyce** only, with **no automatically inserted CTA**. As Zynga PM/Lead Producer she directly led CityVille Tencent edition and FarmVille Chinese edition plus global Bubble/Ruby/Slingo (historic reported individual-title monthly net US$5M–20M). As Gameloft Head of Asian Operations she led global Order & Chaos and Heroes of Order & Chaos and Minion Rush in China (reported monthly net €10M–30M per flagship title, monthly peak €50M). Later Product Director for Wuxia Q Zhuan, historic gross bookings RMB60M/month, peak >RMB100M. Do not turn `net` into profit or misstate regional/global roles. She personally built new products and operations, led platform/category No.1 outcomes and business turnarounds. Small CityVille retention changes belong in a detailed technical appendix, not the flagship career headline.
+
+Book: [published by China Machine Press](https://ebooks.cmpbook.com/detail?id=26372). The user's reported US$100M+ single-day peak needs unit/product-period reconciliation before a categorical public number. This overrides earlier short bios below; do not change real pricing/service definitions.
+
+
 ## 2026-10-11 Flagship leadership positioning override
 
 **JOYCE — the operator who led flagship games to category leadership.** Her career is **not** a passive list of titles she “participated in.” As Zynga PM/Lead Producer, Gameloft Head of Asian Operations, a game Product Director and a serial Founder/CEO, she has led five 0→1 builds and dozens of 1→10 scale-ups. Across different mandates, Joyce directly reports revenue doubling and up to **10x revenue improvement**; her historical CV specifically attributes a tenfold revenue increase to a publishing/advertising platform built from scratch. She also led high-stakes commercial rebuilds, new publishing operations, regional business architecture and company/portfolio restructurings.
