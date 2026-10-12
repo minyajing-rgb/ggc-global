@@ -1,13 +1,5 @@
 ---
 
-## v3.1 — Authority-qualified accounts and three proof stories (2026-10-12)
-
-First read [Joyce Flagship Authority OS](../joyce-flagship-authority-os/SKILL.md) to choose which of **turnaround, zero-to-one flagship, operating-system architecture** is the right evidence for a given CEO, operator, investor or partner. Do not send the entire biography or ask cold companies generic questions; prepare evidence-to-trigger account thesis. Keep **payer ICP (actual own-product and purchasing capacity)** separate from investors, studio JV targets, and media/influence contacts. A small studio or outsourcing team becomes a principal account only if own-IP/transition/finance/decision constraints truly pass.
-
-Do not let the influence initiative weaken hard STOP, company no-human-reply HOLD, user-specific bans, dedup and mailbox eligibility. Existing relationship mapping is not net-new acquisition. GGC's 3 workstreams remain Project Copilot, joint project/CPS and own overseas distribution; source/case creation is not send authorization. Quarterly priority is clean high-seniority relationships and measurable commercial work rather than optimizing raw contact counts.
-
----
-
 name: ggc-annual-client-development
 description: >
   Account-based business development for Joyce/GGC annual client acquisition.
@@ -17,6 +9,15 @@ version: 3.1
 ---
 
 # GGC Annual Client Development — Account-Based BD Skill
+
+## v3.1 — Authority-qualified accounts and three proof stories (2026-10-12)
+
+First read [Joyce Flagship Authority OS](../joyce-flagship-authority-os/SKILL.md) to choose which of **turnaround, zero-to-one flagship, operating-system architecture** is the right evidence for a given CEO, operator, investor or partner. Do not send the entire biography or ask cold companies generic questions; prepare evidence-to-trigger account thesis. Keep **payer ICP (actual own-product and purchasing capacity)** separate from investors, studio JV targets, and media/influence contacts. A small studio or outsourcing team becomes a principal account only if own-IP/transition/finance/decision constraints truly pass.
+
+Do not let the influence initiative weaken hard STOP, company no-human-reply HOLD, user-specific bans, dedup and mailbox eligibility. Existing relationship mapping is not net-new acquisition. GGC's 3 workstreams remain Project Copilot, joint project/CPS and own overseas distribution; source/case creation is not send authorization. Quarterly priority is clean high-seniority relationships and measurable commercial work rather than optimizing raw contact counts.
+
+---
+
 
 ## v3.0 — 2026-10-12 relationship-first GGC 3-offer business profile
 
