@@ -1,5 +1,8 @@
 # Joyce / GGC — Public Business Master
 
+**2026-10-12 最新GGC商业模型 v8 — 本文件后续描述“Joyce现在做什么/GGC做什么”必须先读 [AI-native Cash Flow × User Flow 统一 Skill](https://github.com/minyajing-rgb/ggc-global/blob/main/skills/ggc-principal-ai-native-two-flow-os/SKILL.md)。** 内部具体合同、Base+CPS定价样例、千万级Creator系统能力及资本/GP边界详见[私有母稿](https://github.com/minyajing-rgb/GGC-FA/blob/main/ops/strategy/2026-10-12_GGC_PRINCIPAL_AI_NATIVE_TWO_FLOW_MASTER_v8.md)。当前经营闭环：①Principal/经营Copilot，按项目介入、Base Fee + 合同定义的CPS/业绩分成；②轻量联合立项与AI-native产品孵化（合作伙伴主要出研发，GGC主要出市场/经营/发行/商业化，权属与分成按项目）；③积累全球自有/可控用户流量，建设AI-native KOL、社媒账号、社群、内容媒体与Traffic SaaS。底层是Joyce OS七模块/GGC Principle十二原则。**战略关注Cash Flow（资本及经营现金流）和User Flow（用户、账号、内容与分发），项目/IP是合作和变现的载体。** 历史公司的岗位和成果继续依据v7及原CV；不能把合作伙伴千万级KOL数据写成已签约或GGC自有千万KOL，不声称已注册GP或已有AUM，不能把研发中AI工具写成全量生产验证。该规则为描述同步，**不是外联/发信/投融资/部署授权**。
+
+
 ## 2026-10-12 用户确认的 GGC 对外合作三项主线
 
 **1. Project Copilot / 长期经营陪跑**：Joyce与甲方团队按项目/季度/年度共同做战略判断、立项、产品运营、全球发行、商业化与经营体系落地，承担双方约定的持续协作任务，不止是一次咨询报告。
