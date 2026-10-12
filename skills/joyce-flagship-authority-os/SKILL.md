@@ -8,6 +8,9 @@ description: >
   Use for personal positioning, casebooks, awards, speaker kits, LinkedIn, CEO BD,
   investor introductions, partnerships, industry content, and authority planning.
 ---
+**2026-10-12 最新 GGC 商业模式 v8（权威）：** 所有 Joyce/GGC 业务说明先读 [统一Skill](https://github.com/minyajing-rgb/ggc-global/blob/main/skills/ggc-principal-ai-native-two-flow-os/SKILL.md)，内部合作条款和KOL/资本证据查 [私有母稿](https://github.com/minyajing-rgb/GGC-FA/blob/main/ops/strategy/2026-10-12_GGC_PRINCIPAL_AI_NATIVE_TWO_FLOW_MASTER_v8.md)。不能再将GGC降为“咨询+自有产品”：核心是（1）**Principal经营Copilot：Base Fee + 按合同定义的CPS/业绩分成**；（2）**轻量联合立项/孵化：研发伙伴提供技术研发，GGC提供市场、经济、商业化、运营和发行，IP及分成按贡献约定**；（3）**AI-native Traffic SaaS+逐步建设自有全球User Flow：Creator/KOL、社媒账号、社群、媒体、内容和分发**。资本与经营Cash Flow、用户及内容分发User Flow是长期战略资产，项目是产品/IP载体。Joyce OS七模块与GGC Principle十二原则为经营内核。KOL千万级历史伙伴系统的覆盖量≠GGC已签约/自有KOL；GP不等于现有合法持牌基金管理人；AI-native设计不等于全产品已上线。此为材料与执行规则同步，不附带发信、付款、投资或部署授权。
+
+
 
 **Version:** 1.0
 
