@@ -57,7 +57,7 @@ python -m http.server 8080 --directory /tmp/ggc-fullsite
 - Base44变更前恢复点：`6accfa8a1de1b2870eb4eb3e`；变更后：`6acd012dd6d374067c9932bf`。
 - `/app/ggc-next-pre-fullsite-v4/` 保留上一个开发预览。
 
-这里只给开发路径，不虚构公网预览域名；正式 `ggcgames.com` 未切换。
+Base44 路径仍是开发预览。正式站已于 2026-10-13 切至独立的 [ggc-corporate-site](https://github.com/minyajing-rgb/ggc-corporate-site) GitHub Pages 发布仓库，通过阿里云 DNS 绑定 [ggcgames.com](https://ggcgames.com/) 并启用 HTTPS。发布工作流固定从本 PR 已检查的 commit 构建，不从开发预览复制文件。
 
 ## UI mockups与证据
 
@@ -65,12 +65,12 @@ python -m http.server 8080 --directory /tmp/ggc-fullsite
 
 PDF中的每张页面是实际HTML浏览器渲染而非再生成的概念图。离线字体回退和实际用户字体可能不同；视觉验收不等于正式站点的跨设备字体一致保证。
 
-## 尚待正式上线的工作
+## 当前发布状态与后续工作
 
-1. 已有Netlify/Bolt生产项目的账号/发布权限，阿里云DNS登录及全记录导出。
-2. 真实询单保存、通知/重试与CRM；独立订阅同意、双重确认和退订。当前仅用户自行发送的邮件草稿，不自动收集或发送。
+1. 正式站已上线，根目录、中英文页面、HTTPS、sitemap、404及公开资源已通过独立线上扫描。原 Netlify/Bolt 内容未删除；阿里云 DNS 全记录导出已保存，邮箱、`biz` 与 `opsgo` 记录未改。
+2. 当前正式站的联系与动态入口仍只生成访客自行发送的邮件草稿。2026-10-13 新增可选的 FormSubmit 商务询单构建模式，必须待邮箱持有人激活并完成真实收件测试后，发布工作流才可启用 `--inquiry-endpoint`。这只处理商务询单；动态订阅、双重确认、退订和 CRM 仍未接通。
 3. 真实产品截图、可公开原研究与案例证据，按授权补齐，不用虚构内容填空。
-4. 生产发布输出的noindex清理、canonical/hreflang、sitemap、404、HTTPS和隐私说明；预览默认保持noindex。
-5. 先验证部署目标，再做最小DNS变更；保留邮箱、biz与opsgo。生产发布和开发预览分别验收。
+4. 隐私页已描述当前前端流程；正式运营主体、托管与邮件日志、保存和删除安排仍需运营方核实。启用新询单模式时，构建器同步切换联系页及隐私页说明。
+5. 视觉最终验收仍由 Joyce 在正式域名上确认。代码检查和线上路由扫描不代替主观设计认可。
 
 原资料里的愿景与产品组合仍是内容依据；其中个人灵性材料没有被换写成企业科学验证结论。
