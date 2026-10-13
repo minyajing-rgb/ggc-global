@@ -30,3 +30,4 @@
 .fullsite .product-story-facts h3{font-size:16px;margin:6px 0 0}
 .fullsite .product-story-facts>p{font-size:12px;color:#6e6888;margin:0}
 @media(max-width:750px){.fullsite .product-story{grid-template-columns:1fr}.fullsite .lab-art-grid{gap:7px;padding:10px}.fullsite .product-hero-image{margin-top:18px}}
+.fullsite img[src*="opsgo-os-2026-09.png"]{object-fit:contain!important;background:#fff}
