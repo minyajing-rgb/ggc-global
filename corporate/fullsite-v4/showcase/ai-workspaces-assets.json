@@ -2,85 +2,85 @@
   {
     "asset": "agent-office-screen.webp",
     "source_url": "https://ai.ggcgames.com/",
-    "capture_date": "2026-10-13",
-    "source_capture_sha256": "63fc4816320e94686d5ff5747cc2d0307b58cd580964b525062aa2dc2e14f2cf",
+    "capture_date": "2026-10-14",
+    "source_capture_sha256": "9a901110f18dcbab7d30e474d0b10c7d46f3deb8ec82fffce686b718fe758420",
     "source_dimensions": [
-      1280,
-      1546
+      1440,
+      2186
     ],
     "crop_box": [
       0,
-      0,
-      1280,
-      900
+      880,
+      1440,
+      1893
     ],
     "output_dimensions": [
       1280,
       900
     ],
-    "treatment": "Crop and WebP compression only; no generated or composited artwork."
+    "treatment": "Crop, proportional resize and WebP compression only; captured from the published product itself."
   },
   {
     "asset": "agent-office-brand.webp",
     "source_url": "https://ai.ggcgames.com/",
-    "capture_date": "2026-10-13",
-    "source_capture_sha256": "63fc4816320e94686d5ff5747cc2d0307b58cd580964b525062aa2dc2e14f2cf",
+    "capture_date": "2026-10-14",
+    "source_capture_sha256": "9a901110f18dcbab7d30e474d0b10c7d46f3deb8ec82fffce686b718fe758420",
     "source_dimensions": [
-      1280,
-      1546
+      1440,
+      2186
     ],
     "crop_box": [
-      16,
-      14,
-      428,
-      64
+      24,
+      12,
+      435,
+      66
     ],
     "output_dimensions": [
-      412,
-      50
+      411,
+      54
     ],
-    "treatment": "Crop and WebP compression only; no generated or composited artwork."
+    "treatment": "Crop, proportional resize and WebP compression only; captured from the published product itself."
   },
   {
     "asset": "cat-workspace-screen.webp",
     "source_url": "https://agency.ggcgames.com/",
-    "capture_date": "2026-10-13",
-    "source_capture_sha256": "fde7c3609a644cce5214deb819ab003157c581ae6b41b1178406cba6e8e3eddb",
+    "capture_date": "2026-10-14",
+    "source_capture_sha256": "8cdd1514817731365ced30ee3e436013c4a8d9deecca721e4cc0cebdf71858a7",
     "source_dimensions": [
       1440,
-      1379
+      2103
     ],
     "crop_box": [
       0,
-      0,
+      260,
       1440,
-      1013
+      1273
     ],
     "output_dimensions": [
       1280,
       900
     ],
-    "treatment": "Crop and WebP compression only; no generated or composited artwork."
+    "treatment": "Crop, proportional resize and WebP compression only; captured from the published product itself."
   },
   {
     "asset": "cat-workspace-brand.webp",
     "source_url": "https://agency.ggcgames.com/",
-    "capture_date": "2026-10-13",
-    "source_capture_sha256": "fde7c3609a644cce5214deb819ab003157c581ae6b41b1178406cba6e8e3eddb",
+    "capture_date": "2026-10-14",
+    "source_capture_sha256": "8cdd1514817731365ced30ee3e436013c4a8d9deecca721e4cc0cebdf71858a7",
     "source_dimensions": [
       1440,
-      1379
+      2103
     ],
     "crop_box": [
       38,
       18,
-      240,
-      72
+      260,
+      84
     ],
     "output_dimensions": [
-      202,
-      54
+      222,
+      66
     ],
-    "treatment": "Crop and WebP compression only; no generated or composited artwork."
+    "treatment": "Crop, proportional resize and WebP compression only; captured from the published product itself."
   }
 ]
