@@ -18,10 +18,13 @@ def main():
     parser.add_argument('--mode', choices=['preview', 'release'], default='preview')
     parser.add_argument('--base-url', required=True, help='Canonical HTTPS base chosen by the release owner; no DNS change is made.')
     parser.add_argument('--inquiry-endpoint', help='Optional reviewed FormSubmit AJAX endpoint for live business inquiries in release mode only.')
+    parser.add_argument('--google-form', action='store_true', help='Use the reviewed Google Forms enquiry link in release mode.')
     args = parser.parse_args()
     canonical = validate_base_url(args.base_url)
     if args.inquiry_endpoint and (args.mode != 'release' or args.inquiry_endpoint != 'https://formsubmit.co/ajax/minyajing@gmail.com'):
         raise SystemExit('Only the reviewed GGC FormSubmit endpoint may be enabled in release mode.')
+    if args.google_form and (args.mode != 'release' or args.inquiry_endpoint):
+        raise SystemExit('The Google form requires release mode and cannot be combined with FormSubmit.')
     out = args.out.resolve()
     repo = HERE.parents[1]
     if out in [Path('/'), Path('/app'), Path.home(), repo] or out == HERE or out in HERE.parents or HERE in out.parents:
@@ -32,7 +35,7 @@ def main():
         temp = Path(temp)
         candidate, stage = temp / 'site', temp / 'source'
         subprocess.run([sys.executable, str(HERE / 'prepare_site.py'), '--out', str(candidate), '--stage', str(stage)], check=True)
-        prepare_pages(candidate, HERE / 'readiness', args.mode, canonical, args.inquiry_endpoint)
+        prepare_pages(candidate, HERE / 'readiness', args.mode, canonical, args.inquiry_endpoint, args.google_form)
         shutil.copytree(candidate, out, dirs_exist_ok=True)
     print(f'P0 artifact: {out}; mode={args.mode}; canonical={canonical}; not deployed')
 
