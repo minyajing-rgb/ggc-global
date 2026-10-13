@@ -32,11 +32,12 @@ def inline_document(path):
 
 def review(site,evidence,offline=False):
     evidence.mkdir(exist_ok=True,parents=True);checks=[];errors=[];requests=[];server=None
+    expected=json.loads((site/'build-manifest.json').read_text())['courses']
     def check(name,passed,detail=None):checks.append({'name':name,'passed':bool(passed),'detail':detail})
     try:
         for locale in ['zh','en']:
             f=site/locale/'index.html';s=BeautifulSoup(f.read_text(encoding='utf-8'),'html.parser')
-            check(locale+' courses',len(s.select('[data-course]'))==13)
+            check(locale+' courses',len(s.select('[data-course]'))==expected)
             check(locale+' h1',len(s.select('h1'))==1)
             check(locale+' no embeds or collection forms',not s.select('video,audio,iframe,form'))
             check(locale+' paid content absent',not list(site.rglob('*.mp4')))
@@ -81,7 +82,7 @@ def review(site,evidence,offline=False):
                     check(locale+' filter '+key,bool(visible) and all(key=='all' or x.get_attribute('data-category')==key for x in visible))
                 page.locator('[data-filter=all]').click();page.locator('[data-search]').fill('ZZ_NO_RESULT')
                 check(locale+' empty',page.locator('[data-empty]').is_visible());page.locator('[data-search]').fill('')
-                check(locale+' reset',page.locator('[data-course]:visible').count()==13)
+                check(locale+' reset',page.locator('[data-course]:visible').count()==expected)
                 target=page.locator('[data-locale]').get_attribute('href')
                 check(locale+' paired locale link',target=='../'+('en' if locale=='zh' else 'zh')+'/index.html')
                 if not offline:

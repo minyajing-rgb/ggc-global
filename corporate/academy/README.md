@@ -1,82 +1,91 @@
 # GGC Academy / 课程、著作与方法
 
-2026-10-13. Requested by Joyce: add her Sanjieke courses and review GGC subdomains/material suitable for public exposure.
+2026-10-13. Joyce requested her Sanjieke courses be surfaced and existing GGC subdomains/public materials reviewed.
 
-**This directory contains executable source, not a published subdomain.** Codex continues to own hosting, DNS, TLS and live acceptance. No current site, domain record, form configuration or subscription setting is modified here.
+**Executable source and isolated review artifact only.** Codex owns production hosting, DNS, HTTPS and publication. This change does not modify the live site, existing 98-page source, publishing settings, inquiry provider or subscriptions.
 
-## What is ready in source
+## Final publication set
 
-- Chinese and English course-directory pages, category filters, local search and an empty state.
-- 13 identified public Sanjieke course pages across 12 topic groups. Two PR/brand listings are explicitly related; identical content, version or purchasing rights is NOT assumed.
-- Exact Chinese course titles and official external course URLs. English text is editorial translation, not a claim of English video/audio delivery.
-- Existing GGC portrait, logo, book cover and approved magenta-prism/button assets reused without modification.
-- Book, Joyce Method, corporate contact, public instructor, OpsGo and Biz links.
-- Independent preview/release modes, canonical language pairs and a small sitemap when a verified release base is explicitly supplied.
-- No learner accounts, video hosting, paid downloads, onsite checkout, course purchase, tracking, CRM or newsletter enrollment.
+**12 currently matched public course pages**, spanning 11 topic groups. Two PR/brand pages are related listings; do not assume identical content, version or purchase entitlement.
 
-### Reproduce from the original source branch
+| Area | Public course IDs |
+|---|---|
+| Global publishing / AAA marketing | 8006182, 8003815 |
+| Retention / events / community | 8006834, 8009615, 8009616 |
+| Analytics foundations / advanced | 8003817, 8003816 |
+| PR / brand — two related listings | 8007244, 8009627 |
+| Cross-cultural teams / hiring | 8006210, 8003814 |
+| Laws / policy educational course | 8006835 |
+
+**Held out:** 8003845 AIGC and 8003802 female leadership. They have historical indexed references, but direct HTTP on 2026-10-13 returned the placeholder title `--体系课`, not a matching course title/lecturer. Do not call this proof of deletion. They are not shown as current public course links.
+
+The initial candidate contained 13 links based on indexed material. Read-only live verification found 8003845 needed review; the final candidate removes it rather than allowing an obsolete-looking listing through.
+
+### Source of truth
+
+Teacher: https://www.sanjieke.cn/teacher_info?id=23221919
+Detail pattern: https://www.sanjieke.cn/course/detail/sjk/{id}
+`catalog.json` holds exact Chinese course titles, concise summaries, editorial English translations, topic groups and held records. Retain course title wording even where it differs from current GGC brand language.
+
+Learning stays on Sanjieke. No paid videos, lecture downloads, onsite playback, enrolment, checkout or independent resale. Prices, discounts, course duration, access periods and teaching language are not copied into this directory. English navigation does not imply English-language delivery. This is not claimed as Joyce's exhaustive lifetime course catalogue.
+
+## Existing domain inventory — public read, not full zone export
+
+At 2026-10-13 09:08 UTC, the repository-referenced public-host audit returned:
+
+| Host | Public response | Treatment |
+|---|---|---|
+| `ggcgames.com` | GitHub Pages A records, HTTPS 200; corporate entry | Keep company-level services, proof and product navigation |
+| `www.ggcgames.com` | CNAME `minyajing-rgb.github.io`; redirects to apex, HTTPS 200 | Alias of company site, not another business |
+| `biz.ggcgames.com` | CNAME `minyajing-rgb.github.io`; HTTPS 200, Joyce Mi / Global Game Copilot | Public business profile and scoped service evidence |
+| `opsgo.ggcgames.com` | A `216.24.57.1`; HTTPS 200, Game Ops Hub | Existing knowledge/research surface; preferred host to assess for the course directory |
+| `academy.ggcgames.com` | DNS status 3 / NXDOMAIN in this lookup | Proposal only; not an existing published Academy |
+
+The audit scanned literal `*.ggcgames.com` mentions in repository text plus known hosts and the explicit Academy proposal; five candidates were found, within the 50-host cap. It did not read Aliyun's full zone or credentials. Public DNS does not exhaust all records, prove ownership, or constitute product/privacy/payment acceptance.
+
+**Deployment suggestion:** first assess an isolated `/academy/` mount on the existing OpsGo app. Codex must verify router/static-host support before adding it. An independent Academy subdomain is optional after that owner review; do not automatically create DNS. Keep the existing Biz and product apps. `/sme/` is a path, not a subdomain. `*.saga1001.com` products are separate domains, not GGC subdomains.
+
+## Public-exposure matrix
+
+| Material | Initial public treatment | Gate |
+|---|---|---|
+| Sanjieke courses | Title, brief introduction, Joyce attribution and official learning link | Explicit contract/disclosure review before hosting full recordings or paid handouts |
+| Published book | Approved cover, introduction and official book destination | No full ebook reproduction |
+| Joyce Method | Public Decide / Build / Compound overview and operating modules | Retain source terminology, omit confidential examples |
+| Industry research | Source-backed public summary, date and subject | Full reports need licensing/disclosure checks; no invented findings |
+| Professional history / services | Approved scoped career and service copy | Old poster prices/figures and employer logos do not become current client endorsements |
+| Community / knowledge products | Introduction and separately verified public link | Do not claim live paid membership or subscriptions until tested |
+| Tools / experiments | Honest maturity label and approved demo/contact | A prototype is not a released paid SaaS |
+| Admin / earnings / internal plans | Exclude from public catalogue navigation | Access-control review is separate |
+| Client data / BD lists / private dialogue | Do not publish | Consent and confidentiality review |
+| Private personal/astrology records | Excluded | Not corporate course or client evidence |
+
+OpsGo's public page extraction surfaced `AdminDashboard`, `ReferralEarnings` and `ProductRoadmap` links; those routes were not opened or tested. This observation is not a demonstrated authorization vulnerability.
+
+Approved content framing: supplied `Joyce_GGC_9_Original_Posters_副本.pdf` p7 supports Knowledge / Community, courses and content; `Joyce_Method_Plot_Style_Deck_4pages_副本.pdf` p2 supplies the method and pp3–4 the book. It is not blanket permission to publish every internal/personal source page.
+
+## Build without touching the existing site
 
 ```sh
 python corporate/fullsite-v4/prepare_site.py \
-  --out /tmp/ggc-academy-baseline \
-  --stage /tmp/ggc-academy-source
-
+  --out /tmp/ggc-academy-baseline --stage /tmp/ggc-academy-source
 python corporate/academy/build_academy.py \
   --assets-from /tmp/ggc-academy-baseline/assets \
   --out /tmp/ggc-academy-preview
 ```
 
-The original full-site builder verifies its 14 protected inputs. The Academy builder copies seven needed approved assets and records their hashes; it does not replace original pages. Output must be new/empty. For local viewing, serve the output directory, or open `zh/index.html` and `en/index.html`.
+The first step checks the original 14 protected inputs. The Academy builder copies seven needed approved assets, recording hashes, and creates two localized pages plus a root entry, filters, search/empty state, book/method links and external course navigation. No font files are distributed.
 
-Only the release owner may supply `--mode release --base-url <verified HTTPS host/path>`. That command still only builds files, never deploys.
+Preview is noindex by default. Only the release owner supplies `--mode release --base-url <verified HTTPS host/path>`; that still builds files only. Output must be new or empty. Do not build over the current OpsGo application.
 
-## Hosting / subdomain proposal — not a DNS instruction
+## Verification and artifacts
 
-1. **Prefer the existing `opsgo.ggcgames.com` knowledge surface** for courses, book, methods and permitted public research. A new `/academy/` route can host this isolated artifact if its current application/router supports the mount. Do not overwrite its app or assume an arbitrary route is already implemented.
-2. `academy.ggcgames.com` is a possible separate learning entry, not an asserted existing host. Its status must be checked against public DNS and Codex's authoritative zone inventory before choosing it.
-3. `biz.ggcgames.com` retains executive/business proof and service details; the apex remains the corporate brand. A path such as `/sme/` is not another subdomain.
-4. Products on `saga1001.com` remain independent product sites. Do not move them or imply they are GGC subdomains.
-5. Publishing the catalogue does not require mirroring Sanjieke videos or moving payments off Sanjieke.
+`review_academy.py` tests both languages at 320/390/768/1440, course count, local links, images, keyboard filters, search/empty/reset, locale links/navigation, no collection forms or media embeds and no POST. Its `--offline` flag is a labeled in-memory DOM alternative, not hosted acceptance.
 
-The new `audit_public.py` checks only literal repository-mentioned GGC hosts plus known references and the explicit Academy proposal. It performs public DNS/HTTP GETs only, with a 50-host cap. **It is not a complete Alibaba DNS-zone export.** HTTP 200 is not proof of product readiness, ownership, authorization, enrollment, privacy acceptance or working payment.
+`audit_public.py` performs bounded public DNS/HTTP GETs and title/lecturer matching. The workflow additionally blocks the reviewed catalogue when any published listing fails current metadata matching; held historical listings are reported but excluded. No paid content, enrolment or checkout is accessed.
 
-## Public-exposure decision matrix
+The GitHub Actions artifact `ggc-academy-directory-and-inventory` contains the built candidate, screenshots, browser review and `public-inventory.json`. A successful read-only workflow is not publication. Final run details are appended to PR #11 after completion.
 
-| Material | Safe initial website treatment | Additional gate |
-|---|---|---|
-| Sanjieke courses | Course name, concise description, Joyce attribution, official learning link | Full recordings/handouts need an explicit contractual-rights check before rehosting |
-| Book | Existing approved cover, introduction, author and publisher/book page | No full ebook reproduction or independent resale claim |
-| Joyce Method | Public overview of Decide / Build / Compound and operating modules | Original source terminology retained; private examples omitted |
-| Public research | Title, theme, date and source-backed public abstract | Full reports require disclosure and licensing approval; no fabricated findings |
-| Professional profile/services | Approved career wording, scoped services, contact | Old poster prices/metrics and employer logos do not create current customer endorsements |
-| Community/knowledge products | Description; verified official public entry when available | No assertion of active membership, payment or auto-subscription until tested |
-| AI tools/product experiments | Clearly labeled product state, approved demo or contact route | Not every prototype is a released paid SaaS product |
-| Admin/earnings/internal plans | Do not expose in public discovery navigation | Access-control review is separate; a link alone does not prove unauthorized access |
-| Client/BD data/private practitioner dialogue | Do not publish | Consent, confidentiality, anonymization and disclosure review |
-| Personal/private astrology or family records | Excluded from corporate material | Never copy private client/personal records into a public course hub |
+## Codex handoff
 
-OpsGo's current public extraction surfaced routes named `AdminDashboard`, `ReferralEarnings` and `ProductRoadmap`. They were not opened or tested here. Exclude them from the outward-facing catalogue; do not misreport this navigation observation as a demonstrated security vulnerability.
-
-## Course evidence / source trace
-
-Primary instructor page: https://www.sanjieke.cn/teacher_info?id=23221919
-Course detail pattern: https://www.sanjieke.cn/course/detail/sjk/{id}
-All IDs and descriptions are in `catalog.json`. Sources were read from the official public instructor/course pages on 2026-10-13, supplemented by separately identified historical public listings. They are not paid course content.
-
-- Main current instructor-page links include 8009627, 8009616, 8009615, 8006182, 8007244, 8006835, 8006834, 8006210, 8003817, 8003816, 8003815 and 8003814.
-- AIGC 8003845 has a public detail page identifying Joyce; its January 2024 date is explicitly disclosed rather than marketed as a current 2026 tools course.
-- Historical leadership 8003802 is held out: the latest detail extraction returned an empty course title. That is a verification limitation, not a claim of deletion.
-- Exact prices, discounts, durations, access periods, refunds and delivery language stay with Sanjieke. Do not copy cached numbers or advertise the listings as permanently available.
-- The instructor page can show a partial subset. This is not claimed to be a complete inventory of everything Joyce has taught.
-
-Approved user source decks: `Joyce_GGC_9_Original_Posters_副本.pdf`, p7 (Knowledge / Community, courses and content), and `Joyce_Method_Plot_Style_Deck_4pages_副本.pdf`, p2 (Decide / Build / Compound), pp3–4 (book). Those materials establish the information architecture; they do not authorize publishing every internal/personal page.
-
-## QA scope
-
-`review_academy.py` defaults to HTTP Chromium and checks both locales at 320/390/768/1440, all course counts and local links, loaded images, keyboard filters, empty search/reset, language navigation, no embedded recordings/collection forms and no POST. `--offline` is a clearly labeled local DOM alternative where browser policy blocks localhost; it is not deployed acceptance.
-
-The read-only GitHub Actions workflow preserves the built preview, desktop/mobile screenshots, QA and `public-inventory.json` for inspection. A request failure is a review flag, not proof that a course or subdomain was deleted.
-
-## Codex next steps
-
-Inspect the catalogue and audit output; choose one existing-compatible knowledge route or an explicitly approved new Academy host; publish the isolated files without overwriting other apps; use the exact verified canonical base; add the public entry to the main site only after its route is live. Verify both languages, official learning links and browser/server behavior. No changes to live inquiry providers or subscription configuration are part of this task.
+Review this source and public inventory; choose the verified knowledge route; deploy the isolated directory without replacing existing applications; use the correct canonical host/path; add a main-site learning entry after the destination is live. Validate both languages, official learning destinations, 404/HTTPS behavior and actual device rendering. No changes to live inquiry, CRM or newsletter configuration belong to this task.

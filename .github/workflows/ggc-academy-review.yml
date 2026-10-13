@@ -21,7 +21,19 @@ jobs:
           python corporate/fullsite-v4/prepare_site.py --out /tmp/ggc-academy-baseline --stage /tmp/ggc-academy-source
           python corporate/academy/build_academy.py --assets-from /tmp/ggc-academy-baseline/assets --out academy-evidence/site
       - name: Read-only public host and official course metadata inventory
-        run: python corporate/academy/audit_public.py --out academy-evidence
+        run: |
+          python corporate/academy/audit_public.py --out academy-evidence
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          catalogue=json.loads(Path('corporate/academy/catalog.json').read_text())
+          report=json.loads(Path('academy-evidence/public-inventory.json').read_text())
+          published={row['id'] for row in catalogue['courses']}
+          matches={row['id'] for row in report['courses'] if row['metadata_matches']}
+          unresolved=published-matches
+          print({'published_listings':len(published),'matching_public_metadata':len(published & matches),'unresolved':sorted(unresolved),'historical_held':len(catalogue['hold'])})
+          if unresolved:raise SystemExit('Published course metadata requires review; do not publish this candidate.')
+          PY
       - name: Install existing browser QA dependencies
         run: |
           python -m pip install playwright==1.57.0 beautifulsoup4
