@@ -67,7 +67,24 @@ LIVE_INQUIRY = {
  }
 }
 
-def notice_for(loc, live):
+GOOGLE_FORM_URL = 'https://docs.google.com/forms/d/e/1FAIpQLSeWUmuNsdE8QNOFOMW1XpVBSV4C89UNN0wXaeKpMq7DPzYvoA/viewform'
+
+def google_notice_for(loc):
+    n = NOTICE[loc].copy()
+    sections = list(n['sections'])
+    if loc == 'zh':
+        n['intro'] = '说明本网站如何处理页面访问、Google 表单商务询单与订阅意向邮件。'
+        sections[1] = (sections[1][0], '访客在 Google 表单中主动提交姓名、回复邮箱、可选公司、合作方向、业务问题及同意选择。Google 将回复保存至由 minyajing@gmail.com 持有的私有 Google 表格，并可向该邮箱发送新回复通知。GGC 仅用这些信息回复本次咨询；商务询单不会自动加入动态订阅，也不会写入 CRM。')
+        sections[-1] = (sections[-1][0], '本说明对应当前静态页面、Google 表单商务询单与动态订阅意向邮件流程。Google 表单及表格按照 Google 的服务条款和隐私政策处理信息。若需查询、更正或删除已提交的询单，请联系 GGC 邮箱；这里不承诺未经核实的保存期限。正式运营主体及托管日志仍需由网站运营方核实。')
+    else:
+        n['intro'] = 'How the website handles page requests, Google Forms business enquiries and updates interest.'
+        sections[1] = (sections[1][0], 'Visitors voluntarily submit their name, reply email, optional company, partnership track, business question and consent choice in Google Forms. Google stores responses in a private Google Sheet owned by minyajing@gmail.com and may email new-response notifications to that address. GGC uses the information to reply to the enquiry. Business enquiries do not enroll visitors in updates or enter a CRM.')
+        sections[-1] = (sections[-1][0], 'This notice describes the current static pages, Google Forms business enquiries and updates-interest email drafts. Google processes form and sheet information under its terms and privacy policy. Contact GGC by email to ask about access, correction or deletion of a submitted enquiry; no unverified retention period is promised here. The legal operator and hosting logs still require operator verification.')
+    n['sections'] = sections
+    return n
+
+def notice_for(loc, live, google_form=False):
+    if google_form:return google_notice_for(loc)
     if not live:return NOTICE[loc]
     n=NOTICE[loc].copy();live_copy=LIVE_INQUIRY[loc]
     n['form']=live_copy['form'];n['noscript']=live_copy['noscript']
@@ -156,8 +173,30 @@ def patch_live_contact(html, loc, endpoint):
     return html
 
 
-def privacy_page(template, loc, live=False):
-    n=notice_for(loc,live)
+def patch_google_contact(html, loc):
+    old_aside = ('填写你的业务问题，生成邮件草稿后，在邮箱中核对并发送。' if loc == 'zh' else
+                 'Use the form to prepare an email with your business question, then review and send it from your email app.')
+    assert old_aside in html, 'Contact aside changed; reconcile Google form copy.'
+    aside = ('使用 Google 表单提交商务询单。提交后，回复会进入 GGC 的私有 Google 表格，并向负责邮箱发送新回复通知。' if loc == 'zh' else
+             'Send your business enquiry through Google Forms. Responses are saved in GGC’s private Google Sheet, with new-response email notifications.')
+    html = html.replace(old_aside, aside, 1)
+    if loc == 'zh':
+        title, lead, cta, fallback = ('在线提交商务询单', '姓名、回复邮箱、可选公司、合作方向和业务问题将由 Google 表单收集；填写前请阅读隐私说明。', '打开 Google 商务询单表单', '也可直接通过邮箱联系 GGC。')
+    else:
+        title, lead, cta, fallback = ('Submit a business enquiry', 'Google Forms collects your name, reply email, optional company, partnership track and business question. Please read the privacy notice before submitting.', 'Open the Google enquiry form', 'You can also email GGC directly.')
+    card = (f'<div class="interest-form google-inquiry" aria-labelledby="google-inquiry-title">'
+            f'<h3 id="google-inquiry-title">{escape(title)}</h3><p class="note">{escape(lead)} '
+            f'<a class="source-link" href="privacy.html">{escape(NOTICE[loc]["title"])}</a></p>'
+            f'<div class="actions"><a class="ggc-btn" data-button-id="06" href="{escape(GOOGLE_FORM_URL, quote=True)}" '
+            f'target="_blank" rel="noopener noreferrer">{escape(cta)} ↗</a></div>'
+            f'<p class="note">{escape(fallback)} <a href="mailto:minyajing@gmail.com">minyajing@gmail.com</a></p></div>')
+    html, count = re.subn(r'<form\b[^>]*data-inquiry[\s\S]*?</form>', lambda _: card, html, count=1)
+    assert count == 1, 'Contact form changed.'
+    return html
+
+
+def privacy_page(template, loc, live=False, google_form=False):
+    n=notice_for(loc,live,google_form)
     content=(f'<section class="pagehero"><div class="shell"><p class="eyebrow">PRIVACY / CONTACT</p>'
              f'<h1>{escape(n["title"])}</h1><p>{escape(n["intro"])}</p></div></section>'
              '<section class="section"><div class="shell"><div class="grid g2">'+
@@ -223,7 +262,7 @@ def absolute_404_paths(html, loc, base):
     return re.sub(r'((?:href|src)=")([^"]*)(")',rewrite,html)
 
 
-def patch_page(html, loc, route, mode, endpoint=None):
+def patch_page(html, loc, route, mode, endpoint=None, google_form=False):
     script='<script defer src="../assets/readiness.js"></script>'
     if route=='contact' and endpoint:
         script+='<script defer src="../assets/live_inquiry.js"></script>'
@@ -238,6 +277,7 @@ def patch_page(html, loc, route, mode, endpoint=None):
     html=re.sub(r'(data-slide-to="(\d+)"[^>]*aria-label=")(\d+)(")',lambda m:m[1]+('查看第'+str(int(m[2])+1)+'张说明图' if loc=='zh' else 'View information panel '+str(int(m[2])+1))+m[4],html)
     html=patch_contact(html,loc,route=='contact' and bool(endpoint))
     if route=='contact' and endpoint:html=patch_live_contact(html,loc,endpoint)
+    if route=='contact' and google_form:html=patch_google_contact(html,loc)
     if mode=='release':
         # Design-only review links and state simulations remain in preview, not the public flow.
         html=re.sub(r'<a href="\.\./review\.html">[^<]*</a>','',html)
@@ -245,23 +285,24 @@ def patch_page(html, loc, route, mode, endpoint=None):
     return html
 
 
-def prepare_pages(site, assets, mode, base, inquiry_endpoint=None):
+def prepare_pages(site, assets, mode, base, inquiry_endpoint=None, google_form=False):
     base=validate_base_url(base)
     if inquiry_endpoint and mode!='release':raise ValueError('Live inquiry requires release mode.')
+    if google_form and (mode!='release' or inquiry_endpoint):raise ValueError('Google form requires release mode and cannot be combined with another inquiry endpoint.')
     manifest=json.loads((site/'build-manifest.json').read_text())
     assert manifest['locale_pages']==96 and len(manifest['routes'])==48,'Unexpected baseline; reconcile before modifying.'
     before={f.relative_to(site/'assets').as_posix():hashfile(f) for f in (site/'assets').iterdir() if f.is_file()}
     baseline_bodies={f.relative_to(site).as_posix():hashfile(f) for f in site.glob('*/*.html')}
     for loc in LANG:
         original=(site/loc/'index.html').read_text()
-        (site/loc/'privacy.html').write_text(privacy_page(original,loc,bool(inquiry_endpoint)),encoding='utf-8')
+        (site/loc/'privacy.html').write_text(privacy_page(original,loc,bool(inquiry_endpoint),google_form),encoding='utf-8')
     for name in ['readiness.js','readiness.css']:shutil.copyfile(assets/name,site/'assets'/name)
     if inquiry_endpoint:shutil.copyfile(assets/'live_inquiry.js',site/'assets'/'live_inquiry.js')
     inventory=[]
     for loc in LANG:
         for route in manifest['routes']+['privacy']:
             f=site/loc/(route+'.html');html=f.read_text()
-            html=patch_page(html,loc,route,mode,inquiry_endpoint)
+            html=patch_page(html,loc,route,mode,inquiry_endpoint,google_form)
             html,meta=add_metadata(html,loc,route,mode,base)
             if route=='404':html=absolute_404_paths(html,loc,base)
             f.write_text(html,encoding='utf-8');inventory.append(meta)
@@ -293,8 +334,8 @@ def prepare_pages(site, assets, mode, base, inquiry_endpoint=None):
     result={'version':VERSION,'mode':mode,'canonical_base':base,'baseline_locale_pages':96,'added_privacy_pages':2,'locale_pages':98,
             'indexable_urls':sum(i['indexable'] for i in inventory),'root_404':'404.html','deployment_performed':False,
             'approved_assets_unchanged':True,'approved_asset_hashes':before,'baseline_page_hashes':baseline_bodies,
-            'forms':'FormSubmit business inquiries; updates remain local drafts; no CRM or subscription activation' if inquiry_endpoint else 'Local drafts only; no CRM or subscription activation',
-            'inquiry_endpoint':inquiry_endpoint,'font_requests':'Existing Google Fonts CSS/files; see notice',
+            'forms':'Google Forms business inquiries; updates remain local drafts; no CRM or subscription activation' if google_form else ('FormSubmit business inquiries; updates remain local drafts; no CRM or subscription activation' if inquiry_endpoint else 'Local drafts only; no CRM or subscription activation'),
+            'inquiry_endpoint':inquiry_endpoint,'google_form_url':GOOGLE_FORM_URL if google_form else None,'font_requests':'Existing Google Fonts CSS/files; see notice',
             'host_404_contract':{'status':404,'default_document':'404.html','zh_document':'zh/404.html','en_document':'en/404.html','must_not_redirect_or_return_200':True},
             'inventory':inventory}
     (site/'readiness-manifest.json').write_text(json.dumps(result,ensure_ascii=False,indent=2),encoding='utf-8')
