@@ -270,7 +270,7 @@ def patch_page(html, loc, route, mode, endpoint=None, google_form=False):
         script+='<script defer src="../assets/live_inquiry.js"></script>'
     # Guard executes before legacy scripts; enhancement waits for DOMContentLoaded.
     html=html.replace('<script defer src="../assets/app.js">',script+'<script defer src="../assets/app.js">',1)
-    html=html.replace('</head>','<link rel="stylesheet" href="../assets/readiness.css"></head>',1)
+    html=html.replace('</head>','<link rel="stylesheet" href="../assets/readiness.css"><link rel="stylesheet" href="../assets/visual-refinement.css"></head>',1)
     html=html.replace('<main id="main">','<main id="main" tabindex="-1">',1)
     html=html.replace('<div class="footer-bottom">','<div class="footer-bottom"><a class="source-link" href="privacy.html">'+NOTICE[loc]['title']+'</a>',1)
     # Per-locale accessibility names, while visible artwork and labels stay intact.
@@ -299,6 +299,10 @@ def prepare_pages(site, assets, mode, base, inquiry_endpoint=None, google_form=F
         original=(site/loc/'index.html').read_text()
         (site/loc/'privacy.html').write_text(privacy_page(original,loc,bool(inquiry_endpoint),google_form),encoding='utf-8')
     for name in ['readiness.js','readiness.css']:shutil.copyfile(assets/name,site/'assets'/name)
+    visual=assets.parent/'visual'
+    shutil.copyfile(visual/'visual-refinement.css',site/'assets'/'visual-refinement.css')
+    for image in (visual/'assets').glob('*.jpg'):
+        shutil.copyfile(image,site/'assets'/image.name)
     if inquiry_endpoint:shutil.copyfile(assets/'live_inquiry.js',site/'assets'/'live_inquiry.js')
     inventory=[]
     for loc in LANG:
