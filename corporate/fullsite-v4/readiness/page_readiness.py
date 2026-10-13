@@ -11,6 +11,7 @@ import hashlib, json, re, shutil
 import xml.etree.ElementTree as ET
 
 VERSION = '2026-10-13-pr11-p0'
+PRODUCT_PREVIEWS = ('intelligence','creative','outbound','copilot','steam','intel','casino','simulation','arcade','bunny','plot','atlas','memo')
 EXCLUDED = {'buttons', '404'}
 LANG = {'zh': ('zh-Hans', 'zh_CN'), 'en': ('en', 'en_US')}
 NOTICE = {
@@ -271,6 +272,10 @@ def patch_page(html, loc, route, mode, endpoint=None, google_form=False):
     # Guard executes before legacy scripts; enhancement waits for DOMContentLoaded.
     html=html.replace('<script defer src="../assets/app.js">',script+'<script defer src="../assets/app.js">',1)
     html=html.replace('</head>','<link rel="stylesheet" href="../assets/readiness.css"><link rel="stylesheet" href="../assets/visual-refinement.css"></head>',1)
+    # Preserve the approved, hash-verified V4 builder and its original SVGs.
+    # Swap only the rendered public preview references for product-specific art.
+    for product in PRODUCT_PREVIEWS:
+        html=html.replace('../assets/product-art/'+product+'.svg','../assets/product-previews/'+product+'-v2.jpg')
     html=html.replace('<main id="main">','<main id="main" tabindex="-1">',1)
     html=html.replace('<div class="footer-bottom">','<div class="footer-bottom"><a class="source-link" href="privacy.html">'+NOTICE[loc]['title']+'</a>',1)
     # The current OpsGo root exposes a project page index and unfinished content.
@@ -306,6 +311,7 @@ def prepare_pages(site, assets, mode, base, inquiry_endpoint=None, google_form=F
     shutil.copyfile(visual/'visual-refinement.css',site/'assets'/'visual-refinement.css')
     for image in (visual/'assets').glob('*.jpg'):
         shutil.copyfile(image,site/'assets'/image.name)
+    shutil.copytree(visual/'assets'/'product-previews',site/'assets'/'product-previews',dirs_exist_ok=True)
     if inquiry_endpoint:shutil.copyfile(assets/'live_inquiry.js',site/'assets'/'live_inquiry.js')
     inventory=[]
     for loc in LANG:
