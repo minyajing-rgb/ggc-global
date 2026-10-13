@@ -209,6 +209,10 @@ def prepare_pages(site, assets, mode, base):
     (site/'404.html').write_bytes((site/'zh/404.html').read_bytes())
     for f in [site/'index.html',site/'review.html']:
         h=f.read_text()
+        if mode=='release' and f.name=='index.html':
+            # The review hub is excluded from the published artifact. Keep the
+            # language fallbacks on the root redirect page, but not a dead link.
+            h=re.sub(r'<a href="review\.html">[^<]*</a>\s*·\s*','',h)
         h=re.sub(r'<meta\b(?=[^>]*\bname="robots")[^>]*>','',h)
         h=h.replace('</head>','<meta name="robots" content="noindex,nofollow"></head>',1)
         f.write_text(h,encoding='utf-8')
