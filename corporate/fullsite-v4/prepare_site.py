@@ -6,6 +6,8 @@ new fullsite directory. No credentials, DNS, deployed root or business data touc
 """
 from pathlib import Path
 import argparse, base64, hashlib, json, shutil, subprocess, sys
+from showcase.mow_banner import add_mow_showcase
+from showcase.ai_workspaces import add_ai_workspaces
 HERE=Path(__file__).resolve().parent
 BASE=HERE.parent/'implementation/src'
 BASE_HASH={
@@ -70,6 +72,8 @@ def main():
     if len(list(art.iterdir()))!=14:raise ValueError('Expected 14 reviewed product illustrations/assets')
     shutil.copytree(art,stage/'product-art',dirs_exist_ok=True)
     subprocess.run([sys.executable,str(stage/'build_fullsite.py'),'--out',str(out)],check=True)
+    add_mow_showcase(out)
+    add_ai_workspaces(out)
     report={'accepted_zip':'GGC_Fullsite_UI_and_Frontend_V4_2026-10-12.zip','source_sha256':verified,'pages':96,'ui_types':16,'production_changed':False,'stage':str(stage),'output':str(out)}
     (out/'source-verification.json').write_text(json.dumps(report,indent=2))
     print(json.dumps({'hashes_verified':len(verified),'pages':96,'ui_types':16,'output':str(out)}))

@@ -1,0 +1,86 @@
+[
+  {
+    "asset": "agent-office-screen.webp",
+    "source_url": "https://ai.ggcgames.com/",
+    "capture_date": "2026-10-13",
+    "source_capture_sha256": "63fc4816320e94686d5ff5747cc2d0307b58cd580964b525062aa2dc2e14f2cf",
+    "source_dimensions": [
+      1280,
+      1546
+    ],
+    "crop_box": [
+      0,
+      0,
+      1280,
+      900
+    ],
+    "output_dimensions": [
+      1280,
+      900
+    ],
+    "treatment": "Crop and WebP compression only; no generated or composited artwork."
+  },
+  {
+    "asset": "agent-office-brand.webp",
+    "source_url": "https://ai.ggcgames.com/",
+    "capture_date": "2026-10-13",
+    "source_capture_sha256": "63fc4816320e94686d5ff5747cc2d0307b58cd580964b525062aa2dc2e14f2cf",
+    "source_dimensions": [
+      1280,
+      1546
+    ],
+    "crop_box": [
+      16,
+      14,
+      428,
+      64
+    ],
+    "output_dimensions": [
+      412,
+      50
+    ],
+    "treatment": "Crop and WebP compression only; no generated or composited artwork."
+  },
+  {
+    "asset": "cat-workspace-screen.webp",
+    "source_url": "https://agency.ggcgames.com/",
+    "capture_date": "2026-10-13",
+    "source_capture_sha256": "fde7c3609a644cce5214deb819ab003157c581ae6b41b1178406cba6e8e3eddb",
+    "source_dimensions": [
+      1440,
+      1379
+    ],
+    "crop_box": [
+      0,
+      0,
+      1440,
+      1013
+    ],
+    "output_dimensions": [
+      1280,
+      900
+    ],
+    "treatment": "Crop and WebP compression only; no generated or composited artwork."
+  },
+  {
+    "asset": "cat-workspace-brand.webp",
+    "source_url": "https://agency.ggcgames.com/",
+    "capture_date": "2026-10-13",
+    "source_capture_sha256": "fde7c3609a644cce5214deb819ab003157c581ae6b41b1178406cba6e8e3eddb",
+    "source_dimensions": [
+      1440,
+      1379
+    ],
+    "crop_box": [
+      38,
+      18,
+      240,
+      72
+    ],
+    "output_dimensions": [
+      202,
+      54
+    ],
+    "treatment": "Crop and WebP compression only; no generated or composited artwork."
+  }
+]
