@@ -26,6 +26,26 @@
 .fullsite .product-story figure{min-width:0}
 .fullsite .product-story figure img{display:block;width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:20px;border:1px solid #e5dff3;box-shadow:0 14px 32px #5348791f}
 .fullsite .product-story-facts{display:grid;gap:12px}
+
+/* Homepage fidelity pass: clearer type hierarchy and the mockup's bilingual editorial rhythm. */
+.fullsite.page-index .hero{background:radial-gradient(ellipse at 82% 32%,#eadfff9c,transparent 51%),radial-gradient(ellipse at 34% 79%,#fce4f5a0,transparent 55%),linear-gradient(180deg,#fff 0%,#f9faff 100%)}
+.fullsite.page-index .hero h1.hero-headline{font-size:clamp(54px,4.85vw,69px);line-height:1.05;letter-spacing:-.055em;text-wrap:balance}
+html[lang=en] .fullsite.page-index .hero h1.hero-headline{font-size:clamp(48px,4.45vw,63px);letter-spacing:-.055em}
+.fullsite.page-index .hero .hero-translation{font-size:19px;font-weight:700;line-height:1.35;margin:19px 0 20px;letter-spacing:-.025em;color:#28274b}
+.fullsite.page-index .hero .intro{font-size:15px;line-height:1.78;max-width:610px}
+.fullsite.page-index .hero .subline{color:#65647f;font-size:12px}
+.fullsite.page-index .fidelity-memo{isolation:isolate}
+.fullsite.page-index .hero-handwritten{position:absolute;z-index:4;left:9%;top:-30px;transform:rotate(-8deg);color:#6837df;font:italic 25px/1.1 Georgia,serif;letter-spacing:-.035em;text-shadow:0 2px 12px #ffffffcc;white-space:nowrap;pointer-events:none}
+.fullsite.page-index .section-questions .question{min-height:177px;display:flex;flex-direction:column}
+.fullsite.page-index .section-questions .question h3{margin-bottom:4px}
+.fullsite.page-index .question-caption{font-size:10px;line-height:1.35;color:#696d91;margin:0 0 13px;max-width:135px}
+.fullsite.page-index .section-questions .question .ggc-btn{margin-top:auto;align-self:flex-end}
+.fullsite.page-index .section-pillars .card{min-height:204px;display:flex;flex-direction:column}
+.fullsite.page-index .pillar-caption{display:block;color:#616183;font-size:11px;line-height:1.4;margin-top:2px;font-weight:650}
+.fullsite.page-index .section-pillars .card p{margin-top:10px}
+.fullsite.page-index .section-pillars .card .ggc-btn{margin-top:auto;align-self:flex-start}
+@media(max-width:880px){.fullsite.page-index .hero-handwritten{left:auto;right:12%;top:-20px}.fullsite.page-index .hero h1.hero-headline{font-size:clamp(50px,8.6vw,70px)}html[lang=en] .fullsite.page-index .hero h1.hero-headline{font-size:clamp(44px,7.3vw,61px)}}
+@media(max-width:540px){.fullsite.page-index .hero h1.hero-headline{font-size:clamp(40px,11.3vw,56px);line-height:1.13}.fullsite.page-index .hero .hero-translation{font-size:16px;margin:16px 0}.fullsite.page-index .hero-handwritten{display:none}.fullsite.page-index .section-questions .question{min-height:170px}.fullsite.page-index .question-caption{font-size:9px}.fullsite.page-index .section-pillars .card{min-height:0}html[lang=en] .fullsite.page-index .hero h1.hero-headline{font-size:clamp(28px,8.2vw,37px);line-height:1.1}html[lang=en] .fullsite.page-index .hero-headline .headline-line{width:auto;white-space:normal}}
 .fullsite .product-story-facts article{padding:14px 18px;border:1px solid #e7dff3;border-radius:14px;background:#fff}
 .fullsite .product-story-facts h3{font-size:16px;margin:6px 0 0}
 .fullsite .product-story-facts>p{font-size:12px;color:#6e6888;margin:0}

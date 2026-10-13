@@ -98,6 +98,32 @@ def faq():
 
 def fullhome():
     h=r.refined_home()
+    # Keep the reviewed page structure while tightening the bilingual hero and
+    # restoring the editorial captions visible in the original visual direction.
+    headline=(x('看清变化。','See what’s changing.'),
+              x('做对关键决策。','Make the right call.'),
+              x('See what’s changing. Make the right call.',
+                '看清变化，做对关键决策。'))
+    h=re.sub(r'<h1 class="hero-headline">.*?</h1><p class="hero-translation"[^>]*>.*?</p>',
+             '<h1 class="hero-headline"><span class="headline-line">'+headline[0]+'</span><span class="inkgrad headline-line">'+headline[1]+'</span></h1><p class="hero-translation" lang="'+b.OTHER+'">'+headline[2]+'</p>',h,count=1)
+    h=h.replace('<div class="memo-stage fidelity-memo">',
+                '<div class="memo-stage fidelity-memo"><span class="hero-handwritten" aria-hidden="true">A brighter tomorrow.</span>',1)
+    questions=[('哪个赛道值得做？','Which category fits?','Where should we compete?','哪个赛道值得做？'),
+               ('适合你的公司吗？','A fit for your company?','Does it fit your company?','适合你的公司吗？'),
+               ('真正的问题在哪？','What is the constraint?','What is the real constraint?','真正的问题在哪？'),
+               ('商业模型成立吗？','Can the model work?','Does the business model hold?','商业模型成立吗？'),
+               ('还缺什么能力？','What capability is missing?','What capability is missing?','还缺什么能力？'),
+               ('下一步怎么执行？','What happens next?','What happens next?','下一步怎么执行？')]
+    for zh,english,en,cn in questions:
+        primary,secondary=(zh,english) if b.LANG=='zh' else (en,cn)
+        h=h.replace('<h3>'+primary+'</h3>','<h3>'+primary+'</h3><p class="question-caption" lang="'+b.OTHER+'">'+secondary+'</p>',1)
+    pillars=[('战略咨询与经营诊断','Advisory &amp; Diagnosis'),
+             ('行业情报与决策系统','Intelligence &amp; Decision OS'),
+             ('联合立项与共建','Co-Build &amp; Ventures'),
+             ('自研产品与实验','Owned Products &amp; Lab Work')]
+    for zh,en in pillars:
+        primary,secondary=(zh,en) if b.LANG=='zh' else (en,zh)
+        h=h.replace('<h3>'+primary+'</h3>','<h3>'+primary+'</h3><span class="pillar-caption" lang="'+b.OTHER+'">'+secondary+'</span>',1)
     # Portrait appears in the full founder strip, not cropped behind the decision sheets.
     proof='<div class="shell"><div class="founder-strip"><img src="../assets/joyce-approved.webp" alt="Joyce"><div><strong>'+x('Joyce · GGC 创始人','Joyce · Founder of GGC')+'</strong><p>'+x('全球旗舰产品经营 · 数据与商业化 · 方法与著作','Global flagship operations · Data & commercialization · Methods & published work')+'</p></div>'+btn(x('为什么是我们','Why GGC'),'about.html','01')+'</div></div>'
     h=h.replace('<section class="section white"><div class="shell"><div class="section-head"><div><p class="eyebrow">BUILT FROM REAL OPERATING EXPERIENCE',proof+'<section class="section white"><div class="shell"><div class="section-head"><div><p class="eyebrow">BUILT FROM REAL OPERATING EXPERIENCE',1)
