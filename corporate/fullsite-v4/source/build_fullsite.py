@@ -15,6 +15,31 @@ section=b.section
 BASE_RENDER=dict(b.RENDER)
 DETAILS={}
 ASSETS=['joyce-approved.webp','book-cover.webp']
+PRODUCT_ART=['intelligence.svg','creative.svg','outbound.svg','copilot.svg','steam.svg','intel.svg','casino.svg','simulation.svg','arcade.svg','bunny.svg','plot.svg','opsgo-os-2026-09.png','atlas.svg','memo.svg']
+PRODUCT_ALTS=[
+('证据、对标与决策流程插画','Illustration of evidence, benchmarks and decisions'),
+('创意素材分镜插画','Illustration of creative storyboards'),
+('企业筛选与商务触达流程插画','Illustration of account qualification and outreach'),
+('游戏经营数据面板插画','Illustration of a game operations dashboard'),
+('游戏商店页面与发行准备插画','Illustration of a game store page and launch preparation'),
+('行业信号雷达插画','Illustration of market signal research'),
+('虚拟经济与游戏内容循环插画','Illustration of a virtual economy and game loop'),
+('模拟经营与 Cozy 游戏场景插画','Illustration of a cozy simulation game scene'),
+('街机玩法循环插画','Illustration of an arcade game loop'),
+('Bunny Crystal Oracle 兔子与神谕卡主题插画','Bunny Crystal Oracle rabbit and card illustration'),
+('语音与关系洞察体验插画','Illustration of voice and relationship insights'),
+('GGC × OpsGo 商业化体系品牌图','GGC × OpsGo commercialization system brand graphic'),
+('文化、科学与知识地图插画','Illustration of a cultural and science knowledge atlas'),
+('生活方式品牌的笔记与记录插画','Illustration of notes and reflection for a lifestyle brand')]
+
+
+def product_image(i,css=''):
+    return '<img class="'+css+'" src="../assets/product-art/'+PRODUCT_ART[i]+'" alt="'+x(*PRODUCT_ALTS[i])+'" loading="lazy">'
+
+
+def product_caption(i):
+    if i==11:return x('GGC × OpsGo 品牌物料 · 2026年9月','GGC × OpsGo brand asset · September 2026')
+    return x('产品方向插画 · 非实际应用截图','Product concept illustration · not an app screenshot')
 MODULES=[
 ('Strategic Thesis & Portfolio','战略判断与组合管理','找方向、定边界、做分合。','Choose direction, define boundaries and allocate across a portfolio.'),
 ('Product & Commercial Architecture','产品与商业化架构','把好游戏做成可持续的好生意。','Connect product value with a sustainable business.'),
@@ -134,27 +159,32 @@ def lab():
     for i,product in enumerate(b.PRODUCTS):
         old_link=btn(x('查看资料 / 联系','Explore / contact'),product[-1],'10')
         rest=rest.replace(old_link,btn(x('查看产品详情','Explore product'),'product-'+str(i+1).zfill(2)+'.html','10'),1)
-    v='<div class="product-hero-art"><div class="wordtile back"></div><div class="wordtile">GGC<br>LAB</div><span class="status">'+x('产品 · 工具 · 研发','Products · Tools · R&D')+'</span></div>'
+    # Replace all 14 text-only directory tiles without touching the accepted baseline builder.
+    found=[0]
+    def replace_tile(match):
+        i=found[0];found[0]+=1
+        return '<div class="product-visual">'+product_image(i)+'</div>'
+    rest=re.sub(r'<div class="product-visual" aria-label="[^"]*"><span>.*?</span></div>',replace_tile,rest)
+    if found[0]!=len(PRODUCT_ART):raise ValueError('Expected 14 product visual tiles, found '+str(found[0]))
+    v='<div class="lab-art-grid">'+''.join('<div>'+product_image(i)+'</div>' for i in [9,0,6,11])+'</div>'
     return hero('LAB WORK / OUR PRODUCT ECOSYSTEM',x('从方法，到产品。<br>从想法，到真实体验。','Methods into products.<br>Ideas into experiences.'),x('GGC Build Together、研究、知识内容、消费AI与自研方向，共同构成产品组合。各项目成熟度分别标注。','Co-building, research, knowledge, consumer AI and R&D form the GGC product ecosystem. Each project has its own maturity and scope.'),v,btn(x('浏览产品','Browse products'),'#products','06'))+rest
 
 
-def gallery(name,group):
+def gallery(i):
     entries=[('定位','Positioning','用户与业务场景','Audience & use case'),('方法','Method','输入、判断与行动','Inputs, decisions and action'),('合作','Partnership','产品路径与下一步','Product path and next steps')]
-    slides=[]
-    for i,(z,e,cz,ce) in enumerate(entries):
-        slides.append('<div class="gallery-slide" data-slide'+(' hidden' if i else '')+'><div class="gallery-grid"><div class="gallery-object"><strong>'+esc(name)+'</strong><small>'+x(z,e).upper()+' / GGC</small></div><div class="gallery-copy"><p class="eyebrow">'+str(i+1).zfill(2)+' / PRODUCT OVERVIEW</p><h3>'+x(cz,ce)+'</h3><p>'+x('这里呈现项目的说明结构与业务定位。进入官方产品站可查看实际功能和可用版本。','This panel presents the project’s explanation structure and business positioning. Refer to the official product site for actual features and available versions.')+'</p><p class="image-license">'+x('产品说明图 · 非实际App截图','Product information panel · not an app screenshot')+'</p></div></div></div>')
-    return '<div class="gallery-frame" data-gallery>'+''.join(slides)+'<div class="gallery-controls">'+btn(x('上一张','Previous'),style='04',extra='data-prev aria-label="Previous"',arrow=False)+'<div class="gallery-dots">'+''.join('<button type="button" data-slide-to="'+str(i)+'" aria-pressed="'+str(i==0).lower()+'" aria-label="'+str(i+1)+'"></button>' for i in range(3))+'</div><span data-gallery-status aria-live="polite" style="font-size:11px;color:#8b7699"></span>'+btn(x('下一张','Next'),style='01',extra='data-next aria-label="Next"')+'</div></div>'
+    facts=''.join('<article><span class="eyebrow">'+str(n+1).zfill(2)+' / '+x(z,e).upper()+'</span><h3>'+x(cz,ce)+'</h3></article>' for n,(z,e,cz,ce) in enumerate(entries))
+    return '<div class="product-story"><figure>'+product_image(i)+'<figcaption>'+product_caption(i)+'</figcaption></figure><div class="product-story-facts">'+facts+'<p>'+x('进入官方产品站可查看实际功能和可用版本。','Refer to the official product site for actual features and available versions.')+'</p></div></div>'
 
 
 def product_detail(i):
     group,name,visual,cz,ce,url=b.PRODUCTS[i]
     ext=url if url.startswith('http') else 'contact.html?track='+('ventures' if group=='games' else 'products')
-    visual='<div class="product-hero-art"><div class="wordtile back"></div><div class="wordtile">'+esc(visual)+'</div><span class="status">'+x('项目 / 产品方向','Project / product track')+'</span></div>'
+    visual='<figure class="product-hero-image">'+product_image(i)+'<figcaption>'+product_caption(i)+'</figcaption></figure>'
     body=hero('GGC LAB / '+group.upper(),esc(name),x(cz,ce),visual,btn(x('打开项目入口','Explore project'),ext,'06',extra='data-product-source')+btn(x('讨论产品合作','Discuss partnership'),'contact.html?track=products','04'))
     audience={'software':('游戏与数字产品团队','Game and digital-product teams'),'games':('研发与发行伙伴','Development and publishing partners'),'consumer':('消费者、内容及品牌伙伴','Consumers, content and brand partners'),'knowledge':('行业读者与知识用户','Industry readers and knowledge users')}
     content='<div class="grid g3">'+b.card(x('面向谁','For whom'),x(*audience[group]),'01')+b.card(x('产品角色','Product role'),x(cz,ce),'02')+b.card(x('下一步','Next step'),x('查看项目当前信息，或围绕产品和合作方式发起讨论。','Review current project information or start a product and partnership conversation.'),'03')+'</div>'
     body+=section('PRODUCT OVERVIEW',x('定位、价值与合作。','Positioning, value and collaboration.'),content)
-    body+=section('PRODUCT EXPLORER',x('进一步了解这个项目。','Explore the project.'),gallery(name,group),kind='alt')
+    body+=section('PRODUCT EXPLORER',x('进一步了解这个项目。','Explore the project.'),gallery(i),kind='alt')
     body+=section('RELATED WORK',x('同一生态，更多实践。','Connected practice across the ecosystem.'),'<div class="actions">'+btn(x('返回全部产品','All products'),'lab.html','01')+btn(x('了解Decision OS','Explore Decision OS'),'decision-os.html','04')+'</div>')
     return body+b.close()
 
@@ -259,6 +289,7 @@ def main():
         src=S/name
         if not src.is_file():raise SystemExit('Missing approved asset: '+str(src))
         shutil.copyfile(src,assets/name)
+    shutil.copytree(S/'product-art',assets/'product-art',dirs_exist_ok=True)
     # Refer to browser-served font CSS, never distribute font files.
     font_url='https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Noto+Sans+SC:wght@400;500;600;700;800;900&display=swap'
     f=assets/'fidelity.css';f.write_text('@import url("'+font_url+'");\n'+f.read_text().replace("'Noto Sans CJK SC'","'Noto Sans SC','Noto Sans CJK SC'"),encoding='utf-8')

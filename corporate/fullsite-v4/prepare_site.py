@@ -19,8 +19,8 @@ BASE_HASH={
 'prism-ribbon.svg':'4ace85a3a874838dc1c26e9f5420146b8d464a06a10ac19b02c520cc3eb11995',
 'site.css':'ccd368527f5323069c4fd24c9c4104accd0d7af9b2ce518dbfb2571004e89534'}
 SOURCE_HASH={
-'build_fullsite.py':'72f0dfbcb2bc0613d6b7d2403aa53e2cce8570db7f3a5d2b0c6d7d4c30152f84',
-'fullsite.css':'1b1a0dfe859643411fec4a135685d4f072b3a2b15e022bf37185348a3c861221',
+'build_fullsite.py':'9866db81908554d157d2ad633815c0f214df97b050dae96ad4f874da322a24e6',
+'fullsite.css':'cc3e177b13766292ee32dde5525d0260266f5e7db5a41c4a6584aa585264b46f',
 'fullsite.js':'9b5d9242d4c4e0b1e7eef21bd931814daf052a72eb00abf7a371997766051885'}
 ASSET_HASH={
 'joyce-approved.webp':'c84aaaa9f52e192ae0601b01b78b1d0231be3b56e1d1aba0f5a2949d7d636342',
@@ -66,6 +66,9 @@ def main():
         if a.normalize_source:
             binary.write_bytes(data)
             for part in (HERE/'assets').glob(name+'.b64.*'):part.unlink()
+    art=HERE/'assets'/'product-art'
+    if len(list(art.iterdir()))!=14:raise ValueError('Expected 14 reviewed product illustrations/assets')
+    shutil.copytree(art,stage/'product-art',dirs_exist_ok=True)
     subprocess.run([sys.executable,str(stage/'build_fullsite.py'),'--out',str(out)],check=True)
     report={'accepted_zip':'GGC_Fullsite_UI_and_Frontend_V4_2026-10-12.zip','source_sha256':verified,'pages':96,'ui_types':16,'production_changed':False,'stage':str(stage),'output':str(out)}
     (out/'source-verification.json').write_text(json.dumps(report,indent=2))

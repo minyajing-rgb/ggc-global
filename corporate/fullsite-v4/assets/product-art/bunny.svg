@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-label="bunny editorial illustration">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#fff"/><stop offset=".55" stop-color="#e9dcff"/><stop offset="1" stop-color="#f3e8fa"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#9f62d8" stop-opacity=".3"/><stop offset="1" stop-color="#9f62d8" stop-opacity="0"/></radialGradient></defs>
+<rect width="960" height="540" fill="url(#bg)"/><circle cx="752" cy="92" r="276" fill="url(#glow)"/>
+<path d="M0 470Q230 358 482 491T960 443" fill="none" stroke="#9f62d8" stroke-opacity=".14" stroke-width="34"/>
+<rect x="246" y="82" width="468" height="374" rx="32" fill="#26133e" stroke="#b67de5" stroke-width="8"/><rect x="279" y="115" width="402" height="308" rx="22" fill="#5b3b92"/><path d="M419 254q-42-91-9-111 37-10 56 76 19-87 54-76 34 20-9 111" fill="#f7e7fa"/><circle cx="465" cy="292" r="76" fill="#f7e7fa"/><circle cx="439" cy="282" r="7" fill="#40305d"/><circle cx="490" cy="282" r="7" fill="#40305d"/><path d="M453 309q12 13 24 0" fill="none" stroke="#a777b2" stroke-width="5" stroke-linecap="round"/><path d="M620 170l25 39-25 39-25-39z" fill="#e5cafa" stroke="#fff" stroke-width="3"/><path d="M317 350l18-23 18 23-18 23z" fill="#eac5f5"/><circle cx="760" cy="150" r="17" fill="#f9d083"/><circle cx="183" cy="380" r="13" fill="#e7b5ed"/><rect x="20" y="20" width="920" height="500" rx="28" fill="none" stroke="#9f62d8" stroke-opacity=".15" stroke-width="2"/>
+</svg>
