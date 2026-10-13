@@ -124,6 +124,20 @@ def fullhome():
     for zh,en in pillars:
         primary,secondary=(zh,en) if b.LANG=='zh' else (en,zh)
         h=h.replace('<h3>'+primary+'</h3>','<h3>'+primary+'</h3><span class="pillar-caption" lang="'+b.OTHER+'">'+secondary+'</span>',1)
+    # The homepage cards use the same reviewed, topic-specific art as the
+    # product directory; no generic stock image or fabricated report cover.
+    art_cards=[
+        (x('产品经济与长线运营','Product economics &amp; LiveOps'),('casino.svg','arcade.svg')),
+        (x('赛道与团队适配','Category and team fit'),('simulation.svg',)),
+        (x('从工具到经营行动','From tooling to operating action'),('copilot.svg',)),
+        ('GGC Intelligence',('intelligence.svg',)),
+        ('Bunny',('bunny.svg',)),
+        ('OpsGo',('opsgo-os-2026-09.png',))]
+    for title,images in art_cards:
+        art='<div class="home-card-art'+(' dual' if len(images)==2 else '')+'" aria-hidden="true">'+''.join('<img src="../assets/product-art/'+name+'" alt="" loading="lazy">' for name in images)+'</div>'
+        target='<h3>'+title+'</h3>'
+        if target not in h:raise ValueError('Missing homepage art target: '+title)
+        h=h.replace(target,art+target,1)
     # Portrait appears in the full founder strip, not cropped behind the decision sheets.
     proof='<div class="shell"><div class="founder-strip"><img src="../assets/joyce-approved.webp" alt="Joyce"><div><strong>'+x('Joyce · GGC 创始人','Joyce · Founder of GGC')+'</strong><p>'+x('全球旗舰产品经营 · 数据与商业化 · 方法与著作','Global flagship operations · Data & commercialization · Methods & published work')+'</p></div>'+btn(x('为什么是我们','Why GGC'),'about.html','01')+'</div></div>'
     h=h.replace('<section class="section white"><div class="shell"><div class="section-head"><div><p class="eyebrow">BUILT FROM REAL OPERATING EXPERIENCE',proof+'<section class="section white"><div class="shell"><div class="section-head"><div><p class="eyebrow">BUILT FROM REAL OPERATING EXPERIENCE',1)

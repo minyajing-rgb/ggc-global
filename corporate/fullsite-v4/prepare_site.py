@@ -19,8 +19,8 @@ BASE_HASH={
 'prism-ribbon.svg':'4ace85a3a874838dc1c26e9f5420146b8d464a06a10ac19b02c520cc3eb11995',
 'site.css':'ccd368527f5323069c4fd24c9c4104accd0d7af9b2ce518dbfb2571004e89534'}
 SOURCE_HASH={
-'build_fullsite.py':'96616ae7b0059a6ec64cd52e60cbbef03992b34f7f60d41cc5dde72ef4f16857',
-'fullsite.css':'2281e7d6d8a3d9012ef99d0df72edfdf958078512f2805cf36c9d99b52b46617',
+'build_fullsite.py':'e2e17a423f4d13d1b346f89362012699a34c6fa4f6e9a6467cb7c7dd57f3eff9',
+'fullsite.css':'b69cdde5363c5e521926b7789e9b3b784f458c38d789ab356d80487734b41d03',
 'fullsite.js':'9b5d9242d4c4e0b1e7eef21bd931814daf052a72eb00abf7a371997766051885'}
 ASSET_HASH={
 'joyce-approved.webp':'c84aaaa9f52e192ae0601b01b78b1d0231be3b56e1d1aba0f5a2949d7d636342',

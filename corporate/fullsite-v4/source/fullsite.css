@@ -44,6 +44,10 @@ html[lang=en] .fullsite.page-index .hero h1.hero-headline{font-size:clamp(48px,4
 .fullsite.page-index .pillar-caption{display:block;color:#616183;font-size:11px;line-height:1.4;margin-top:2px;font-weight:650}
 .fullsite.page-index .section-pillars .card p{margin-top:10px}
 .fullsite.page-index .section-pillars .card .ggc-btn{margin-top:auto;align-self:flex-start}
+.fullsite.page-index .home-card-art{height:156px;display:grid;grid-template-columns:1fr;overflow:hidden;margin:14px 0 16px;border-radius:14px;border:1px solid #e8e2f4;background:#f0effc}
+.fullsite.page-index .home-card-art.dual{grid-template-columns:1fr 1fr;gap:3px;background:#fff}
+.fullsite.page-index .home-card-art img{display:block;width:100%;height:100%;min-width:0;object-fit:cover}
+.fullsite.page-index .home-card-art.dual img{object-position:center}
 @media(max-width:880px){.fullsite.page-index .hero-handwritten{left:auto;right:12%;top:-20px}.fullsite.page-index .hero h1.hero-headline{font-size:clamp(50px,8.6vw,70px)}html[lang=en] .fullsite.page-index .hero h1.hero-headline{font-size:clamp(44px,7.3vw,61px)}}
 @media(max-width:540px){.fullsite.page-index .hero h1.hero-headline{font-size:clamp(40px,11.3vw,56px);line-height:1.13}.fullsite.page-index .hero .hero-translation{font-size:16px;margin:16px 0}.fullsite.page-index .hero-handwritten{display:none}.fullsite.page-index .section-questions .question{min-height:170px}.fullsite.page-index .question-caption{font-size:9px}.fullsite.page-index .section-pillars .card{min-height:0}html[lang=en] .fullsite.page-index .hero h1.hero-headline{font-size:clamp(28px,8.2vw,37px);line-height:1.1}html[lang=en] .fullsite.page-index .hero-headline .headline-line{width:auto;white-space:normal}}
 .fullsite .product-story-facts article{padding:14px 18px;border:1px solid #e7dff3;border-radius:14px;background:#fff}
