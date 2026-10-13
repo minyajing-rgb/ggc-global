@@ -158,11 +158,19 @@ def run():
                 live_ctx.route('https://fonts.googleapis.com/**',lambda r:r.fulfill(status=200,content_type='text/css',body=''))
                 for loc in ['zh','en']:
                     for okay in [False,True]:
-                        live_ctx.route('https://formsubmit.co/ajax/minyajing@gmail.com',lambda r,ok=okay:r.fulfill(status=200 if ok else 500,content_type='application/json',body=json.dumps({'success': 'true' if ok else 'false','message':'mocked'})))
+                        intercepted=[]
+                        def mock_response(route):
+                            status=200 if okay else 500
+                            intercepted.append({'method':route.request.method,'status':status})
+                            route.fulfill(status=status,content_type='application/json',body=json.dumps({'success':'true' if okay else 'false','message':'mocked'}))
+                        # One-argument handler: Playwright may supply Request as a
+                        # second argument, so a defaulted second parameter is unsafe.
+                        live_ctx.route('https://formsubmit.co/ajax/minyajing@gmail.com',mock_response)
                         lp=live_ctx.new_page();lp.goto(origin_for(live)+'/'+loc+'/contact.html',wait_until='networkidle')
                         for k,v in {'name':'QA Example','email':'qa@example.com','company':'Example Studio','message':'A mocked business inquiry, never delivered.'}.items():lp.locator('#'+k).fill(v)
                         lp.locator('[name=consent]').check();lp.locator('button[type=submit]').click();lp.wait_for_timeout(500)
                         check('live_mock:'+loc+':'+str(okay),lp.locator('#draft-result').is_visible()==okay)
+                        check('mock_response_contract:'+loc+':'+str(okay),intercepted==[{'method':'POST','status':200 if okay else 500}],intercepted)
                         lp.close();live_ctx.unroute('https://formsubmit.co/ajax/minyajing@gmail.com')
                 live_ctx.close();report['live_inquiry_tests']='4 mocked success/failure cases; no real provider submission or email'
             # Resource bytes are reproducible; these lab times are observations, not acceptance scores.
