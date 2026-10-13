@@ -75,6 +75,10 @@ def static_checks(site,mode):
     root404=soup(site/'404.html');check('root404_no_redirect:'+mode,not root404.select('meta[http-equiv=refresh]'));check('root404_no_canonical:'+mode,not root404.select('link[rel=canonical]'))
     local_references(site,site/'404.html')
     for path in ['index.html','review.html']:check('utility_noindex:'+mode+'/'+path,'noindex' in soup(site/path).select_one('meta[name=robots]')['content'])
+    if mode=='release':
+        root=soup(site/'index.html')
+        check('root_no_review_link',not root.select('a[href="review.html"]'))
+        check('root_language_fallbacks',{a['href'] for a in root.select('a[href]')}=={'zh/index.html','en/index.html'})
 
 def as_data(path):return 'data:'+(mimetypes.guess_type(path.name)[0] or 'application/octet-stream')+';base64,'+base64.b64encode(path.read_bytes()).decode()
 def inline(site,file):
