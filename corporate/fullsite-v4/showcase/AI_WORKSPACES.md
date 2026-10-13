@@ -7,7 +7,7 @@ The bilingual product directory adds two public product entries:
 
 Both entries use branding cropped from their actual product header and real UI captures. `ai-workspaces-assets.json` records the public source URL, capture hash and exact crop for every derived image. No new product logo or promotional illustration is generated.
 
-`ai_workspaces.py` runs after the accepted V4 builder. It adds the two software entries and an accessible product search field using the existing filter/search behavior. The accepted 14 source and asset hashes remain unchanged. The independent Ops Cat mowing showcase from `a7ab052` is retained, with its original assets and game entry.
+`ai_workspaces.py` runs after the accepted V4 builder. It adds the two software entries and an accessible product search field using the existing filter/search behavior. The accepted 14 source and asset hashes remain unchanged. The original 14 product entries are preserved. This change mounts only the two products Joyce requested; the separate mowing-game branch is unchanged.
 
 Build with the bundled Python runtime on macOS; the system Apple Python 3.9 can reject the existing UTF-8 builder on direct execution, while the bundled runtime builds the unchanged protected source successfully.
 
