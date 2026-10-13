@@ -75,10 +75,12 @@ def google_notice_for(loc):
     if loc == 'zh':
         n['intro'] = '说明本网站如何处理页面访问、Google 表单商务询单与订阅意向邮件。'
         sections[1] = (sections[1][0], '访客在 Google 表单中主动提交姓名、回复邮箱、可选公司、合作方向、业务问题及同意选择。Google 将回复保存至由 minyajing@gmail.com 持有的私有 Google 表格，并可向该邮箱发送新回复通知。GGC 仅用这些信息回复本次咨询；商务询单不会自动加入动态订阅，也不会写入 CRM。')
+        sections[3] = (sections[3][0], '提交商务询单前可以放弃填写；提交后如需查询、更正或删除，请通过 GGC 联系邮箱提出。动态订阅意向邮件仍由你在邮箱中核对并自行发送。请勿提交密码、证件、付款资料或未经授权的第三方信息。这里不承诺未经核实的保存期限。')
         sections[-1] = (sections[-1][0], '本说明对应当前静态页面、Google 表单商务询单与动态订阅意向邮件流程。Google 表单及表格按照 Google 的服务条款和隐私政策处理信息。若需查询、更正或删除已提交的询单，请联系 GGC 邮箱；这里不承诺未经核实的保存期限。正式运营主体及托管日志仍需由网站运营方核实。')
     else:
         n['intro'] = 'How the website handles page requests, Google Forms business enquiries and updates interest.'
         sections[1] = (sections[1][0], 'Visitors voluntarily submit their name, reply email, optional company, partnership track, business question and consent choice in Google Forms. Google stores responses in a private Google Sheet owned by minyajing@gmail.com and may email new-response notifications to that address. GGC uses the information to reply to the enquiry. Business enquiries do not enroll visitors in updates or enter a CRM.')
+        sections[3] = (sections[3][0], 'You may leave the business form without submitting. After submission, contact GGC by email to ask about access, correction or deletion. Updates-interest emails still require you to review and send a draft from your own email app. Do not submit passwords, identity or payment documents, or unauthorized third-party information. No unverified retention period is promised here.')
         sections[-1] = (sections[-1][0], 'This notice describes the current static pages, Google Forms business enquiries and updates-interest email drafts. Google processes form and sheet information under its terms and privacy policy. Contact GGC by email to ask about access, correction or deletion of a submitted enquiry; no unverified retention period is promised here. The legal operator and hosting logs still require operator verification.')
     n['sections'] = sections
     return n
@@ -211,11 +213,11 @@ def privacy_page(template, loc, live=False, google_form=False):
     return template
 
 
-def add_metadata(html, loc, route, mode, base):
+def add_metadata(html, loc, route, mode, base, google_form=False):
     parser=ReadCopy();parser.feed(html)
     title=clean_text(''.join(parser.title))
     lead=clean_text(''.join(parser.lead))
-    if route=='privacy':lead=NOTICE[loc]['intro']
+    if route=='privacy':lead=google_notice_for(loc)['intro'] if google_form else NOTICE[loc]['intro']
     if not lead:lead=title
     # Existing on-page wording is the source; no invented claims or dates.
     desc=clean_text(title.split(' · GGC')[0]+' — '+lead)
@@ -303,7 +305,7 @@ def prepare_pages(site, assets, mode, base, inquiry_endpoint=None, google_form=F
         for route in manifest['routes']+['privacy']:
             f=site/loc/(route+'.html');html=f.read_text()
             html=patch_page(html,loc,route,mode,inquiry_endpoint,google_form)
-            html,meta=add_metadata(html,loc,route,mode,base)
+            html,meta=add_metadata(html,loc,route,mode,base,google_form)
             if route=='404':html=absolute_404_paths(html,loc,base)
             f.write_text(html,encoding='utf-8');inventory.append(meta)
     # Unknown-path fallback is an actual page, not a redirect to Home (which would hide the error).
