@@ -19,7 +19,7 @@ BASE_HASH={
 'prism-ribbon.svg':'4ace85a3a874838dc1c26e9f5420146b8d464a06a10ac19b02c520cc3eb11995',
 'site.css':'ccd368527f5323069c4fd24c9c4104accd0d7af9b2ce518dbfb2571004e89534'}
 SOURCE_HASH={
-'build_fullsite.py':'e2e17a423f4d13d1b346f89362012699a34c6fa4f6e9a6467cb7c7dd57f3eff9',
+'build_fullsite.py':'b052503d3eba05da9e6123c0bbf90f18547eedd82aeaf98f726b82b1323c6714',
 'fullsite.css':'b69cdde5363c5e521926b7789e9b3b784f458c38d789ab356d80487734b41d03',
 'fullsite.js':'9b5d9242d4c4e0b1e7eef21bd931814daf052a72eb00abf7a371997766051885'}
 ASSET_HASH={

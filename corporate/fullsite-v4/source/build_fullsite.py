@@ -276,7 +276,7 @@ def notfound():
 def layout(key,body,parent='index',title=None):
     h=r.refined_document(parent,body)
     h=h.replace('fidelity-v2 prism-v3 page-','fidelity-v2 prism-v3 fullsite page-')
-    h=h.replace('</head>','<link rel="stylesheet" href="../assets/fullsite.css?v=product-art-2"><script defer src="../assets/fullsite.js"></script></head>')
+    h=h.replace('</head>','<link rel="stylesheet" href="../assets/fullsite.css?v=home-art-15"><script defer src="../assets/fullsite.js"></script></head>')
     h=re.sub(r'<title>.*?</title>','<title>'+esc((title or key)+' · GGC Global Game Copilot')+'</title>',h)
     # Keep language switching on the same semantic deep page.
     h=h.replace('../'+b.OTHER+'/'+parent+'.html','../'+b.OTHER+'/'+key+'.html')
