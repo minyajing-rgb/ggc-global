@@ -88,9 +88,15 @@ def run():
             check('priority_not_lazy:'+str(rel),not(image.get('loading')=='lazy' and image.get('fetchpriority')=='high'))
     for f in ['sitemap.xml','robots.txt','readiness-manifest.json']:
         check('unchanged_'+f,(BEFORE/f).read_bytes()==(AFTER/f).read_bytes())
-    server=None
-    if not args.offline:
-        server=ThreadingHTTPServer(('127.0.0.1',0),partial(Server,directory=str(OUT)));Thread(target=server.serve_forever,daemon=True).start()
+    servers={}
+    def origin_for(site):
+        # Serve each candidate at its own origin root. The branded 404 deliberately
+        # uses root-safe URLs; nesting artifacts under /baseline/ broke the fixture.
+        key=str(site.resolve())
+        if key not in servers:
+            server=ThreadingHTTPServer(('127.0.0.1',0),partial(Server,directory=key))
+            Thread(target=server.serve_forever,daemon=True).start();servers[key]=server
+        return 'http://127.0.0.1:'+str(servers[key].server_port)
     try:
         with sync_playwright() as p:
             options={'headless':True,'args':['--no-sandbox']}
@@ -105,7 +111,7 @@ def run():
                     viewport=page.viewport_size;page.close();page=ctx.new_page();page.set_viewport_size(viewport or {'width':1440,'height':1000});page.on('pageerror',lambda e:report['exceptions'].append(str(e)))
                     page.set_content(inline(site,rel),wait_until='load')
                 else:
-                    r=page.goto(f'http://127.0.0.1:{server.server_port}/'+site.name+'/'+str(rel),wait_until='networkidle');check('HTTP200:'+str(rel),r.status==200)
+                    r=page.goto(origin_for(site)+'/'+str(rel),wait_until='networkidle');check('HTTP200:'+str(rel),r.status==200)
                 page.wait_for_timeout(60)
             for loc in ['zh','en']:
                 for width in [320,390,768,1440]:
@@ -153,7 +159,7 @@ def run():
                 for loc in ['zh','en']:
                     for okay in [False,True]:
                         live_ctx.route('https://formsubmit.co/ajax/minyajing@gmail.com',lambda r,ok=okay:r.fulfill(status=200 if ok else 500,content_type='application/json',body=json.dumps({'success': 'true' if ok else 'false','message':'mocked'})))
-                        lp=live_ctx.new_page();lp.goto(f'http://127.0.0.1:{server.server_port}/'+live.name+'/'+loc+'/contact.html',wait_until='networkidle')
+                        lp=live_ctx.new_page();lp.goto(origin_for(live)+'/'+loc+'/contact.html',wait_until='networkidle')
                         for k,v in {'name':'QA Example','email':'qa@example.com','company':'Example Studio','message':'A mocked business inquiry, never delivered.'}.items():lp.locator('#'+k).fill(v)
                         lp.locator('[name=consent]').check();lp.locator('button[type=submit]').click();lp.wait_for_timeout(500)
                         check('live_mock:'+loc+':'+str(okay),lp.locator('#draft-result').is_visible()==okay)
@@ -167,13 +173,13 @@ def run():
                         for label,site in [('before',BEFORE),('after',AFTER)]:
                             c=browser.new_context(viewport={'width':390,'height':844},device_scale_factor=1,reduced_motion='reduce');c.route('https://fonts.googleapis.com/**',lambda r:r.fulfill(status=200,content_type='text/css',body=''))
                             pp=c.new_page();pp.add_init_script(observe);cdp=c.new_cdp_session(pp);cdp.send('Network.enable');cdp.send('Network.setCacheDisabled',{'cacheDisabled':True});cdp.send('Network.emulateNetworkConditions',{'offline':False,'latency':150,'downloadThroughput':200000,'uploadThroughput':100000,'connectionType':'cellular4g'});cdp.send('Emulation.setCPUThrottlingRate',{'rate':4})
-                            pp.goto(f'http://127.0.0.1:{server.server_port}/'+site.name+'/'+rel,wait_until='networkidle');pp.wait_for_timeout(1000)
+                            pp.goto(origin_for(site)+'/'+rel,wait_until='networkidle');pp.wait_for_timeout(1000)
                             metrics=pp.evaluate('({lcp_ms:window.__lab.lcp,load_window_layout_shift:window.__lab.cls,fcp_ms:performance.getEntriesByName("first-contentful-paint")[0]?.startTime,resources:performance.getEntriesByType("resource").map(e=>({name:e.name.split("/").pop(),bytes:e.encodedBodySize}))})')
                             report['timings'].append({'version':label,'route':rel,'run':iteration+1,**metrics});c.close()
                 report['lab_environment']={'CPU_slowdown':4,'RTT_ms':150,'download_bytes_per_second':200000,'cold_cache':True,'compression':'QA fixture gzip-9','external_fonts':'stubbed; no provider latency included','INP':'not measured; no field traffic or RUM','CLS':'load-window shift sum, not field p75 or session-window certification'}
             browser.close()
     finally:
-        if server:server.shutdown()
+        for server in servers.values():server.shutdown()
     check('no_JS_exceptions',not report['exceptions'])
 
 try:run()
