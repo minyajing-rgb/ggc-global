@@ -21,10 +21,12 @@ report={'source_commit':args.source_commit,'checked_at':datetime.now(timezone.ut
 def check(name,ok,detail=None):report['checks'].append({'name':name,'passed':bool(ok),'detail':detail})
 def soup(path):return BeautifulSoup(path.read_text(encoding='utf-8'),'html.parser')
 def filehash(path):return hashlib.sha256(path.read_bytes()).hexdigest()
-def build(name,mode,base):
+def build(name,mode,base,inquiry_endpoint=None):
     target=OUT/name
     if target.exists():shutil.rmtree(target)
-    subprocess.run([sys.executable,str(BASE/'build_ready.py'),'--out',str(target),'--mode',mode,'--base-url',base],check=True)
+    cmd=[sys.executable,str(BASE/'build_ready.py'),'--out',str(target),'--mode',mode,'--base-url',base]
+    if inquiry_endpoint:cmd.extend(['--inquiry-endpoint',inquiry_endpoint])
+    subprocess.run(cmd,check=True)
     return target
 
 def local_references(site,file):
@@ -184,6 +186,44 @@ def browser_checks(preview,release):
     finally:server.shutdown()
     check('no_business_POST',not report['business_posts']);check('no_PII_URL_requests',not report['pii_requests']);check('no_browser_errors',not report['errors'])
 
+def live_inquiry_checks(site):
+    endpoint='https://formsubmit.co/ajax/minyajing@gmail.com'
+    server=ThreadingHTTPServer(('127.0.0.1',0),partial(CandidateHandler,directory=str(site)))
+    Thread(target=server.serve_forever,daemon=True).start();origin='http://127.0.0.1:'+str(server.server_port)
+    try:
+        with sync_playwright() as p:
+            opts={'headless':True,'args':['--no-sandbox']}
+            if shutil.which('chromium'):opts['executable_path']=shutil.which('chromium')
+            browser=p.chromium.launch(**opts);page=browser.new_page();posts=[];state={'status':200,'body':'{"success":"true"}'}
+            def intercept(route):
+                request=route.request
+                headers={'Access-Control-Allow-Origin':'*','Access-Control-Allow-Methods':'POST, OPTIONS',
+                         'Access-Control-Allow-Headers':'content-type, accept','Content-Type':'application/json'}
+                if request.method=='OPTIONS':route.fulfill(status=204,headers=headers);return
+                posts.append(json.loads(request.post_data))
+                route.fulfill(status=state['status'],headers=headers,body=state['body'])
+            page.route('https://fonts.googleapis.com/**',lambda route:route.fulfill(status=200,content_type='text/css',body=''))
+            page.route(endpoint,intercept)
+            for loc in ['zh','en']:
+                page.goto(origin+'/'+loc+'/contact.html',wait_until='networkidle')
+                form=page.locator('form[data-live-inquiry]');check('live_form:'+loc,form.count()==1)
+                for key,value in {'name':'QA Example','email':'qa@example.com','company':'Example Studio','message':'A sample business question for the local QA test.'}.items():
+                    page.locator('#'+key).fill(value)
+                form.locator('[name=consent]').check();form.locator('button[type=submit]').click()
+                page.locator('#draft-result:not([hidden])').wait_for()
+                check('live_mock_success:'+loc,len(posts)==(1 if loc=='zh' else 3) and page.locator('#form-error').inner_text()=='')
+                check('live_payload:'+loc,posts[-1]['email']=='qa@example.com' and posts[-1]['consent']=='accepted' and posts[-1]['locale']==loc)
+                check('live_no_PII_in_URL:'+loc,'qa@example.com' not in page.url and 'QA%20Example' not in page.url)
+                state.update(status=503,body='{"success":"false"}')
+                for key,value in {'name':'QA Example','email':'qa@example.com','company':'Example Studio','message':'A second business question for the local QA test.'}.items():
+                    page.locator('#'+key).fill(value)
+                form.locator('[name=consent]').check();form.locator('button[type=submit]').click()
+                page.wait_for_function("document.querySelector('#form-error').textContent.length>0")
+                check('live_mock_error:'+loc,page.locator('#draft-result').is_hidden() and page.locator('#form-error').inner_text()!='')
+                state.update(status=200,body='{"success":"true"}')
+            browser.close()
+    finally:server.shutdown()
+
 def run():
     baseline=OUT/'baseline'
     if baseline.exists():shutil.rmtree(baseline)
@@ -192,6 +232,13 @@ def run():
     static_checks(preview,'preview');static_checks(release,'release')
     sub=build('subpath','release','https://preview.example.invalid/ggc/');h=soup(sub/'404.html');check('subpath_404_assets',all(t['href'].startswith('/ggc/') for t in h.select('link[rel=stylesheet]')));check('subpath_sitemap','https://preview.example.invalid/ggc/en/index.html' in (sub/'sitemap.xml').read_text())
     browser_checks(preview,release)
+    live=build('live-inquiry','release','https://ggcgames.com/','https://formsubmit.co/ajax/minyajing@gmail.com')
+    for loc in ['zh','en']:
+        contact=soup(live/loc/'contact.html');privacy=soup(live/loc/'privacy.html');updates=soup(live/loc/'updates.html')
+        check('live_contact_copy:'+loc,bool(contact.select_one('[data-live-inquiry]')) and 'FormSubmit' in contact.get_text())
+        check('live_privacy_copy:'+loc,'FormSubmit' in privacy.get_text())
+        check('updates_still_draft:'+loc,not updates.select_one('[data-live-inquiry]') and bool(updates.select_one('[data-interest-mail]')))
+    live_inquiry_checks(live)
 
 try:run()
 except Exception:report['errors'].append(traceback.format_exc())

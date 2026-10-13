@@ -44,6 +44,37 @@ NOTICE = {
  }
 }
 
+LIVE_INQUIRY = {
+ 'zh': {
+  'form': '提交后，姓名、回复邮箱、公司、合作方向和业务问题会发送给 FormSubmit，由其转发通知 GGC 邮箱；不会自动加入动态订阅。请勿填写密码、证件或无权披露的客户资料。',
+  'noscript': '当前在线提交需要 JavaScript。未启用时不会发送；请使用直接邮件联系入口。',
+  'contact': '商务联系表单通过 FormSubmit 接收姓名、回复邮箱、公司、合作方向和业务问题，并向 GGC 邮箱发送通知。FormSubmit 说明其保存提交记录 30 天；邮件副本由所用邮件服务处理。网站没有把询单写入 CRM，也不会自动加入动态订阅。',
+  'scope': '本说明对应当前静态页面、FormSubmit 商务询单与动态订阅意向邮件流程。未来接入新的后台、分析或订阅服务时，应在启用前更新相应说明和选择方式。正式运营主体、托管日志和邮件保存安排仍需由网站运营方核实；这不是已经完成法律合规审查的声明。',
+  'aside': '填写业务问题后可直接提交。提交成功表示表单服务已接收，GGC 会收到邮件通知。',
+  'consent': '我同意将上述信息发送至 FormSubmit，用于向 GGC 转发商务询单；不会自动加入动态订阅。',
+  'button': '提交商务询单',
+  'success': '表单服务已接收你的询单，并将通知发送给 GGC。若需要立即联系，请使用左侧邮箱。'
+ },
+ 'en': {
+  'form': 'Submitting sends your name, reply email, company, partnership track and question to FormSubmit, which emails a notification to GGC. This does not subscribe you to updates. Do not include passwords, identity documents or unauthorized client information.',
+  'noscript': 'JavaScript is required for online submission. With it disabled no information is sent; use the direct email link instead.',
+  'contact': 'The business inquiry form sends your name, reply email, company, partnership track and question to FormSubmit, which emails a notification to GGC. FormSubmit states that it retains submissions for 30 days; email copies are handled by the email service used. This site does not write inquiries to a CRM or automatically subscribe you to updates.',
+  'scope': 'This notice describes the current static pages, FormSubmit business inquiry flow and updates-interest email drafts. It must be updated before introducing other backend, analytics or subscription processing. The legal operator, hosting logs and email retention arrangements still require operator verification. This is not a claim of completed legal compliance review.',
+  'aside': 'Submit your business question directly. A success message means the form service accepted it and will email GGC.',
+  'consent': 'I agree to send the information above to FormSubmit for forwarding to GGC as a business inquiry. This does not subscribe me to updates.',
+  'button': 'Submit business inquiry',
+  'success': 'The form service accepted your inquiry and will notify GGC by email. For urgent contact, use the email link on this page.'
+ }
+}
+
+def notice_for(loc, live):
+    if not live:return NOTICE[loc]
+    n=NOTICE[loc].copy();live_copy=LIVE_INQUIRY[loc]
+    n['form']=live_copy['form'];n['noscript']=live_copy['noscript']
+    sections=list(n['sections']);sections[1]=(sections[1][0],live_copy['contact']);sections[-1]=(sections[-1][0],live_copy['scope'])
+    n['sections']=sections
+    return n
+
 class ReadCopy(HTMLParser):
     def __init__(self):
         super().__init__(convert_charrefs=True)
@@ -83,8 +114,8 @@ def clean_text(value):return re.sub(r'\s+',' ',unescape(value)).strip()
 def hashfile(path):return hashlib.sha256(path.read_bytes()).hexdigest()
 
 
-def patch_contact(html, loc):
-    notice=NOTICE[loc]
+def patch_contact(html, loc, live=False):
+    notice=notice_for(loc,live)
     # Fail closed: no form names or enabled submission control until the prevention
     # guard is installed. This avoids a no-JS fallback leaking fields into a GET URL.
     def form_patch(match):
@@ -93,16 +124,40 @@ def patch_contact(html, loc):
         form=re.sub(r'(<button\b[^>]*\btype="submit"[^>]*)(>)',r'\1 disabled data-p0-submit\2',form)
         label='p0-contact-note' if 'data-inquiry' in form else 'p0-interest-note'
         form=re.sub(r'<form\b',f'<form aria-describedby="{label}"',form,count=1)
-        info=notice['form'] if 'data-inquiry' in form else notice['interest']
+        info=notice['form'] if 'data-inquiry' in form else NOTICE[loc]['interest']
         prefix=f'<p id="{label}" class="note p0-note">{escape(info)} <a class="source-link" href="privacy.html">{escape(notice["title"])}</a></p>'
-        noscript=f'<noscript><p class="note">{escape(notice["noscript"])} <a href="mailto:minyajing@gmail.com">minyajing@gmail.com</a></p></noscript>'
+        fallback=notice['noscript'] if 'data-inquiry' in form else NOTICE[loc]['noscript']
+        noscript=f'<noscript><p class="note">{escape(fallback)} <a href="mailto:minyajing@gmail.com">minyajing@gmail.com</a></p></noscript>'
         # Keep the existing two-column grid: notices belong inside the form.
         return re.sub(r'(<form\b[^>]*>)',lambda m:m[1]+prefix+noscript,form,count=1)
     return re.sub(r'<form\b[^>]*data-(?:inquiry|interest)[\s\S]*?</form>',form_patch,html)
 
+def patch_live_contact(html, loc, endpoint):
+    live=LIVE_INQUIRY[loc]
+    old_aside=('填写你的业务问题，生成邮件草稿后，在邮箱中核对并发送。' if loc=='zh' else
+               'Use the form to prepare an email with your business question, then review and send it from your email app.')
+    assert old_aside in html,'Contact aside changed; reconcile the live copy.'
+    html=html.replace(old_aside,live['aside'],1)
+    def rewrite(match):
+        form=match.group(0)
+        form=form.replace('data-inquiry>',f'data-inquiry data-live-inquiry data-endpoint="{escape(endpoint,quote=True)}">',1)
+        form,count=re.subn(r'(<label class="consent"><input[^>]*><span>)[^<]*(</span>)',
+                           lambda m:m[1]+escape(live['consent'])+m[2],form,count=1)
+        assert count==1,'Contact consent changed.'
+        form,count=re.subn(r'(<button[^>]*type="submit"[^>]*><span class="btn-label">)[^<]*',
+                           lambda m:m[1]+escape(live['button']),form,count=1)
+        assert count==1,'Contact submit button changed.'
+        success=f'<div id="draft-result" class="result" tabindex="-1" hidden><p>{escape(live["success"])}</p></div>'
+        form,count=re.subn(r'<div id="draft-result"[^>]*>[\s\S]*?</div>',lambda _:success,form,count=1)
+        assert count==1,'Contact draft result changed.'
+        return form
+    html,count=re.subn(r'<form\b[^>]*data-inquiry[\s\S]*?</form>',rewrite,html,count=1)
+    assert count==1,'Contact form changed.'
+    return html
 
-def privacy_page(template, loc):
-    n=NOTICE[loc]
+
+def privacy_page(template, loc, live=False):
+    n=notice_for(loc,live)
     content=(f'<section class="pagehero"><div class="shell"><p class="eyebrow">PRIVACY / CONTACT</p>'
              f'<h1>{escape(n["title"])}</h1><p>{escape(n["intro"])}</p></div></section>'
              '<section class="section"><div class="shell"><div class="grid g2">'+
@@ -168,8 +223,10 @@ def absolute_404_paths(html, loc, base):
     return re.sub(r'((?:href|src)=")([^"]*)(")',rewrite,html)
 
 
-def patch_page(html, loc, route, mode):
+def patch_page(html, loc, route, mode, endpoint=None):
     script='<script defer src="../assets/readiness.js"></script>'
+    if route=='contact' and endpoint:
+        script+='<script defer src="../assets/live_inquiry.js"></script>'
     # Guard executes before legacy scripts; enhancement waits for DOMContentLoaded.
     html=html.replace('<script defer src="../assets/app.js">',script+'<script defer src="../assets/app.js">',1)
     html=html.replace('</head>','<link rel="stylesheet" href="../assets/readiness.css"></head>',1)
@@ -179,7 +236,8 @@ def patch_page(html, loc, route, mode):
     if loc=='zh':
         html=html.replace('data-prev aria-label="Previous"','data-prev aria-label="上一张"').replace('data-next aria-label="Next"','data-next aria-label="下一张"')
     html=re.sub(r'(data-slide-to="(\d+)"[^>]*aria-label=")(\d+)(")',lambda m:m[1]+('查看第'+str(int(m[2])+1)+'张说明图' if loc=='zh' else 'View information panel '+str(int(m[2])+1))+m[4],html)
-    html=patch_contact(html,loc)
+    html=patch_contact(html,loc,route=='contact' and bool(endpoint))
+    if route=='contact' and endpoint:html=patch_live_contact(html,loc,endpoint)
     if mode=='release':
         # Design-only review links and state simulations remain in preview, not the public flow.
         html=re.sub(r'<a href="\.\./review\.html">[^<]*</a>','',html)
@@ -187,21 +245,23 @@ def patch_page(html, loc, route, mode):
     return html
 
 
-def prepare_pages(site, assets, mode, base):
+def prepare_pages(site, assets, mode, base, inquiry_endpoint=None):
     base=validate_base_url(base)
+    if inquiry_endpoint and mode!='release':raise ValueError('Live inquiry requires release mode.')
     manifest=json.loads((site/'build-manifest.json').read_text())
     assert manifest['locale_pages']==96 and len(manifest['routes'])==48,'Unexpected baseline; reconcile before modifying.'
     before={f.relative_to(site/'assets').as_posix():hashfile(f) for f in (site/'assets').iterdir() if f.is_file()}
     baseline_bodies={f.relative_to(site).as_posix():hashfile(f) for f in site.glob('*/*.html')}
     for loc in LANG:
         original=(site/loc/'index.html').read_text()
-        (site/loc/'privacy.html').write_text(privacy_page(original,loc),encoding='utf-8')
+        (site/loc/'privacy.html').write_text(privacy_page(original,loc,bool(inquiry_endpoint)),encoding='utf-8')
     for name in ['readiness.js','readiness.css']:shutil.copyfile(assets/name,site/'assets'/name)
+    if inquiry_endpoint:shutil.copyfile(assets/'live_inquiry.js',site/'assets'/'live_inquiry.js')
     inventory=[]
     for loc in LANG:
         for route in manifest['routes']+['privacy']:
             f=site/loc/(route+'.html');html=f.read_text()
-            html=patch_page(html,loc,route,mode)
+            html=patch_page(html,loc,route,mode,inquiry_endpoint)
             html,meta=add_metadata(html,loc,route,mode,base)
             if route=='404':html=absolute_404_paths(html,loc,base)
             f.write_text(html,encoding='utf-8');inventory.append(meta)
@@ -233,7 +293,8 @@ def prepare_pages(site, assets, mode, base):
     result={'version':VERSION,'mode':mode,'canonical_base':base,'baseline_locale_pages':96,'added_privacy_pages':2,'locale_pages':98,
             'indexable_urls':sum(i['indexable'] for i in inventory),'root_404':'404.html','deployment_performed':False,
             'approved_assets_unchanged':True,'approved_asset_hashes':before,'baseline_page_hashes':baseline_bodies,
-            'forms':'Local drafts only; no CRM or subscription activation','font_requests':'Existing Google Fonts CSS/files; see notice',
+            'forms':'FormSubmit business inquiries; updates remain local drafts; no CRM or subscription activation' if inquiry_endpoint else 'Local drafts only; no CRM or subscription activation',
+            'inquiry_endpoint':inquiry_endpoint,'font_requests':'Existing Google Fonts CSS/files; see notice',
             'host_404_contract':{'status':404,'default_document':'404.html','zh_document':'zh/404.html','en_document':'en/404.html','must_not_redirect_or_return_200':True},
             'inventory':inventory}
     (site/'readiness-manifest.json').write_text(json.dumps(result,ensure_ascii=False,indent=2),encoding='utf-8')
