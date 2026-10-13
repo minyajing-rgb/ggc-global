@@ -273,6 +273,9 @@ def patch_page(html, loc, route, mode, endpoint=None, google_form=False):
     html=html.replace('</head>','<link rel="stylesheet" href="../assets/readiness.css"><link rel="stylesheet" href="../assets/visual-refinement.css"></head>',1)
     html=html.replace('<main id="main">','<main id="main" tabindex="-1">',1)
     html=html.replace('<div class="footer-bottom">','<div class="footer-bottom"><a class="source-link" href="privacy.html">'+NOTICE[loc]['title']+'</a>',1)
+    # The current OpsGo root exposes a project page index and unfinished content.
+    # Keep the product description on GGC's reviewed site until its public entry passes acceptance.
+    html=html.replace('href="https://opsgo.ggcgames.com/"','href="lab.html"')
     # Per-locale accessibility names, while visible artwork and labels stay intact.
     if loc=='zh':
         html=html.replace('data-prev aria-label="Previous"','data-prev aria-label="上一张"').replace('data-next aria-label="Next"','data-next aria-label="下一张"')
