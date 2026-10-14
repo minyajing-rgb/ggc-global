@@ -2,7 +2,7 @@
 from pathlib import Path
 import html
 
-BOOK='https://ops101-book.joycw.chatgpt.site/'
+BOOK='https://biz.ggcgames.com/book/'
 
 def button(label,url,number='04'):
     return f'<a class="ggc-btn" data-button-id="{number}" href="{html.escape(url,quote=True)}"><span class="btn-label">{label}</span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12h15m-6-6 6 6-6 6"/></svg></a>'
