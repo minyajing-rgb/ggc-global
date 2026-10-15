@@ -11,6 +11,7 @@ HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE / 'readiness'))
 from page_readiness import prepare_pages, validate_base_url
 from product_links import align_product_links
+from book_release import add_book_release
 
 
 def main():
@@ -38,6 +39,7 @@ def main():
         subprocess.run([sys.executable, str(HERE / 'prepare_site.py'), '--out', str(candidate), '--stage', str(stage)], check=True)
         prepare_pages(candidate, HERE / 'readiness', args.mode, canonical, args.inquiry_endpoint, args.google_form)
         align_product_links(candidate)
+        add_book_release(candidate)
         shutil.copytree(candidate, out, dirs_exist_ok=True)
     print(f'P0 artifact: {out}; mode={args.mode}; canonical={canonical}; not deployed')
 
