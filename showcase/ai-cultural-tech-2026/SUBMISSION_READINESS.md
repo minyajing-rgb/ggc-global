@@ -36,10 +36,10 @@
 
 | Slot | Applicant entity | Compliance status |
 | --- | --- | --- |
-| Mainland A | To be mapped from the 3 eligible mainland owned/authorized entities | Identity / team not checked |
-| Mainland B | To be mapped from the 3 eligible mainland owned/authorized entities | Identity / team not checked |
-| Mainland C | To be mapped from the 3 eligible mainland owned/authorized entities | Identity / team not checked |
-| Hong Kong D | Candidate: GGC Innovation Tech Co., Limited (黃龍智創科技有限公司), subject to up-to-date documentation | Team / ownership / eligibility not checked |
+| Mainland A · Traffic OS | Candidate: 北京传奇互娱（工商登记全称待查） | Legal status, product/IP rights and roster not checked |
+| Mainland B · StoryVerse | **Candidate: 北京桃源西谷信息技术有限公司**（公开资料显示2014年成立、历史业务为手游研发；[36氪](https://pitchhub.36kr.com/project/2316952813963782)、[北京股权交易中心历史名录](https://www.bjotc.cn/content/details_38_21326.html)） | User identified entity; current registry, applicant permission, independent team and StoryVerse rights not checked |
+| Mainland C · Agent Office | Candidate: 武汉神爵黄龙科技有限公司（名称及最新工商信息待核） | Legal status, product/IP rights and roster not checked |
+| Hong Kong D · Bunny | Candidate: GGC Innovation Tech Co., Limited（黃龍智創科技有限公司；英文/中文法定名称待公司注册记录校准） | HK eligibility, product/IP rights and roster not checked |
 
 *The public repository is not the place for commercial registration papers or detailed member/ID listings.*
 
@@ -72,7 +72,7 @@ Each independent submission needs:
 ## Immediate next actions
 
 1. Obtain competition homepage/rules, exact category list, deadline, eligibility, and explicit non-overlap definition. **Do not invent or assert accepted categories.**
-2. Verify three **genuinely user-owned/authorized** mainland entities and HK entity; do not count an external Shenzhen supplier as the user's company merely because they worked together.
+2. Verify **北京传奇互娱（工商全称待查）、北京桃源西谷信息技术有限公司、武汉神爵黄龙科技有限公司** as the three actually user-owned/authorized and eligible mainland applicants, plus the Hong Kong candidate; do not treat past affiliation or branding as proof of legal ownership or submitter authorization.
 3. Verify four independent rosters and registered applicant rights; organizer written ruling on common control / Joyce team membership.
 4. Collect per-project sanitized demo evidence; give StoryVerse an MVP stage gate or choose a better-developed alternative.
 5. Owner review the static portfolio page's copy and UI; production release via the existing independent site-operator workflow only upon explicit release decision.
@@ -83,5 +83,7 @@ Each independent submission needs:
 - Product definition and acceptance requirements: `.agents/skills/product-definition/SKILL.md` and `.agents/skills/product-acceptance/SKILL.md`
 - Real Bunny page: https://bunny.saga1001.com/
 - GGC home: https://ggcgames.com/
+
+**Correction logged 2026-10-15:** user identified 北京桃源西谷; public historical sources support the legal name and games-development history, NOT present-day eligibility or assignment of StoryVerse IP. Applicant mapping is a working proposal only.
 
 **No application submitted, account created, deployment performed, or applicant eligibility verified in this branch.**
