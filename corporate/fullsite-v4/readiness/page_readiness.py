@@ -271,7 +271,7 @@ def patch_page(html, loc, route, mode, endpoint=None, google_form=False):
         script+='<script defer src="../assets/live_inquiry.js"></script>'
     # Guard executes before legacy scripts; enhancement waits for DOMContentLoaded.
     html=html.replace('<script defer src="../assets/app.js">',script+'<script defer src="../assets/app.js">',1)
-    html=html.replace('</head>','<link rel="stylesheet" href="../assets/readiness.css"><link rel="stylesheet" href="../assets/visual-refinement.css"></head>',1)
+    html=html.replace('</head>','<link rel="stylesheet" href="../assets/readiness.css"><link rel="stylesheet" href="../assets/visual-refinement.css?v=20261015-typography"></head>',1)
     # Preserve the approved, hash-verified V4 builder and its original SVGs.
     # Swap only the rendered public preview references for product-specific art.
     for product in PRODUCT_PREVIEWS:
