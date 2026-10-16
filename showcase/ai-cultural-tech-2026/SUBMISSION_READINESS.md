@@ -1,3 +1,5 @@
+> **CORRECTED 2026-10-16:** Bunny is AI-native tarot/inner-reflection/spiritual interaction, Seven-People Office is UGC-driven narrative simulation game, and **StoryVerse is an assistant-invented working label, not confirmed user product**. Fourth applicant project remains unassigned. Website: https://bunny.saga1001.com/ .
+
 # GGC · Four AI-Native Culture-Tech Application Candidates (2026-10-15)
 
 > **STATUS: DRAFT / NOT SUBMITTED / NOT APPROVED FOR PRODUCTION DEPLOYMENT**  
@@ -9,18 +11,18 @@
 | Slot | Region | Working name | Proposed category (NOT a verified official category) | Real status | First demo / evidence | Validation blocker |
 | --- | --- | --- | --- | --- | --- | --- |
 | A | Mainland China #1 | **GGC Traffic OS** | AI-native overseas content distribution / creator intelligence / global user acquisition | Workflows in design/build, some separate real US-market early campaign tests; no claim of fully working end-to-end SaaS | GGC operating OS strategy and tests with consented aggregate evidence | Standalone reproducible product demo, attribution/effectiveness, copyright/consent controls |
-| B | Mainland China #2 | **SAGA StoryVerse** | Interactive audiovisual / AI production and playable stories | Incubation thesis; not a finished video engine or shipped playable film | Story/interaction plan; portfolio concept | One playable branching episode, sample media, rights chain and evaluation logs |
-| C | Mainland China #3 | **GGC Agent Office** | Multi-agent visualization / human-in-loop content operating system | V0.1 interactive simulation; **not** proof of seven autonomous integrated agents | https://ai.ggcgames.com/ (verify actual deployed route before submitting) | Agent-to-task integrations, task history, consented redacted replay, access and audit proof |
-| D | Hong Kong | **Bunny Crystal Oracle** | Original digital cultural IP / multimodal personalized interaction | Web experience exists; 26 original cards exposed; App/store, languages and payments require distinct latest verification | https://bunny.saga1001.com/ | IP provenance/rights, actual feature inventory and receipts, privacy/data controls |
+| B | Mainland China #2 | **第四项目（待确认实际产品）** | Unassigned until a real fourth project and the applicant's IP/team rights are verified | Unassigned; the prior 'StoryVerse' name was assistant-proposed, not a verified user-owned product | No fourth-project demo accepted until owner confirms an actual project | Choose a genuine product and check ownership, independent team and fit before producing a BP |
+| C | Mainland China #3 | **七人办公室 · AI UGC 互动叙事模拟游戏** | AI-native UGC-generated simulation game / interactive emergent storytelling | Visual office simulation direction; text/material-to-game generation is the intended core product and requires a demonstrable proof | https://ai.ggcgames.com/ (verify actual deployed route before submitting) | Input text/material → consistent playable scene → player intervention → emergent replayable story; scope and quality evidence |
+| D | Hong Kong | **Bunny Crystal Oracle · AI-native 塔罗/灵性反思** | AI-native tarot + emotional reflection + spiritual exploration + self-understanding + habit formation | Web oracle and 26 cards visible; tarot/spread rules and relationship readings, journal/astrology entries; algorithm, AI experience, billing and paid retention require exact version verification | https://bunny.saga1001.com/ | Tarot interpretation evaluation and owner-defined algorithm, real AI behavior, privacy/consent, return loop and paid cohort evidence |
 
 **The technical category labels above are GGC positioning hypotheses, not organizer-verified category names.** The organizer's event name, official allowed classes, company/team non-overlap text, HK eligibility, and hard product/MVP requirements have not yet been sourced. Do not report these four as accepted entrants.
 
 ### Selection rationale
 
 - **Traffic OS** — strongest GGC-to-B commercial infrastructure, international content distribution and measurable user-flow narrative. Different from a generic short-video MCN; do not assert ownership of partner creators or millions of contracted users.
-- **StoryVerse** — visually striking generative/interactive entertainment thesis. The weakest present-day submission readiness; only lead when the organizer permits concept/early incubation-stage entries. Else replace this slot with an independent, verified MVP under the correct applicant.
-- **Agent Office** — visually distinct interactive product demonstration of agent organizations, human oversight and record/replay plan. Do not conflate a visual simulation with deployed agent execution.
-- **Bunny** — currently the strongest original IP / accessible consumer demo and intuitive cultural-tech story, recommended for the Hong Kong slot pending entity/IP ownership verification.
+- **Fourth slot is OPEN** — the assistant's temporary name StoryVerse was not user-confirmed. Do not assign an unverified product to a legal entity; select a genuine independent product and re-review project rights.
+- **Seven-People Office** — AI-native user-generated playable world with simulation-driven interactive stories: user text/material input, scene generation, character state, interventions, emergent outcomes and sharing. **Not** enterprise Agent orchestration SaaS.
+- **Bunny** — AI-native tarot / spiritual self-reflection, emotional questions and interactive cognition/ritual habits, with owner-directed tarot interpretation/algorithm tuning and astrology extension; original card artwork supports the experience rather than defining the main business. HK applicant rights to verify.
 
 ### Entity-and-team separation gate (hard STOP until verified)
 
@@ -37,9 +39,9 @@
 | Slot | Applicant entity | Compliance status |
 | --- | --- | --- |
 | Mainland A · Traffic OS | Candidate: 北京传奇互娱（工商登记全称待查） | Legal status, product/IP rights and roster not checked |
-| Mainland B · StoryVerse | **Candidate: 北京桃源西谷信息技术有限公司**（公开资料显示2014年成立、历史业务为手游研发；[36氪](https://pitchhub.36kr.com/project/2316952813963782)、[北京股权交易中心历史名录](https://www.bjotc.cn/content/details_38_21326.html)） | User identified entity; current registry, applicant permission, independent team and StoryVerse rights not checked |
-| Mainland C · Agent Office | Candidate: 武汉神爵黄龙科技有限公司（名称及最新工商信息待核） | Legal status, product/IP rights and roster not checked |
-| Hong Kong D · Bunny | Candidate: GGC Innovation Tech Co., Limited（黃龍智創科技有限公司；英文/中文法定名称待公司注册记录校准） | HK eligibility, product/IP rights and roster not checked |
+| Mainland B · 待确认第四项目 | **Candidate: 北京桃源西谷信息技术有限公司**（候选主体，尚无已确认独立项目归属） | 需确认真实项目、团队和 IP；StoryVerse 不再充当项目名称 |
+| Mainland C · 七人办公室 UGC 模拟游戏 | Candidate: 武汉神爵黄龙科技有限公司（名称及最新工商信息待核） | 游戏权属、功能实现与团队需核验 |
+| Hong Kong D · Bunny AI-native 塔罗及灵性反思 | Candidate: GGC Innovation Tech Co., Limited（黃龍智創科技有限公司；英文/中文法定名称待公司注册记录校准） | HK eligibility, product/IP rights and roster not checked |
 
 *The public repository is not the place for commercial registration papers or detailed member/ID listings.*
 
@@ -74,7 +76,7 @@ Each independent submission needs:
 1. Obtain competition homepage/rules, exact category list, deadline, eligibility, and explicit non-overlap definition. **Do not invent or assert accepted categories.**
 2. Verify **北京传奇互娱（工商全称待查）、北京桃源西谷信息技术有限公司、武汉神爵黄龙科技有限公司** as the three actually user-owned/authorized and eligible mainland applicants, plus the Hong Kong candidate; do not treat past affiliation or branding as proof of legal ownership or submitter authorization.
 3. Verify four independent rosters and registered applicant rights; organizer written ruling on common control / Joyce team membership.
-4. Collect per-project sanitized demo evidence; give StoryVerse an MVP stage gate or choose a better-developed alternative.
+4. Collect per-project sanitized demo evidence; confirm actual fourth product before writing its BP, and verify seven-person office UGC text/material-to-game loop independently.
 5. Owner review the static portfolio page's copy and UI; production release via the existing independent site-operator workflow only upon explicit release decision.
 
 ## Relevant source pointers (public-safe)
