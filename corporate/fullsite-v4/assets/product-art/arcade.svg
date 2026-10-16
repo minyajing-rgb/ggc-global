@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-label="arcade editorial illustration">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#fff"/><stop offset=".55" stop-color="#dbe8ff"/><stop offset="1" stop-color="#f3e8fa"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#7788e9" stop-opacity=".3"/><stop offset="1" stop-color="#7788e9" stop-opacity="0"/></radialGradient></defs>
+<rect width="960" height="540" fill="url(#bg)"/><circle cx="752" cy="92" r="276" fill="url(#glow)"/>
+<path d="M0 470Q230 358 482 491T960 443" fill="none" stroke="#7788e9" stroke-opacity=".14" stroke-width="34"/>
+<rect x="223" y="84" width="514" height="365" rx="42" fill="#373369" stroke="#827ce0" stroke-width="8"/><rect x="263" y="126" width="434" height="217" rx="20" fill="#a6c8f0"/><path d="M285 306l106-122 94 109 88-83 101 96" fill="none" stroke="#fff1a2" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/><circle cx="570" cy="401" r="20" fill="#f58cbe"/><circle cx="629" cy="401" r="20" fill="#8b82ec"/><path d="M318 405L406 405" fill="none" stroke="#bbbef1" stroke-width="15" stroke-linecap="round"/><path d="M362 366L362 442" fill="none" stroke="#bbbef1" stroke-width="15" stroke-linecap="round"/><rect x="20" y="20" width="920" height="500" rx="28" fill="none" stroke="#7788e9" stroke-opacity=".15" stroke-width="2"/>
+</svg>
