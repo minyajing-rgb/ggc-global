@@ -1,8 +1,10 @@
+> **CORRECTION 2026-10-16:** This file records the original 2026-10-15 deck exports, which are **outdated and unsuitable for circulation**: Bunny was mispositioned as only a collectible IP, seven-person office as enterprise agent management, and StoryVerse as a user-owned project. Only the new draft PR preview reflects the corrected identity. Fourth project not chosen. This is not a claim that old conversation PDFs/PPTX have been rewritten.
+
 # GGC / SAGA 1001 — Four venture BPs, deck specification
 
 **Updated:** 2026-10-15 · **Status: Review draft, not submitted or deployed**
 
-The owner supplied latest visual references in chat: Joyce Weekly OS posters, actual headshots and GGC corporate positioning poster. A set of **five 12-slide editable PPTX and PDF review exports** was created in the working conversation: one reusable GGC × SAGA 1001 master, and independent decks for GGC Traffic OS, SAGA StoryVerse, GGC Agent Office and Bunny Crystal Oracle.
+The owner supplied latest visual references in chat: Joyce Weekly OS posters, actual headshots and GGC corporate positioning poster. A set of **five 12-slide editable PPTX and PDF review exports** was created in the working conversation: one reusable GGC × SAGA 1001 master, and independent decks for GGC Traffic OS, Fourth candidate — unassigned (StoryVerse name retracted), Seven-People Office (UGC-driven simulation game) and Bunny Crystal Oracle.
 
 **Important:** The resulting PPTX/PDF files are conversation artifacts delivered to the owner, **not committed or deployed to GitHub**. Do not assert this repository contains binary decks or link to fabricated artifact URLs. This document records copy, taxonomy and compliance guardrails for any later website asset import, which requires separate owner review and actual file transfer.
 
@@ -11,8 +13,8 @@ The owner supplied latest visual references in chat: Joyce Weekly OS posters, ac
 | Candidate applicant (unverified) | Pitch | Proposed category (not organizer-confirmed) | Real product stage |
 |---|---|---|---|
 | 北京传奇互娱（工商登记全称待查） | GGC Traffic OS — AI 原生全球内容分发引擎 | AI content overseas distribution | Creative/traffic workflows in development, early independent US channel experimentation |
-| 北京桃源西谷信息技术有限公司 | SAGA StoryVerse — AI 互动剧：可玩的电影 | Generative interactive audiovisual | Incubation thesis only, no shipped playable episode |
-| 武汉神爵黄龙科技有限公司（名称待核） | GGC Agent Office — 可视化七人 AI 办公室 | Agent organization visualization and traceability | V0.1 interactive simulation; not seven connected autonomous agents |
+| 北京桃源西谷信息技术有限公司 | Fourth candidate — unassigned (StoryVerse name retracted) — AI 互动剧：可玩的电影 | Generative interactive audiovisual | Incubation thesis only, no shipped playable episode |
+| 武汉神爵黄龙科技有限公司（名称待核） | Seven-People Office (UGC-driven simulation game) — 可视化七人 AI 办公室 | Agent organization visualization and traceability | V0.1 interactive simulation; not seven connected autonomous agents |
 | 香港 GGC Innovation Tech Co., Limited（法定名称待核） | Bunny Crystal Oracle — 原创 AI 数字文化卡牌 | Digital culture / original IP interactive products | Web product and 26 original cards; verify live payments and product version |
 
 ## Reusable master outline · 12 slides each
