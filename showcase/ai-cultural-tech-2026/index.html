@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="theme-color" content="#fdfbff">
+  <meta name="description" content="GGC AI Native Showcase：全球 AI 内容分发、AI 互动剧、可视化 Agent 工作室与原创 AI 数字文化 IP 的四个候选项目。">
+  <title>AI Native × Culture Tech · GGC 四个创新方向</title>
+  <style>
+    :root{color-scheme:light;--ink:#16121f;--muted:#655d70;--line:#e9e2f0;--hot:#ee3e9b;--violet:#9259f0;--blue:#2976ff;--paper:#fdfbff;--panel:#fff}
+    *{box-sizing:border-box}html{scroll-behavior:smooth}
+    body{margin:0;color:var(--ink);font:16px/1.65 system-ui,-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif;background:var(--paper);overflow-x:hidden}
+    a{color:inherit;text-decoration:none}a:focus-visible{outline:3px solid var(--blue);outline-offset:4px;border-radius:8px}
+    .skip{position:absolute;left:-9999px}.skip:focus{left:18px;top:18px;z-index:30;background:white;padding:8px}
+    .wrap{width:min(1180px,calc(100% - 48px));margin:0 auto}
+    .top{border-bottom:1px solid var(--line);background:#fffcffbf;backdrop-filter:blur(14px);position:relative;z-index:2}
+    .top .wrap{min-height:82px;display:flex;align-items:center;justify-content:space-between;gap:18px}
+    .logo{font-weight:900;font-size:28px;letter-spacing:-.08em}.logo span{font-size:10px;display:block;letter-spacing:.15em;font-weight:650;color:var(--muted);line-height:1;margin-top:-4px}
+    .top nav{display:flex;gap:22px;align-items:center;font-size:13px;font-weight:700;color:#504858}
+    .top nav a:hover{color:var(--hot)}
+    .hero{padding:106px 0 78px;position:relative;isolation:isolate}
+    .hero:before{content:"";position:absolute;z-index:-1;width:680px;height:680px;right:-160px;top:-165px;background:radial-gradient(circle at 53% 40%,#f3bbed7a,transparent 45%),radial-gradient(circle at 34% 66%,#b6c8ffad,transparent 57%),radial-gradient(circle at 64% 68%,#efd5ffb0,transparent 56%);filter:blur(10px)}
+    .eyebrow{font-size:12px;font-weight:850;letter-spacing:.19em;text-transform:uppercase;color:#7b46c0}
+    .hero h1{font-size:clamp(48px,7vw,103px);line-height:1.1;letter-spacing:-.065em;max-width:940px;margin:24px 0}
+    .gradient{background:linear-gradient(95deg,#ee398e 5%,#8651ed 55%,#287bff 95%);color:transparent;background-clip:text;-webkit-background-clip:text}
+    .lede{font-size:clamp(18px,2.2vw,24px);color:#544a60;max-width:790px;line-height:1.75}
+    .herofoot{display:flex;flex-wrap:wrap;gap:10px;margin-top:28px}
+    .chip{border:1px solid #e5d9ed;background:#ffffffb5;border-radius:99px;padding:7px 13px;font-size:12px;font-weight:700;color:#5c4778}
+    .sectionlead{display:flex;align-items:end;justify-content:space-between;gap:28px;margin-bottom:24px}
+    .sectionlead h2{font-size:clamp(29px,4vw,48px);line-height:1.2;letter-spacing:-.045em;margin:7px 0 0}
+    .sectionlead p{max-width:350px;color:var(--muted);font-size:14px}
+    .grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}
+    .project{background:var(--panel);border:1px solid var(--line);border-radius:26px;overflow:hidden;box-shadow:0 14px 55px #4b286808;min-width:0}
+    .visual{height:204px;position:relative;overflow:hidden;display:flex;align-items:center;justify-content:center}
+    .visual .oversized{font-weight:950;line-height:1;text-transform:uppercase;font-size:clamp(45px,6vw,82px);letter-spacing:-.085em;z-index:1;text-align:center}
+    .visual .mini{position:absolute;left:26px;top:21px;background:#ffffffd6;border:1px solid #ffffffaa;padding:5px 12px;border-radius:99px;font-size:11px;font-weight:800}
+    .traffic{background:radial-gradient(circle at 70% 60%,#b7f4ff 0,transparent 32%),radial-gradient(circle at 33% 25%,#ecb8ff 0,transparent 44%),linear-gradient(110deg,#f4e7fd,#d7e4ff)}
+    .traffic .oversized{color:#4d37a5;text-shadow:3px 5px 0 #fff8}
+    .story{background:radial-gradient(circle at 70% 25%,#feafca 0,transparent 35%),linear-gradient(120deg,#3a226e,#9162d8 58%,#f7b8e0)}
+    .story .oversized{color:#ffedf9;text-shadow:4px 5px 0 #261d4b44}
+    .agent{background:linear-gradient(135deg,#dcf6ff,#e7ddff 58%,#ffe2f3)}
+    .agent .oversized{color:#473ea3;text-shadow:3px 3px 0 #fff}
+    .bunny{background:radial-gradient(circle at 65% 32%,#fffce2,transparent 30%),linear-gradient(125deg,#ffd6ed,#dbd3ff,#b8d9ff)}
+    .bunny .oversized{color:#8d4398;text-shadow:3px 3px 0 #fff8}
+    .projectbody{padding:28px 30px 30px}
+    .meta{display:flex;align-items:center;flex-wrap:wrap;justify-content:space-between;gap:10px;color:#7d7187;font-size:12px;font-weight:800;letter-spacing:.035em}
+    .status{border-radius:99px;padding:5px 10px;background:#f3effb;color:#6b398f;font-weight:850;font-size:11px}
+    .project h3{font-size:clamp(23px,2.3vw,31px);letter-spacing:-.04em;line-height:1.25;margin:17px 0 9px}
+    .en{font-size:13px;font-weight:800;color:#7e61a0;letter-spacing:.045em}
+    .project p{color:#564d60;margin:15px 0}
+    .spec{margin-top:18px;padding-top:17px;border-top:1px solid #f0ebf5;display:grid;gap:9px}
+    .specline{display:grid;grid-template-columns:80px 1fr;gap:9px;font-size:13px}
+    .specline b{color:#85738b}.specline span{color:#3f354a}
+    .cta{display:inline-flex;align-items:center;gap:8px;margin-top:17px;font-size:13px;font-weight:850;color:#703ccc}
+    .cta:hover{text-decoration:underline}
+    .notes{padding:72px 0}
+    .notes-inner{border:1px solid var(--line);border-radius:26px;background:linear-gradient(110deg,#ffffff 0%,#fff6ff 46%,#f1f6ff 100%);padding:37px;display:grid;grid-template-columns:.8fr 1.2fr;gap:35px}
+    .notes h2{font-size:clamp(28px,3.7vw,43px);line-height:1.25;margin:12px 0}
+    .notes p{font-size:14px;color:#5b5262;line-height:1.9}
+    .notes ul{padding-left:1.2em;margin:0}.notes li{margin:0 0 13px;color:#50445a;font-size:14px}
+    footer{border-top:1px solid var(--line);padding:28px 0 50px;font-size:12px;color:#81768a}
+    footer .wrap{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
+    @media(max-width:720px){.wrap{width:min(100% - 32px,1180px)}.top .wrap{min-height:70px}.top nav{gap:12px;font-size:11px}.top nav a:nth-child(2){display:none}.hero{padding:68px 0 51px}.hero h1{font-size:clamp(47px,11vw,72px)}.sectionlead{display:block}.grid{grid-template-columns:1fr}.notes-inner{grid-template-columns:1fr;padding:25px}.visual{height:185px}.visual .oversized{font-size:clamp(48px,12vw,79px)}.projectbody{padding:24px}.specline{grid-template-columns:66px 1fr}}
+    @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+  </style>
+</head>
+<body>
+  <a class="skip" href="#main">跳转正文</a>
+  <header class="top"><div class="wrap"><a href="https://ggcgames.com/" class="logo" aria-label="GGC 官网">GGC<span>GLOBAL GAME COPILOT</span></a><nav aria-label="页面导航"><a href="#projects">四个方向</a><a href="#approach">产业合作</a><a href="https://ggcgames.com/">返回 GGC ↗</a></nav></div></header>
+  <main id="main">
+    <section class="hero"><div class="wrap">
+      <p class="eyebrow">GGC / SAGA · AI NATIVE INNOVATION PORTFOLIO / 2026</p>
+      <h1>让 AI 不只生产内容。<br><span class="gradient">让内容成为新世界。</span></h1>
+      <p class="lede">四种不同的产品想象：让内容触达全球用户、让电影可以被游玩、让 Agent 组织可见、让原创文化 IP 持续生长。</p>
+      <div class="herofoot"><span class="chip">全球内容分发</span><span class="chip">AIGC 创意与制作</span><span class="chip">AI UGC 模拟游戏</span><span class="chip">AI 塔罗与自我探索</span></div>
+    </div></section>
+    <section class="wrap" id="projects" aria-labelledby="projects-heading">
+      <div class="sectionlead"><div><p class="eyebrow">FOUR DISTINCT PRODUCT DIRECTIONS</p><h2 id="projects-heading">四个候选项目<span class="gradient"> / 4 Ventures</span></h2></div><p>四个已有定义的不同产品方向：海外分发、AI 创意制作、UGC 模拟游戏、AI-native 塔罗灵性互动。正式申报仍需独立公司与团队/IP 归属核验。</p></div>
+      <div class="grid">
+        <article class="project">
+          <div class="visual traffic" role="img" aria-label="Traffic OS 艺术字概念示意"><span class="mini">01 / DISTRIBUTION</span><span class="oversized">TRAFFIC<br>OS</span></div>
+          <div class="projectbody"><div class="meta"><span>AI 内容出海 / 智能分发</span><span class="status">工具链建设中</span></div>
+            <h3>AI 原生全球内容分发引擎</h3><div class="en">GGC TRAFFIC OS · GLOBAL CONTENT INTELLIGENCE</div>
+            <p>从选题、AI 创意、多语言适配，到海外渠道试投、用户承接及商业化数据反馈。目标不是做内容代工，而是构建可重复使用的全球用户分发系统。</p>
+            <div class="spec"><div class="specline"><b>现有基础</b><span>AI 内容/获客工作流探索、美国市场早期素材测试及游戏全球发行经验。</span></div>
+            <div class="specline"><b>技术重点</b><span>Agent 任务编排、素材变体与归因、实验决策、版权及授权记录。</span></div>
+            <div class="specline"><b>商业方向</b><span>To B 内容分发基础设施、AI SaaS 与自有产品出海。</span></div></div>
+            <a class="cta" href="https://ggcgames.com/">了解 GGC 业务体系 ↗</a>
+          </div>
+        </article>
+        <article class="project">
+          <div class="visual story" role="img" aria-label="GGC Creative AI创意生产与素材实验方向概念示意"><span class="mini">02 / AI CREATIVE PRODUCTION</span><span class="oversized">GGC<br>CREATIVE</span></div>
+          <div class="projectbody"><div class="meta"><span>AIGC 创意与 AI 制作工作流</span><span class="status">已有 PRD 与 FlowMedia 能力基础</span></div>
+            <h3>GGC Creative · 从创意假设到可测试的内容资产</h3><div class="en">GGC CREATIVE · AI PERFORMANCE CREATIVE</div>
+            <p>面向游戏与 App 团队，理解产品与受众，分析竞品及现有素材，形成差异化创意角度、视频 Hook、脚本、分镜、制作包和测试矩阵，并将真实结果转化为下一轮内容决策。不是泛用视频生成器。</p>
+            <div class="spec"><div class="specline"><b>现有基础</b><span>GGC 公开产品目录收录 Creative；已有独立 Mobile PRD，FlowMedia AI 的 Create Studio、Content Library、Analytics、生成任务流程可复用。</span></div>
+            <div class="specline"><b>技术重点</b><span>多模态素材理解、创意与分镜编排、素材资产/版权来源记录、人工审核、效果回填。视频生成与大规模渲染需独立技术验证。</span></div>
+            <div class="specline"><b>商业方向</b><span>创意分析/制作工具订阅、团队协作、生产交付；与 Traffic OS 的海外渠道执行和归因业务明确分开。</span></div></div>
+            <a class="cta" href="https://biz.ggcgames.com/sme/">查看 GGC AI 产品矩阵 ↗</a>
+          </div>
+        </article>
+        <article class="project">
+          <div class="visual agent" role="img" aria-label="AI UGC 叙事模拟游戏概念示意"><span class="mini">03 / AI-NATIVE UGC SIM</span><span class="oversized">7 PEOPLE<br>OFFICE</span></div>
+          <div class="projectbody"><div class="meta"><span>AI 原生 UGC 游戏 / 互动驱动叙事模拟</span><span class="status">原型与玩法研发阶段</span></div>
+            <h3>七人办公室 · 用资料生成可玩的故事世界</h3><div class="en">SEVEN-PEOPLE OFFICE · INPUT → GAME → EMERGENT STORIES</div>
+            <p>用户输入文本、人物关系或资料，生成可进入的微观模拟场景；玩家观察、干预人物及规则，让事件和故事随互动持续演化。七人办公室是首个体验场景，不是企业管理 SaaS。</p>
+            <div class="spec"><div class="specline"><b>现有基础</b><span>七角色办公室的场景与互动原型方向；文本/资料转可玩世界属于待验证的核心产品链路。</span></div>
+            <div class="specline"><b>核心壁垒</b><span>UGC 结构化、人物/关系状态、可解释的叙事事件、玩家干预与重玩、作品分享。</span></div>
+            <div class="specline"><b>商业方向</b><span>AI 原生模拟游戏、创作与内容分享；收费形态以平台/玩法测试决定。</span></div></div>
+            <a class="cta" href="https://ai.ggcgames.com/">七人办公室原型入口 ↗</a>
+          </div>
+        </article>
+        <article class="project">
+          <div class="visual bunny" role="img" aria-label="Bunny Crystal Oracle 概念示意"><span class="mini">04 / AI-NATIVE TAROT</span><span class="oversized">BUNNY<br>ORACLE</span></div>
+          <div class="projectbody"><div class="meta"><span>AI-native 塔罗 / 灵性 / 情绪反思与认知养成</span><span class="status">Web 产品可体验，闭环待核验</span></div>
+            <h3>Bunny · 与自己深度对话的 AI 神谕系统</h3><div class="en">BUNNY CRYSTAL ORACLE · TAROT × REFLECTION × ASTRO</div>
+            <p>围绕用户的情绪困惑与关系议题，以原创水晶神谕卡、结构化牌阵、多轮心理反思对话和持续记录，帮助用户更好地认识自己。产品负责人参与牌阵与解释算法调校；占星与合盘作为相关体验模块持续建设。</p>
+            <div class="spec"><div class="specline"><b>产品实证</b><span>公开网页有单张/三张/四象牌阵、HEART→FAVOR→BLOCK→BRIDGE 关系解读规则、日签、占星入口及 Journal 页面。</span></div>
+            <div class="specline"><b>壁垒方向</b><span>牌阵与卡义规则、AI 追问质量、情绪理解、可控个人记忆、成长/养成路径和验证反馈。</span></div>
+            <div class="specline"><b>商业方向</b><span>AI 消费订阅、深度个性化内容、主题体系和灵性工具扩展；实体卡是延伸，不是核心定位。</span></div></div>
+            <a class="cta" href="https://bunny.saga1001.com/">体验 Bunny Crystal Oracle ↗</a>
+          </div>
+        </article>
+      </div>
+    </section>
+    <section class="notes" id="approach"><div class="wrap"><div class="notes-inner"><div><p class="eyebrow">PARTNERSHIP THESIS</p><h2>从 AI 能力<br><span class="gradient">到产业价值。</span></h2><p>我们关注的不只是生成一条视频或一批图片，而是原创内容、交互产品、国际分发与经营反馈怎样共同构成可持续的技术和商业资产。</p></div><div><ul><li><strong>技术共建：</strong>AI 创作流水线、Agent 编排、内容一致性、评测与可审计工作流。</li><li><strong>文化 IP：</strong>原创角色、互动叙事、数字及实体内容资产和授权机制。</li><li><strong>国际市场：</strong>多语言内容适配、创意测试、海外分发渠道及产品商业化验证。</li><li><strong>项目孵化：</strong>依照真实产品阶段，明确 Demo、权属、负责人、预算、验证指标及合作边界。</li></ul></div></div></div></section>
+  </main>
+  <footer><div class="wrap"><span>© 2026 GGC · Global Game Copilot · AI Native Portfolio</span><span>本页为候选项目介绍，不代表已获奖、已完成申报或所有功能均正式上线。视觉为艺术概念图。</span></div></footer>
+</body>
+</html>
