@@ -15,6 +15,7 @@ from PIL import Image,ImageOps,ImageDraw,ImageFont
 from reportlab.pdfgen import canvas
 from reportlab.lib.utils import ImageReader
 import fitz
+from product_explorer import check_product_explorer
 ROOT=Path(__file__).resolve().parents[3]
 BASE=ROOT/'corporate/fullsite-v4'
 OUT=ROOT/'fullsite-evidence'
@@ -59,6 +60,8 @@ def run():
             def load(loc,route,query=''):
                 response=page.goto(origin+'/'+loc+'/'+route+'.html'+query,wait_until='networkidle')
                 check('http200:'+loc+'/'+route,response and response.status==200)
+                page.locator('img').evaluate_all('es=>es.forEach(e=>e.loading="eager")')
+                page.wait_for_function('Array.from(document.images).every(i=>i.complete&&i.naturalWidth>0)')
             for loc in ['zh','en']:
                 for route in m['routes']:
                     load(loc,route)
@@ -91,10 +94,11 @@ def run():
                         check('16_services:'+loc,page.locator('#services>.card').count()==16)
                         page.locator('[data-search]').fill('ZZZ_NO_MATCH');check('service_empty:'+loc,page.locator('[data-empty]').is_visible())
                         page.screenshot(path=str(SHOT/(loc+'_state_search_empty.png')))
-                load(loc,'product-10')
-                page.locator('[data-next]').click();check('gallery_next:'+loc,page.locator('[data-gallery-status]').inner_text()=='2 / 3')
-                page.locator('[data-slide-to="2"]').click();check('gallery_dot:'+loc,page.locator('[data-gallery-status]').inner_text()=='3 / 3')
-                page.locator('[data-prev]').click();check('gallery_prev:'+loc,page.locator('[data-gallery-status]').inner_text()=='2 / 3')
+                for i in range(1,15):
+                    load(loc,f'product-{i:02}')
+                    page.locator('img').evaluate_all('es=>es.forEach(e=>e.loading="eager")')
+                    page.wait_for_function('Array.from(document.images).every(i=>i.complete&&i.naturalWidth>0)')
+                    check_product_explorer(page,check,loc+f'/product-{i:02}')
                 for i in range(1,17):
                     sid='S'+str(i).zfill(2);load(loc,'service-'+sid.lower())
                     check('service_cta:'+loc+'/'+sid,page.locator('a[href="contact.html?service='+sid+'"]').count()>0)

@@ -5,10 +5,10 @@ Original inputs stay byte-identical. Fonts, CSS cascade and deferred JS order st
 from pathlib import Path
 from html import escape, unescape
 from html.parser import HTMLParser
-from urllib.parse import urlsplit
+from urllib.parse import urlsplit, parse_qsl
 import argparse, gzip, hashlib, json, re, struct
 
-VERSION = '2026-10-13-product-review-performance-1'
+VERSION = '2026-10-16-product-review-performance-2'
 FONT_ORIGIN = 'https://fonts.googleapis.com'
 TAG = re.compile(r'<link\b[^>]*>|<script\b[^>]*>\s*</script>|<img\b[^>]*>', re.I)
 IMPORT = re.compile(r'@import\s+url\([\"\']?(https://fonts\.googleapis\.com/[^\"\')]+)[\"\']?\)\s*;')
@@ -25,7 +25,10 @@ def gzlen(data): return len(gzip.compress(data, compresslevel=9, mtime=0))
 
 def local_file(site, page, href):
     u = urlsplit(href)
-    if u.scheme or u.netloc or u.query or u.fragment: return None
+    if u.scheme or u.netloc or u.fragment: return None
+    # Versioned static assets are the same local files. Preserve their position
+    # in the cascade rather than leaving them outside an earlier bundle.
+    if u.query and any(key != 'v' for key, _ in parse_qsl(u.query, keep_blank_values=True)): return None
     # Root 404 uses a base directory; use the assets anchor, not the runtime URL.
     if '/assets/' in u.path:
         rel = u.path.split('/assets/', 1)[1]

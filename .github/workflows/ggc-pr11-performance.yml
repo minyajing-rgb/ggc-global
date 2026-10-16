@@ -26,7 +26,9 @@ jobs:
           python -m pip install playwright==1.57.0 beautifulsoup4 Pillow
           python -m playwright install --with-deps chromium
       - name: Compare source-only candidates, behavior, paint and performance
-        run: python corporate/fullsite-v4/qa/review_performance.py
+        run: |
+          python corporate/fullsite-v4/qa/test_optimize_site.py
+          python corporate/fullsite-v4/qa/review_performance.py
       - name: Save evidence and optimized candidate (not a deployment)
         if: always()
         uses: actions/upload-artifact@v4

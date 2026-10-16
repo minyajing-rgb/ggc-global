@@ -12,6 +12,7 @@ import argparse, base64, hashlib, json, mimetypes, re, shutil, subprocess, sys, 
 import xml.etree.ElementTree as ET
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
+from product_explorer import check_product_explorer
 
 BASE=Path(__file__).resolve().parents[1]; ROOT=BASE.parents[1]
 P=argparse.ArgumentParser();P.add_argument('--offline',action='store_true');P.add_argument('--out',type=Path,default=ROOT/'p0-evidence');P.add_argument('--source-commit',default='working-tree');args=P.parse_args()
@@ -85,7 +86,9 @@ def static_checks(site,mode):
 def as_data(path):return 'data:'+(mimetypes.guess_type(path.name)[0] or 'application/octet-stream')+';base64,'+base64.b64encode(path.read_bytes()).decode()
 def inline(site,file):
     doc=soup(file);scripts=[]
-    def resolve(u):return site/u.lstrip('/') if u.startswith('/') else file.parent/u
+    def resolve(u):
+        path=unquote(urlsplit(u).path)
+        return site/path.lstrip('/') if path.startswith('/') else file.parent/path
     for tag in doc.select('link[rel=stylesheet]'):
         source=resolve(tag['href']);css=source.read_text();css=re.sub(r'@import\s+url\(.*?\);','',css)
         def image(m):
@@ -130,6 +133,10 @@ def browser_checks(preview,release):
                 else:
                     r=page.goto(origin+'/'+loc+'/'+key+'.html'+query,wait_until='networkidle');check('HTTP200:'+loc+'/'+key,r.status==200)
                 page.evaluate('document.fonts.ready');page.evaluate('window.scrollTo(0,0)');page.wait_for_timeout(15)
+                # Verify the files behind below-fold lazy images, rather than
+                # treating their intentionally deferred request as a broken image.
+                page.locator('img').evaluate_all('es=>es.forEach(e=>e.loading="eager")')
+                page.wait_for_function('Array.from(document.images).every(i=>i.complete&&i.naturalWidth>0)')
             for loc in ['zh','en']:
                 for key in reps:
                     for w in [320,390,768,1440]:
@@ -147,9 +154,11 @@ def browser_checks(preview,release):
                         page.keyboard.press('Home');check('tab_home:'+loc+'/'+key,group.locator('[role=tab]').first.get_attribute('aria-selected')=='true')
                 load(loc,'expertise');page.locator('[data-filter="partner"]').focus();page.keyboard.press('Space');check('keyboard_filter:'+loc,all(e.get_attribute('data-type')=='partner' for e in page.locator('[data-type]:visible').all()))
                 page.locator('[data-filter="all"]').click();page.locator('[data-search]').fill('ZZZ_NO_MATCH');check('search_empty:'+loc,page.locator('[data-empty]').is_visible())
-                load(loc,'product-10');page.locator('[data-next]').focus();page.keyboard.press('Enter');check('keyboard_gallery:'+loc,page.locator('[data-gallery-status]').inner_text()=='2 / 3')
-                page.keyboard.press('ArrowRight');check('gallery_arrow:'+loc,page.locator('[data-gallery-status]').inner_text()=='3 / 3')
-                check('gallery_names:'+loc,all('View information panel' in d.get_attribute('aria-label') if loc=='en' else '说明图' in d.get_attribute('aria-label') for d in page.locator('[data-slide-to]').all()))
+                for i in range(1,15):
+                    load(loc,f'product-{i:02}')
+                    page.locator('img').evaluate_all('es=>es.forEach(e=>e.loading="eager")')
+                    page.wait_for_function('Array.from(document.images).every(i=>i.complete&&i.naturalWidth>0)')
+                    check_product_explorer(page,check,loc+f'/product-{i:02}')
                 for key in ['contact','updates']:
                     load(loc,key);form=page.locator('[data-inquiry]' if key=='contact' else '[data-interest]');form.locator('button[type=submit]').click()
                     result=page.locator('#draft-result' if key=='contact' else '[data-interest-result]');check('empty_no_success:'+loc+'/'+key,result.is_hidden())
