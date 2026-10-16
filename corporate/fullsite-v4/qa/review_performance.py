@@ -78,6 +78,10 @@ def run():
         target=BeautifulSoup((AFTER/item['path']).read_text(),'html.parser')
         links=[e for e in target.select('link[rel=stylesheet][href]')
                if not urlsplit(e['href']).scheme and not urlsplit(e['href']).netloc]
+        if not sources:
+            # The root language redirect intentionally has no stylesheet.
+            check('css_no_source_links_remain_empty:'+item['path'],not links)
+            continue
         inputs=perf['bundles'][urlsplit(links[0]['href']).path.rsplit('/',1)[-1]]['inputs'] if len(links)==1 else []
         check('css_all_source_links_to_one:'+item['path'],len(sources)>1 and len(links)==1 and
               item['css']['requests_before']==len(sources) and item['css']['requests_after']==1 and inputs==sources,
