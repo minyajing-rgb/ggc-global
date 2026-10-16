@@ -1,6 +1,8 @@
+> **FOUR ACTUAL PROJECTS — VERIFIED DIRECTION 2026-10-16:** Traffic OS (global distribution); **GGC Creative / FlowMedia AI** (creative decision and AI production workflow); Seven-People Office (text/material-driven UGC emergent simulation game); Bunny Crystal Oracle (AI-native tarot, emotional and spiritual reflection, self-awareness and recurring rituals, astrology extension). **See `GGC_CREATIVE_BP_INVESTMENT_OUTLINE_V1.md` for GGC Creative investment outline.** Existing 2026-10-15 PPTX/PDF exports still use obsolete StoryVerse/enterprise-agent/collectible-only identity; do not circulate. Company/IP/team mapping remains unverified. No publication or submissions.
+
 > **CORRECTION 2026-10-16:** This file records the original 2026-10-15 deck exports, which are **outdated and unsuitable for circulation**: Bunny was mispositioned as only a collectible IP, seven-person office as enterprise agent management, and StoryVerse as a user-owned project. Only the new draft PR preview reflects the corrected identity. Fourth project not chosen. This is not a claim that old conversation PDFs/PPTX have been rewritten.
 
-# GGC / SAGA 1001 — Four venture BPs, deck specification
+# GGC / SAGA 1001 — Four corrected venture directions and obsolete deck specification
 
 **Updated:** 2026-10-15 · **Status: Review draft, not submitted or deployed**
 
