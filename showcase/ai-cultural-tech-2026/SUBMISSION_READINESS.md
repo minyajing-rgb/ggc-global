@@ -1,4 +1,4 @@
-> **CORRECTED 2026-10-16:** Bunny is AI-native tarot/inner-reflection/spiritual interaction, Seven-People Office is UGC-driven narrative simulation game, and **StoryVerse is an assistant-invented working label, not confirmed user product**. Fourth applicant project remains unassigned. Website: https://bunny.saga1001.com/ .
+> **CORRECTED 2026-10-16:** Bunny is AI-native tarot/inner-reflection/spiritual interaction, Seven-People Office is UGC-driven narrative simulation game. The fourth candidate is the **actual existing GGC Creative / FlowMedia AI**, replacing the assistant-invented StoryVerse label. Team/IP/legal eligibility still unverified. Bunny: https://bunny.saga1001.com/ .
 
 # GGC · Four AI-Native Culture-Tech Application Candidates (2026-10-15)
 
@@ -11,7 +11,7 @@
 | Slot | Region | Working name | Proposed category (NOT a verified official category) | Real status | First demo / evidence | Validation blocker |
 | --- | --- | --- | --- | --- | --- | --- |
 | A | Mainland China #1 | **GGC Traffic OS** | AI-native overseas content distribution / creator intelligence / global user acquisition | Workflows in design/build, some separate real US-market early campaign tests; no claim of fully working end-to-end SaaS | GGC operating OS strategy and tests with consented aggregate evidence | Standalone reproducible product demo, attribution/effectiveness, copyright/consent controls |
-| B | Mainland China #2 | **第四项目（待确认实际产品）** | Unassigned until a real fourth project and the applicant's IP/team rights are verified | Unassigned; the prior 'StoryVerse' name was assistant-proposed, not a verified user-owned product | No fourth-project demo accepted until owner confirms an actual project | Choose a genuine product and check ownership, independent team and fit before producing a BP |
+| B | Mainland China #2 | **GGC Creative / FlowMedia AI** | AIGC content production / creative workflow / multimodal visual storytelling (proposed category) | GGC Creative has an actual PRD and reusable FlowMedia AI components; no proof of finished AI film/video rendering stack | Canonical SME product: https://biz.ggcgames.com/sme/ and PRD `sme/docs/GGC_CREATIVE_PRD_v1.md` | Verify real production demo, owned vs provider-generation capabilities, content provenance and distinct applicant/company team |
 | C | Mainland China #3 | **七人办公室 · AI UGC 互动叙事模拟游戏** | AI-native UGC-generated simulation game / interactive emergent storytelling | Visual office simulation direction; text/material-to-game generation is the intended core product and requires a demonstrable proof | https://ai.ggcgames.com/ (verify actual deployed route before submitting) | Input text/material → consistent playable scene → player intervention → emergent replayable story; scope and quality evidence |
 | D | Hong Kong | **Bunny Crystal Oracle · AI-native 塔罗/灵性反思** | AI-native tarot + emotional reflection + spiritual exploration + self-understanding + habit formation | Web oracle and 26 cards visible; tarot/spread rules and relationship readings, journal/astrology entries; algorithm, AI experience, billing and paid retention require exact version verification | https://bunny.saga1001.com/ | Tarot interpretation evaluation and owner-defined algorithm, real AI behavior, privacy/consent, return loop and paid cohort evidence |
 
@@ -20,7 +20,7 @@
 ### Selection rationale
 
 - **Traffic OS** — strongest GGC-to-B commercial infrastructure, international content distribution and measurable user-flow narrative. Different from a generic short-video MCN; do not assert ownership of partner creators or millions of contracted users.
-- **Fourth slot is OPEN** — the assistant's temporary name StoryVerse was not user-confirmed. Do not assign an unverified product to a legal entity; select a genuine independent product and re-review project rights.
+- **GGC Creative / FlowMedia AI** — confirmed product in canonical GGC five-app catalog and own PRD, with reusable FlowMedia AI creative-studio/content-library/analytics patterns. It is a **creative production and test-learning product**, not the distribution/attribution/managed customer-access business of Traffic OS. AI video rendering at scale, copyright chain and shipping maturity remain verification goals, not present-day verified capabilities.
 - **Seven-People Office** — AI-native user-generated playable world with simulation-driven interactive stories: user text/material input, scene generation, character state, interventions, emergent outcomes and sharing. **Not** enterprise Agent orchestration SaaS.
 - **Bunny** — AI-native tarot / spiritual self-reflection, emotional questions and interactive cognition/ritual habits, with owner-directed tarot interpretation/algorithm tuning and astrology extension; original card artwork supports the experience rather than defining the main business. HK applicant rights to verify.
 
@@ -39,7 +39,7 @@
 | Slot | Applicant entity | Compliance status |
 | --- | --- | --- |
 | Mainland A · Traffic OS | Candidate: 北京传奇互娱（工商登记全称待查） | Legal status, product/IP rights and roster not checked |
-| Mainland B · 待确认第四项目 | **Candidate: 北京桃源西谷信息技术有限公司**（候选主体，尚无已确认独立项目归属） | 需确认真实项目、团队和 IP；StoryVerse 不再充当项目名称 |
+| Mainland B · GGC Creative / FlowMedia AI | **Candidate: 北京桃源西谷信息技术有限公司**（申报主体暂拟） | 项目商业名称已存在，但该公司对 Creative/FlowMedia 的合法权属、独立团队及可申报资格尚未核验 |
 | Mainland C · 七人办公室 UGC 模拟游戏 | Candidate: 武汉神爵黄龙科技有限公司（名称及最新工商信息待核） | 游戏权属、功能实现与团队需核验 |
 | Hong Kong D · Bunny AI-native 塔罗及灵性反思 | Candidate: GGC Innovation Tech Co., Limited（黃龍智創科技有限公司；英文/中文法定名称待公司注册记录校准） | HK eligibility, product/IP rights and roster not checked |
 
@@ -76,7 +76,7 @@ Each independent submission needs:
 1. Obtain competition homepage/rules, exact category list, deadline, eligibility, and explicit non-overlap definition. **Do not invent or assert accepted categories.**
 2. Verify **北京传奇互娱（工商全称待查）、北京桃源西谷信息技术有限公司、武汉神爵黄龙科技有限公司** as the three actually user-owned/authorized and eligible mainland applicants, plus the Hong Kong candidate; do not treat past affiliation or branding as proof of legal ownership or submitter authorization.
 3. Verify four independent rosters and registered applicant rights; organizer written ruling on common control / Joyce team membership.
-4. Collect per-project sanitized demo evidence; confirm actual fourth product before writing its BP, and verify seven-person office UGC text/material-to-game loop independently.
+4. Collect per-project sanitized demo evidence; verify GGC Creative / FlowMedia original app, its ownership and reproducible brief → angles/hooks/script/storyboard → test matrix → learning loop; independently check UGC text/material-to-game loop for Seven-People Office.
 5. Owner review the static portfolio page's copy and UI; production release via the existing independent site-operator workflow only upon explicit release decision.
 
 ## Relevant source pointers (public-safe)
@@ -86,6 +86,8 @@ Each independent submission needs:
 - Real Bunny page: https://bunny.saga1001.com/
 - GGC home: https://ggcgames.com/
 
-**Correction logged 2026-10-15:** user identified 北京桃源西谷; public historical sources support the legal name and games-development history, NOT present-day eligibility or assignment of StoryVerse IP. Applicant mapping is a working proposal only.
+**Correction logged 2026-10-15:** user identified 北京桃源西谷; historical sources support its legal name and games-development history, not eligibility or ownership of GGC Creative. Applicant mapping remains a proposal, NOT project IP assignment.
+
+**Source anchor:** `sme/README.md` names GGC Creative as one of five canonical products; `sme/docs/GGC_CREATIVE_PRD_v1.md` defines creative brief/audit, angles/hooks, scripts/storyboards, testing and results/learning; FlowMedia AI existing capability reuse. The v1 PRD explicitly says video rendering is NOT required for completion. **Do not claim a proprietary generative video model, full film pipeline, or paid commercial rollout without evidence.**
 
 **No application submitted, account created, deployment performed, or applicant eligibility verified in this branch.**
