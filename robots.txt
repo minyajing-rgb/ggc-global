@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Public GGC editorial, services and book landing pages.
+# ChatGPT Search uses OAI-SearchBot; bot-training access is managed separately.
+Sitemap: https://biz.ggcgames.com/sitemap.xml
