@@ -249,6 +249,16 @@ def add_metadata(html, loc, route, mode, base, google_form=False):
         schema={'@context':'https://schema.org','@type':'WebPage','@id':url+'#webpage','url':url,'name':title,'description':desc,
                 'inLanguage':LANG[loc][0],'isPartOf':{'@type':'WebSite','@id':base+'#website','name':'GGC — Global Game Copilot','url':base}}
         tags.append('<script type="application/ld+json">'+json.dumps(schema,ensure_ascii=False).replace('<','\\u003c')+'</script>')
+        if route=='index':
+            # Entity identity on the verified bilingual homepages only. No invented
+            # ratings, company metrics, biographies or unverified outbound profiles.
+            entities={'@context':'https://schema.org','@graph':[
+                {'@type':'Organization','@id':base+'#organization','name':'GGC — Global Game Copilot',
+                 'url':base,'description':'Global game operations, publishing, commercialization and AI product advisory.'},
+                {'@type':'WebSite','@id':base+'#website','name':'GGC — Global Game Copilot',
+                 'url':base,'publisher':{'@id':base+'#organization'},'inLanguage':['zh-CN','en']}
+            ]}
+            tags.append('<script type="application/ld+json">'+json.dumps(entities,ensure_ascii=False).replace('<','\\u003c')+'</script>')
     html=html.replace('</head>','\n'+'\n'.join(tags)+'\n</head>',1)
     return html,{'route':loc+'/'+route+'.html','title':title,'description':desc,'canonical':url if route!='404' else None,'indexable':indexed}
 
