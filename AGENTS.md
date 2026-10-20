@@ -27,3 +27,9 @@ Keep exact source/build/environment/evidence and the distinction between impleme
 Preserve the existing approved website, portrait, copy, business structure and independently assigned deployment lane. Do not edit DNS/hosting/publication settings, claim CRM or subscriptions are connected, merge independent product data, or change permissions/billing without appropriate authorization. Reuse recovery points rather than repeating backups.
 
 Local skill files and these first-read instructions are not evidence of global ChatGPT installation, an active Codex job or running automation. Future agents must read and execute them; record observed activation separately from copying.
+
+## 2026-10-20 own-product cold-start handoff (v1.1)
+
+For GGC Principal/consulting acquisition, first read [GGC Cold Start Engine](https://github.com/minyajing-rgb/newmedia/blob/main/skills/ggc-cold-start-engine/SKILL.md) and [GPT ⇄ Codex current handoff](https://github.com/minyajing-rgb/newmedia/blob/main/operations/GPT_CODEX_COLD_START_HANDOFF_2026-10-20.md); then the **v8** operating model, approved flagship evidence, this repo's product-definition/product-acceptance gates and original B2B parent-group STOP/78+ conditional send controls.
+
+Active priority: **Principal first**, then Bunny Web, owned books, own consumer AI. **SparkPro is partner-owned and entirely excluded from every current research, code, marketing, payment, account, user and deployment action.** Never infer that a repo edit broadcasts to an existing ChatGPT thread or starts Codex. [Codex-ready issue #17](https://github.com/minyajing-rgb/ggc-global/issues/17) specifies website first-value/qualified inquiry/payment QA; it is NOT an active Codex run.
