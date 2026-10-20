@@ -10,6 +10,7 @@ import argparse, subprocess, sys, tempfile, shutil
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE / 'readiness'))
 from page_readiness import prepare_pages, validate_base_url
+from public_facts import emit_public_facts
 
 
 def main():
@@ -36,6 +37,9 @@ def main():
         candidate, stage = temp / 'site', temp / 'source'
         subprocess.run([sys.executable, str(HERE / 'prepare_site.py'), '--out', str(candidate), '--stage', str(stage)], check=True)
         prepare_pages(candidate, HERE / 'readiness', args.mode, canonical, args.inquiry_endpoint, args.google_form)
+        # Adds truthful machine-readable facts only for explicitly released pages.
+        # Preserves the accepted 96-page body content and all preview noindex rules.
+        emit_public_facts(candidate, args.mode)
         shutil.copytree(candidate, out, dirs_exist_ok=True)
     print(f'P0 artifact: {out}; mode={args.mode}; canonical={canonical}; not deployed')
 
