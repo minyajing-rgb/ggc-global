@@ -1,0 +1,37 @@
+{
+  "version": "v10",
+  "date": "2026-10-22",
+  "status": "binary_not_uploaded_to_github",
+  "source_document": "AI-Native游戏的增长验证路径JoyceGGC_图片版v1.2",
+  "pages": 34,
+  "aspect_ratio": "16:9",
+  "book_mark_count": 34,
+  "artifacts": [
+    {
+      "name": "GGC_AI_Native_Global_Operations_ClosedDoor_v10_34p.pdf",
+      "size_bytes": 8290366,
+      "sha256": "3876bf06236596166a8ed030c8b54d6692a69f7915241bd39a6f988e67773a74",
+      "github_uploaded": false
+    },
+    {
+      "name": "GGC_AI_Native_v10_34_PNG.zip",
+      "size_bytes": 16790668,
+      "png_count": 34,
+      "sha256": "ba74f6cf32342c4218eb42c581397ebd7b6e5d95211a34363353af560197a685",
+      "github_uploaded": false
+    },
+    {
+      "name": "GGC_v10_34page_contact_sheet.jpg",
+      "size_bytes": 724709,
+      "sha256": "2d6896dee4c778bd55c23c149c1ed228e5ff098ff3e064a75bd74ba430a8e28c",
+      "github_uploaded": false
+    },
+    {
+      "name": "CONTENT_SOURCE_MAP.md",
+      "size_bytes": 6649,
+      "sha256": "57c978ed4aca20619d1f3e60c6a22b82d1d24432f6a7a5ad5533ca0411a25fcd",
+      "github_uploaded": true
+    }
+  ],
+  "notes": "GitHub connector writes text files directly. Local binary files require bytes-based upload support; do not represent them as committed until verified."
+}
