@@ -1,0 +1,48 @@
+name: Assemble GGC v10 closed-door artifacts
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'docs/closed-door/2026-10-ai-native-global-ops-v10/.transfer/pngzip/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  assemble:
+    if: github.repository == 'minyajing-rgb/ggc-global'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Reassemble exact PDF and PNG ZIP, then verify source SHA-256
+        shell: bash
+        run: |
+          set -euo pipefail
+          cd docs/closed-door/2026-10-ai-native-global-ops-v10
+          mkdir -p assets
+          cat .transfer/pdf/part_*.bin > assets/GGC_AI_Native_Global_Operations_ClosedDoor_v10_34p.pdf
+          cat .transfer/pngzip/part_*.bin > assets/GGC_AI_Native_v10_34_PNG.zip
+          echo "3876bf06236596166a8ed030c8b54d6692a69f7915241bd39a6f988e67773a74  assets/GGC_AI_Native_Global_Operations_ClosedDoor_v10_34p.pdf" | sha256sum -c -
+          echo "ba74f6cf32342c4218eb42c581397ebd7b6e5d95211a34363353af560197a685  assets/GGC_AI_Native_v10_34_PNG.zip" | sha256sum -c -
+          python3 - <<'PY'
+          import zipfile
+          p='assets/GGC_AI_Native_v10_34_PNG.zip'
+          with zipfile.ZipFile(p) as z:
+              files=[x for x in z.namelist() if x.endswith('.png')]
+              assert len(files)==34, len(files)
+              print('Verified exactly',len(files),'PNG pages')
+          PY
+      - name: Commit verified assets and remove temporary binary parts
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git rm -r docs/closed-door/2026-10-ai-native-global-ops-v10/.transfer
+          git add docs/closed-door/2026-10-ai-native-global-ops-v10/assets
+          git diff --cached --quiet || git commit -m "assets: publish byte-verified GGC v10 PDF and 34-slide PNG archive"
+          git push origin HEAD:main
