@@ -24,6 +24,21 @@ This map prevents public PR copy from drifting beyond the repository's approved 
 | Anonymous service scenarios | illustrative | public master | Do not call verified client results |
 | Aggregate profit / broad rankings | unresolved / not public-proof-ready | persona / public master boundary | Do not use until reconciled |
 
+## Current 2026 hands-on technology evidence: PR must not omit
+
+**Authoritative first-party clarification, 23 Oct 2026:** Joyce does not only commission/advise AI-native technology. She personally architects and runs Skills and Agents, drives AI-assisted/vibe-coded websites, interactive apps, creative and content pipelines, and supporting SaaS prototypes. Technical role description: **hands-on founder / AI-native workflow architect and builder**; code may be AI-assisted and should not be falsely described as manually hand-authored line by line.
+
+| Hands-on technical area | Grounded implementation/code | Claim boundary |
+|---|---|---|
+| Skill design and agent workflow | `skills/ggc-principal-ai-native-two-flow-os/SKILL.md`, `skills/ggc-ai-native-game-build-to-revenue/SKILL.md`, `skills/ggc-annual-client-development/agents/openai.yaml`, `status/GGC_BD_Dual_Agent_Execution_Plan_v1.md` | Actual Skill/Agent configuration and designs; confirm live execution through logs, not YAML alone |
+| Interactive app development | `research/casino/ab-editor/index.html` and `research/casino/ab-editor/README.md` | Executable single-file HTML/JS editor with visual graph/rule-diff and JSON/CSV. Browser E2E remains a stated gap |
+| Python workflow tools | `skills/bd_reply_audit.py` and external `bunnypromo/skills/bunnypromo/scripts/build_queue.py` | Source is real; legacy `bd_pipeline.py` and `bd_reply_monitor.py` are explicitly disabled and MUST NOT be pitched as active tools |
+| Published web work | `index.html`, `https://ggcgames.com/`, `https://opsgo.ggcgames.com/`, `https://saga1001.com/` | Public pages, personally directed with AI-assisted coding; exact connected backends, payments and user volume not confirmed |
+| Content / SaaS / intelligence systems | `sme/docs/GGC_CREATIVE_PRD_v1.md`, `research/casino/GGC_Casino_Game_Classification_Atlas_2026_v2.html`, external `sims/09_reports/` | Separate **build-ready PRD**, actual browser tool / analytical reports, live backend and verified adoption |
+| Build and release QA | `.github/workflows/joyce-live-smoke.yml` | CI code exists; passing deployment / uptime requires run artifact |
+
+**Award usage:** 2027 everywoman **Innovator** should foreground technology creation / implementation, not just a business-methodology conversion or generic AI leadership. Updated first-party nomination is [everywoman Innovator hands-on builder package](../everywoman-2027/Innovator_Joyce_Mi_review_draft.md). No claim that saved or revised GitHub copy constitutes an official nomination, and no unsupported AI-driven revenue or SaaS user counts.
+
 ## Canonical evidence files
 
 - [Joyce Flagship Fact Master — latest role and project scopes](../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md)
