@@ -1,5 +1,7 @@
 # Joyce 实力自我介绍
 
+**2026-10-23 canonical business-contact override:** 实际商务建联必须读取 [`../../../bd/GGC_BD_CANONICAL_IDENTITY_CONTACT_PACK_v1.md`](../../../bd/GGC_BD_CANONICAL_IDENTITY_CONTACT_PACK_v1.md)。国内优先微信先建立真人联系，海外优先业务邮箱+LinkedIn；签名保留 GGC/biz/Why Joyce/AI SaaS/OpsGo、出版著作、公众号「Joyce游戏运营」「GGC出海实战」、知识星球以及真实微信二维码规则。
+
 **Career fact source / 2026-10-12:** [Joyce flagship fact master](../../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md). PM role and producer leadership follow Joyce’s latest clarification; retain title-specific operating scopes and reported metric definitions.
 
 更新：2026-09-15；候选母稿，非已批准客户发送内容。资料依据本人职业原件、LinkedIn项目记录、GitHub档案及OpsGo Store；个人证件档案不用于公开人设。
@@ -32,8 +34,9 @@ Joyce的核心是识别和定义细分赛道、参与头部产品建设，并把
 
 Joyce｜GGC创始人
 微信/手机：17701087579
-公众号／知识星球：Joyce游戏运营、GGC出海实战
-邮箱：minyajing@gmail.com
+公众号：Joyce游戏运营、GGC出海实战
+知识星球：GGC出海实战 https://t.zsxq.com/nmYnx
+邮箱：joyce@ggcgames.com
 
 个人经历：https://www.linkedin.com/in/minyajing/
 业务与方法：https://opsgo.ggcgames.com/store
