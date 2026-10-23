@@ -1,4 +1,6 @@
-# Joyce × GGC — 中英文高管自我介绍 / Executive Biography v5
+# Joyce × GGC — 中英文高管自我介绍 / Executive Biography v6
+
+**Canonical business contact/resource pack (2026-10-23):** [`GGC_BD_CANONICAL_IDENTITY_CONTACT_PACK_v1.md`](GGC_BD_CANONICAL_IDENTITY_CONTACT_PACK_v1.md). For authorized business introductions, preserve the full relationship/contact/resource layer instead of collapsing to a generic short signature.
 
 **2026-10-12 最新GGC商业模型 v8 — 本文件后续描述“Joyce现在做什么/GGC做什么”必须先读 [AI-native Cash Flow × User Flow 统一 Skill](https://github.com/minyajing-rgb/ggc-global/blob/main/skills/ggc-principal-ai-native-two-flow-os/SKILL.md)。** 内部具体合同、Base+CPS定价样例、千万级Creator系统能力及资本/GP边界详见[私有母稿](https://github.com/minyajing-rgb/GGC-FA/blob/main/ops/strategy/2026-10-12_GGC_PRINCIPAL_AI_NATIVE_TWO_FLOW_MASTER_v8.md)。当前经营闭环：①Principal/经营Copilot，按项目介入、Base Fee + 合同定义的CPS/业绩分成；②轻量联合立项与AI-native产品孵化（合作伙伴主要出研发，GGC主要出市场/经营/发行/商业化，权属与分成按项目）；③积累全球自有/可控用户流量，建设AI-native KOL、社媒账号、社群、内容媒体与Traffic SaaS。底层是Joyce OS七模块/GGC Principle十二原则。**战略关注Cash Flow（资本及经营现金流）和User Flow（用户、账号、内容与分发），项目/IP是合作和变现的载体。** 历史公司的岗位和成果继续依据v7及原CV；不能把合作伙伴千万级KOL数据写成已签约或GGC自有千万KOL，不声称已注册GP或已有AUM，不能把研发中AI工具写成全量生产验证。该规则为描述同步，**不是外联/发信/投融资/部署授权**。
 
@@ -68,6 +70,11 @@
 **AI SaaS：** https://biz.ggcgames.com/sme/
 **OpsGo：** https://opsgo.ggcgames.com/
 **出版著作：** https://ebooks.cmpbook.com/detail?id=26372
+**公众号：**「Joyce游戏运营」「GGC出海实战」
+**公众号文章合集：** https://mp.weixin.qq.com/s/aeDcMyD4xslaV2j-jq9KEQ
+**知识星球｜GGC出海实战：** https://t.zsxq.com/nmYnx
+**三节课｜全球游戏运营与发行策略：** https://www.sanjieke.cn/course/detail/sjk/8006182
+**微信二维码：** https://raw.githubusercontent.com/minyajing-rgb/ggc-global/main/assets/contact/joyce-wechat-qr.jpg
 
 ## English executive introduction (friendly relationship-first; full contact details)
 
@@ -98,6 +105,9 @@ I'm interested in getting to know founders, CEOs, product operators and investme
 **Why Joyce:** https://biz.ggcgames.com/joyce/ · **AI SaaS:** https://biz.ggcgames.com/sme/
 **OpsGo:** https://opsgo.ggcgames.com/
 **Published book:** https://ebooks.cmpbook.com/detail?id=26372
+**Chinese content:** WeChat Official Accounts “Joyce游戏运营” / “GGC出海实战”
+**Knowledge community:** https://t.zsxq.com/nmYnx
+**Representative course:** https://www.sanjieke.cn/course/detail/sjk/8006182
 
 ## PR credentials / 对外资料
 
