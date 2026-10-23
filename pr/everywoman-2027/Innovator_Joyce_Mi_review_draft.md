@@ -1,3 +1,5 @@
+> **CRITICAL STATUS UPDATE — 23 October 2026:** Authenticated organizer submission confirmation from **22 October** has been recovered from Gmail Spam (`1a1636449198d647`; DKIM/SPF/DMARC pass, successfully moved to Inbox/Important). It explicitly states an entry was **SUBMITTED and locked**. The receipt **does not name the category**, so cross-check whether it is Innovator vs another entry, and why a next-day draft reminder was sent. **Do not resubmit or assume this updated GitHub text is the irrevocably filed nomination**; GitHub revisions after Oct 22 are optional future materials, not silently applied to the locked portal. Official 2027 online judging reported as 26 Jan 2027 (submission template mistakenly says 26 Jan 2026). No payment, travel or result implied.
+
 # 2027 everywoman in Technology Awards — Innovator | HANDS-ON TECH FOUNDER NOMINATION
 
 **Nominee:** Joyce Mi | Founder, GGC — Global Game Copilot  
