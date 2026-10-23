@@ -1,0 +1,421 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
+<title>GGC · A+B Loop & Content Editor</title>
+<style>
+:root{--bg:#f7f8fd;--ink:#211a35;--muted:#7a7891;--line:#e7e7f2;--white:#fff;--rose:#ed45a5;--violet:#7656ec;--blue:#388cff;--mint:#22a68f;--shadow:0 16px 50px rgba(72,60,126,.075)}
+*{box-sizing:border-box}
+body{margin:0;background:radial-gradient(ellipse at 90% -5%,#eae6ff 0,transparent 32%),radial-gradient(ellipse at 0 4%,#ffeef8 0,transparent 28%),var(--bg);font-family:Inter,-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif;color:var(--ink)}
+button,input,select,textarea{font:inherit}button{cursor:pointer}a{color:var(--violet)}
+.app{max-width:1660px;margin:auto;padding:22px 24px 40px}
+.top{display:flex;align-items:center;gap:13px;flex-wrap:wrap}.mark{display:flex;align-items:center;gap:9px;font-weight:900;letter-spacing:.04em}.gem{width:36px;height:36px;border-radius:12px;background:linear-gradient(120deg,var(--rose),var(--violet),var(--blue));display:grid;place-items:center;color:white;box-shadow:0 8px 20px #8159df45;font-size:19px}
+.sep{height:26px;border-left:1px solid var(--line)}.top-sub{font-size:13px;color:var(--muted)}.top-right{margin-left:auto;display:flex;gap:7px;align-items:center;flex-wrap:wrap}
+button,.btn{border:1px solid #dad7ed;border-radius:11px;background:#fff;color:#463b70;padding:10px 13px;font-size:13px;font-weight:700;transition:.15s}button:hover{border-color:#a89be9;background:#f8f5ff}.primary{background:linear-gradient(110deg,var(--rose),var(--violet),var(--blue));border:0;color:white;box-shadow:0 8px 18px #795de636}.primary:hover{filter:brightness(1.04);background:linear-gradient(110deg,#eb32a0,#694be0,#2677f2)}
+.smallbtn{padding:6px 10px;font-size:12px}.danger{color:#c34764;border-color:#efcfda}.danger:hover{background:#fff1f5}.ghost{background:transparent;border:1px solid var(--line)}
+.hero{margin:22px 0 12px;display:flex;align-items:end;justify-content:space-between;gap:20px;flex-wrap:wrap}.eyebrow{font-size:11px;font-weight:800;color:#8e4cd8;letter-spacing:.17em;text-transform:uppercase}.hero h1{margin:5px 0;font-size:clamp(24px,3vw,37px);line-height:1.16;letter-spacing:-.035em}.hero p{margin:6px 0;color:var(--muted);font-size:13px;line-height:1.65}.caps{display:flex;gap:7px;flex-wrap:wrap}.cap{border-radius:99px;font-size:11px;font-weight:750;background:white;border:1px solid var(--line);padding:7px 11px;color:#5d5680}.cap b{color:var(--violet)}
+.projectbar{background:#fff;border:1px solid var(--line);padding:14px 17px;border-radius:17px;box-shadow:var(--shadow);display:flex;align-items:center;gap:13px;flex-wrap:wrap}.group{display:flex;align-items:center;gap:8px;flex-wrap:wrap}.label{font-size:11px;color:var(--muted);font-weight:700}.field,select,textarea,input{background:white;border:1px solid #deddea;border-radius:9px;color:var(--ink);padding:9px 11px;font-size:13px;outline:none;max-width:100%}
+.field:focus,select:focus,textarea:focus,input:focus{border-color:#9d87f4;box-shadow:0 0 0 3px #a98cf021}
+.projectbar select{min-width:170px}.projectbar input{min-width:200px}.autosave{font-size:11px;color:#558579;margin-left:auto}
+.tabs{display:flex;gap:5px;margin:18px 0 12px;flex-wrap:wrap}.tab{border:0;background:transparent;border-radius:9px;font-weight:800;color:#77748d;padding:11px 15px}.tab.active{color:#6a47d5;background:#ece8ff}
+.panel{background:var(--white);border:1px solid var(--line);border-radius:17px;box-shadow:var(--shadow);padding:17px}.panel h3{font-size:15px;margin:0 0 11px}.panel p{color:var(--muted);line-height:1.6;font-size:12px}
+.flow-layout{display:grid;grid-template-columns:215px minmax(400px,1fr) 285px;gap:12px;align-items:stretch}.palette{display:grid;gap:8px}.p-item{width:100%;text-align:left;padding:10px 12px;display:flex;align-items:center;gap:9px;border-color:var(--line)}.swatch{width:10px;height:10px;border-radius:50%;background:var(--violet);flex-shrink:0}.swatch.a{background:var(--rose)}.swatch.e{background:#dfa53a}.swatch.b{background:var(--blue)}.swatch.l{background:var(--mint)}
+.canvas-container{background:#fff;border-radius:17px;border:1px solid var(--line);overflow:auto;box-shadow:var(--shadow);min-height:650px}
+.canvas-toolbar{position:sticky;left:0;top:0;padding:11px 15px;border-bottom:1px solid var(--line);background:rgba(255,255,255,.95);z-index:3;display:flex;align-items:center;gap:8px;white-space:nowrap}
+.canvas{width:1110px;height:635px;position:relative;background-image:radial-gradient(#d9d7eb .85px,transparent .85px);background-size:22px 22px;background-color:#fcfcff}
+.links{position:absolute;inset:0;width:1110px;height:635px;pointer-events:none;overflow:visible}.edgepath{fill:none;stroke:#b0a8cc;stroke-width:2.4;pointer-events:stroke;cursor:pointer}.edgepath:hover{stroke:var(--violet);stroke-width:4}.edgetext{font-size:11px;fill:#72698f;pointer-events:none;paint-order:stroke;stroke:#fff;stroke-width:5px;stroke-linejoin:round}
+.node{position:absolute;width:177px;min-height:92px;border:1px solid #e0dcef;border-top:4px solid var(--violet);border-radius:14px;background:white;box-shadow:0 11px 28px #3d316b15;padding:9px 12px;cursor:pointer;user-select:none;z-index:1}
+.node.a{border-top-color:var(--rose)}.node.e{border-top-color:#dda538}.node.b{border-top-color:var(--blue)}.node.l{border-top-color:var(--mint)}.node.selected{outline:3px solid #cbbaff;box-shadow:0 12px 30px #9164db42}.node-kind{color:#8c86a2;font-size:10px;font-weight:800;display:flex;justify-content:space-between;align-items:center;gap:4px}.drag{cursor:grab;touch-action:none;font-size:15px;padding:2px 7px;border-radius:7px;background:#f4f3fa}.drag:active{cursor:grabbing}.node-name{font-size:13px;font-weight:850;margin:6px 0 3px;line-height:1.2}.node-desc{font-size:10px;color:var(--muted);line-height:1.4;overflow:hidden;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2}
+.inspector .fieldrow{margin:12px 0}.fieldrow label{font-size:11px;font-weight:750;color:#777188;display:block;margin:0 0 5px}.fieldrow input,.fieldrow select,.fieldrow textarea{width:100%}textarea{resize:vertical;min-height:65px;line-height:1.45}
+.note{border-radius:11px;background:#f7f5ff;color:#635c88;font-size:12px;line-height:1.65;padding:11px 13px;margin:12px 0}.note.warning{background:#fff7e8;color:#997026}.note.success{background:#edf9f6;color:#35826c}
+.kpis{display:grid;grid-template-columns:repeat(4,minmax(100px,1fr));gap:10px;margin-bottom:13px}.kpi{background:#fff;border:1px solid var(--line);border-radius:14px;padding:16px}.kpi b{display:block;font-size:27px;letter-spacing:-.03em;margin-top:4px}.kpi span{font-size:11px;color:var(--muted);font-weight:700}
+.sectionhead{display:flex;align-items:center;gap:10px;justify-content:space-between;flex-wrap:wrap;margin-bottom:12px}.sectionhead h2{font-size:18px;margin:0}.sectionhead .sub{font-size:12px;color:var(--muted)}
+.tablewrap{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:12px}th{background:#f7f6fd;color:#665e83;text-align:left;white-space:nowrap}th,td{padding:12px 11px;border-bottom:1px solid #ecebf4;vertical-align:top;line-height:1.5}td{color:#3d3554}.muted{color:var(--muted)}.mono{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:11px}
+.pill{display:inline-block;border:1px solid #e2dfef;color:#786f8f;padding:3px 8px;font-size:10px;font-weight:800;border-radius:99px;white-space:nowrap}.pill.A{background:#fff0f8;color:#bb3983;border-color:#f7cee6}.pill.B{background:#edf5ff;color:#2875c4;border-color:#cde5ff}.pill.C{background:#f5f4f7;color:#777187}.pill.live{background:#eef9f5;color:#238b71}
+.empty{text-align:center;padding:38px 18px;color:var(--muted)}.empty b{color:var(--ink);display:block;margin-bottom:8px}
+.twocol{display:grid;grid-template-columns:1fr 1fr;gap:12px}.matrix{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+.audit-row{padding:11px 12px;border-bottom:1px solid var(--line);display:flex;align-items:flex-start;gap:10px;font-size:13px}.audit-dot{border-radius:50%;background:#ffbc50;width:8px;height:8px;margin-top:5px;flex-shrink:0}.audit-dot.ok{background:#47b99c}
+footer{color:#9a95ac;font-size:11px;margin:22px 4px}
+.modal{position:fixed;inset:0;background:#1b163c88;z-index:20;display:flex;justify-content:center;align-items:center;padding:16px;backdrop-filter:blur(5px)}.modal[hidden]{display:none}.dialog{background:white;border-radius:20px;padding:22px;width:min(850px,100%);max-height:92vh;overflow:auto;box-shadow:0 26px 100px #21194066}.dialog h2{margin:0 0 5px}.dialog .desc{font-size:12px;color:var(--muted);line-height:1.6;margin:0 0 15px}.dialog-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px 13px}.full{grid-column:1/-1}.modal-actions{display:flex;gap:9px;justify-content:flex-end;margin-top:16px}.statline{font-size:11px;color:#8a819d;margin:4px 0 12px}
+#toast{position:fixed;bottom:24px;right:23px;padding:12px 17px;color:white;background:#3d345b;border-radius:12px;box-shadow:0 12px 30px #30264b4a;z-index:40;font-size:13px;display:none;max-width:380px}
+@media(max-width:1180px){.flow-layout{grid-template-columns:180px minmax(330px,1fr)}.flow-layout>.inspector{grid-column:1/-1}.matrix{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:720px){.app{padding:14px 11px 28px}.flow-layout,.twocol{grid-template-columns:1fr}.flow-layout>.inspector{grid-column:auto}.projectbar input{min-width:160px}.kpis{grid-template-columns:repeat(2,1fr)}.dialog-grid{grid-template-columns:1fr}.full{grid-column:1}.top-right{margin-left:0}.hero{margin-top:17px}}
+</style>
+</head>
+<body>
+<div class="app">
+<header class="top">
+ <div class="mark"><div class="gem">✦</div><div>GGC <span style="color:#9388ad">/</span> GAME SYSTEMS</div></div>
+ <div class="sep"></div><span class="top-sub">A+B LOOP / VISUAL CONTENT EDITOR · v1.0</span>
+ <div class="top-right"><button id="exportJson">↓ 导出全部 JSON</button><button id="exportCsv">↓ 导出内容 CSV</button><button id="importBtn">↑ 导入 JSON</button></div>
+</header>
+<section class="hero">
+ <div><div class="eyebrow">Casino × Arcade × Sims · Research / Prototyping</div><h1>随机核心 A × 长期目标 B</h1><p>把 Spin / Dice → 资源 → Village / Board / Collection / Social / LiveOps → 回到核心循环，做成真正可编辑、可核验、可导出的内容系统。</p></div>
+ <div class="caps"><span class="cap">◈ <b>A</b> Core</span><span class="cap">◈ <b>B</b> Meta</span><span class="cap">◈ <b>A/B/C</b> 规则差分</span><span class="cap">◎ 本地自动保存</span></div>
+</section>
+<section class="projectbar">
+ <div class="group"><span class="label">项目</span><select id="projectSelect" aria-label="选择项目"></select><button id="newProject" class="smallbtn">+ 自定义项目</button></div>
+ <div class="group"><span class="label">名称</span><input id="projectTitle" aria-label="项目名称" maxlength="100"></div>
+ <div class="autosave" id="saveStatus">自动保存到本浏览器</div>
+</section>
+<nav class="tabs" aria-label="功能区">
+ <button class="tab active" data-tab="flow">01 · A+B 流程编辑</button>
+ <button class="tab" data-tab="inventory">02 · 内容库存</button>
+ <button class="tab" data-tab="versions">03 · 版本 / 规则差分</button>
+ <button class="tab" data-tab="audit">04 · 核验 / 横向比较</button>
+</nav>
+<main id="view"></main>
+<footer>GGC Global Game Copilot · 研究示意 ≠ 竞品完整配置。数据仅保存在当前浏览器；导出文件后可入 GitHub 版本管理，不自动同步服务器或玩家数据。</footer>
+</div>
+<div id="modal" class="modal" hidden><div class="dialog" id="dialog" role="dialog" aria-modal="true" aria-label="内容编辑"></div></div>
+<input id="fileInput" type="file" hidden accept=".json,application/json">
+<div id="toast" role="status" aria-live="polite"></div>
+<script>
+(function(){
+"use strict";
+var STORAGE="ggc_ab_workbench_v1";
+var KINDS={
+ spin:{name:"Spin / 随机转轮",side:"a"},dice:{name:"Dice / 掷骰",side:"a"},
+ resource:{name:"Wallet / 资源",side:"e"},village:{name:"Village / 建村",side:"b"},
+ board:{name:"Board / 棋盘",side:"b"},collection:{name:"Collection / 收集",side:"b"},
+ pet:{name:"Pet / 伙伴",side:"b"},social:{name:"Social / 社交",side:"b"},
+ event:{name:"LiveOps / 活动",side:"l"},slot:{name:"Slot / 机台",side:"a"}
+};
+var UNITS={slot:"Slot 机台",village:"Village / 村庄",board:"Board / 棋盘",album:"Album / 卡册",sticker:"Sticker Set / 贴纸集",pet:"Pet / 伙伴",event:"Event / 活动",social:"Social / 社交",feature:"Feature / 机制"};
+var CLASSES={A:"A · 换皮",B:"B · 新规则",C:"C · 不明确"};
+var FIELDS=["reel","paylines","bonus","holdSpin","jackpot","math"];
+var FIELD_NAMES={reel:"Reel / Row",paylines:"Paylines / Ways",bonus:"Bonus Trigger",holdSpin:"Hold & Spin",jackpot:"Jackpot",math:"Math / RTP"};
+var BENCH=[
+ {id:"coin-master",name:"Coin Master",subtitle:"Spin + Village + Cards / Pets",
+ source:"https://play.google.com/store/apps/details?id=com.moonactive.coinmaster",
+ nodes:[["spin","Spin / 随机奖励",65,250,"A：随机奖励驱动资源入口"],["resource","Coins / Spins",306,251,"产出与消耗转换层"],["village","Village Build",553,105,"B：建筑升级与进度"],["collection","Cards / Sets",814,105,"B：收集与长期目标"],["social","Attack / Raid / Friends",803,365,"社交互动及竞争"]],edges:[[0,1,"产出"],[1,2,"消耗"],[2,3,"目标"],[3,4,"回访"],[4,0,"再次 Spin"]]},
+ {id:"monopoly-go",name:"MONOPOLY GO!",subtitle:"Dice + Board + Landmarks / Stickers",
+ source:"https://play.google.com/store/apps/details?id=com.scopely.monopolygo",
+ nodes:[["dice","Dice / Roll",61,243,"A：掷骰驱动局面"],["board","Board Movement",310,243,"棋盘节点与反馈"],["resource","Cash / Dice",555,119,"资源与回收"],["village","Landmark Build",801,95,"B：场景和建筑升级"],["collection","Sticker Album",808,352,"B：收集与社交目标"],["social","Social / Events",524,420,"合作、社交和活动"]],edges:[[0,1,"前进"],[1,2,"奖励"],[2,3,"投入"],[3,4,"长期目标"],[4,5,"社交承接"],[5,0,"回到 Roll"]]},
+ {id:"dice-dreams",name:"Dice Dreams",subtitle:"Dice + Kingdom + Attack / Steal",
+ source:"https://play.google.com/store/apps/details?id=com.superplaystudios.dicedreams",
+ nodes:[["dice","Dice / Roll",63,248,"A：随机骰子奖励"],["resource","Coins / Resources",310,246,"资源入口与消耗"],["village","Kingdom Build",554,116,"B：建设与关卡进程"],["social","Attack / Steal",810,122,"B：玩家对抗与反馈"],["collection","Collection / Goals",801,367,"B：长期目标"],["event","Events / Return",523,430,"LiveOps 回访节奏"]],edges:[[0,1,"产出"],[1,2,"花费"],[2,3,"互动"],[3,4,"奖励目标"],[4,5,"事件"],[5,0,"回到 Roll"]]},
+ {id:"cm-board",name:"Coin Master – Board Adventure",subtitle:"Board + Village / 新品观察",
+ source:"https://play.google.com/store/apps/details?id=com.moonactive.cmboard",
+ nodes:[["dice","Board / Roll",68,236,"A：骰子棋盘随机事件示意"],["board","Board Rewards",307,240,"棋盘事件 / 资源"],["resource","Resources",536,120,"资源中转"],["village","Village",791,115,"B：建设进度"],["social","Social Interactions",790,360,"B：好友和互动"]],edges:[[0,1,"触发"],[1,2,"产出"],[2,3,"消耗"],[3,4,"目标"],[4,0,"回访"]]}
+];
+function id(){return "i"+Date.now().toString(36)+Math.random().toString(36).slice(2,8)}
+function esc(s){return String(s==null?"":s).replace(/[&<>"']/g,function(x){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[x]})}
+function txt(v){return String(v==null?"":v).slice(0,7000)}
+function safeUrl(v){var x=txt(v).trim();return /^https:\/\/[a-z0-9]/i.test(x)?x:""}
+function projectFrom(b){
+ var nodes=b.nodes.map(function(a,i){return {id:b.id+"-n"+i,kind:a[0],title:a[1],x:a[2],y:a[3],desc:a[4],cost:"",gain:"",notes:""}});
+ var edges=b.edges.map(function(e,i){return {id:b.id+"-e"+i,from:nodes[e[0]].id,to:nodes[e[1]].id,label:e[2]}});
+ return {id:b.id,name:b.name,subtitle:b.subtitle,source:b.source,illustrative:true,nodes:nodes,edges:edges,content:[],versions:[]};
+}
+function defaults(){return {schema:"ggc.ab.editor.v1",active:BENCH[0].id,projects:BENCH.map(projectFrom)}}
+function normalize(raw){
+ if(!raw||!Array.isArray(raw.projects)||!raw.projects.length||raw.projects.length>40)throw Error("非本编辑器数据格式或项目超限");
+ var out={schema:"ggc.ab.editor.v1",active:txt(raw.active),projects:[]};
+ raw.projects.forEach(function(p){
+ if(!p||typeof p!=="object")return;
+ var z={id:txt(p.id)||id(),name:txt(p.name)||"新项目",subtitle:txt(p.subtitle),source:safeUrl(p.source),illustrative:!!p.illustrative,nodes:[],edges:[],content:[],versions:[]};
+ if(!Array.isArray(p.nodes)||p.nodes.length>400||!Array.isArray(p.edges)||p.edges.length>900||!Array.isArray(p.content)||p.content.length>3000||!Array.isArray(p.versions)||p.versions.length>1000)throw Error("数据行数超出限制");
+ p.nodes.forEach(function(n){if(n&&KINDS[n.kind])z.nodes.push({id:txt(n.id)||id(),kind:n.kind,title:txt(n.title),x:Math.max(0,Math.min(925,Number(n.x)||0)),y:Math.max(0,Math.min(520,Number(n.y)||0)),desc:txt(n.desc),cost:txt(n.cost),gain:txt(n.gain),notes:txt(n.notes)})});
+ p.edges.forEach(function(e){if(e&&z.nodes.some(function(n){return n.id===e.from})&&z.nodes.some(function(n){return n.id===e.to}))z.edges.push({id:txt(e.id)||id(),from:txt(e.from),to:txt(e.to),label:txt(e.label)})});
+ p.content.forEach(function(c){
+ if(!c)return; var rules={};FIELDS.forEach(function(k){rules[k]=txt((c.rules||{})[k])});
+ z.content.push({id:txt(c.id)||id(),name:txt(c.name),unit:UNITS[c.unit]?c.unit:"feature",version:txt(c.version),date:txt(c.date),status:txt(c.status),claimed:["A","B","C"].includes(c.claimed)?c.claimed:"C",ruleChange:["same","changed","unknown"].includes(c.ruleChange)?c.ruleChange:"unknown",previous:txt(c.previous),before:txt(c.before),after:txt(c.after),evidence:safeUrl(c.evidence),notes:txt(c.notes),rules:rules});
+ });
+ p.versions.forEach(function(v){if(v)z.versions.push({id:txt(v.id)||id(),name:txt(v.name),date:txt(v.date),phase:["launch","update","config","event"].includes(v.phase)?v.phase:"update",notes:txt(v.notes),source:safeUrl(v.source)})});
+ out.projects.push(z);
+ });
+ if(!out.projects.length)throw Error("未找到可导入项目");
+ if(!out.projects.some(function(p){return p.id===out.active}))out.active=out.projects[0].id;
+ return out;
+}
+function readDb(){try{var x=localStorage.getItem(STORAGE);return x?normalize(JSON.parse(x)):defaults()}catch(e){return defaults()}}
+var db=readDb(),ui={tab:"flow",node:null,edge:null,connect:null,filter:""},view=document.getElementById("view"),modal=document.getElementById("modal"),dialog=document.getElementById("dialog");
+function cur(){return db.projects.find(function(p){return p.id===db.active})||db.projects[0]}
+function save(){try{localStorage.setItem(STORAGE,JSON.stringify(db));document.getElementById("saveStatus").textContent="✓ 已保存在本浏览器"}catch(e){document.getElementById("saveStatus").textContent="本地存储受限，请立即导出 JSON"}}
+var toastTimer=0;function toast(message){var t=document.getElementById("toast");t.textContent=message;t.style.display="block";clearTimeout(toastTimer);toastTimer=setTimeout(function(){t.style.display="none"},3200)}
+function opt(x,value,selected){return '<option value="'+esc(value)+'"'+(value===selected?' selected':'')+'>'+esc(x)+'</option>'}
+function renderShell(){
+ var p=cur(),sel=document.getElementById("projectSelect");
+ sel.innerHTML=db.projects.map(function(v){return opt(v.name,v.id,db.active)}).join("");
+ document.getElementById("projectTitle").value=p.name;
+ document.querySelectorAll(".tab").forEach(function(t){t.classList.toggle("active",t.dataset.tab===ui.tab)});
+}
+function render(){renderShell();if(ui.tab==="flow")renderFlow();else if(ui.tab==="inventory")renderInventory();else if(ui.tab==="versions")renderVersions();else renderAudit()}
+function cls(kind){return (KINDS[kind]||{}).side||"e"}
+function badge(v){return '<span class="pill '+esc(v)+'">'+esc(CLASSES[v]||"C · 不明确")+'</span>'}
+function counts(p){var out={A:0,B:0,C:0};p.content.forEach(function(c){out[classify(c)]++});return out}
+function classify(c){
+ if(!safeUrl(c.evidence)||!txt(c.before).trim()||!txt(c.after).trim())return "C";
+ if(c.claimed==="A"&&c.ruleChange==="same")return "A";
+ if(c.claimed==="B"&&c.ruleChange==="changed")return "B";
+ return "C";
+}
+function stats(p){var n=counts(p);return '<div class="kpis"><div class="kpi"><span>已录入内容单元</span><b>'+p.content.length+'</b></div><div class="kpi"><span>A · 有证据的换皮主张</span><b>'+n.A+'</b></div><div class="kpi"><span>B · 有证据的新规则主张</span><b>'+n.B+'</b></div><div class="kpi"><span>C · 不明确</span><b>'+n.C+'</b></div></div><div class="statline">数字仅代表本编辑器录入的研究记录，绝不等同竞品机台库存或经过独立实测的真实新增量。</div>'}
+function renderFlow(){
+ var p=cur();
+ view.innerHTML='<div class="flow-layout"><aside class="panel"><h3>节点库 · A × B</h3><p>点击添加节点；拖拽卡片右上角移动。示意图仅表示公开可见的玩法关系。</p><div class="palette">'+Object.keys(KINDS).map(function(k){return '<button class="p-item" data-action="addNode" data-kind="'+k+'"><i class="swatch '+cls(k)+'"></i>'+esc(KINDS[k].name)+'</button>'}).join('')+'</div><div class="note warning">A：核心随机循环；B：可持续消耗与回访。事件 / Wallet 是连接层，不应全部视作 Slot 机台。</div><p><a href="'+esc(p.source||"https://ggcgames.com")+'" target="_blank" rel="noopener noreferrer">参考产品来源 ↗</a></p></aside>'+
+ '<section class="canvas-container"><div class="canvas-toolbar"><b>A+B 流程图</b><span class="label" id="connectHint">'+(ui.connect?"选择第一个节点，随后选择目标节点":"点击节点配置；点击连线可编辑")+'</span><button class="smallbtn '+(ui.connect?"primary":"")+'" style="margin-left:auto" data-action="connect">⌁ '+(ui.connect?"退出连线":"连接节点")+'</button><button class="smallbtn" data-action="fit">回到顶部</button></div><div class="canvas" id="canvas"><svg class="links" id="lines" viewBox="0 0 1110 635"></svg><div id="nodesLayer"></div></div></section>'+
+ '<aside class="panel inspector"><h3>配置检查器</h3><div id="inspectorBody"></div></aside></div>';
+ drawNodes();drawEdges();renderInspector();
+}
+function drawNodes(){
+ var layer=document.getElementById("nodesLayer");if(!layer)return;
+ layer.innerHTML=cur().nodes.map(function(n){return '<div class="node '+cls(n.kind)+(ui.node===n.id?" selected":"")+'" data-node="'+esc(n.id)+'" style="left:'+n.x+'px;top:'+n.y+'px"><div class="node-kind"><span>'+esc(KINDS[n.kind].name)+'</span><span class="drag" title="拖动节点" aria-label="拖动节点">⠿</span></div><div class="node-name">'+esc(n.title)+'</div><div class="node-desc">'+esc(n.desc||"点击右侧编辑规则与资源")+'</div></div>'}).join("");
+ layer.querySelectorAll(".drag").forEach(function(handle){
+ handle.addEventListener("pointerdown",function(e){
+  if(e.button!==0&&e.pointerType==="mouse")return;e.preventDefault();e.stopPropagation();
+  var box=handle.closest(".node"),n=cur().nodes.find(function(v){return v.id===box.dataset.node});if(!n)return;
+  var sx=e.clientX,sy=e.clientY,ox=n.x,oy=n.y;
+  handle.setPointerCapture(e.pointerId);
+  function move(evt){n.x=Math.max(0,Math.min(933,Math.round(ox+evt.clientX-sx)));n.y=Math.max(0,Math.min(530,Math.round(oy+evt.clientY-sy)));box.style.left=n.x+"px";box.style.top=n.y+"px";drawEdges()}
+  function end(){handle.removeEventListener("pointermove",move);handle.removeEventListener("pointerup",end);handle.removeEventListener("pointercancel",end);save()}
+  handle.addEventListener("pointermove",move);handle.addEventListener("pointerup",end);handle.addEventListener("pointercancel",end);
+ });
+ });
+}
+function drawEdges(){
+ var svg=document.getElementById("lines");if(!svg)return;var p=cur(),m={};
+ p.nodes.forEach(function(n){m[n.id]=n});
+ svg.innerHTML=p.edges.map(function(e){
+  var a=m[e.from],b=m[e.to];if(!a||!b)return "";
+  var sx=a.x+177,sy=a.y+47,tx=b.x,ty=b.y+47;
+  if(b.x<=a.x+20){sx=a.x+88;sy=a.y+90;tx=b.x+88;ty=b.y; if(b.y<a.y){sy=a.y;ty=b.y+91}}
+  var dx=Math.max(45,Math.abs(tx-sx)*.45),dir=tx>=sx?1:-1;
+  var d="M"+sx+","+sy+" C"+(sx+dx*dir)+","+sy+" "+(tx-dx*dir)+","+ty+" "+tx+","+ty;
+  return '<path class="edgepath" data-edge="'+esc(e.id)+'" d="'+d+'" style="stroke:'+(ui.edge===e.id?"#7656ec":"#b6aed3")+'"></path><text class="edgetext" x="'+((sx+tx)/2).toFixed(1)+'" y="'+((sy+ty)/2-8).toFixed(1)+'" text-anchor="middle">'+esc(e.label)+'</text>';
+ }).join("");
+}
+function renderInspector(){
+ var el=document.getElementById("inspectorBody");if(!el)return;var p=cur();
+ var n=p.nodes.find(function(v){return v.id===ui.node});
+ var edge=p.edges.find(function(v){return v.id===ui.edge});
+ if(edge){
+  el.innerHTML='<div class="note">连线代表核心奖励、消耗、资源流或返回入口。选中后可调整备注。</div>'+
+   '<div class="fieldrow"><label>源节点</label><select data-edgefield="from">'+p.nodes.map(function(x){return opt(x.title,x.id,edge.from)}).join("")+'</select></div>'+
+   '<div class="fieldrow"><label>目标节点</label><select data-edgefield="to">'+p.nodes.map(function(x){return opt(x.title,x.id,edge.to)}).join("")+'</select></div>'+
+   '<div class="fieldrow"><label>资源流 / 条件</label><input data-edgefield="label" value="'+esc(edge.label)+'"></div>'+
+   '<button data-action="deleteEdge" class="danger">删除连线</button>';return;
+ }
+ if(!n){el.innerHTML='<div class="empty"><b>选择一个节点</b>编辑它的机制、资源消耗和回访目标。也可以点击“连接节点”绘制 A→B→A 闭环。</div>';return}
+ el.innerHTML='<div class="fieldrow"><label>节点标题</label><input data-nodefield="title" value="'+esc(n.title)+'"></div>'+
+ '<div class="fieldrow"><label>组件类型</label><select data-nodefield="kind">'+Object.keys(KINDS).map(function(k){return opt(KINDS[k].name,k,n.kind)}).join("")+'</select></div>'+
+ '<div class="fieldrow"><label>玩法说明</label><textarea data-nodefield="desc">'+esc(n.desc)+'</textarea></div>'+
+ '<div class="fieldrow"><label>消耗资源 / Sink</label><input data-nodefield="cost" value="'+esc(n.cost)+'" placeholder="Coins / Dice / Spins"></div>'+
+ '<div class="fieldrow"><label>奖励产出 / Source</label><input data-nodefield="gain" value="'+esc(n.gain)+'" placeholder="Coins / Cards / Progress"></div>'+
+ '<div class="fieldrow"><label>规则 / 触发条件</label><textarea data-nodefield="notes" placeholder="仅写已验证规则；未知标记待验证">'+esc(n.notes)+'</textarea></div>'+
+ '<div class="group"><button data-action="duplicateNode" class="smallbtn">复制节点</button><button data-action="deleteNode" class="danger smallbtn">删除节点</button></div>';
+}
+function addNode(kind){
+ var p=cur();var n={id:id(),kind:kind,title:KINDS[kind].name,x:130+(p.nodes.length%4)*175,y:70+Math.floor(p.nodes.length/4)*115,desc:"",cost:"",gain:"",notes:""};
+ n.x=Math.min(915,n.x);n.y=Math.min(510,n.y);p.nodes.push(n);ui.node=n.id;ui.edge=null;save();renderFlow();
+}
+function onNode(idValue){
+ var p=cur();if(ui.connect!==null){
+ if(!ui.connect){ui.connect=idValue;toast("已选起点，请点击目标节点");renderFlow();return}
+ if(ui.connect===idValue){toast("请选择不同的目标节点");return}
+ p.edges.push({id:id(),from:ui.connect,to:idValue,label:"资源 / 反馈"});ui.connect=null;ui.node=null;ui.edge=p.edges[p.edges.length-1].id;save();renderFlow();toast("已添加连线");return;
+ }
+ ui.node=idValue;ui.edge=null;drawNodes();drawEdges();renderInspector();
+}
+function onEdge(idValue){ui.edge=idValue;ui.node=null;drawNodes();drawEdges();renderInspector()}
+function contentRow(c){
+ var st=c.status==="live"?'<span class="pill live">Live</span>':esc(c.status||"未知");
+ return '<tr><td><b>'+esc(c.name||"未命名")+'</b><div class="muted">'+esc(c.notes.slice(0,75))+'</div></td><td>'+esc(UNITS[c.unit])+'</td><td>'+esc(c.version||"—")+'</td><td>'+esc(c.date||"—")+'</td><td>'+st+'</td><td>'+badge(classify(c))+'<div class="muted" style="margin-top:4px">申报 '+esc(c.claimed||"C")+'</div></td><td>'+(safeUrl(c.evidence)?'<a href="'+esc(c.evidence)+'" target="_blank" rel="noopener noreferrer">来源 ↗</a>':'<span class="muted">缺证据</span>')+'</td><td><button class="smallbtn" data-action="editContent" data-id="'+esc(c.id)+'">编辑</button> <button class="smallbtn" data-action="diffContent" data-id="'+esc(c.id)+'">差分</button></td></tr>';
+}
+function inventoryRows(){
+ var list=cur().content.filter(function(c){var s=(c.name+" "+c.unit+" "+c.version+" "+c.notes).toLowerCase();return s.includes(ui.filter.toLowerCase())});
+ return list.length?list.map(contentRow).join(""):'<tr><td colspan="8"><div class="empty"><b>没有符合条件的录入记录</b>这里不会把“未知”当成零或擅自填入市场数量。点击“新增内容单元”开始整理。</div></td></tr>';
+}
+function renderInventory(){
+ var p=cur();
+ view.innerHTML=stats(p)+'<div class="panel"><div class="sectionhead"><div><h2>内容库存 · Content Units</h2><span class="sub">Slot / Village / Board / Album / Pet / Event 分开计数，支持 A 换皮 / B 新规则 / C 不明确</span></div><button class="primary" data-action="addContent">+ 新增内容单元</button></div>'+
+ '<div class="group" style="margin:0 0 12px"><span class="label">筛选</span><input id="inventoryFilter" placeholder="按名称、内容类型或版本" value="'+esc(ui.filter)+'"></div>'+
+ '<div class="tablewrap"><table><thead><tr><th>内容单元</th><th>口径</th><th>版本</th><th>公开时间</th><th>状态</th><th>A/B/C</th><th>证据</th><th>操作</th></tr></thead><tbody id="inventoryRows">'+inventoryRows()+'</tbody></table></div></div>'+
+ '<div class="note warning">严格计数：重复版本中的同一内容 ID 只算一次。只凭“New Slot”及名称不能证明新规则；真正的 A/B 判定需要对照规则及来源。未录入的竞品库存显示未知，而不是 0。</div>';
+}
+function phaseName(x){return {launch:"首发 / Launch",update:"客户端版本",config:"配置热更",event:"运营活动"}[x]||"客户端版本"}
+function renderVersions(){
+ var p=cur(),vers=p.versions.slice().sort(function(a,b){return (b.date||"").localeCompare(a.date||"")});
+ view.innerHTML=stats(p)+'<div class="twocol">'+
+ '<section class="panel"><div class="sectionhead"><div><h2>版本与发布</h2><span class="sub">客户端更新、远程配置、活动开放分别标记</span></div><button class="primary" data-action="addVersion">+ 添加版本</button></div>'+
+ '<div class="tablewrap"><table><thead><tr><th>版本</th><th>日期</th><th>类型</th><th>已录入内容</th><th>操作</th></tr></thead><tbody>'+
+ (vers.length?vers.map(function(v){var content=p.content.filter(function(c){return c.version===v.name});return '<tr><td><b>'+esc(v.name)+'</b></td><td>'+esc(v.date||"未知")+'</td><td>'+esc(phaseName(v.phase))+'</td><td>'+content.length+' 条</td><td><button class="smallbtn" data-action="editVersion" data-id="'+esc(v.id)+'">编辑</button></td></tr>'}).join(""):'<tr><td colspan="5"><div class="empty">暂未录入版本；不要把项目创建时间当成官方首次发布日期。</div></td></tr>')+
+ '</tbody></table></div></section>'+
+ '<section class="panel"><h2 style="font-size:18px;margin:0 0 9px">机制差分怎么判定？</h2><div class="note">A 换皮：需证明规则 / 数学机制一致。B 新规则：需明确规则变化及对照。C 不明确：证据不足或无法比较。新旧游戏共用主题名不代表同一数学机制。</div>'+
+ '<div class="tablewrap"><table><thead><tr><th>维度</th><th>检查内容</th></tr></thead><tbody>'+
+ [["Reel / Row","轴数、行数、扩展方式"],["Paylines / Ways","中奖路径及计算"],["Bonus Trigger","触发符号、次数和条件"],["Hold & Spin","锁定、重转次数、累积规则"],["Jackpot","层级、触发、累积与奖励结构"],["Math / RTP","数学配置、波动、支付表；无法公开核实应标未知"],["A+B Meta","村庄/棋盘/卡册/社交资源链路与规则差异"]].map(function(x){return '<tr><td><b>'+esc(x[0])+'</b></td><td>'+esc(x[1])+'</td></tr>'}).join("")+'</tbody></table></div></section></div>'+
+ '<div class="panel" style="margin-top:12px"><div class="sectionhead"><h2>已录入内容的版本追踪</h2><button data-action="addContent">+ 新增机台 / 模块</button></div><div class="tablewrap"><table><thead><tr><th>名称</th><th>所属版本</th><th>内容单位</th><th>分类</th><th>规则变化</th></tr></thead><tbody>'+
+ (p.content.length?p.content.map(function(c){return '<tr><td>'+esc(c.name)+'</td><td>'+esc(c.version||"待确认")+'</td><td>'+esc(UNITS[c.unit])+'</td><td>'+badge(classify(c))+'</td><td>'+esc(c.ruleChange==="changed"?"宣称变化":c.ruleChange==="same"?"宣称不变":"未验证")+'</td></tr>'}).join(""):'<tr><td colspan="5" class="empty">暂无已录入内容</td></tr>')+'</tbody></table></div></div>';
+}
+function hasRoute(nodes,edges,fromKinds,toKinds){
+ var starts=nodes.filter(function(n){return fromKinds.includes(n.kind)}).map(function(n){return n.id});
+ var targets=new Set(nodes.filter(function(n){return toKinds.includes(n.kind)}).map(function(n){return n.id}));
+ var seen=new Set(),q=starts.slice();starts.forEach(function(x){seen.add(x)});
+ while(q.length){var x=q.shift();if(targets.has(x)&&!starts.includes(x))return true;
+ edges.filter(function(e){return e.from===x}).forEach(function(e){if(!seen.has(e.to)){seen.add(e.to);q.push(e.to)}})}
+ return false;
+}
+function findings(p){
+ var out=[],a=["spin","dice","slot"],b=["village","board","collection","pet","social"];
+ if(!p.nodes.some(function(n){return a.includes(n.kind)}))out.push(["warn","缺少 A 核心随机玩法节点"]);
+ if(!p.nodes.some(function(n){return b.includes(n.kind)}))out.push(["warn","缺少 B 长期目标节点"]);
+ if(!hasRoute(p.nodes,p.edges,a,b))out.push(["warn","尚未建立 A → B 的可达资源/进度路径"]);
+ if(!hasRoute(p.nodes,p.edges,b,a))out.push(["warn","尚未建立 B → A 的回访路径"]);
+ if(!p.content.length)out.push(["warn","尚无内容库存记录；外部产品库存数量依然未知"]);
+ var missing=p.content.filter(function(c){return classify(c)==="C"&&c.claimed!=="C"});
+ if(missing.length)out.push(["warn",missing.length+" 条 A/B 申报缺少完整规则对照或有效证据，已自动降为 C"]);
+ var sources=p.content.filter(function(c){return !safeUrl(c.evidence)});
+ if(sources.length)out.push(["warn",sources.length+" 条内容记录没有可审计的证据链接"]);
+ if(!out.length)out.push(["ok","结构闭环与已录入资料的基本字段检查通过；此项不等于第三方机制独立验证"]);
+ return out;
+}
+function renderAudit(){
+ var p=cur();
+ view.innerHTML=stats(p)+'<div class="twocol"><section class="panel"><div class="sectionhead"><h2>当前项目结构核验</h2><button data-action="resetFlow" class="smallbtn">重载参考结构</button></div>'+
+ findings(p).map(function(f){return '<div class="audit-row"><i class="audit-dot '+(f[0]==="ok"?"ok":"")+'"></i><span>'+esc(f[1])+'</span></div>'}).join("")+
+ '<div class="note">流程模板基于公开玩法的抽象，仅作为研究与制作起点，不声称复刻任何竞品的私有数学、概率或资产。</div></section>'+
+ '<section class="panel"><h2 style="font-size:18px;margin:0 0 9px">横向比较 · 4 款 A+B</h2><div class="tablewrap"><table><thead><tr><th>项目</th><th>录入单元</th><th>A 换皮</th><th>B 新规则</th><th>C 未明</th></tr></thead><tbody>'+
+ db.projects.map(function(q){var c=counts(q);return '<tr><td>'+esc(q.name)+'</td><td>'+q.content.length+'</td><td>'+c.A+'</td><td>'+c.B+'</td><td>'+c.C+'</td></tr>'}).join("")+'</tbody></table></div>'+
+ '<div class="note warning">默认模板是结构示意，内容库存没有采集实数。表中“0”只表示编辑器还没录入该类记录，绝非竞品实际零更新。</div></section></div>'+
+ '<section class="panel" style="margin-top:12px"><h2>数据与版本管理</h2><p>① 编辑图谱与内容记录 → ② A/B/C 规则差分 → ③ 来源审计 → ④ 导出 JSON / CSV → ⑤ 将审核后的数据提交 GitHub。当前版本不含服务端、权限系统、热更新 API 或真正的 RNG / RTP 运行时。</p><div class="group"><button class="primary" id="auditExport" data-action="exportJson">↓ 导出全项目快照</button><button data-action="exportCsv">↓ 导出内容 CSV</button></div></section>';
+}
+function openModal(html){dialog.innerHTML=html;modal.hidden=false;var f=dialog.querySelector("input,select,textarea");if(f)f.focus()}
+function closeModal(){modal.hidden=true;dialog.innerHTML=""}
+function row(label,name,value,type,full,placeholder){
+ var special=type==="textarea";return '<div class="fieldrow'+(full?' full':'')+'"><label>'+esc(label)+'</label>'+(special?'<textarea name="'+esc(name)+'" placeholder="'+esc(placeholder||"")+'">'+esc(value)+'</textarea>':'<input name="'+esc(name)+'" type="'+(type||"text")+'" value="'+esc(value)+'" placeholder="'+esc(placeholder||"")+'">')+'</div>';
+}
+function modalContent(contentId){
+ var p=cur(),existing=p.content.find(function(c){return c.id===contentId}),c=existing||{id:"",name:"",unit:"village",version:"",date:"",status:"planned",claimed:"C",ruleChange:"unknown",previous:"",before:"",after:"",evidence:"",notes:"",rules:{}};
+ var options=function(obj,current){return Object.keys(obj).map(function(k){return opt(obj[k],k,current)}).join("")};
+ var html='<h2>'+(existing?"编辑内容单元":"新增内容单元")+'</h2><p class="desc">A/B 判定不会根据机台名称自动推断。没有证据与新旧规则描述的记录统一归类 C。按名称、平台、版本、发布日期去重。</p>'+
+ '<form id="contentForm" data-id="'+esc(c.id)+'"><div class="dialog-grid">'+
+ row("内容标题 / Machine Name","name",c.name,"text",false,"例如公开版本公告中的具体机台名")+
+ '<div class="fieldrow"><label>内容单位</label><select name="unit">'+options(UNITS,c.unit)+'</select></div>'+
+ row("版本号 / Release ID","version",c.version,"text",false,"示例 2.1.0")+
+ row("首次出现 / 可核验日期","date",c.date,"date",false)+
+ '<div class="fieldrow"><label>当前状态</label><select name="status">'+options({planned:"待确认",test:"测试",live:"已上线（需证据）",retired:"下架/停用"},c.status)+'</select></div>'+
+ '<div class="fieldrow"><label>申报分类（未核查自动为 C）</label><select name="claimed">'+options({C:"C · 不明确",A:"A · 换皮",B:"B · 新规则"},c.claimed)+'</select></div>'+
+ '<div class="fieldrow"><label>规则变化证据</label><select name="ruleChange">'+options({unknown:"不明确",same:"有证据表明规则相同",changed:"有证据表明规则变化"},c.ruleChange)+'</select></div>'+
+ '<div class="fieldrow"><label>前代机台 / 对照内容</label><select name="previous"><option value="">未确定前代</option>'+p.content.filter(function(x){return x.id!==c.id}).map(function(x){return opt(x.name,x.id,c.previous)}).join("")+'</select></div>'+
+ row("原规则 / Before（必填才能核验 A/B）","before",c.before,"textarea",true,"逐项写出原机台的公开规则、触发条件或数学结构；未知请标未知")+
+ row("新版规则 / After（必填才能核验 A/B）","after",c.after,"textarea",true,"逐项描述经过证据支持的变化或一致性")+
+ '<div class="full"><div class="note">Slot 专属差分字段：Reel / Paylines / Bonus Trigger / Hold & Spin / Jackpot / Math；Dice + Board + Village 等 A+B 内容可以填写“不适用”，并在 Before / After 写出资源与规则变化。</div></div>'+
+ FIELDS.map(function(k){return row(FIELD_NAMES[k],k,(c.rules||{})[k],"text",false,"未知 / 不适用 / 已验证值")}).join("")+
+ row("官方/公开证据 URL（A/B 必填）","evidence",c.evidence,"url",true,"https:// 官方商店 / 更新日志 / 玩法说明")+
+ row("研究备注及未核验字段","notes",c.notes,"textarea",true,"确认哪些、仍缺哪些，不作猜测")+
+ '</div><div class="modal-actions">'+(existing?'<button type="button" data-action="deleteContent" data-id="'+esc(c.id)+'" class="danger" style="margin-right:auto">删除记录</button>':'')+'<button type="button" data-action="closeModal">取消</button><button type="submit" class="primary">保存内容与证据</button></div></form>';
+ openModal(html);
+}
+function modalVersion(vId){
+ var p=cur(),v=p.versions.find(function(x){return x.id===vId})||{id:"",name:"",date:"",phase:"update",notes:"",source:""};
+ openModal('<h2>'+(v.id?"编辑版本":"添加版本")+'</h2><p class="desc">首发、App 版本、远程配置和运营活动要分开记录。</p><form id="versionForm" data-id="'+esc(v.id)+'"><div class="dialog-grid">'+
+ row("版本号（须唯一）","name",v.name,"text",false,"例如 1.12.0")+
+ row("发布 / 观察日期","date",v.date,"date",false)+
+ '<div class="fieldrow"><label>发布类型</label><select name="phase">'+Object.keys({launch:1,update:1,config:1,event:1}).map(function(k){return opt(phaseName(k),k,v.phase)}).join("")+'</select></div>'+
+ row("公开证据 URL","source",v.source,"url",false,"https://")+
+ row("说明 / 运营开放窗口","notes",v.notes,"textarea",true,"版本日志中哪些内容真实首次出现？")+
+ '</div><div class="modal-actions">'+(v.id?'<button type="button" data-action="deleteVersion" data-id="'+esc(v.id)+'" class="danger" style="margin-right:auto">删除版本</button>':'')+'<button type="button" data-action="closeModal">取消</button><button type="submit" class="primary">保存版本</button></div></form>');
+}
+function modalDiff(cId){
+ var p=cur(),c=p.content.find(function(x){return x.id===cId});if(!c)return;
+ var prev=p.content.find(function(x){return x.id===c.previous});
+ var html='<h2>规则差分 · '+esc(c.name)+'</h2><p class="desc">仅对比已录入的公开资料，不推断厂商未披露的内部数学配置。</p><div class="note">当前判定：'+badge(classify(c))+' ｜ 人工申报：'+esc(c.claimed)+' ｜ 变化凭证：'+esc(c.ruleChange)+'</div>'+
+ '<div class="twocol"><div class="panel"><h3>旧 / Before</h3><p>'+esc(c.before||"未知")+'</p><div class="statline">对照对象：'+esc(prev?prev.name:"未确认")+'</div></div><div class="panel"><h3>新 / After</h3><p>'+esc(c.after||"未知")+'</p></div></div>'+
+ '<div class="tablewrap"><table><thead><tr><th>维度</th><th>旧配置</th><th>本次记录</th><th>差分</th></tr></thead><tbody>'+
+ FIELDS.map(function(k){var a=prev?(prev.rules||{})[k]:"",b=(c.rules||{})[k],status=!a||!b?"不明确":a===b?"文本一致":"文本不同（待核验）";return '<tr><td>'+esc(FIELD_NAMES[k])+'</td><td>'+esc(a||"未知")+'</td><td>'+esc(b||"未知")+'</td><td>'+esc(status)+'</td></tr>'}).join("")+'</tbody></table></div>'+
+ '<div class="note warning">仅凭文本字段不同不能确认数学机制变化；要核对新旧规则文档、可播放的手机版实测或发行方资料。文本一致也不等于数学模型一致。</div><div class="modal-actions"><button data-action="closeModal">关闭</button><button class="primary" data-action="editContent" data-id="'+esc(c.id)+'">继续编辑</button></div>';
+ openModal(html);
+}
+function getForm(form){var d=new FormData(form),x={};d.forEach(function(v,k){x[k]=txt(v)});return x}
+function saveContent(form){
+ var p=cur(),v=getForm(form);if(!v.name.trim()){toast("请填写内容名称");return}
+ var c=p.content.find(function(x){return x.id===form.dataset.id});
+ if(!c){c={id:id(),rules:{}};p.content.push(c)}
+ ["name","version","date","status","claimed","ruleChange","previous","before","after","evidence","notes"].forEach(function(k){c[k]=v[k]||""});
+ c.unit=UNITS[v.unit]?v.unit:"feature";c.evidence=safeUrl(c.evidence);
+ FIELDS.forEach(function(k){c.rules[k]=v[k]||""});
+ save();closeModal();render();toast(classify(c)==="C"&&c.claimed!=="C"?"已保存，但证据不足：暂列 C 不明确":"内容已保存");
+}
+function saveVersion(form){
+ var p=cur(),v=getForm(form);if(!v.name.trim()){toast("请填写版本号");return}
+ var existing=p.versions.find(function(x){return x.id===form.dataset.id});
+ if(p.versions.some(function(x){return x.name===v.name&&(!existing||x.id!==existing.id)})){toast("版本号已存在");return}
+ if(!existing){existing={id:id()};p.versions.push(existing)}
+ existing.name=v.name;existing.date=v.date;existing.phase=v.phase;existing.notes=v.notes;existing.source=safeUrl(v.source);
+ save();closeModal();render();toast("版本记录已保存");
+}
+function makeCsv(rows){return rows.map(function(r){return r.map(function(v){var s=String(v==null?"":v);if(/^[=+\-@\t\r]/.test(s))s="'"+s;return '"'+s.replace(/"/g,'""')+'"'}).join(",")}).join("\r\n")}
+function download(name,body,mime){var b=new Blob([body],{type:mime}),url=URL.createObjectURL(b),a=document.createElement("a");a.href=url;a.download=name;document.body.appendChild(a);a.click();a.remove();setTimeout(function(){URL.revokeObjectURL(url)},1200)}
+function exportJson(){download("GGC_AB_EDITOR_"+new Date().toISOString().slice(0,10)+".json",JSON.stringify({schema:db.schema,exportedAt:new Date().toISOString(),active:db.active,projects:db.projects},null,2),"application/json;charset=utf-8")}
+function exportCsv(){
+ var r=[["project","game","content_id","name","unit","app_version","first_seen","status","claimed_class","evidence_class","rule_change","previous_id","before","after","reel","paylines","bonus","hold_spin","jackpot","math","evidence_url","notes"]];
+ db.projects.forEach(function(p){p.content.forEach(function(c){r.push([p.id,p.name,c.id,c.name,UNITS[c.unit],c.version,c.date,c.status,c.claimed,classify(c),c.ruleChange,c.previous,c.before,c.after,c.rules.reel,c.rules.paylines,c.rules.bonus,c.rules.holdSpin,c.rules.jackpot,c.rules.math,c.evidence,c.notes])})});
+ download("GGC_AB_CONTENT_"+new Date().toISOString().slice(0,10)+".csv","\ufeff"+makeCsv(r),"text/csv;charset=utf-8");
+}
+document.querySelectorAll(".tab").forEach(function(b){b.addEventListener("click",function(){ui.tab=b.dataset.tab;ui.node=null;ui.edge=null;ui.connect=null;render()})});
+document.getElementById("projectSelect").addEventListener("change",function(){db.active=this.value;ui.node=null;ui.edge=null;ui.connect=null;ui.filter="";save();render()});
+document.getElementById("projectTitle").addEventListener("input",function(){cur().name=this.value;save();var option=document.querySelector('#projectSelect option[value="'+CSS.escape(db.active)+'"]');if(option)option.textContent=this.value});
+document.getElementById("newProject").addEventListener("click",function(){
+ var name=prompt("新项目名称（将保留四款参考产品，不覆盖现有数据）","我的 A+B 游戏");if(!name||!name.trim())return;
+ var p={id:id(),name:name.trim().slice(0,100),subtitle:"自定义 A+B",source:"",illustrative:false,nodes:[],edges:[],content:[],versions:[]};db.projects.push(p);db.active=p.id;ui.tab="flow";save();render();toast("新项目已创建");
+});
+document.getElementById("exportJson").addEventListener("click",exportJson);
+document.getElementById("exportCsv").addEventListener("click",exportCsv);
+document.getElementById("importBtn").addEventListener("click",function(){document.getElementById("fileInput").click()});
+document.getElementById("fileInput").addEventListener("change",async function(){
+ var file=this.files&&this.files[0];if(!file)return;
+ try{if(file.size>7e6)throw Error("文件过大（上限 7 MB）");var x=normalize(JSON.parse(await file.text()));if(!confirm("导入会替换当前浏览器中的全部项目，建议先导出备份。确定继续吗？"))return;db=x;ui.node=null;ui.edge=null;ui.connect=null;save();render();toast("导入成功：项目 "+db.projects.length+" 个")}catch(e){toast("导入失败："+e.message)}
+ this.value="";
+});
+view.addEventListener("click",function(e){
+ var node=e.target.closest("[data-node]");if(node&&ui.tab==="flow"){onNode(node.dataset.node);return}
+ var edge=e.target.closest("[data-edge]");if(edge&&ui.tab==="flow"){onEdge(edge.dataset.edge);return}
+ var b=e.target.closest("[data-action]");if(!b)return;action(b.dataset.action,b.dataset.id||"",b.dataset.kind||"");
+});
+dialog.addEventListener("click",function(e){var b=e.target.closest("[data-action]");if(b)action(b.dataset.action,b.dataset.id||"",b.dataset.kind||"")});
+modal.addEventListener("click",function(e){if(e.target===modal)closeModal()});
+document.addEventListener("keydown",function(e){if(e.key==="Escape"&&!modal.hidden)closeModal()});
+document.addEventListener("submit",function(e){if(e.target.id==="contentForm"){e.preventDefault();saveContent(e.target)}else if(e.target.id==="versionForm"){e.preventDefault();saveVersion(e.target)}});
+view.addEventListener("input",function(e){
+ if(e.target.id==="inventoryFilter"){ui.filter=e.target.value;var t=document.getElementById("inventoryRows");if(t)t.innerHTML=inventoryRows();return}
+ var k=e.target.dataset.nodefield;if(k){
+  var n=cur().nodes.find(function(x){return x.id===ui.node});if(!n)return;n[k]=txt(e.target.value);save();
+  if(k==="kind")drawNodes();else if(k==="title"||k==="desc"){var x=document.querySelector(".node.selected ."+(k==="title"?"node-name":"node-desc"));if(x)x.textContent=n[k]}
+  return
+ }
+ var f=e.target.dataset.edgefield;if(f){var edge=cur().edges.find(function(x){return x.id===ui.edge});if(!edge)return;edge[f]=txt(e.target.value);save();drawEdges()}
+});
+view.addEventListener("change",function(e){if(e.target.dataset.nodefield==="kind"){drawNodes()}});
+function action(name,idValue,kind){
+ var p=cur();
+ if(name==="addNode")return addNode(kind);
+ if(name==="connect"){ui.connect=ui.connect===null?"":null;return renderFlow()}
+ if(name==="fit"){document.querySelector(".canvas-container").scrollTo({left:0,top:0,behavior:"smooth"});return}
+ if(name==="duplicateNode"){var n=p.nodes.find(function(x){return x.id===ui.node});if(n){var x=JSON.parse(JSON.stringify(n));x.id=id();x.x=Math.min(920,n.x+35);x.y=Math.min(530,n.y+45);x.title+=" Copy";p.nodes.push(x);ui.node=x.id;save();renderFlow()}return}
+ if(name==="deleteNode"){if(!confirm("删除节点和对应连线？"))return;p.nodes=p.nodes.filter(function(n){return n.id!==ui.node});p.edges=p.edges.filter(function(e){return e.from!==ui.node&&e.to!==ui.node});ui.node=null;save();renderFlow();return}
+ if(name==="deleteEdge"){p.edges=p.edges.filter(function(e){return e.id!==ui.edge});ui.edge=null;save();renderFlow();return}
+ if(name==="addContent")return modalContent("");
+ if(name==="editContent")return modalContent(idValue);
+ if(name==="diffContent")return modalDiff(idValue);
+ if(name==="deleteContent"){if(!confirm("删除这条内容及其对照关联？"))return;p.content=p.content.filter(function(c){return c.id!==idValue});p.content.forEach(function(c){if(c.previous===idValue)c.previous=""});save();closeModal();render();return}
+ if(name==="addVersion")return modalVersion("");
+ if(name==="editVersion")return modalVersion(idValue);
+ if(name==="deleteVersion"){if(!confirm("删除版本记录？内容记录本身会保留。"))return;p.versions=p.versions.filter(function(v){return v.id!==idValue});save();closeModal();render();return}
+ if(name==="closeModal")return closeModal();
+ if(name==="exportJson")return exportJson();
+ if(name==="exportCsv")return exportCsv();
+ if(name==="resetFlow"){
+  var original=BENCH.find(function(x){return x.id===p.id});
+  if(!original){toast("自定义项目没有预设结构");return}
+  if(!confirm("仅重置当前项目的示意节点和连线，内容台账/版本保留。确定吗？"))return;
+  var copy=projectFrom(original);p.nodes=copy.nodes;p.edges=copy.edges;save();render();return
+ }
+}
+render();
+})();
+</script>
+</body>
+</html>
