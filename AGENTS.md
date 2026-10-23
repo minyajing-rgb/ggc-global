@@ -10,7 +10,7 @@
 6. **Private full current business and commercial terms** (only if the agent has explicit access): minyajing-rgb/GGC-FA/ops/strategy/2026-10-12_GGC_PRINCIPAL_AI_NATIVE_TWO_FLOW_MASTER_v8.md; do not reproduce private amounts or creator data claims in a public repo.
 
 ## Scope and precedence
-- Newest explicit Joyce user statement (2026-10-12) defines intent; v8 Skill current strategy; v7 and original 4-page CV prior achievements and legitimate employment roles; signed contracts/verified dashboards prove realized revenue/traffic.
+- Newest explicit Joyce user statement (2026-10-23) defines intent; v8 Skill current strategy; v7 and original 4-page CV prior achievements and legitimate employment roles; signed contracts/verified dashboards prove realized revenue/traffic.
 - Do not call Joyce “Lead Producer” at Zynga. Her role was PM with cross-product leadership of multiple producers and PMs; avoid unrelated invented senior titles.
 - Do not reduce GGC to consulting, isolated project outsourcing, or generic influencer marketing. **Cash Flow & User Flow are long-term strategic assets; projects are vehicles; all AI-native product claims are stage-scoped.**
 - Distinguish historical access to millions of partner/KOL data records from contracted creators/owned followers/attributed users/cash.
