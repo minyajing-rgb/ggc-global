@@ -1,4 +1,4 @@
-# GGC | Founder/CEO Strategic Introduction — EN v6 (2026-10-12)
+# GGC | Principal-side Founder/CEO Strategic Introduction — EN v7 (2026-10-23)
 
 **GGC business model v8 — CURRENT DESCRIPTION RULE (2026-10-12):** Before describing what Joyce/GGC does now, read the [AI-native Cash Flow × User Flow Skill](https://github.com/minyajing-rgb/ggc-global/blob/main/skills/ggc-principal-ai-native-two-flow-os/SKILL.md) and, for authorized internal details, [private commercial master](https://github.com/minyajing-rgb/GGC-FA/blob/main/ops/strategy/2026-10-12_GGC_PRINCIPAL_AI_NATIVE_TWO_FLOW_MASTER_v8.md). Operating lines: **(1) Principal/Copilot: Base Fee + deal-defined CPS / success-linked performance; (2) lean joint greenlights/incubation: partner primarily delivers R&D, GGC supplies market/operating economics/publishing/commercial expertise, IP and profit terms per deal; (3) progressively owned global user flow + AI-native KOL, social account, community, creator/media and Traffic SaaS.** Joyce OS (7 modules) and GGC Principle (12 rules) are the operating layer; Cash Flow + User Flow are long-term strategic assets and project/IP is their vehicle. Do not claim third-party creator datasets are all contracted/owned or that GGC is an already licensed GP/fund. Historical career titles/results remain governed by the original CV and v7. This is not permission to outreach, publish, invest or deploy.
 
@@ -10,6 +10,10 @@
 
 
 **2026-10-12｜Flagship Turnaround & Systems positioning v6:** Lead with Joyce's direct Zynga Product Manager (PM) role leading multiple producers across flagship products and Gameloft Asian Operations responsibilities, then the three pillars: **high-stakes flagship turnarounds and mature-game commercial renewal; zero-to-one launches and one-to-ten scaling; DAU/revenue/K-factor systems, platform monetization, and repeatable cross-market data/operating infrastructure**. Do not allege any named franchise was about to be cancelled without evidence; do not downgrade documented leadership to passive “participation”. See [Joyce Executive Pitch v6](../positioning/JOYCE_EXECUTIVE_PITCH_TURNAROUND_SYSTEMS_v6.md). Historic reported monthly net metrics are not automatically profit. This source update grants no outbound sending rights.
+
+## 2026-10-23 | Canonical business identity / contact pack
+
+Before any authorized business introduction, read [GGC_BD_CANONICAL_IDENTITY_CONTACT_PACK_v1.md](GGC_BD_CANONICAL_IDENTITY_CONTACT_PACK_v1.md). Joyce's business footer must preserve verifiable company/profile/material links, LinkedIn, business email and the relevant community/content routes. For overseas recipients, prioritize reply-email + LinkedIn; WeChat/TG may remain available. HOLD/STOP/bounce and live SEND-GATE controls always override the footer.
 
 > Short relationship-first approved-style template, not an authorization to send. Full facts: [Joyce旗舰职业事实母稿](../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md). Use only Joyce's professional name; customize to the actual company and decision-maker.
 
@@ -23,19 +27,30 @@ My specialty is **turning high-stakes game projects into global or category-lead
 
 Today GGC works on **three complementary tracks**: embedded **Project Copilot** partnerships covering strategy, global publishing and commercial operations; **joint greenlights and co-development with project-specific CPS/revenue-sharing models**; and **our own overseas audience/distribution network** across content, creators/KOLs, media and game/AI SaaS, alongside our owned games and AI consumer products.
 
-I noticed **[one verified company initiative]** and thought there might be a useful overlap around **[one specific collaboration idea]**. I'd welcome the chance to get acquainted, exchange what we're building and see whether a project makes sense.
+I noticed **[one verified company initiative]** and thought there might be a useful overlap around **[one specific collaboration idea]**. I'd welcome the chance to get acquainted, exchange what we're building and see whether a project makes sense. You can simply reply here, or connect with me on LinkedIn.
 
 Warm regards,
-**Joyce | Founder, GGC**
-Business: Joyce@ggcgames.com | WeChat 17701087579 | Telegram @joyceggc
+**Joyce | Founder, GGC — Global Game Copilot**  
+Author, *Game Operations and Global Expansion*
 
-LinkedIn: https://www.linkedin.com/in/minyajing/
-GGC: https://biz.ggcgames.com/
-Executive profile: https://biz.ggcgames.com/joyce/
-AI SaaS: https://biz.ggcgames.com/sme/
-**Published book:** https://ebooks.cmpbook.com/detail?id=26372
+**Business email:** joyce@ggcgames.com  
+**LinkedIn:** https://www.linkedin.com/in/minyajing/  
+**WeChat / Phone:** +86 177 0108 7579  
+**Telegram:** https://t.me/joyceggc
+
+**GGC:** https://ggcgames.com/  
+**Business:** https://biz.ggcgames.com/  
+**Executive profile:** https://biz.ggcgames.com/joyce/  
+**AI SaaS:** https://biz.ggcgames.com/sme/  
+**OpsGo:** https://opsgo.ggcgames.com/  
+**OpsGo playbooks:** https://opsgo.ggcgames.com/store
+
+**Published book:** https://ebooks.cmpbook.com/detail?id=26372  
+**Chinese content:** WeChat Official Accounts “Joyce游戏运营” / “GGC出海实战”  
+**Knowledge community:** https://t.zsxq.com/nmYnx  
+**Representative course:** https://www.sanjieke.cn/course/detail/sjk/8006182
 
 ### Guardrails
 - Global/category leadership and 2x/up-to-10x improvements describe distinct historical product/operating mandates. Do not attribute turnaround or a tenfold lift to an unspecified named title, disparage former teams or claim guaranteed future gains.
 - Historic individual product monthly `net` (Zynga US$5M–20M, Gameloft €10M–30M, peaks €50M), Wuxia Q Zhuan monthly gross bookings ~RMB60M/peak >RMB100M, and prior company profit contribution belong in a deeper scoped executive casebook, not a long first hello. `net` is not automatically net profit.
-- All actual outreach requires a real prospect company, current decision-maker, verified route, individual copy approval and updated suppression check; no generic blasts or bypassing a company's no-reply HOLD. Yoozoo and NetDragon groups remain excluded.
+- Actual outreach requires a real qualified principal-side company, verified route and updated suppression/history check; no generic blasts or bypassing a company's no-reply HOLD. Under Joyce's 2026-10-10 conditional authorization, a true Chinese-speaking own-product principal account scoring >=78/100 with all hard gates PASS may receive one new-company first touch without separate per-company approval. Ambiguous/low-score/no-route cases still require exception review. Yoozoo and NetDragon groups remain excluded.
