@@ -14,7 +14,7 @@ description: >
 
 
 
-**Version:** 3.1
+**Version:** 3.2
 
 **Zynga 角色事实｜2026-10-12，Joyce 本轮最新澄清：** 按本人确认写为**产品经理（PM），带领和统筹多位制作人，主责相关旗舰产品的经营与商业化**。将 lead 作为领导职责的动词，不称她为 `Lead Producer`；不推断 Lead PM、Head、Director 等职级。保留 CityVille 腾讯版、FarmVille 中文版及 Bubble/Ruby/Slingo 全球主产品的主责。以 [最新职业事实母稿](../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md) 覆盖旧口径，不弱化成普通参与。
 
