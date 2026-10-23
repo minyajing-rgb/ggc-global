@@ -1,8 +1,11 @@
 # Joyce / GGC — Relationship and Content Channels
 
-Updated: 2026-10-03
+Updated: 2026-10-23
 
-These business contact and content routes were supplied by Joyce for outreach handoff on 2026-10-03. They are contact options, not evidence that recipients have connected, followed, subscribed or booked a meeting.
+These business contact and content routes were supplied by Joyce for outreach handoff. They are contact options, not evidence that recipients have connected, followed, subscribed or booked a meeting.
+
+## 2026-10-23 canonical BD identity-pack override
+For GGC principal-side business introductions, first read [`../../bd/GGC_BD_CANONICAL_IDENTITY_CONTACT_PACK_v1.md`](../../bd/GGC_BD_CANONICAL_IDENTITY_CONTACT_PACK_v1.md). Joyce explicitly requires the business identity pack to retain her website/material links, LinkedIn, business email, WeChat, Official Account names and Knowledge Planet route. Mainland handoff should prefer WeChat; overseas handoff should prefer business email + LinkedIn. Real HOLD/STOP/send-gate rules still override the footer.
 
 ## Canonical routes
 
@@ -14,8 +17,9 @@ These business contact and content routes were supplied by Joyce for outreach ha
 | GGC business website | [biz.ggcgames.com](https://biz.ggcgames.com/) | Company / partnership context. |
 | Joyce executive profile | [biz.ggcgames.com/joyce](https://biz.ggcgames.com/joyce/) | Default background / evidence link for editors and organizers. |
 | OpsGo | [opsgo.ggcgames.com](https://opsgo.ggcgames.com/) | Game operations knowledge and practice materials. |
-| WeChat Official Account | Search names supplied by Joyce: **joyce游戏运营 / ggc出海实战** | Chinese-language industry and operating content. No account URL was supplied in this update; preserve search names rather than inventing links. |
-| 知识星球 / Zhishi Xingqiu | Same search names: **joyce游戏运营 / ggc出海实战** | Optional ongoing community / content route; no join URL, membership price or free-access claim established here. |
+| WeChat Official Account | **Joyce游戏运营 / GGC出海实战** | Search by these names. Joyce-supplied article collection: https://mp.weixin.qq.com/s/aeDcMyD4xslaV2j-jq9KEQ. This is not a follow QR. |
+| 知识星球 / Zhishi Xingqiu | **GGC出海实战** | Joyce-supplied current join link: https://t.zsxq.com/nmYnx. |
+| WeChat QR | `assets/contact/joyce-wechat-qr.jpg` | Real personal WeChat QR asset for supported HTML/attachment use; never substitute it for an Official Account follow QR. |
 
 ## Match the next step to the recipient
 
