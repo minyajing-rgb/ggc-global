@@ -1,3 +1,5 @@
+> **2026-10-23 canonical business identity/contact source:** [`GGC_BD_CANONICAL_IDENTITY_CONTACT_PACK_v1.md`](GGC_BD_CANONICAL_IDENTITY_CONTACT_PACK_v1.md). All GPT/Codex/GitHub-authorized GGC principal-side introductions must use it together with the live SEND-GATE/HOLD/STOP rules. Current first-touch masters: `GGC_Pitch_Email_Full_CN.md` / `GGC_Pitch_Email_Full_EN.md` v7.
+
 # GGC BD Workspace
 
 ## 2026-10-12 — Flagship authority and qualified executive development
