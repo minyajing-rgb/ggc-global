@@ -7,6 +7,12 @@ Scope: awards, conference speaking and editorial opportunities across games, AI,
 This is a working pipeline, not a list of awards won, confirmed speaking engagements or media endorsements. **Prepared**, **submitted**, **accepted/finalist** and **won/published** are separate states and must not be conflated.
 
 
+## 23 October 2026 — EVERYWOMAN TECHNICAL-BUILDER CORRECTION (latest)
+
+**Innovator nomination POSITIONING updated, NOT SUBMITTED.** Joyce clarified that she has **personally built and run Skills, designed/orchestrated Agents, used AI-assisted/vibe coding for multiple web interfaces and websites, produced visual/content assets, and built supporting SaaS tools and prototypes**. An earlier text reduced this to a conceptual translation of operating expertise into prospective AI decision frameworks, which materially underrepresented the hands-on technical contribution.
+
+**Correct narrative:** “From Global Game Operator to Hands-On AI-Native Builder: Creating a Multi-Agent Operating System for Games and Digital Businesses.” Actual examples are source-linked in [updated everywoman nomination package](pr/everywoman-2027/Innovator_Joyce_Mi_review_draft.md): GGC Skills, specialized Agent YAML, working browser-based A+B Loop Editor (HTML/JS), Python queue/audit tools, live GGC/OpsGo/SAGA public websites, market research dashboards, Creative SaaS PRD and Github QA/workflow actions. **Avoid calling build-ready SaaS specifications production apps**; require per-feature run/deployment evidence. As of 23 Oct the actual Eventsforce form is still **DRAFT**, pending final submission by 26 Oct. This GitHub update is not portal submission.
+
 ## 23 October 2026 — CURRENT verified update (supersedes dated October 10/11 audit where different)
 
 **Companion evidence ledger:** [23 October Gmail / awards reconciliation](pr/authority-engine/PR_AWARDS_GMAIL_RECONCILIATION_2026-10-23.md). No private award-form access tokens or attachment rights are committed to this repository.
