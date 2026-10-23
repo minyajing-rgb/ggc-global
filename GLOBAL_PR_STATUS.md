@@ -7,6 +7,16 @@ Scope: awards, conference speaking and editorial opportunities across games, AI,
 This is a working pipeline, not a list of awards won, confirmed speaking engagements or media endorsements. **Prepared**, **submitted**, **accepted/finalist** and **won/published** are separate states and must not be conflated.
 
 
+## 23 October 2026 — international awards expansion / ACTUAL MAIL SENT
+
+**New execution evidence and portal-ready text:** [International 2027 awards, speaking and editorial extension audit](pr/authority-engine/PR_AWARDS_EXPANSION_AND_OUTREACH_2026-10-23.md).
+
+**This batch sent 7 Gmail messages to 6 distinct destinations** (GamesBeat `1a1687fa9949c02c`, Develop:Brighton `1a1687fb1b5df115`, Asia-Pacific Stevie `1a1687fbbeddcffe` plus correction `1a16881b636eec40`, Game Industry News `1a16880b98a58421`, Women in Games `1a16882d3d88be08`, WIGI `1a16882e02b7338d`). All returned `SENT`, **not formal award/CFP portal submission receipts**. Separate AI Festival contact message **failed**; do not count it or claim delivered.
+
+**New qualified official calls:** Game Developers Choice Awards 2027 — free, game-specific, **1 Nov** deadline (requires eligible released game/rights); AI Festival 2027 — startup selection **10 Nov** per detailed rules (prior SAGA/Bunny entry already recorded; don't duplicate), speaker **17 Dec**; Pocket Gamer Awards 2027 — player nominations **15 Nov**; Develop:Brighton 2027 — official 45-min solo speaker form until **10 Feb 2027**; 2027 Asia-Pacific Stevie — R01 AI Innovator, R04 Women in AI Leadership, R11 AI-Driven Startup, R12 Business Transformation, normal **21 Jan** deadline / **16 Dec** early bird, fees vary. **Free Stevie B12/B13 entries require an actual company founded since 1 Jan 2025**; earlier-founded GGC cannot use them without a distinct genuinely eligible legal entity. **UBS Female Founder 2026 is not presumed eligible**: current official rules require a qualifying fintech / banking-enabling SME with ≥USD50k funding raised. BAFTA Games 2027 has fees/IP rights and is not a generic Joyce award.
+
+**Remaining P0**: everywoman Innovator final **Submit** before 26 Oct (**still only saved draft**); 4YFN Awards Digital Horizons **26 Oct 17:00 CET** if commercial and legal conditions verifiably met. No new completed award portal application was possible in this connector-only run; keep emails, drafts and portal submission in separate metrics.
+
 ## 23 October 2026 — EVERYWOMAN TECHNICAL-BUILDER CORRECTION (latest)
 
 **Innovator nomination POSITIONING updated, NOT SUBMITTED.** Joyce clarified that she has **personally built and run Skills, designed/orchestrated Agents, used AI-assisted/vibe coding for multiple web interfaces and websites, produced visual/content assets, and built supporting SaaS tools and prototypes**. An earlier text reduced this to a conceptual translation of operating expertise into prospective AI decision frameworks, which materially underrepresented the hands-on technical contribution.
