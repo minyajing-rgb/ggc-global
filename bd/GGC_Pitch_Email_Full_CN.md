@@ -15,7 +15,7 @@
 
 发送前必须读取 [GGC_BD_CANONICAL_IDENTITY_CONTACT_PACK_v1.md](GGC_BD_CANONICAL_IDENTITY_CONTACT_PACK_v1.md)。Joyce 已再次明确：实际商务首触不能只剩一个短签名；应保留可核验官网/履历/材料链接、LinkedIn、邮箱、微信、公众号和知识星球入口。国内华语对象 CTA 优先转微信先认识/微信视频或腾讯会议；海外对象优先业务邮箱 + LinkedIn。真实公司级 HOLD/STOP/退信和 SEND-GATE 始终优先。
 
-> 当前简洁版；历史v5长版保存Git历史。以 [Joyce旗舰职业事实母稿](../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md) 为主责事实源。对外只用 Joyce，真甲方/本人路线/旧邮件/STOP逐一核对并经用户审批后使用。
+> 当前简洁版；历史v5长版保存Git历史。以 [Joyce旗舰职业事实母稿](../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md) 为主责事实源。对外只用 Joyce；真甲方/本人路线/旧邮件/STOP逐一核对，按当前有效 SEND-GATE 使用。≥78 且全部硬门禁 PASS 的正常新公司首触不再要求逐公司批准。
 
 **主题：** Joyce × [公司]｜全球旗舰游戏与新项目合作交流
 
