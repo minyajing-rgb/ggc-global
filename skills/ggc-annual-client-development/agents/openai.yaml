@@ -1,4 +1,4 @@
 interface:
   display_name: "GGC 年度客户开发"
   short_description: "Develop GGC annual clients from sourcing through paid conversion"
-  default_prompt: "使用 $ggc-annual-client-development，围绕 Joyce 的经营经验研究潜在客户，设计联系后的话题、证据展示和成交下一步，并更新交接。"
+  default_prompt: "使用 $ggc-annual-client-development。先读取 bd/GGC_BD_CANONICAL_IDENTITY_CONTACT_PACK_v1.md、最新SEND-GATE/HOLD/STOP和账户证据；围绕真实华语自研甲方做研究、首触或回复。商务介绍必须保留 Joyce 的官网/履历/LinkedIn/邮箱/微信及公众号/知识星球等已批准身份入口；国内优先微信建联，海外优先邮箱+LinkedIn；不得绕过公司级HOLD/STOP。"
