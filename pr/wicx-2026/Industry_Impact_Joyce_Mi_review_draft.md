@@ -3,7 +3,7 @@
 **Career fact source / 2026-10-12:** [Joyce flagship fact master](../../positioning/JOYCE_FLAGSHIP_MASTER_CN_EN_v5.md). PM role and producer leadership follow Joyce’s latest clarification; retain title-specific operating scopes and reported metric definitions.
 
 **Last revised:** 2026-10-10 — corrected to foreground historic global game operating systems and multi-organization industry influence.
-**Status:** REVIEW DRAFT ONLY; Joyce reports having submitted Industry Impact on 3 October, but no matching category receipt/entry ID has yet been reconciled. Two Customer Insight receipts do NOT prove an Industry Impact submission. Do not duplicate without checking original Typeform/organizer records. Deadline: 16 October 2026. No fee.
+**Status (updated 23 October):** **INDUSTRY IMPACT NOMINATION RECEIVED**, officially acknowledged 15 Oct in category-specific Gmail `1a13f35264957a35`; organizer Meg independently confirmed receipt **15 Oct 11:55 AM** in `1a1449126296110f` (16 Oct). Deadline was extended to **23 October 2026**. This Markdown file is a **review/evidence draft**, NOT a claim that its exact wording was transmitted in the Typeform. Do not submit a duplicate. Finalists expected 2 Nov; winners 1 Dec.
 
 ## Correct category fit and thesis
 
@@ -68,8 +68,8 @@ I have also codified and shared these methods outside my own companies. In 2024,
 
 ## Submit gate
 
-- [ ] Reconcile reported Industry Impact original Typeform response ID/category/time with organizer; two Customer Insight email receipts are insufficient and should not trigger a duplicate nomination.
+- [x] **Organizer receipt confirmed:** 15 Oct category-specific email and 16 Oct human confirmation of Industry Impact category and receipt time. Separate Customer Insight notifications are unrelated; do not duplicate.
 - [ ] Match narrative to actual official 3–4 category-specific form questions and limits.
 - [ ] Include evidence of actual cross-company adoption and benefits rather than just biography/visibility.
 - [ ] Maintain clear boundaries between first-party results, third-party public evidence and still-unreconciled rankings.
-- [ ] No paid action, new submission or external claim of nomination confirmed without primary-source proof.
+- [x] 'Nomination received' is now externally evidenced; finalist/award status remains **NOT CONFIRMED**. No paid action or new submission.
