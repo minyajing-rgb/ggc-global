@@ -7,6 +7,17 @@ Scope: awards, conference speaking and editorial opportunities across games, AI,
 This is a working pipeline, not a list of awards won, confirmed speaking engagements or media endorsements. **Prepared**, **submitted**, **accepted/finalist** and **won/published** are separate states and must not be conflated.
 
 
+## 23 October 2026 — Base44 games verified / AI-native small-studio awards routing
+
+[Base44 9-game source inspection, 4 real Vite build passes, eligibility matrix, and NEW editorial proof ledger](pr/awards/GGC_AI_NATIVE_STUDIO_GAME_AWARDS_SCREENING_2026-10-23.md).
+
+- Account inventory: **50 Base44 apps**, of which 9 game/interactive projects source-inspected, **not** 50 shipped games. Four (Yarn Fever Mania, Neon Dots Connect, Prince Shroom, Soccer Tycoon 3D) passed `npm run build` on Oct 23 and generated `dist` artifacts; **public playable / PC-console/mobile-store release still unverified**.
+- Best immediate genuine indie fit: **AI Browser Game Jam 5**, closing **Oct 31 03:00**, for heavily AI-assisted/free browser-playable submissions, with majority new content for existing projects. **No itch.io authenticated form submission completed.** https://itch.io/jam/ai-jam-5
+- GDCA 2027 deadline **Nov 1**: H5-only games have no confirmed 2026 PC/console release; newly created **Best Gaming Tech** may fit GGC's public interactive A+B Editor if tool-alone eligible. Eligibility email attempt to `shannon.mcmullan@informa.com` returned **Gmail FORBIDDEN**, *not sent*. Official form requires login and applicant terms. No award receipt. https://gamechoiceawards.com/categories/
+- Games press pitches actually `SENT` today: Pocket Gamer news `1a168a12a7bcf774`, IndieDB press `1a168a1369845767`. These are **editorial pitches, NOT prize nominations, published coverage or delivered/human-replied stories**.
+- Small-team story should read **founder + human-led specialist AI workflows + inspectable source/build + real QA gates**, not “7 human employees / 7 fully autonomous operating agents / 9 released games.”
+- **Critical portal gate remains:** everywoman Innovator 26 Oct final **Submit** (still only saved draft), likewise all award/jam entries requiring authenticated portal, explicit consent and accepted eligibility. Do not label GitHub files as organizer submissions.
+
 ## 23 October 2026 — international awards expansion / ACTUAL MAIL SENT
 
 **New execution evidence and portal-ready text:** [International 2027 awards, speaking and editorial extension audit](pr/authority-engine/PR_AWARDS_EXPANSION_AND_OUTREACH_2026-10-23.md).
