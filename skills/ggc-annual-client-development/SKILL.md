@@ -21,6 +21,20 @@ description: >
 
 # GGC Annual Client Development — Account-Based BD Skill
 
+## v3.2 — Canonical Joyce business identity/contact pack (2026-10-23)
+
+Before composing any user-authorized GGC principal-side business introduction, read [`../../bd/GGC_BD_CANONICAL_IDENTITY_CONTACT_PACK_v1.md`](../../bd/GGC_BD_CANONICAL_IDENTITY_CONTACT_PACK_v1.md). This is the shared GPT/Codex/GitHub source for:
+- Joyce's approved business contact identity;
+- mainland-WeChat vs overseas-email/LinkedIn handoff;
+- GGC / biz / Why Joyce / AI SaaS / OpsGo URLs;
+- published-book and representative course proof;
+- WeChat Official Account names **Joyce游戏运营 / GGC出海实战**;
+- current Joyce-supplied Knowledge Planet route;
+- real personal WeChat QR asset and QR non-substitution rules.
+
+Do not silently shorten an authorized business introduction back to an anonymous one-line footer that loses Joyce's verification and relationship paths. The recipient-specific body must still stay short and relevant; identity/resource links belong in the structured signoff. This identity rule does not waive MATCH78, parent-group dedupe, COMPANY_NO_REPLY_HOLD, hard STOP, bounce suppression, YOOZOO/NetDragon bans or lane separation.
+
+
 ## v3.1 — Authority-qualified accounts and three proof stories (2026-10-12)
 
 First read [Joyce Flagship Authority OS](../joyce-flagship-authority-os/SKILL.md) to choose which of **turnaround, zero-to-one flagship, operating-system architecture** is the right evidence for a given CEO, operator, investor or partner. Do not send the entire biography or ask cold companies generic questions; prepare evidence-to-trigger account thesis. Keep **payer ICP (actual own-product and purchasing capacity)** separate from investors, studio JV targets, and media/influence contacts. A small studio or outsourcing team becomes a principal account only if own-IP/transition/finance/decision constraints truly pass.
@@ -39,7 +53,7 @@ Do not let the influence initiative weaken hard STOP, company no-human-reply HOL
 
 **Different content types:** Standalone CV/speaker bio no sales CTA by default. But Joyce explicitly instructs BUSINESS introductions to **invite an initial professional relationship and provide her contact info**, including Joyce@ggcgames.com, joyce@saga1001.com, minyajing@gmail.com, WeChat 17701087579, Telegram @joyceggc, LinkedIn, GGC site/business, Why Joyce, AI SaaS, OpsGo and publisher book. This friendly peer-level footer is part of the approved template schema; it is not blanket send approval.
 
-Latest CN/EN copy: `../../bd/GGC_Executive_Intro_Bilingual_v2.md` content v6. Never revert to previous "two tracks" summary in outreach. All prior account qualification, parent de-dup, first-touch no-reply HOLD and explicit hard STOPs remain.
+Latest CN/EN identity: `../../bd/GGC_Executive_Intro_Bilingual_v2.md`; latest first-touch email masters: `../../bd/GGC_Pitch_Email_Full_CN.md` / `../../bd/GGC_Pitch_Email_Full_EN.md` v7; canonical links/contact footer: `../../bd/GGC_BD_CANONICAL_IDENTITY_CONTACT_PACK_v1.md`. Never revert to previous "two tracks" summary in outreach. All prior account qualification, parent de-dup, first-touch no-reply HOLD and explicit hard STOPs remain.
 
 
 ---
