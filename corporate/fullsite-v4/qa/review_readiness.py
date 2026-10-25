@@ -64,7 +64,11 @@ def static_checks(site,mode):
         if mode=='release':check('no_public_state_demo:'+path,not doc.select_one('.state-demo') and not doc.select('a[href="../review.html"]'))
         if item['indexable']:
             ld=doc.select('script[type="application/ld+json"]')
-            try:valid=len(ld)==1 and json.loads(ld[0].string)['@type']=='WebPage'
+            try:
+                schemas=[json.loads(tag.string or tag.get_text()) for tag in ld]
+                valid=(len(schemas)==(2 if key=='index' else 1)
+                       and schemas[0].get('@type')=='WebPage'
+                       and (key!='index' or bool(schemas[1].get('@graph'))))
             except Exception:valid=False
             check('structured_data:'+path,valid)
         local_references(site,f)
