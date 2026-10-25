@@ -1,0 +1,67 @@
+name: Verify isolated GGC S01 referral
+on:
+  push:
+    branches: [release/ggc-s01-referral-20261026]
+    paths:
+      - 'corporate/fullsite-v4/readiness/readiness.js'
+      - '.github/workflows/ggc-s01-referral.yml'
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install browser for generated-page check
+        run: |
+          python -m pip install playwright==1.57.0
+          python -m playwright install --with-deps chromium
+      - name: Build existing reviewed release source
+        run: python corporate/fullsite-v4/build_ready.py --out "$RUNNER_TEMP/ggc-site" --mode release --base-url https://ggcgames.com/ --google-form
+      - name: Verify service context in generated contact pages
+        run: |
+          python - <<'PY'
+          import os
+          from functools import partial
+          from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
+          from pathlib import Path
+          from threading import Thread
+          from urllib.parse import parse_qs, urlparse
+          from playwright.sync_api import sync_playwright
+
+          root = Path(os.environ['RUNNER_TEMP']) / 'ggc-site'
+          assert (root / 'zh/contact.html').is_file()
+          assert (root / 'en/contact.html').is_file()
+          handler = partial(SimpleHTTPRequestHandler, directory=str(root))
+          server = ThreadingHTTPServer(('127.0.0.1', 0), handler)
+          Thread(target=server.serve_forever, daemon=True).start()
+          origin = f'http://127.0.0.1:{server.server_port}'
+          expected_type = '战略咨询与经营诊断 / Strategy & operations advisory'
+          expected_message = 'S01 — ' + expected_type
+          try:
+              with sync_playwright() as p:
+                  browser = p.chromium.launch()
+                  for locale in ('zh', 'en'):
+                      page = browser.new_page()
+                      page.goto(f'{origin}/{locale}/contact.html?service=S01', wait_until='domcontentloaded')
+                      link = page.locator('.google-inquiry a.ggc-btn')
+                      assert link.count() == 1
+                      query = parse_qs(urlparse(link.get_attribute('href')).query)
+                      assert query.get('entry.627383357') == [expected_type], query
+                      assert query.get('entry.2092759400') == [expected_message], query
+                      assert 'S01' in page.locator('.google-inquiry').inner_text()
+                      page.close()
+                  page = browser.new_page()
+                  page.goto(f'{origin}/zh/contact.html?service=INVALID', wait_until='domcontentloaded')
+                  query = parse_qs(urlparse(page.locator('.google-inquiry a.ggc-btn').get_attribute('href')).query)
+                  assert 'entry.2092759400' not in query
+                  assert 'entry.627383357' not in query
+                  browser.close()
+          finally:
+              server.shutdown()
+          print('Verified S01 prefill on both locales and invalid-code rejection; no form submission or deployment.')
+          PY
