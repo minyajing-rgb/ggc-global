@@ -1,0 +1,25 @@
+{
+  "version": "2026-10-13",
+  "scope": "Verified public course metadata and outbound learning links only. No videos, paid downloads or independent enrolment.",
+  "teacher_url": "https://www.sanjieke.cn/teacher_info?id=23221919",
+  "english_note": "English titles and summaries are editorial translations, not English-language course editions.",
+  "courses": [
+    {"id":"8006182","category":"publishing","title":"全球游戏运营与发行策略","en":"Global Game Operations & Publishing Strategy","summary":"全球化与本地化、用户获取、发行渠道和数据驱动迭代。","summary_en":"Global operations, localization, user acquisition, publishing channels and data-informed iteration.","priority":1},
+    {"id":"8006834","category":"operations","title":"游戏出海：用户留存与付费转化","en":"Player Retention & Paid Conversion for Global Games","summary":"用户留存、付费转化与数据分析优化。","summary_en":"Player retention, paid conversion and analytical optimization.","priority":1},
+    {"id":"8003817","category":"data","title":"游戏数据分析基础课","en":"Game Analytics: Foundations","summary":"游戏数据采集、处理、分析与基础案例。","summary_en":"Collecting, processing and analysing game data, with introductory cases.","priority":1},
+    {"id":"8003816","category":"data","title":"游戏数据分析进阶课","en":"Game Analytics: Advanced Practice","summary":"分析体系、复杂数据问题与数据驱动经营判断。","summary_en":"Analytical frameworks, complex data questions and data-informed operating decisions.","priority":2},
+    {"id":"8003815","category":"publishing","title":"海外3A游戏公司的推广策略","en":"Marketing Strategies of Global AAA Game Companies","summary":"围绕海外3A游戏推广策略的录播课程；大纲见平台。","summary_en":"A recorded course on international AAA game marketing; see the platform for the syllabus.","priority":2},
+    {"id":"8007244","category":"brand","title":"游戏出海：PR与品牌营销","en":"Global Games: PR & Brand Marketing","summary":"品牌定位、海外PR、KOL、声誉管理及传播工具。","summary_en":"Brand positioning, international PR, creators, reputation and communications tools.","priority":1,"topic_group":"pr-brand","related_ids":["8009627"]},
+    {"id":"8009627","category":"brand","title":"GGC出海：PR与品牌营销","en":"GGC Global Expansion: PR & Brand Marketing","summary":"品牌定位、价值传播、海外PR与声誉管理。","summary_en":"Brand positioning, value communication, international PR and reputation management.","priority":2,"topic_group":"pr-brand","related_ids":["8007244"],"note":"同主题另一平台页面，不推定为相同版本或相同购买权益。","note_en":"A related platform listing; identical content or purchase entitlement is not assumed."},
+    {"id":"8009615","category":"operations","title":"GGC出海：游戏活动策划与执行","en":"GGC Global Expansion: Game Event Planning & Execution","summary":"活动原则、活动形式、推广执行与数据优化。","summary_en":"Event principles, formats, promotion, execution and analytical improvement.","priority":1},
+    {"id":"8009616","category":"operations","title":"GGC出海：社群运营与用户增长","en":"GGC Global Expansion: Community Operations & User Growth","summary":"社群运营与用户相关工作的录播课程；大纲见平台。","summary_en":"A recorded course on community operations and users; see the platform for the syllabus.","priority":2},
+    {"id":"8006210","category":"organization","title":"出海浪潮下的跨文化团队建设分享","en":"Building Cross-cultural Teams for Global Expansion","summary":"跨文化沟通、团队建设与国际化协作。","summary_en":"Cross-cultural communication, team building and international collaboration.","priority":2},
+    {"id":"8003814","category":"organization","title":"头部游戏公司如何招人","en":"How Leading Game Companies Hire","summary":"以头部游戏公司的招聘为主题；具体课程安排见平台。","summary_en":"Hiring practices at leading game companies; see the platform for the course outline.","priority":2},
+    {"id":"8006835","category":"risk","title":"游戏出海：全球法律法规与政策","en":"Global Games: Laws, Regulation & Policy","summary":"法律框架、知识产权、税务合规与风险管理的课程介绍。","summary_en":"An educational introduction to legal frameworks, intellectual property, tax compliance and risk management.","priority":3,"note":"录播资料不代替当前法律核查或个案法律意见。","note_en":"Recorded material is not current legal verification or case-specific legal advice."}
+  ],
+  "hold": [
+    {"id":"8003802","title":"登上顶峰：克服女性领导力的障碍","reason":"历史讲师页有记录；2026-10-13实时详情读取返回 --体系课，未确认有效标题，暂不公开为有效课程入口。"},
+    {"id":"8003845","title":"AIGC在游戏生态中的应用探究：如何提升效率与创意","reason":"2024年历史公开页可检索；2026-10-13实时HTTP详情返回 --体系课，未确认当前有效标题与讲师，暂不放入公开目录。"}
+  ],
+  "publication_rules": {"video_rehosting":false,"paid_handout_rehosting":false,"display_prices":false,"onsite_checkout":false,"claim_english_teaching":false,"claim_complete_catalogue":false,"confirmation_required_for_full_course_files":true}
+}
