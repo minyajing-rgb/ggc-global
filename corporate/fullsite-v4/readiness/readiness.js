@@ -9,6 +9,22 @@ document.querySelectorAll('form[data-inquiry],form[data-interest]').forEach(form
 });
 const enhance=()=>{
  document.querySelectorAll('[data-p0-submit]').forEach(el=>el.disabled=false);
+ const service=new URLSearchParams(location.search).get('service')||'';
+ const inquiry=document.querySelector('.google-inquiry');
+ if(inquiry&&/^S(0[1-9]|1[0-6])$/.test(service)){
+  const link=inquiry.querySelector('a.ggc-btn[href]');
+  if(link){
+   const url=new URL(link.href);
+   url.searchParams.set('usp','pp_url');
+   url.searchParams.set('entry.2092759400',service==='S01'?'S01 — 战略咨询与经营诊断 / Strategy & operations advisory':service);
+   if(service==='S01')url.searchParams.set('entry.627383357','战略咨询与经营诊断 / Strategy & operations advisory');
+   link.href=url.toString();
+   const note=document.createElement('p');
+   note.className='note';
+   note.textContent=zh?'已带入服务编号：'+service:'Service code included: '+service;
+   link.closest('.actions')?.after(note);
+  }
+ }
  const menu=document.querySelector('[data-menu]'),nav=document.querySelector('[data-nav]');
  if(menu&&nav){
   const links=()=>[...nav.querySelectorAll('a[href]')];
