@@ -105,5 +105,13 @@
 | AI Festival 2027 Speaker | **OPEN第三轮**，2026-12-17截止 | Joyce global game + human-directed AI systems | 此前Oct13已有AI Festival speaker回执，先核是否同赛道/同申请，不重复 | https://en.aifestival.it/call/speaker/ |
 | AI Festival 2027 Startup phase 2 | **OPEN**，11月11日页面截止（部分细则说11月10日，按更早窗口行动） | SAGA/Bunny | 10月4日已有该活动startup申请记录；先核新一轮是否为新申请、不要重复 | https://en.aifestival.it/ |
 
+## 后续核查：新增真实开放的产品设计赛道（2026-10-26）
+| 项目 | 状态 | 产品匹配 | 硬性费用与确认 | 官方页 |
+|---|---|---|---|---|
+| iF DESIGN AWARD 2027 | **OPEN**，2026-11-04截止 | Chromatic Breathing、Bunny UI、GGC工具界面 | €500报名，晋级€300评审，非实体类别获奖€2,900；费用及版权需批准 | https://ifdesign.com/en/if-design-award-and-jury |
+| UX Design Awards Spring 2027 | **OPEN**，2026-11-15截止 | Chromatic (Product)、Bunny(Product/Concept)、PLOT/GGC Editor(Concept) | €320报名+€2,250获提名package，未授权不付款 | https://ux-design-awards.com/enter |
+
+[分奖项英文稿与详细类别](DESIGN_UX_AND_NEW_OPEN_AWARDS_2026-10-26.md)
+
 ## 下一次状态迁移的唯一合格证明
 **DRAFT ≠ SUBMITTED ≠ OFFICIAL RECEIPT ≠ SHORTLIST ≠ SELECTED ≠ PUBLISHED.** 每次需要保存：官方URL、对象/公司/作品、具体类别、表单回执ID及时间（私人收据只在安全系统）、新阶段、下一节点与法律费用状态。材料见 [英文申报完整母稿](FORM_READY_EN_PITCHES_2026-10-26.md)、[产品证据母档](PRODUCT_PORTFOLIO_AWARDS_EVIDENCE_2026-10-26.md)。
