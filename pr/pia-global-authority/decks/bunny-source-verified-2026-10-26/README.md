@@ -13,7 +13,8 @@
 - **4YFN Awards 2027: SUBMITTED / WAITING_EXTERNAL.** Official final success page was read and captured on 2026-10-26 by 21:33 HKT: “Thank you for applying to the 4YFN 2027 Awards!” The page indicates an update in mid-November 2026. No separate receipt number was displayed; a confirmation email was not yet found at that check. Submission is not shortlist/acceptance.
 - The submitted deck field retained the accepted **Base44 FINAL PDF** linked below. Do not claim the SAGA URL was in the submitted form, and do not resubmit merely to swap an equivalent public URL.
 - [4YFN official rules](https://www.4yfn.com/rules-of-entry): one participant, including team members, may enter one application; do not use multiple companies to bypass the limit.
-- INAI Best AI Application materials are prepared; **not submitted** and no organizer eligibility ruling claimed. [Application](https://www.inaiawards.com/apply) / [terms](https://www.inaiawards.com/terms); one applicant, one work, one category. ITU, Strategic 27 and Stevie remain preparation/qualification work, not new application receipts.
+- **INAI International AI Awards: SUBMITTED / WAITING_EXTERNAL.** Bunny Crystal Oracle / Best AI Application. On 2026-10-26 the official confirmation page stated: “Your application has been received.” Submitted once, with the latest SAGA public PDF above; no payment made. Email confirmation has not yet been verified; do not resubmit because an email is missing. Receipt is not an eligibility ruling, shortlist or award. [Application](https://www.inaiawards.com/apply) / [terms](https://www.inaiawards.com/terms); one applicant, one work, one category.
+- ITU, Strategic 27 and Stevie remain preparation/qualification work, not new application receipts.
 - This public archive omits private application answers, personal identifiers, company originals and private correspondence.
 
 ## Deliverables — actual original artworks
@@ -57,4 +58,4 @@
 - Product profile: https://saga1001.com/products/bunny-crystal-oracle/
 - Public media kit: https://saga1001.com/media-kit/
 
-**Status:** public pitch-deck materials READY and deployed under SAGA. **4YFN Awards:** submitted as recorded above; awaiting organizer review, not selected. Other award statuses remain separate. The deck publication itself is not an application receipt.
+**Status:** public pitch-deck materials READY and deployed under SAGA. **4YFN Awards and INAI:** submitted as recorded above; awaiting organizer review, not selected. Other award statuses remain separate. The deck publication itself is not an application receipt.
