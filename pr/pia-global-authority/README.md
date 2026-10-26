@@ -5,6 +5,7 @@
 
 - [74项逐条全覆盖＋新开放奖项扩展线路](docs/FULL_74_OPEN_APPLICATION_COVERAGE_2026-10-26.md)
 - [Bunny/SAGA/Chromatic Breathing/9款游戏原型/GGC工具产品证据母档](docs/PRODUCT_PORTFOLIO_AWARDS_EVIDENCE_2026-10-26.md)
+- [扩展设计/UX赛道：iF DESIGN AWARD、UX Design Awards、Chromatic/Bunny/PLOT专项参赛稿与收费条件](docs/DESIGN_UX_AND_NEW_OPEN_AWARDS_2026-10-26.md)
 - [英文申请表答案包：4YFN、GSA、ITU、Stevie、AI Browser Jam、GDCA、Strategic 27等](docs/FORM_READY_EN_PITCHES_2026-10-26.md)
 
 **提交证明纪律：**上述是已经写入GitHub的材料和全量台账；新增第三方官方奖项或CFP申请要另以主办方回执为准。现有Chat连接器可检查网页和写GitHub，但不能在任意第三方官网执行完整交互式提交。收费/法定/出行义务需 Joyce 明确批准；新组织首触仍需给名单审批；游族、网龙及关联企业永久禁联。
