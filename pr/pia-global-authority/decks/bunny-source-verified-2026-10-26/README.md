@@ -48,6 +48,9 @@
 - Uploaded files are publicly accessible *award materials* hosted under the author's own Bunny Base44 media library. Sensitive customer/business data not included. Do not interpret the slide deck itself as official 4YFN submission receipt.
 - If any remote image URL changes later, update the source HTML after checking the new actual Bunny production `cardImageMap.jsx`.
 
+## Reusable speaker materials
+- [Public biography, concise CV and five proposed talk agendas](../../docs/SPEAKER_REUSABLE_PUBLIC_PACK_2026-10-26.md) — sanitized reusable text; not an accepted-programme announcement or new submission.
+
 ## Owner links
 - Public product: https://bunny.saga1001.com/
 - Parent portal: https://saga1001.com/
