@@ -1,5 +1,15 @@
 # PIA — Global Authority & PR Program OS
 
+## 2026-10-26｜全量开放机会申报（不按P0/P1/P2限制）
+已按 Joyce 的最新执行要求扩展到全部 74/74 项：任何现已开放且具备事实/权利依据的赛道都进入申请准备，历史优先级不再作为漏查或搁置理由；已有申请仍须去重，不把填好材料记成完成官方提交。
+
+- [74项逐条全覆盖＋新开放奖项扩展线路](docs/FULL_74_OPEN_APPLICATION_COVERAGE_2026-10-26.md)
+- [Bunny/SAGA/Chromatic Breathing/9款游戏原型/GGC工具产品证据母档](docs/PRODUCT_PORTFOLIO_AWARDS_EVIDENCE_2026-10-26.md)
+- [英文申请表答案包：4YFN、GSA、ITU、Stevie、AI Browser Jam、GDCA、Strategic 27等](docs/FORM_READY_EN_PITCHES_2026-10-26.md)
+
+**提交证明纪律：**上述是已经写入GitHub的材料和全量台账；新增第三方官方奖项或CFP申请要另以主办方回执为准。现有Chat连接器可检查网页和写GitHub，但不能在任意第三方官网执行完整交互式提交。收费/法定/出行义务需 Joyce 明确批准；新组织首触仍需给名单审批；游族、网龙及关联企业永久禁联。
+
+
 ## 2026-10-26 — flagship industry authority, not vanity PR
 
 Read [Joyce Flagship Authority OS](../../skills/joyce-flagship-authority-os/SKILL.md) and the updated [PIA operating SOP](docs/OPERATING_SOP.md) before creating a speaker/award/media pitch. The signature claim is Joyce's combined **0→1 flagship leadership + personally leading titles to global or category-leading results + enterprise commercial/data/organization operating-system design**, supported by anonymized projects, her 2024 published book and applied China/Asia operating disciplines. Use a reusable three-case evidence matrix, two serious signature articles and a sector-relevant executive network; keep awards, speaker applications and actual acceptance separate. This read dependency does not authorize a new submission or email.
