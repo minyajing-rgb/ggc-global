@@ -1,0 +1,34 @@
+section,field,definition_or_rule,illustrative_value,your_value,source_or_owner,notes
+scope,product,One product only,Teaching game,,,
+scope,date_window,One day for daily formulas,Illustrative day,,,
+scope,timezone,Use the same timezone for every daily row,Declare before use,,,
+scope,market_platform_version,Keep segment definitions explicit,Declare before use,,,
+activity,first_active,Unique first qualifying activity,7000,,,Separate activity example from revenue example
+activity,continuing_active,Exclude reactivated players,26000,,,
+activity,reactivated_active,State gap and exclude other groups,2000,,,
+activity,total_dau,Sum three mutually exclusive groups,35000,,,
+revenue,dau,Same active population as daily payers,10000,,,Separate teaching scenario
+revenue,payer_conversion,Unique daily payers divided by daily DAU,0.03,,,
+revenue,unique_payers,DAU multiplied by payer conversion,300,,,
+revenue,arppu,Daily IAP payments divided by unique daily payers,8,,,
+revenue,iap_payments,DAU multiplied by payer conversion multiplied by ARPPU,2400,,,
+revenue,advertising_amount,State whether gross or net and do not double count,600,,,
+bridge,combined_amount,IAP plus advertising on consistent basis,3000,,,
+bridge,iap_deduction,Assumed 30 percent of IAP only,720,,,Teaching assumption not current platform fee
+bridge,after_iap_deduction,Combined amount less IAP deduction,2280,,,
+bridge,acquisition_spending,Same period defined spending,1500,,,
+bridge,content_operating_spending,State allocation basis,700,,,
+bridge,simplified_remainder,After deduction less stated spending,80,,,Not company net profit
+cash,settlement_date,Record actual cash timing,,,,
+cash,spending_payment_date,Record actual cash timing,,,,
+cohort,entry_window,Fix original unique user population,,,,
+cohort,observation_horizon,State D0-D6 or elapsed window and maturity,,,,
+cohort,realized_value_per_user,Cumulative defined value divided by original users,,,,
+cohort,acquisition_cost_per_user,Spend divided by matching original population,,,,
+decision,observation,Describe measured facts without causality,,,,
+decision,hypothesis,State possible explanation and alternatives,,,,
+decision,next_action,Choose one bounded intervention,,,,
+decision,owner_and_window,State who delivers and when to observe,,,,
+decision,adjust_or_stop_evidence,Predefine what would change the decision,,,,
+
+
