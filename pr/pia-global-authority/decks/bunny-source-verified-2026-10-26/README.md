@@ -2,6 +2,20 @@
 
 **Replaces:** the earlier text-only 4YFN deck and three fictitious AI-generated slides. Those visuals used an invented fluffy white rabbit, made-up card illustrations, invented web mockups and unverifiable site copy; they are rejected for award submissions. **DO NOT REUSE THE GENERATED IMAGES.**
 
+## 2026-10-26 evening — canonical SAGA download links and application evidence
+
+- [Public PDF — 8 pages, no password](https://saga1001.com/media-kit/bunny/Bunny-Pitch-Deck-2026-10-26.pdf)
+- [Editable PPTX](https://saga1001.com/media-kit/bunny/Bunny-Pitch-Deck-2026-10-26.pptx)
+- [SAGA Bunny media-kit index](https://saga1001.com/media-kit/bunny/)
+- These are the same accepted FINAL artworks and screenshots as the Base44 files below, not a new or unreviewed pitch. Deployment verified anonymous HTTP 200 and matching source hashes; PDF has 8 pages and is not password-protected.
+- Hosting source: [saga1001-world-hall commit 6c2c33f](https://github.com/minyajing-rgb/saga1001-world-hall/commit/6c2c33fa29b5873627e332144ca8ca36c2435dd5); [successful Pages run](https://github.com/minyajing-rgb/saga1001-world-hall/actions/runs/40330756788).
+- **Positioning correction:** Bunny is an interactive card/spread and AI-interpretation product, not a virtual-companion application. A character illustration is not evidence of a companion-product category. Public availability and ongoing testing do not establish measured commercial conversion.
+- **4YFN Awards 2027: SUBMITTED / WAITING_EXTERNAL.** Official final success page was read and captured on 2026-10-26 by 21:33 HKT: “Thank you for applying to the 4YFN 2027 Awards!” The page indicates an update in mid-November 2026. No separate receipt number was displayed; a confirmation email was not yet found at that check. Submission is not shortlist/acceptance.
+- The submitted deck field retained the accepted **Base44 FINAL PDF** linked below. Do not claim the SAGA URL was in the submitted form, and do not resubmit merely to swap an equivalent public URL.
+- [4YFN official rules](https://www.4yfn.com/rules-of-entry): one participant, including team members, may enter one application; do not use multiple companies to bypass the limit.
+- INAI Best AI Application materials are prepared; **not submitted** and no organizer eligibility ruling claimed. [Application](https://www.inaiawards.com/apply) / [terms](https://www.inaiawards.com/terms); one applicant, one work, one category. ITU, Strategic 27 and Stevie remain preparation/qualification work, not new application receipts.
+- This public archive omits private application answers, personal identifiers, company originals and private correspondence.
+
 ## Deliverables — actual original artworks
 - [8-slide public visual source deck / printable HTML](index.html) — official SAGA Bunny character, deployed Bunny app hero and all 26 real card fronts; the *Print / Save PDF* button makes a PDF in your browser.
 - [8-page original-artwork award PDF](https://media.base44.com/files/public/69a38a72a73a054fb1239165/84b2582b8_Bunny_REAL_SITE_AND_26_ORIGINAL_CARDS_PITCH_FINAL_2026-10-26.pdf) — uploaded to user-controlled Bunny media library, verified 8 pages, 16:9.
@@ -40,4 +54,4 @@
 - Product profile: https://saga1001.com/products/bunny-crystal-oracle/
 - Public media kit: https://saga1001.com/media-kit/
 
-**Status:** pitch-deck materials READY. **External award submission:** not confirmed by this work; must preserve an actual organizer receipt. No fees, legal consent, travel commitments, or new cold outreach performed by this deck correction.
+**Status:** public pitch-deck materials READY and deployed under SAGA. **4YFN Awards:** submitted as recorded above; awaiting organizer review, not selected. Other award statuses remain separate. The deck publication itself is not an application receipt.
