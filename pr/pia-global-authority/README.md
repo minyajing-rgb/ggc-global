@@ -1,5 +1,8 @@
 # PIA — Global Authority & PR Program OS
 
+
+- [Bunny 兔小姐真实官网/26张原卡的8页视觉版 PPTX+PDF（旧AI虚构图作废）](decks/bunny-source-verified-2026-10-26/README.md)
+
 ## 2026-10-26｜全量开放机会申报（不按P0/P1/P2限制）
 已按 Joyce 的最新执行要求扩展到全部 74/74 项：任何现已开放且具备事实/权利依据的赛道都进入申请准备，历史优先级不再作为漏查或搁置理由；已有申请仍须去重，不把填好材料记成完成官方提交。
 
