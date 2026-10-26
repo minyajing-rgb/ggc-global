@@ -93,7 +93,7 @@
 | 线路 | 真实开放状态（2026-10-26） | 最合适候选 | 后续提交门槛 | 官方 |
 |---|---|---|---|---|
 | Global Startup Awards Edition 12 | **OPEN**，Asia & Oceania含香港与中国，Best AI-First Startup等 | GGC AI tools / single demonstrated AI-first product | 真实公司、产品阶段、权利、申请账户、平台可能的隐私与宣发条款 | https://www.globalstartupawards.com/competition-portal-edition-12 |
-| International AI Awards 2026 | **OPEN**，2026-10-30截止，**每申请人1个项目、1个类别** | 真正AI功能与演示最成熟的一款 | 选作品、确认AI核心和作品使用权、表单/使用条款 | https://www.inaiawards.com/apply |
+| International AI Awards 2026 | **OPEN**，2026-10-30截止，**每申请人1个项目、1个类别** | Bunny AI reflection product；主办规则排除赌博平台（不要投Casino编辑器） | 选作品、确认AI核心和作品使用权、表单/使用条款 | https://www.inaiawards.com/apply |
 | AI Browser Game Jam 5 | **OPEN**，至2026-10-31 03:00（官方页面时区） | Yarn Fever Mania / Neon Dots Connect | 免费浏览器公开试玩页；AI majority；既有项目>50%内容为本届新制；itch账号 | https://itch.io/jam/ai-jam-5 |
 | Slapjam #2 | **未来明确窗口**，2026-10-29至31 | 48小时内新做的手机竖屏游戏 | 游戏须在48h内制作，与主题相符，9:16公开H5 itch页 | https://slapjam.ai/ |
 | Game Developers Choice Awards 2027 — Best Gaming Tech | **OPEN**，2026-11-01 PT | GGC A+B Editor / 技术工具 | 核认原型还是已发布技术是否符合官方类别与权利条款 | https://gamechoiceawards.com/categories/ |
