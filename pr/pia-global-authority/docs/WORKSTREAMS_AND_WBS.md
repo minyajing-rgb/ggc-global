@@ -11,17 +11,17 @@
 | WP-06 | China↔Global authority network | ATxSG, IGDA, PGC, Nordic Game, Stripe, forums | China-global roundtable program + target/benefit matrix | Actual approved invitation and named owner, not hypothetical network size |
 | WP-07 | Weekly operations and learning | weekly Monday reviews | KPI, stale leads, blockers, next 7 days, experiments | Review committed; 74/74 IDs reconciled; 1–3 specific operating improvements |
 
-## Priority program for 2026-10-12 – 2026-10-18
-1. PIA-001: WiCX Industry Impact application reconciliation; deadline 16 Oct.
-2. PIA-002: everywoman Innovator draft and organizer fee / international assessment response; 26 Oct deadline.
-3. PIA-003: 4YFN Awards one eligible Bunny commercial product / legal company choice; 26 Oct.
-4. PIA-006: finish consumer AI 4YFN solo CFP; 5 Nov deadline; **not yet filed**.
-5. PIA-009: Stevie APAC 2027 opens 14 Oct; obtain categories and fees and build Joyce/GGC candidates.
-6. PIA-039: WMF 13 Oct scheduled organizer call, record decision/benefit facts, no deposits without Joyce's approval.
-7. PIA-010/025/064: one existing PGC Charlie thread, new 10 Oct offer-and-ask sent, review response but no duplicate resend.
-8. PIA-037/065: ATxSG prospect and official contact known; company/organizer list needs Joyce approval **before new outreach**.
-9. PIA-067: produce first English GGC Global Game Operating Systems 2027 report outline and evidence-linked case inventory.
-10. PIA-005: 4YFN game system solo CFP has receipt, estimated 30 Nov; no duplicate; later follow-up only at promised date.
+## Priority program for 2026-10-26 – 2026-11-01 (W44)
+1. PIA-003: **10/26 17:00 CET** 4YFN Digital Horizons application deadline — legal company + commercially launched single product + dedicated receipt or explicit hold; no false eligible declaration.
+2. PIA-002: everywoman **10/22 official nomination submitted**, category mapping still pending; do NOT resubmit based on generic 10/23 draft reminder.
+3. PIA-006/032: 4YFN Consumer AI Speaker second generic receipt lacks title/ID; 10/28 match existing records, prepare before **11/05 23:00 CET** deadline.
+4. PIA-039: **10/30** WMF Soft Landing €99 deposit decision belongs to Joyce; keynote speaker receipt is separate from accepted Soft Landing sub-programme.
+5. PIA-004/008/007: Webby **10/30 early-bird only**; BAFTA **11/06** rights/release/payment; SXSW Pitch **11/13** US$225 and product eligibility. No paid entries without Joyce.
+6. PIA-001: WiCX Industry Impact officially submitted 10/15 and reconfirmed 10/16; next **11/02 finalist announcement**.
+7. PIA-009: Stevie APAC 2027 official R11 eligibility text conflicts with 10/23 staff email; price matrix and appropriate category confirmation needed before payment.
+8. PIA-010/025/064/063: Steel Media one organizer relationship and Stripe waiting review; no repetitive follow-up.
+9. PIA-067: English original Game Operating Systems report, three responsibly scoped case anchors and publication-ready executive summary; no negative descriptions of prior employers.
+10. PIA-037/065/015/036/028: new organizer outreach names and complete drafts must be approved by Joyce before any sending.
 
 ## Measurement
 Metric `submissions` = actual CFP/award receipt; `human_engagement` = real two-way substantive reply; `acceptances` = approved by organizer; `delivered_authority` = live speaking/published article/award result/public official proof. Distinct stages must not be summed as completed items.
