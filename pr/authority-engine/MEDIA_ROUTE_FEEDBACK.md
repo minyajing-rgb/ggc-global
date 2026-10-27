@@ -1,8 +1,29 @@
 # GGC — Media Route and Format Feedback
 
-Updated: 2026-10-03
+Updated: 2026-10-27 (original 3 October route decisions retained)
 
 This is a sanitized operational decision log. The original two Gmail threads were read and reconciled on 2026-10-03. Raw correspondence, headers, message / thread IDs and non-public contact details remain outside this public repository. Feedback IDs below are local decision keys, not Gmail IDs.
+
+## Route evidence — 2026-10-27
+
+The source graph was reconciled against **all 130 original rows** and the existing **74 stable PIA IDs**, respecting same-parent stop rules. The crosswalk is an association of records, not 204 distinct opportunities or 204 authorized emails.
+
+| Existing graph row | Official supported route / example | Fit-qualified, actual execution | Current decision |
+| --- | --- | --- | --- |
+| 118 — Game Dev Advice | [The show's official published contact in show notes](https://www.gamedevadvice.com/podcast-show-notes); working guest-interview podcast | **27 Oct new SENT/readback** — one custom remote guest interview idea on release go/no-go economics and producer accountability | No host response yet; original outlet HOLD, no duplicate first touch. |
+| 23 — GamingonPhone | [Official editorial/press inquiry](https://gamingonphone.com/contact-gamingonphone/); [example developer interview](https://gamingonphone.com/interviews/royal-ark-game-direct-andrey-garbuzov-interview/) | **27 Oct new SENT/readback** — tailored mobile game relaunch/LiveOps practitioner Q&A | No editorial response yet; no commission, article or interview date. |
+| 15 — GamesIndustry.biz | Dated 9 Oct opinion proposal already in Gmail SENT | **HISTORY, not a new send** | Same-outlet hold pending human editor response. |
+| 16 — 80 Level | [Official editorial contacts and example editorial formats](https://80.lv/contact-us) | **13 Oct prior interview proposal; Xsolla group already touched** | Parent/outlet hold; editorial independence does not create a second cold-touch entitlement. |
+| 22 — MCV/DEVELOP; 51 — 游戏葡萄; 60 — 量子位 | Earlier named editorial proposals, 13 Oct Gmail history | **HISTORY, not new sends** | No bypass via new editor/desk. |
+| 6–9 — Game Developer; 13/115 — Naavik; 39/113 — Xsolla | Earlier parent-level activity, 7–8 Oct | **HISTORY**, format-specific group suppressions | Do not rewrite prior contacts as `RESEARCH_ROUTE` for a duplicate. |
+| 74 — Develop:Brighton | [Official 2027 CFP](https://www.developconference.com/get-involved/call-for-speakers-sarah), Business/Mobile tracks, proof-of-concept and takeaways | 23 Oct **email only**; formal speaker form is still **not submitted** | Rights/attendance and exact CFP contents held separately. |
+| 69 — gamescom latam | [Official 2027 speaker CFP](https://latam.gamescom.global/en/call-for-speakers/), open to 18 Jan 2027 | **Research verified, no form submission** | Submission consents to recording/publication and implies São Paulo participation; separate authorization required. |
+
+**Measurement policy:** An official route, editor role, sent email, automated application acknowledgement, presenter enquiry or social connection is not a confirmed commission, substantive editorial interest, keynote selection or publication. No positive host/editor response was observed on the two 27 October sends at their immediate readback.
+
+**Group/user stop reminders:** GWO / WN Hub and Vulcan Post / GRVTY remain in shared-parent HOLD after their separate **26 October** original sends. The Gaming Playbook was also sent 26 October. TechNode and IGDA were sent 13 October; do not repeat general outreach. **白鲸** remains user-expressly blocked; **游族** and **网龙**, including associated businesses, permanently blocked. The two Tech in Asia commercial-only records remain non-editorial and unpaid.
+
+---
 
 ## Reconciled decisions
 
