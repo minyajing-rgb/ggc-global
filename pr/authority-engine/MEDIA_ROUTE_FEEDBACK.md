@@ -1,8 +1,28 @@
 # GGC — Media Route and Format Feedback
 
-Updated: 2026-10-27 (original 3 October route decisions retained)
+Updated: 2026-10-28 (27 October and original 3 October route decisions retained)
 
 This is a sanitized operational decision log. The original two Gmail threads were read and reconciled on 2026-10-03. Raw correspondence, headers, message / thread IDs and non-public contact details remain outside this public repository. Feedback IDs below are local decision keys, not Gmail IDs.
+
+## Route evidence — 2026-10-28
+
+This addendum **supersedes** the 27 Oct tentative reading that Develop:Brighton's visible CFP page meant the formal January 2027 application window was already open. This is a routing and response log, not a record of published coverage or selected speakers. Private source correspondence and actual email addressees remain outside this repository.
+
+| Graph / opportunity | Evidence of accepted format | Read-back result | Correct route and next action |
+| --- | --- | --- | --- |
+| 45 · The Business Times Singapore | [Official newsroom contact](https://www.businesstimes.com.sg/content/contact-us) explicitly welcomes news tips and press releases; contemporaneous SEA gaming/AI coverage | **28 Oct new tailored first-touch SENT/readback**, single newsdesk source note | Group HOLD pending editorial reply; no publication, commission or guaranteed delivery. |
+| 66 / PIA-058 · D.I.C.E. Summit 2027 | Human organizer's direction to [official 2027 programming form](https://www.dicesummit.org/dice_speakers/programming_proposal.asp), supports speaker, roundtable, workshop | **Human process routing on 28 Oct**; courtesy thank-you SENT/readback | Form **NOT submitted**; inspect participation, photo/recording and IP terms, then request Joyce authorization where required. Do not reemail another D.I.C.E. contact. |
+| 74 / PIA-041 · Develop:Brighton 2027 | Named producer selects **Business** track, advises technically opens **January 2027**, visible page appeared too early | **Human process/track advice on 28 Oct**; courtesy thank-you SENT/readback | No formal submission; March 2027 decision, actual deadline to reconfirm when opening; separate attendance/recording rights. |
+| PIA-012 · IndieGameBusiness December Deep Dive | Original official submission plus named operations manager's decision | **Human speaker refusal** for December programme, courteously acknowledged | Close this proposal; prospective retention on a future database is not a current invitation or selection. |
+| PIA-016 · Women in Games | Prior directory submission distinct from 23 Oct content inquiry | Team acknowledged and forwarded internally | HUMAN_PROCESS_ROUTING only; no speaker interest or second application. |
+| 17 · Game World Observer / WN Hub | Earlier editorial source proposal | Person acknowledged and forwarded to colleagues | HUMAN_PROCESS_ROUTING only; **not** positive editorial interest, group HOLD preserved. |
+| 18, 63, 64 · GameDiscoverCo, 品玩, 虎嗅 | Messages found in **earlier** 28 Oct Gmail SENT | Historical sends, **not** new sends from this execution | No second pitch or address bypass. |
+
+**Qualified-research decisions:** [Fast Company Impact contributor rules](https://www.fastcompany.com/90870734/how-to-submit-contributed-stories-to-fast-companys-impact-section-and-tips-on-getting-published) require a complete original 700–1,000-word unpublished piece in Word/Docs and explicitly prohibit pitches at the Impact route; editorial exclusivity would need separate review. [Rest of World](https://restofworld.org/about/how-to-pitch-rest-of-world/) is a journalist-reported commission route with source/on-the-ground reporting requirements, not a generic PR inbox. [Think Like A Game Designer](https://www.thinklikeagamedesigner.com/podcast) actively interviews guests but no current official guest intake was established. Vendor-owned analysis blogs at graph rows 25–30 are not independent earned-media submission channels solely because they publish data.
+
+**2026-10-28 scorecard:** one new original media SENT/readback, three courtesy replies SENT/readback; zero new official form submissions, zero newly verified PR hard bounces, zero substantive positive editor/host replies, one human speaker-event decline, zero confirmed stages or publications. All STOP/HOLD, no-fee authorization and no-alternate-contact rules remain intact. Next primary research cursor row 31, next secondary cursor row 121.
+
+---
 
 ## Route evidence — 2026-10-27
 
