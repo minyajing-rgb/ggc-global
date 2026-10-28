@@ -1,8 +1,45 @@
 # Joyce / GGC — PR Execution Status
 
-Updated: 2026-10-27 (historical 3 Oct audit retained below)
+Updated: 2026-10-28 (27 Oct and original 3 Oct audit retained below)
 
 This is an aggregate execution tracker. Recipient addresses, private replies and Gmail message IDs remain outside the public repository.
+
+## 2026-10-28 execution checkpoint
+
+**Sources and scope:** The existing **130-row PR graph** (128 seed targets + two Tech in Asia commercial-only routes) and **74 stable PIA IDs** were reread, with the original **74-record crosswalk** retained. Prior crosswalk: 48 PIA records directly or by group linked to 42 graph rows; not additive to a count of independent opportunities. The existing private evidence ledger alone retains correspondence and the rotation cursor; the public repo contains no private mail or credentials.
+
+### Execution results — 28 October only
+
+| Distinct action | Verified result | Interpretation |
+| --- | --- | --- |
+| **The Business Times Singapore**, graph row **45** | **1 new tailored original editorial SOURCE email in Gmail SENT; full-body readback** | Official news-tip/newsdesk route and two directly relevant BT articles used. Await human editorial judgment; **not** a commission, publication or confirmed delivery acceptance. |
+| **D.I.C.E. 2027**, graph row **66** | New **human programme routing** reply: official programme committee form provided. **Courtesy acknowledgement SENT/readback**. | A real organizer response, **not** a speaker invitation, form submission or acceptance. Check form and required attendance/recording rights before Joyce-specific approval. |
+| **Develop:Brighton 2027**, graph row **74** | New **human producer** reply recommends **Business** track; **courtesy acknowledgement SENT/readback**. | **Correction of 27 Oct public status:** although a CFP page was visible, submissions **technically open in January 2027**, organizer expects decisions in **March 2027**. Do not describe as formally open or submitted now. Existing posted 10 February deadline to reconfirm on opening. |
+| **IndieGameBusiness December Deep Dive**, PIA-012 | **Human rejection** for the December talk; respectful thank-you **SENT/readback**. | **Rejected for this event**, not accepted; speaker database retention is not a future booking. No reapplication through alternate route. |
+| **Women in Games**, PIA-016 | Team acknowledged and forwarded the prior 23 Oct programme inquiry. | **Process routing only**; not invitation, new directory application or speaking confirmation. |
+| **Game World Observer**, graph row **17** | 27 Oct acknowledgement says editorial team will consider and reach out if interested. | **Human internal routing only**, not substantive editorial interest; WN Hub same-parent HOLD unchanged. |
+
+**Same-date history reconciliation, not sends created by this run:** five existing Gmail SENT items from earlier on **28 Oct local** were found: **GameDiscoverCo, 品玩, 虎嗅, D.I.C.E. Summit**, plus **GameRes** (outside original graph; not added as a new seed). They remain prior SENT/no-duplicate holds, not an additional five sends in the present execution.
+
+**Newly qualified formats, not automatically sendable:** [The Business Times newsroom formally accepts news tips](https://www.businesstimes.com.sg/content/contact-us); [D.I.C.E. has a speaker/roundtable/workshop programme form](https://www.dicesummit.org/dice_speakers/programming_proposal.asp); [Fast Company Impact requires a complete unpublished contributor article and explicitly rejects pitches](https://www.fastcompany.com/90870734/how-to-submit-contributed-stories-to-fast-companys-impact-section-and-tips-on-getting-published); [Rest of World requests reported freelance journalism pitches](https://restofworld.org/about/how-to-pitch-rest-of-world/) rather than generic operator self-promotion. Active podcast sites without a verifiable current guest submission route remain research-only. Graph vendor/data-media rows 25–30 were reviewed and **not** recategorized as automatically accepting earned PR.
+
+### Dated metrics and holds
+
+| KPI | This execution |
+| --- | ---: |
+| New independently authored first-touch PR emails SENT and read back | **1** |
+| Existing-programme courtesy replies SENT and read back | **3** |
+| New official programme/application forms submitted | **0** |
+| Human procedural/event replies classified (including earlier replies newly read) | **4** |
+| Human programme rejection newly recognized | **1** |
+| New PR hard bounces found | **0** |
+| Positive substantive media-editor interest / confirmed speaker acceptance / new publication | **0 / 0 / 0** |
+
+**Due gates unchanged:** WMF written refund/eligibility answer still outstanding before **30 Oct**, **€99 cannot be paid automatically**; 4YFN speaker generic receipts have no title-to-application mapping and its **5 Nov** deadline does not justify a blind duplicate submission; WiCX results **2 Nov**, MWC review in late November, everywoman Innovator category portal tie-out outstanding. Recording/IP, fees and in-person travel remain separately approval-gated. **游族/网龙关联企业永久禁联，白鲸不发；GWO/WN Hub、Vulcan Post/GRVTY 和所有旧集团 HOLD 继续生效。**
+
+**Rotation:** Primary research rows **24–30** checked; next resume at **31**. Secondary **119–120** checked; next resume at **121**. Other current-date evidence checks covered 17, 18, 45, 63, 64, 66, 74, 122 and 126. **75 graph rows** still have exact status `RESEARCH_ROUTE`; remaining PIA IDs retain distinct stages and never become cold-email quota. Next independent send must pass the same official-format, group, suppression, original-source and consent gates.
+
+---
 
 ## 2026-10-27 execution checkpoint
 
