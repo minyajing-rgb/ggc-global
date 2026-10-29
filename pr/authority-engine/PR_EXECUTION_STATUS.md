@@ -4,6 +4,44 @@ Updated: 2026-10-28 (27 Oct and original 3 Oct audit retained below)
 
 This is an aggregate execution tracker. Recipient addresses, private replies and Gmail message IDs remain outside the public repository.
 
+## 2026-10-29 execution checkpoint
+
+**One new independent podcast first-touch was actually SENT and Gmail-readback verified today**: Deconstructor of Fun. The source is the show's real current guest-interview programming and its official contact mailbox, with a tailored operator conversation referencing its 2026 Zynga-founder and AI-budget coverage. PR graph rows 14 and 116 and PIA-023 are **one parent/outlet route**, not three contacts. No host reply or booking has yet been received. Nothing was sent to a different member of any previous HOLD group.
+
+### Corrected higher-value pipeline evidence discovered on 29 October
+
+The earlier 28 October checkpoint did **not** include two official application receipts that were produced by *another* execution on 28 October. Gmail original-message readback now establishes these **historical, not this-run**, form submissions:
+
+| Existing item | Original external evidence dated 28 Oct | Current classification |
+|---|---|---|
+| **D.I.C.E. Summit 2027 / PIA-058 / graph 66** | Official programming form receipt reproduces the original speaker form, category and proposal title, “What AI Should Not Automate: The Operating Decisions That Keep Games Alive”. | **SUBMITTED / AWAITING COMMITTEE REVIEW**, not invitation or speaker selection. Prior “form not submitted” report is superseded. |
+| **gamescom latam 2027 / PIA-054 / graph 69** | Official B2B speaker CFP receipt says proposal received and sent for curation. It does not display the proposed talk title. | **SUBMITTED / AWAITING CURATION**, precise title mapping remains unverified; no acceptance or travel commitment. |
+
+An even higher-priority opportunity had been missed in the earlier summary: **MCV/DEVELOP / graph 22** editor Matt personally replied on **28 October** that he is **interested** in the practitioner's original “AI demo vs game-launch decision” feature, offering space in the **January issue**, **maximum 600 words**, with a genuine headshot required. Joyce already sent a confirming reply on 28 October asking whether January means **2027**, and requesting copy deadline, picture specifications and publication/reuse terms. On 29 October a **541-word complete, original, unpublished English manuscript** was prepared in the existing private PR materials area. **This is genuine human editorial interest, not article acceptance, delivery or publication.** Do not send the draft to another title or infer rights; a real authorized portrait and the editor's terms are pending.
+
+**Delivery correction:** 虎嗅's 28 October original pitch was rejected by its destination mail server's anti-spam policy. This is a **hard bounce from a previous execution**, not a newly generated 29 October bounce. Suppress retry and alternate Huxiu mailbox/contact. The Business Times' 28 October automated reply is a routing acknowledgment only; sister title **The Peak Singapore** shares SPH parent ownership and remains **HOLD**, not a second fresh lead.
+
+### Measured actions — 29 October run versus prior-evidence reconciliation
+
+| Evidentiary stage | New action this run | Earlier evidence discovered/corrected this run |
+|---|---:|---:|
+| Genuine new independent external PR / podcast **SENT**, message + body read back | **1** | No duplicates credited |
+| New formal CFP / award forms actually submitted | **0** | **2** received on 28 Oct (D.I.C.E. + gamescom latam), not re-submitted |
+| New PR hard bounces | **0** | **1** hard rejection on 28 Oct (虎嗅) |
+| New substantive positive editorial replies | **0** | **1** 28 Oct real editor response (MCV/DEVELOP) |
+| New interview/speaker selection, shortlist or published story | **0** | **0** |
+| New fee / travel / publicity-rights commitments | **0** | **0** |
+
+The independent original graph is still **130 rows** (128 historical seeds + two non-editorial commercial-only routes); the PIA master retains the same **74 stable IDs**. Its existing crosswalk links **48 PIA IDs to 42 related graph rows**; the two lists must not be added into a fictitious unique-opportunity or send-ready total.
+
+**Route qualification/rotation:** The graph's primary review passed through rows 31–55 and independent checks of podcast/editorial rows 14, 19, 22, 64, 66, 69, 81, 116–117 and 121–128. The next primary review begins at **row 56**; new conference/programme review begins at **row 78**; the PIA review continues at **PIA-008**. Gamesforum Barcelona dates (9–10 February 2027) are official, but its current independent speaker intake is unverified; no ticket purchase. GameMakers' guest-interview format is real, but an official guest booking route is still missing. GameLook's contemporary direct editorial channel also remains unverified. SCMP's official newsroom accepts genuine news tips, not a substitute for an independently reportable story. Unknown format/email must stay research rather than be force-sent.
+
+**Standing gates:** WMF Soft Landing selection remains valid, but **€99 due 30 October is not paid** pending written refund/eligibility terms and Joyce's explicit approval; 28 October chaser has not received a new written answer as of this audit. everywoman 22 October generic submission receipt still needs portal/category tie-out (claimed Innovator is not established by that generic template); no duplicate application. 4YFN speaker titles remain unlinked to generic receipts; MWC awaits late-November review; Develop:Brighton 2027 formal CFP opens **January 2027** per its producer, notwithstanding a prematurely visible URL. White Whale/白鲸 explicit no-outreach and permanent 游族/网龙 group stops persist.
+
+All raw Gmail identifiers, recipient addresses, submission copies and original correspondence are retained **only in the existing private evidence account**. Public files retain redacted dates/status, no private contact or receipt IDs. No new CRM or automation was created.
+
+---
+
 ## 2026-10-28 execution checkpoint
 
 **Sources and scope:** The existing **130-row PR graph** (128 seed targets + two Tech in Asia commercial-only routes) and **74 stable PIA IDs** were reread, with the original **74-record crosswalk** retained. Prior crosswalk: 48 PIA records directly or by group linked to 42 graph rows; not additive to a count of independent opportunities. The existing private evidence ledger alone retains correspondence and the rotation cursor; the public repo contains no private mail or credentials.
