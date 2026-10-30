@@ -1,5 +1,23 @@
 # GGC — Media Route and Format Feedback
 
+## Route evidence — 2026-10-30
+
+| Original graph row / PIA ID | Real source and supported format | Classification and next action |
+|---|---|---|
+| **MCV/DEVELOP row 22** | The named editor's **29 Oct human request** to place Joyce's already-supplied original Word article in an earlier next magazine issue (closes mid-Nov; appears late Nov/early Dec); genuine portrait previously received | **HUMAN EDITORIAL ISSUE OFFER; OUR CONFIRMING REPLY PENDING**. Outbound Gmail writes failed on 30 Oct (two send and one draft attempts); SENT check found no delivery. Retry original thread; ask for proof/PDF. Not published. |
+| **触乐 row 58** | [Official original-article submissions](https://www.chuapp.com/article/281571.html) welcome independent game-industry commentary; posted paid-publication policy assigns the work's copyright except permanent attribution to publisher | **RIGHTS HOLD**. Do not email an unpublished full manuscript or grant author IP without specific Joyce approval. Broken third-party report-request support portal is not verified media intake. |
+| **游戏陀螺 row 56** | [Current original reporting](https://www.youxituoluo.com/chanye/yfsj) includes studio/operator interviews and international news | **FORMAT VERIFIED; CURRENT EDITORIAL INTAKE AND TERMS NOT VERIFIED**. No guessed mailboxes or send. |
+| **游戏茶馆 row 55** | [Official site](https://youxichaguan.com/) publishes original game-market reports | **EXACT EDITOR INTAKE NOT VERIFIED**; no send. |
+| **MAU Vegas row 78 / PIA-060** | [MAU27 FAQ](https://mauvegas.com/faqs) confirms May 4–6 2027 at Bellagio; registration opens December 2026; some first-party app teams may qualify for free attendance | **EVENT WINDOW VERIFIED, 2027 SPEAKER CFP UNVERIFIED**. Attendee registration or sponsorship is not a speaker proposal. |
+| **App Promotion Summit rows 79–80 / PIA-061** | Conference site responded HTTP 403 to public read and no official 2027 CFP verified | **SPEAKER ROUTE UNVERIFIED**; no invented form/send. |
+| **BAFTA PIA-008** | [Official 2027 rules](https://www.bafta.org/awards/games-rules/) require game eligibility, rights-holder permission and fee | **ELIGIBILITY/COPYRIGHT/PAID HOLD**; not a founder award. |
+| **4YFN PIA-005/006** | [Official 2027 speaker CFP](https://www.4yfn.com/call-for-speakers/) closes 5 Nov 2026, 23:00 CET; free editorial talk route | Multiple generic receipts still cannot prove individual talk-title linkage. Do not duplicate a proposal until original form checked. |
+| **WMF PIA-039** | 29 Oct owner-authored SENT claims earlier €99 PayPal payment and requests allocation/invoice confirmation | Previous “not paid” assumption superseded only as owner-authored report, not processor/organizer verification; **NO second payment**. |
+
+**30 Oct evidence scorecard:** new verified PR SENT 0; new official submissions 0; no new hard bounce; one human earlier-issue editorial offer remains unanswered due to failed Gmail writes; actual publication and selection 0.
+
+---
+
 Updated: 2026-10-28 (27 October and original 3 October route decisions retained)
 
 This is a sanitized operational decision log. The original two Gmail threads were read and reconciled on 2026-10-03. Raw correspondence, headers, message / thread IDs and non-public contact details remain outside this public repository. Feedback IDs below are local decision keys, not Gmail IDs.
