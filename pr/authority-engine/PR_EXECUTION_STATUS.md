@@ -1,5 +1,19 @@
 # Joyce / GGC — PR Execution Status
 
+## 2026-10-30 execution checkpoint — editorial issue advanced; outbound confirmation not yet sent
+
+**Highest-priority human editorial request:** On **29 Oct**, the MCV/DEVELOP editor said a page opened in the **next issue**, closing **mid-November 2026** and appearing **late November / early December 2026**, and explicitly asked if Joyce agrees to use her existing article. The editor has the original **513-word Word article and genuine headshot**, previously confirmed receipt and clarified print/digital magazine use. **This is stronger than generic editorial interest, but no published article yet.** Two attempts to send the new issue confirmation and one attempt to save a Gmail draft on 30 Oct failed at connector write. A fresh SENT search found no confirmation. The exact reply and original evidence are retained privately; do not report this as SENT, agreed issue change, production proof or publication until sent.
+
+**WMF correction:** The **29 Oct original SENT** now contains Joyce's statement that **€99 was paid through PayPal and bank-confirmed**. Earlier checkpoint notes saying **unpaid** are superseded only at the level of this *owner-authored claim*. **Organizer receipt / invoice / desk and three-ticket allocation / programme-specific refund and eligibility confirmation remain unverified.** No additional charge, extra ticket, travel or contractual commitment authorized. Do not make a second €99 payment merely because an old note says HOLD.
+
+**Today's verifiable output:** new PR/PIA first touch **0**; new official forms **0**; new PR hard bounces **0**; one human editor's **earlier-issue offer found** (incoming 29 Oct); editor acceptance **reply attempted but NOT sent**; new confirmed print/digital publication **0**; new awards/stage selection **0**; payments made by this process **0**. Scope remains all original **130 PR graph rows and 74 stable PIA IDs**, deduplicated by parent and opportunity; no parallel CRM.
+
+**Rotation:** primary graph rows **56–82** inspected; next starts **row 83**, secondary media review from **row 102**. PIA review next **PIA-014**. Upcoming original dates: WiCX **2 Nov** selection announcements; 4YFN speaker CFP **5 Nov 23:00 CET** (generic receipts still need talk-title tie-out); BAFTA **6 Nov** only with eligibility/rights and payment approval; Webby **30 Oct is early entry pricing**, not final entry deadline. All permanent STOP, group HOLD, rights, attendance and paid-entry gates remain.
+
+**New route/rights decisions:** [触乐 original-author guidelines](https://www.chuapp.com/article/281571.html) permit original game-industry commentary but its posted paid-publication rules transfer copyright beyond attribution. Therefore **no full manuscript submission without Joyce-specific IP authorization**. [MAU Vegas 2027 official FAQ](https://mauvegas.com/faqs) confirms **4–6 May 2027**; registration opens in December 2026 and separate speaker CFP remains unverified. [BAFTA 2027 Rules](https://www.bafta.org/awards/games-rules/) require a UK-released eligible game, relevant rights-holder consent and a paid application. These are qualification findings, not sends or selection.
+
+---
+
 Updated: 2026-10-28 (27 Oct and original 3 Oct audit retained below)
 
 This is an aggregate execution tracker. Recipient addresses, private replies and Gmail message IDs remain outside the public repository.
