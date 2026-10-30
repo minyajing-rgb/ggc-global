@@ -12,7 +12,7 @@
 | **App Promotion Summit rows 79–80 / PIA-061** | Conference site responded HTTP 403 to public read and no official 2027 CFP verified | **SPEAKER ROUTE UNVERIFIED**; no invented form/send. |
 | **BAFTA PIA-008** | [Official 2027 rules](https://www.bafta.org/awards/games-rules/) require game eligibility, rights-holder permission and fee | **ELIGIBILITY/COPYRIGHT/PAID HOLD**; not a founder award. |
 | **4YFN PIA-005/006** | [Official 2027 speaker CFP](https://www.4yfn.com/call-for-speakers/) closes 5 Nov 2026, 23:00 CET; free editorial talk route | Multiple generic receipts still cannot prove individual talk-title linkage. Do not duplicate a proposal until original form checked. |
-| **WMF PIA-039** | 29 Oct owner-authored SENT claims earlier €99 PayPal payment and requests allocation/invoice confirmation | Previous “not paid” assumption superseded only as owner-authored report, not processor/organizer verification; **NO second payment**. |
+| **WMF PIA-039** | 29 Oct owner-authored SENT claims earlier €99 PayPal payment and requests allocation/invoice confirmation | A bank debit notice corroborates the prior merchant transaction, but the organizer has not verified Soft Landing linkage, invoice or ticket allocation; **NO second payment**. |
 
 **30 Oct evidence scorecard:** new verified PR SENT 0; new official submissions 0; no new hard bounce; one human earlier-issue editorial offer remains unanswered due to failed Gmail writes; actual publication and selection 0.
 
