@@ -1,5 +1,23 @@
 # GGC — Media Route and Format Feedback
 
+## 31 October 2026 — verified routes, prior sends and rights constraints
+
+| Existing route | Fresh evidence and supported format | Qualified action / disposition |
+|---|---|---|
+| MCV/DEVELOP practitioner feature | Earlier-issue editorial offer and authentic follow-up **SENT on 30 Oct**, Word/headshot already supplied. | **Await editorial layout/proof and publication**. Supersedes older erroneous “reply failed” statement; never re-send and never count as published early. |
+| SuperAI London / Singapore 2027 | [Official speaker pages](https://www.superai.com/singapore/speakers) list a shared 2027 speaker application email; **original personalised speaker proposal actually SENT 27 Oct**, evidence reconciled 31 Oct. | **Existing contacted parent HOLD**; no email interest, formal selection, or second application. |
+| The AI Summit London 2027 | [Official non-commercial speaker form](https://reg.theaisummit.com/london-submit-speaker) accepts 2027 proposals; travel/accommodation are not covered. | **Format verified; rights/attendance HOLD**. No form submission and no paid booking route substitution. |
+| WomenTech Global Conference 2027 — existing rights enquiry | [Organiser speaker agreement](https://www.womentech.net/speaker-agreement) extends perpetual recording/likeness rights beyond individual sessions; organiser confirmed 17 Jan 2027 deadline. | **31 Oct scoped amendment question actually SENT**, with no rights/appearance acceptance. Await written response and Joyce approval. This is an existing conversation, not a new opportunity ID. |
+| 4YFN 2027 | [Official CFP](https://www.4yfn.com/call-for-speakers/) closes 5 Nov 2026 23:00 CET; three original receipts checked do not identify talk titles. | Existing proposal/title reconciliation remains **unresolved**; avoid duplicate applications. |
+| WMF 2027 Soft Landing | Organiser requires payment-trace evidence; previous actual card charge and **30 Oct emailed attachment** established, but organiser allocation remains unconfirmed. | Wait for documented reconciliation/invoice/tickets and precise refund rules; **no second payment**. |
+| D.I.C.E. Awards 2027 | [Official 30th D.I.C.E. Awards entry notice](https://www.interactive.org/awards/30th_annual_dice_awards_submissions_now_open.asp), closes 8 Dec 2026. | Rights-holder/game-release eligibility HOLD. **Not** the already-submitted D.I.C.E. Summit speaker form. |
+| Building the Game podcast / GameMakers | Current shows/interviews observed; no verifiable current first-party guest-booking form for these original graph entries. Building the Game focuses on tabletop design. | Continue **RESEARCH_ROUTE**; no guessed email or forced mobile LiveOps pitch. |
+
+**Account/source separation:** send evidence and exact personal correspondence stay in the existing private ledger; this public route feedback contains **no mailbox, message/thread ID, finance reference, direct contact, private file path, or unpublished partner project**. No new CRM, targets or PIA IDs.
+
+---
+
+
 ## Route evidence — 2026-10-30
 
 | Original graph row / PIA ID | Real source and supported format | Classification and next action |
