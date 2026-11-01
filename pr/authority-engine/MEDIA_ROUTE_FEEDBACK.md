@@ -1,5 +1,18 @@
 # GGC — Media Route and Format Feedback
 
+## 1 November 2026 — owner correction: 白鲸/GTC official programme re-qualification
+
+| Existing graph account | Source / actual evidence | Disposition |
+|---|---|---|
+| **白鲸出海 (original row 50)** | Joyce explicitly removed the old blanket no-contact rule **1 Nov 2026**. Official [2026 Whale Award nomination rules](https://www.baijing.cn/activity_form/custom_enroll/) provide dedicated award enquiry route; nomination was **free** but **closed 10 Oct**, ceremony **4 Nov**. One tailored existing-list organiser email about late/next award rounds, GTC speaking, Shanghai/Guangzhou game matchmaking and total travel/pass costs was **actually SENT and Gmail body read back** today. | **CONTACTED_PROGRAMME_ENQUIRY; not nomination, editor interest or selection.** Await human response; no same-parent blind follow-up under another contact. |
+| **GTC Shanghai (original row 104)** | [Official conference](https://www.baijing.cn/gtc2026/shanghai) on **4–5 Nov**: **RMB29.9** discounted ordinary access; **RMB199** main-hall access (promotion until **3 Nov 23:59**). Organiser public news also mentions limited ordinary free tickets, so exact available allocation must be checked. [Speaker recruitment](https://www.baijing.cn/speech_apply/) is published but not confirmation of a 2026 speaking slot. | **PROGRAMME/FEE QUERY SENT under same group**; no CFP form, complimentary badge, registration or seat confirmed. Joyce may choose self-funded attendance after exact cost and terms are confirmed; **no auto purchase**. |
+| **GTC Shenzhen (original row 105)** | [Old edition site](https://www.baijing.cn/gtc2026/shenzhen) carries April 2026 ticket campaign dates; it is **not** proof of an open new speaker window. | **REQUALIFY_NEXT_CYCLE**, previous organizer-wide ban lifted; do not manufacture a current CFP or duplicate the same-parent enquiry. |
+| **全球游戏对接会 (original row 106)** | [Official GTC FAQ](https://www.baijing.cn/gtc/guide/) says separate approval required for game match sessions, and notices come through SMS/email/invitation. [Guangzhou 8 Dec 2026 edition](https://www.baijing.cn/activity/2431) is also listed. | **OFFICIAL ELIGIBILITY ENQUIRY SENT**, not approved matchmaking. Base access plus separate organiser review; price/fee and eligibility to confirm before any ticket purchase. |
+
+The four rows are existing records and **not four new emails or independent leads**. No private inbox identifiers, organiser email addresses, ticket account details, partner projects or internal file paths are published. Scope corrections leave all other group holds intact.
+
+---
+
 ## 1 November 2026 — one existing-list programming enquiry verified; World Gaming parent and 2027 deadlines corrected
 
 | Existing graph row / group | Independently verified route and format | Classification / disposition |
