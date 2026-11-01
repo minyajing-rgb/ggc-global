@@ -1,5 +1,36 @@
 # Joyce / GGC — PR Execution Status
 
+## 2026-11-01 execution checkpoint — one genuine new SENT, one auto-ticket, no form submission
+
+**First-pass inbound and deadline disposition:** As of the current Sunday review, the MCV/DEVELOP editor has **not** sent a subsequent production proof or new request after Joyce's **30 October** confirmed earlier-issue acceptance; the editor already has Word copy and authentic portrait. WMF has not yet replied after the **30 October** bank/payment-evidence email; never repeat the previously made deposit. WomenTech has not yet answered the **31 October** event-only recording/likeness rights amendment question. WiCX 2026's planned **2 November** shortlist result is not yet independently confirmed; do not count the entry as shortlisted. The existing 4YFN 2027 **5 November 23:00 CET** CFP receipts still lack title mapping; no duplicate. Existing everywoman, D.I.C.E. Summit, gamescom latam, MWC and other already-submitted programmes remain in review, without new form submissions.
+
+**Actual completed outbound:** Original PR graph **row 102 / iGB L!VE 2027** received **one new, tailored, non-binding editorial programme fit/rights enquiry on 1 November**, with Gmail **SENT label, exact recipient, full-body and timestamp read back**. Topic: accountability at greenlight/scale/stop decisions for *social casino and F2P games* amid AI adoption. This request explicitly separated Joyce's social-casino experience from regulated real-money gambling, asked which 2027 speaker intake is valid because the first-party page mixes 2027 and 2026 text, and requested terms before any formal application. The organizer's immediate service **auto-ticket** names the joint **ICE / iGB** support family; it is **AUTO_ROUTING_ONLY**, **not** human editorial interest or CFP receipt. Do not repeat via ICE or a different member of the same programme group.
+
+**New verified gate corrections:**
+- **ICE Barcelona / row 101 / PIA-026**: [2027 official speaker CFP](https://www.icegaming.com/apply-speak-ice) **closed 30 October 2026**. Operator/regulator preference and sponsorship-for-solution-provider language, no qualifying GGC real-money operator claim, and same World Gaming customer-service group as iGB. No ICE proposal submitted; no sponsored speaking or 2027 stage.
+- **G2E / row 103**: [official guidance](https://www.globalgamingexpo.com/en-us/learn/speaker-resources.html) says 2027 CFP opens **February 2027**, and speaker travel is self-funded. No email/CFP now and no travel/rights commitments.
+- **白鲸／GTC / rows 104,105,106**: all subject to Joyce's original no-outreach restriction; rows 104/105 repaired from unqualified RESEARCH_ROUTE to **HOLD_USER_NO_OUTREACH** without changing the source targets.
+- **D.I.C.E. Awards ceremony / PIA-029** is the same Awards application family as PIA-014, not an award entered by the previously successful D.I.C.E. Summit 2027 speaker form. **Web Summit Rio 2027 / PIA-040** official PITCH is for eligible *exhibiting* startups, not a free general keynote form; fees, rights and fit are unapproved.
+
+**Measured new activity on 1 November (Hong Kong calendar date):**
+
+| Evidence stage | This run |
+|---|---:|
+| **New original-list PR/PIA email SENT and Gmail full-body readback** | **1** (speaker-route/format question, **not** a speaker application) |
+| Automatic acknowledgement / service ticket | **1** (routing only, not a human reply) |
+| Newly submitted **official** speaker/award forms | **0** |
+| Newly verified PR-specific hard bounces | **0** |
+| New positive human editor / programming replies | **0** |
+| Accepted speaker slot / award shortlist / win | **0** |
+| Published article / podcast / magazine issue proven | **0** |
+| New payment, recorded likeness licence or travel commitment | **0** |
+
+**Scope and cursor:** original **130 PR rows** (128 seeds + two commercial-only) and **74 PIA immutable IDs** remain; existing 74-item crosswalk still links **48 PIA records** to **42 PR rows** by direct/group relationship. They are not **204** independent contacts or ready-to-send opportunities. After source qualification, **62 PR graph rows remain RESEARCH_ROUTE** and **29 PIA records remain RESEARCH_OR_NEXT_WINDOW** (overlap is material; do not sum). Primary PR rotation reviewed rows **102–113** (next **114**); supplementary routes **120–128** checked (next **19**); PIA rotation reviewed **PIA-026, 029, 040, 050, 052, 054, 072, 074** and loops back to the first due ID; deadline overrides retained. Permanent group bans, received-but-unanswered HOLD, paid, likeness, rights and attendance restrictions remain intact.
+
+**Evidence governance:** raw Gmail SENT, exact inquiry content and automated reply identifiers are saved solely in the existing private ledger; public records contain sanitized formats, dates and URLs only. No new CRM, task, fee or sender channel created. All modified source tables were checked for their original row/ID count and read back after writes.
+
+---
+
 ## 2026-10-31 execution checkpoint — one rights clarification actually SENT; prior editorial confirmation corrected
 
 **Actual new action today:** one reply in an already-open WomenTech speaker-rights conversation was **SENT and full-body read back**. Joyce asked whether the programme can issue an event-specific written amendment instead of the standard **perpetual, irrevocable, broad recording/name/image/voice licence**. The organiser had confirmed the **17 January 2027 speaker deadline** and the broad terms on 30 October. **No speaker application was submitted, no licence was accepted, no appearance/travel promised**, and no outside-list organisation was newly prospected.
