@@ -1,5 +1,17 @@
 # GGC — Media Route and Format Feedback
 
+## 2 November 2026 — human rights refusal and Baijing group review (no new sends)
+
+| Original route / group | New first-party evidence | Outcome and suppression |
+|---|---|---|
+| **WomenTech Network 2027 speaking / Global Ambassador** | Organizer's human support representative explicitly answered the existing voice/recording/portrait-scope question: **the standard speaker agreement cannot be individually amended**. [Official speaker agreement](https://www.womentech.net/speaker-agreement) specifies perpetual, irrevocable rights to recordings and likeness for related programmes/promotions. | **HUMAN_NEGATIVE_RIGHTS_CLARIFICATION; NOT accepted/speaking/positive editorial interest.** No new speaker form or licence accepted. Hold speaking proposal for Joyce's rights approval. The already registered volunteer Ambassador relationship is separate. No repeat amendment request under another contact. |
+| **白鲸出海 / 2026 GTC Shanghai / Whale Award / global-game matchmaking — original rows 50, 104–106** | [Official tickets](https://www.baijing.cn/gtc2026/shanghai) confirm **RMB29.9 ordinary access** and **RMB199 main congress access** until **3 November 23:59**; [FAQ](https://www.baijing.cn/gtc/guide/) says matchmaking requires separate organizer approval and tickets normally cannot be refunded/upgraded. One tailored organiser-group message already SENT/read back **1 November**. 2 November Gmail check found **no human organiser answer**. | **WAIT_SAME_GROUP_HUMAN_REPLY**, no additional email, nomination, speaker CFP or matchmaking application. The 2026 awards window is closed; alternative complimentary access and any self-funded purchase require real allocation and Joyce's consent. |
+| **GameMakers / Building the Game / Think Like A Game Designer — existing podcast rows 19, 117, 119, 120** | Current podcast listings show real outside guest formats. No independently verified current producer guest-booking submission inbox/form was established for these particular routes. | **RESEARCH_ROUTE**. Do not guess a producer email, use a merch/course inquiry, or claim a booking from a podcast episode. |
+
+**Run-specific metric:** new readback-verified sends **0**, new forms **0**, fresh PR bounces **0**, human rights-related negative/process replies **1**, substantive positive editorial interest **0**, accepted talks/publications **0**. Existing source graph and PIA stable scope preserved; original evidence dates and next cursor continue in the existing private ledger.
+
+---
+
 ## 1 November 2026 — owner correction: 白鲸/GTC official programme re-qualification
 
 | Existing graph account | Source / actual evidence | Disposition |
