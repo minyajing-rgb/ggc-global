@@ -34,3 +34,14 @@ Local skill files and these first-read instructions are not evidence of global C
 For GGC Principal/consulting acquisition, first read [GGC Cold Start Engine](https://github.com/minyajing-rgb/newmedia/blob/main/skills/ggc-cold-start-engine/SKILL.md) and [GPT ⇄ Codex current handoff](https://github.com/minyajing-rgb/newmedia/blob/main/operations/GPT_CODEX_COLD_START_HANDOFF_2026-10-20.md); then the **v8** operating model, approved flagship evidence, this repo's product-definition/product-acceptance gates and original B2B parent-group STOP/78+ conditional send controls.
 
 Active priority: **Principal first**, then Bunny Web, owned books, own consumer AI. **SparkPro is partner-owned and entirely excluded from every current research, code, marketing, payment, account, user and deployment action.** Never infer that a repo edit broadcasts to an existing ChatGPT thread or starts Codex. [Codex-ready issue #17](https://github.com/minyajing-rgb/ggc-global/issues/17) specifies website first-value/qualified inquiry/payment QA; it is NOT an active Codex run.
+
+
+## 2026-11-03 — GGC institutional influence / association relationships (Codex handoff)
+For PR, association, public sector / industry park, academic/cultural, white-paper and owned awards/credential work, **before any outreach or issue execution** read:
+- [Association Relations, Research & Future Alliance Lane](pr/authority-engine/ASSOCIATION_ALLIANCE_RESEARCH_LANE.md) for factual routes, S1 real human contact / S2 scoped cooperation / S3 actually delivered co-creation, regional prioritisation and award/legal gates.
+- [Codex-ready daily lane issue #23](https://github.com/minyajing-rgb/ggc-global/issues/23) for the handoff and exact daily evidence/report acceptance criteria.
+- Existing PR/PIA graph, mail SEND-GATE, parent-group STOP/HOLD, original private ledger (when accessible) and the published-book/flagship-evidence rules above.
+
+Work toward durable institution-to-institution relationships, practitioner training, research and eventual owned professional community. A future private `Global Game Operations Alliance`, `GGC Operations Lab` or `WiGO` recognition award is **concept research only**, not legally launched or externally endorsed. Do not use government/association logos, titles, certifications, co-sponsor names or awards without genuine agreement and jurisdictional clearance.
+
+**Runtime truth:** the existing ChatGPT "PIA申请与PR持续推进" automation performs a daily scheduled PR review; adding this GitHub instruction/issue is a **Codex-readable queue, not Codex accepting, executing or running daily**. A future Codex run must explicitly open the repo/issue, establish a real connected execution/schedule, and report separately `HANDOFF_READ`, `EXECUTION_STARTED` and verified results. No duplicate automations or shadow CRM.
