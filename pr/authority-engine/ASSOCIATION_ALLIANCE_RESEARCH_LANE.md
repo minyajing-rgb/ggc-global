@@ -106,3 +106,10 @@ https://www.zyshgzb.gov.cn/n1/2026/0716/c459388-40762140.html
 
 ### Operations, title and source safeguards
 Not a government badge, university qualification, industry-wide accredited certification, or award of an official trade body. Use `privately organized, independently judged professional recognition` and exact issuer name. No claim of global authority or institutional endorsement until documented. A membership nameplate or honorary title on its own does not create award rights. Keep all personal correspondence and prospect identity in the existing private pipeline, not in GitHub.
+
+
+## 2026-11-03 Codex dispatch and scheduled-operation boundary
+- **Codex handoff issue:** https://github.com/minyajing-rgb/ggc-global/issues/23
+- This document and root `AGENTS.md` are discoverable instructions; publishing GitHub content **does not start an active Codex execution** or notify an unrelated Codex session.
+- Existing ChatGPT scheduled PR/PIA task is enabled daily 09:30 Asia/Hong_Kong and instructed to read this lane, reconcile actual replies and advance legal, fact-checked collaboration. Its execution is separate from Codex's own independent Automations in the Codex app.
+- To obtain separate Codex daily execution, open this repository + issue #23 in a configured Codex environment and set its own automation there. Until a real Codex scheduled run ID, task acceptance and source/run evidence exist, label only `CODEX_HANDOFF_READY`, **not** `CODEX_RUNNING_DAILY`. Do not create double outreach across two automated agents.
