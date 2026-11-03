@@ -1,5 +1,18 @@
 # GGC — Media Route and Format Feedback
 
+## 3 November 2026 — WiCX verified official shortlist; MCV corrects issue schedule
+
+| Existing organiser / media route | Evidence and proper classification | Decision / next step |
+|---|---|---|
+| **Women in CX 2026 (original PIA-001 organiser family)** | [Official 2026 finalists](https://womenincx.community/awards-finalists-2026) shows Joyce / GGC Games under **Responsible AI**, **Customer Insight & Intelligence**, and **Experience Design**; there are three matching 2 November 2026 organiser notices. **CONFIRMED_FINALIST_SHORTLIST** in these categories, **not winner**. The separate existing **Industry Impact** nomination has no corroborated shortlist entry. | **One organisation, three category shortlist results** (no new ID). One official awards-channel gratitude/verification reply successfully SENT/read back 3 Nov. Wait for 2 Dec result reported in received notices; no extra form, payment, appearance or publicity rights presumed. |
+| **MCV/DEVELOP — original PR graph row 22** | Editor's **2 Nov human note** explicitly corrects late-2026 speculative next-issue slot and restores **January 2027** print/digital article. This does not revoke original editorial interest or prove publication. Existing Word article and true portrait are on file. | **EDITOR_ISSUE_RESCHEDULE_HUMAN; January 2027; NOT PUBLISHED.** Gmail reply write and draft were unavailable during this run; no new SENT falsely credited, and no re-pitch needed. |
+| **白鲸/GTC Shanghai — original rows 50, 104–106** | One verified 1 Nov official award/speaker/matchmaking enquiry, still no new group reply; [official discount](https://www.baijing.cn/gtc2026/shanghai) ends **3 Nov 23:59 CST**, ordinary RMB29.9 / full RMB199. | **SAME-PARENT HOLD WHILE AWAITING HUMAN**; no unsolicited duplicate, nomination or paid ticket without Joyce confirming price/rights/attendance. |
+
+**Measured incremental: 1 newly verified SENT (WiCX reply); 0 new independent media first touches; 0 newly submitted CFP/award forms; 0 new matched PR hard bounces; 1 existing editor's schedule correction; 3 category shortlist confirmations at one existing award organiser; 0 publications, winners, or additional payments.** Original 130-row PR graph and 74 stable PIA IDs retain their historical parent/group crosswalk. Detailed correspondence IDs and personal contact routes are private-only.
+
+---
+
+
 ## 2 November 2026 — human rights refusal and Baijing group review (no new sends)
 
 | Original route / group | New first-party evidence | Outcome and suppression |
