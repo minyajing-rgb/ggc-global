@@ -61,3 +61,48 @@ Official source: https://policy.mofcom.gov.cn/claw/clawContent.shtml?id=106676
 - Quantum physics education (actual coursework): https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/
 
 These are public examples. No partnership/endorsement or active application is implied.
+
+
+## 2026-11-03 decision: 3-stage association relationship KPI (highest-priority operating criterion)
+**S1 — CONTACT:** named and verified institution, parent-group de-dup, relevant tailored first touch genuinely transmitted and read back; track `FIRST_TOUCH_SENT` separately from `HUMAN_ACK` and `HUMAN_SUBSTANTIVE_RESPONSE`. A generic receipt, process routing or automatic acknowledgment is never agreement.
+**S2 — RELATIONSHIP / COOPERATION:** identify a real human programme/editor/research owner and have a substantive two-way dialogue; qualify one specific mutual contribution (speaking, member workshop, case study, exchange, commissioned brief or seminar). Only mark `COLLAB_SCOPE_AGREED` once scope, roles and concrete next action/deliverable are acknowledged in writing; track meeting booked vs meeting held vs written agreement separately.
+**S3 — CO-CREATION / INDEPENDENT INFLUENCE:** actually produce a published report, partner event, research briefing, content feature or properly established independently judged recognition initiative. Require real accessible deliverable, factual credits, written branding/rights permissions and if applicable a confirmed agreement; do not claim endorsement, award status or accreditation without it.
+**Daily reporting dimensions:** net new unique institutions; first-touch SENT/read-back; human process replies; substantive replies; confirmed meeting bookings/held; scoped collaborations; jointly published artifacts; independent-award legal/partner/brand readiness. Parent-group STOP/HOLD and privacy apply through all stages. Advance both current and new objects without mechanical follow-up.
+
+### Known relationships to preserve without duplicate sending
+- WiCX: 2026 finalist notifications and founder/organiser appreciation/partnership inquiry already sent; do not send another cold pitch until substantive reply or a truly new material contribution.
+- Women in Games (UK): previously approached for 2027 programmes, acknowledged and routed to the appropriate team, and acknowledged back; speaker directory and individual ambassador forms already submitted; no confirmed programme invitation or collaboration yet. Its official 2026 ecosystem already includes MCV/DEVELOP Women in Games Awards (multiple categories), so a future GGC project must specialize in **global game operations, player/experience economics, international publishing and AI-native LiveOps**, not rebrand an established general women-in-games award.
+- IGDA: headquarters already has earlier contact. Its Women in Games+ SIG is real; do not approach another subgroup solely to bypass the existing institution hold; explore only fresh, legitimate programme fit when new value or an inbound route permits.
+Public evidence:
+https://www.womeningames.org/put-yourself-in-the-spotlight-mcv-develop-women-in-games-awards/
+https://igda.org/sigs/women-in-games-plus/
+https://www.womeningames.org/ambassadors/corporate/
+
+## Proposed private-award pilot — research only, not yet launched
+**Working positioning (subject to global trademark/name conflict check):** `GGC Women in Game Operations & Growth Awards (WiGO)` — practitioner evidence + visibility/mentorship for women and allies across cross-border game operations, global publishing and player experience. The existing international Women in Games award ecosystem means this must have a distinct operational specialization and editorial voice.
+
+**Candidate tracks (not approved/final categories):** Global Operator/Leader; Emerging Operator/Rising Star; Player Experience; AI-Native Operations; Cross-border Launch/Publishing; Industry Knowledge Impact; Ally; Mentorship & Inclusion. Do not claim a category, sponsor or judge exists before confirmation.
+
+**Pilot value exchange:** nomination free; offer a free achievement-articulation/evidence workshop and self-nomination guide; finalists can opt into interview, practical article, peer-learning community and anonymized case library. Require explicit permission to publish name, employer, image, metrics and work samples. Protect unreleased commercial records and confidential client data. No purchase or sponsorship grants a judging advantage; ideally judged categories have separate confidential evidence and publication-ready summary fields.
+
+**Scoring as a suggested starting point, not universal rule:** 60% category-relevant hard professional achievement / 40% career access, mentoring and inclusion contributions works for some seasoned leadership categories. Rising Star, Ally, community leadership and pure technical innovation need their *own published rubrics* and appropriate measurable evidence rather than compulsory DAU/LTV. Judge independence and conflicts of interest, scoring records, appeals/corrections, evidence audits, equal access, transparent sponsorship disclosures and award revocation must exist before taking applications.
+
+**Entity architecture to investigate:** An existing Hong Kong company may be an organizer for an independent, private-sector, *judged professional recognition* programme if its real company identity, terms, taxes, operating locations and competition-law requirements are satisfied. A proper Hong Kong society/association is a separate registration matter; an invented association cannot be held out as an independent official standards body. Independent HK company-hosted award is NOT an officially sanctioned HK government award. Written affiliation/support and permission to show a partner's trademark/logo is distinct from membership or individual networking. Treat cross-border participants and any physical event in Mainland China as a separate jurisdictional assessment, not automatic exemption via HK paperwork.
+
+**HK legal prelaunch checks** (official sources):
+1. Hong Kong Companies Registry – entity form and naming: https://www.cr.gov.hk/en/services/register-company.htm
+2. HK Police – separate society registration under Societies Ordinance, unless registered under another ordinance: https://www.police.gov.hk/ppp_en/13_faqs/faq_so.html
+3. HK Customs – Trade Descriptions Ordinance, avoid false/misleading accreditation, partner representation, and services: https://www.customs.gov.hk/en/service-enforcement-information/consumer-protection/trade-desc/unfair/index.html
+4. Privacy Commissioner – Personal Data (Privacy) Ordinance: nominatee contact/privacy notice, retention and separate marketing consent: https://www.pcpd.org.hk/english/data_privacy_law/ordinance_at_a_Glance/ordinance.html
+5. HK IP Department trademark checks before brand/logo deployment; company-name filing is not trademark authorization: https://www.ipd.gov.hk/en/trade-marks/faqs/trade-marks-ordinance/index.html
+6. HK Home Affairs licensing – if adding a lucky draw, random prize selection or chance component to promote business, evaluate Trade Promotion Competition Licence; a merit-based judged award should not quietly become a chance promotion: https://www.hadla.gov.hk/el/en/entertainment/faq.php
+
+**Mainland China legal boundary**:
+- 2026 `社会组织评比表彰活动管理办法` applies to registered Mainland social organisations' formal commendation/award projects (2026-08-01 effective). Approved project list and prohibitions include *not co-organizing those formal awards with for-profit organizations*, fee collection and unauthorized national/global naming in covered situations. Even a HK-company or foreign-branded event may need distinct PRC assessment when promoted, accepted or held in Mainland China; overseas incorporation is not a bypass. Do not represent a PRC association as a formal award co-host or sponsor unless the actual statutory and contractual route has been independently cleared.
+https://www.zyshgzb.gov.cn/n1/2026/0716/c459388-40762137.html
+https://www.zyshgzb.gov.cn/n1/2026/0716/c459388-40762140.html
+
+**Stage-gate output before launch:** 1-page award thesis and positioning competitor map; founding entity jurisdiction/brand legal check; official rules and each scoring rubric; neutral judges with signed conflicts/privacy provisions; nomination privacy+content IP consent; manual review of nominee results; disclosure-ready award website; independent legal review as needed; user approval for genuine public launch, fees, contracts and material commitments. First prefer a professional workshop + practitioner case library, then open nominations after the gate is met.
+
+### Operations, title and source safeguards
+Not a government badge, university qualification, industry-wide accredited certification, or award of an official trade body. Use `privately organized, independently judged professional recognition` and exact issuer name. No claim of global authority or institutional endorsement until documented. A membership nameplate or honorary title on its own does not create award rights. Keep all personal correspondence and prospect identity in the existing private pipeline, not in GitHub.
