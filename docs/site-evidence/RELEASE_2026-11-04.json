@@ -1,0 +1,101 @@
+{
+  "checked_at_utc": "2026-11-04T07:19:45.680556+00:00",
+  "results": [
+    {
+      "url": "https://ggcgames.com/zh/index.html",
+      "status": 200,
+      "matches_reviewed_bytes": true
+    },
+    {
+      "url": "https://ggcgames.com/zh/about.html",
+      "status": 200,
+      "matches_reviewed_bytes": true
+    },
+    {
+      "url": "https://ggcgames.com/zh/research-agent.html",
+      "status": 200,
+      "matches_reviewed_bytes": true
+    },
+    {
+      "url": "https://ggcgames.com/zh/method.html",
+      "status": 200,
+      "matches_reviewed_bytes": true
+    },
+    {
+      "url": "https://ggcgames.com/zh/decision-os.html",
+      "status": 200,
+      "matches_reviewed_bytes": true
+    },
+    {
+      "url": "https://ggcgames.com/zh/lab.html",
+      "status": 200,
+      "matches_reviewed_bytes": true
+    },
+    {
+      "url": "https://ggcgames.com/en/index.html",
+      "status": 200,
+      "matches_reviewed_bytes": true
+    },
+    {
+      "url": "https://ggcgames.com/en/about.html",
+      "status": 200,
+      "matches_reviewed_bytes": true
+    },
+    {
+      "url": "https://ggcgames.com/en/research-agent.html",
+      "status": 200,
+      "matches_reviewed_bytes": true
+    },
+    {
+      "url": "https://ggcgames.com/en/method.html",
+      "status": 200,
+      "matches_reviewed_bytes": true
+    },
+    {
+      "url": "https://ggcgames.com/en/decision-os.html",
+      "status": 200,
+      "matches_reviewed_bytes": true
+    },
+    {
+      "url": "https://ggcgames.com/en/lab.html",
+      "status": 200,
+      "matches_reviewed_bytes": true
+    },
+    {
+      "url": "https://biz.ggcgames.com/",
+      "status": 200,
+      "matches_reviewed_bytes": true
+    },
+    {
+      "url": "https://biz.ggcgames.com/joyce/",
+      "status": 200,
+      "matches_reviewed_bytes": true
+    }
+  ],
+  "all_match": true,
+  "source_commits": {
+    "biz": "6587e2d54e29e714dcb32e916a7704249d6ed034",
+    "corporate": "9b81077c8d9a0bc78966313a8357762381ae053c"
+  },
+  "deployment_run": "https://github.com/minyajing-rgb/ggc-corporate-site/actions/runs/41791219291",
+  "browser": {
+    "responsive_layout_cases": 64,
+    "widths": [
+      320,
+      390,
+      768,
+      1440
+    ],
+    "horizontal_overflow_failures": 0,
+    "native_details_exercised": 39,
+    "locales": [
+      "en",
+      "zh"
+    ],
+    "language_switch": "observed",
+    "existing_S03_dialog": "observed",
+    "live_corporate_Wuxia_expansion": "observed",
+    "visual_review": "representative desktop/mobile screenshots inspected; not physical-device QA",
+    "limits": "Canonical check-evidence-v2 script not present in this checkout; no claim of exhaustive screenshot review of every matrix cell."
+  }
+}
