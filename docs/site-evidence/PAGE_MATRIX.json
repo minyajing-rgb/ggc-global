@@ -1,0 +1,352 @@
+{
+  "version": "2026-11-04",
+  "routes": [
+    {
+      "site": "biz",
+      "route": "/",
+      "locale": "zh",
+      "viewports": [
+        320,
+        390,
+        768,
+        1440
+      ],
+      "states": [
+        "default",
+        "details-open"
+      ],
+      "requirements": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "R5"
+      ]
+    },
+    {
+      "site": "biz",
+      "route": "/",
+      "locale": "en",
+      "viewports": [
+        320,
+        390,
+        768,
+        1440
+      ],
+      "states": [
+        "default",
+        "details-open"
+      ],
+      "requirements": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "R5"
+      ]
+    },
+    {
+      "site": "biz",
+      "route": "/joyce/",
+      "locale": "zh",
+      "viewports": [
+        320,
+        390,
+        768,
+        1440
+      ],
+      "states": [
+        "default",
+        "details-open"
+      ],
+      "requirements": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "R5"
+      ]
+    },
+    {
+      "site": "biz",
+      "route": "/joyce/",
+      "locale": "en",
+      "viewports": [
+        320,
+        390,
+        768,
+        1440
+      ],
+      "states": [
+        "default",
+        "details-open"
+      ],
+      "requirements": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "R5"
+      ]
+    },
+    {
+      "site": "corporate",
+      "route": "/zh/index.html",
+      "locale": "zh",
+      "viewports": [
+        320,
+        390,
+        768,
+        1440
+      ],
+      "states": [
+        "default",
+        "details-open"
+      ],
+      "requirements": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "R5"
+      ]
+    },
+    {
+      "site": "corporate",
+      "route": "/zh/about.html",
+      "locale": "zh",
+      "viewports": [
+        320,
+        390,
+        768,
+        1440
+      ],
+      "states": [
+        "default",
+        "details-open"
+      ],
+      "requirements": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "R5"
+      ]
+    },
+    {
+      "site": "corporate",
+      "route": "/zh/method.html",
+      "locale": "zh",
+      "viewports": [
+        320,
+        390,
+        768,
+        1440
+      ],
+      "states": [
+        "default"
+      ],
+      "requirements": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "R5"
+      ]
+    },
+    {
+      "site": "corporate",
+      "route": "/zh/research-agent.html",
+      "locale": "zh",
+      "viewports": [
+        320,
+        390,
+        768,
+        1440
+      ],
+      "states": [
+        "default",
+        "details-open"
+      ],
+      "requirements": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "R5"
+      ]
+    },
+    {
+      "site": "corporate",
+      "route": "/zh/decision-os.html",
+      "locale": "zh",
+      "viewports": [
+        320,
+        390,
+        768,
+        1440
+      ],
+      "states": [
+        "default"
+      ],
+      "requirements": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "R5"
+      ]
+    },
+    {
+      "site": "corporate",
+      "route": "/zh/lab.html",
+      "locale": "zh",
+      "viewports": [
+        320,
+        390,
+        768,
+        1440
+      ],
+      "states": [
+        "default"
+      ],
+      "requirements": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "R5"
+      ]
+    },
+    {
+      "site": "corporate",
+      "route": "/en/index.html",
+      "locale": "en",
+      "viewports": [
+        320,
+        390,
+        768,
+        1440
+      ],
+      "states": [
+        "default",
+        "details-open"
+      ],
+      "requirements": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "R5"
+      ]
+    },
+    {
+      "site": "corporate",
+      "route": "/en/about.html",
+      "locale": "en",
+      "viewports": [
+        320,
+        390,
+        768,
+        1440
+      ],
+      "states": [
+        "default",
+        "details-open"
+      ],
+      "requirements": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "R5"
+      ]
+    },
+    {
+      "site": "corporate",
+      "route": "/en/method.html",
+      "locale": "en",
+      "viewports": [
+        320,
+        390,
+        768,
+        1440
+      ],
+      "states": [
+        "default"
+      ],
+      "requirements": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "R5"
+      ]
+    },
+    {
+      "site": "corporate",
+      "route": "/en/research-agent.html",
+      "locale": "en",
+      "viewports": [
+        320,
+        390,
+        768,
+        1440
+      ],
+      "states": [
+        "default",
+        "details-open"
+      ],
+      "requirements": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "R5"
+      ]
+    },
+    {
+      "site": "corporate",
+      "route": "/en/decision-os.html",
+      "locale": "en",
+      "viewports": [
+        320,
+        390,
+        768,
+        1440
+      ],
+      "states": [
+        "default"
+      ],
+      "requirements": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "R5"
+      ]
+    },
+    {
+      "site": "corporate",
+      "route": "/en/lab.html",
+      "locale": "en",
+      "viewports": [
+        320,
+        390,
+        768,
+        1440
+      ],
+      "states": [
+        "default"
+      ],
+      "requirements": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "R5"
+      ]
+    }
+  ],
+  "regression": "All other corporate routes byte-compared to baseline; original biz interactions preserved and checked."
+}

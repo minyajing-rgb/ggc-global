@@ -40,6 +40,9 @@ def main():
         # Adds truthful machine-readable facts only for explicitly released pages.
         # Preserves the accepted 96-page body content and all preview noindex rules.
         emit_public_facts(candidate, args.mode)
+        sys.path.insert(0, str(repo / "docs/site-evidence"))
+        from public_content import apply_corporate
+        apply_corporate(candidate)
         shutil.copytree(candidate, out, dirs_exist_ok=True)
     print(f'P0 artifact: {out}; mode={args.mode}; canonical={canonical}; not deployed')
 

@@ -1,0 +1,9 @@
+# Inputs inspected · 2026-11-04
+Scope: enrich existing public content at ggcgames.com and biz.ggcgames.com, user explicitly requests both live updates.
+1. PRD: corporate/fullsite-v4/PRD.md and USER_FLOWS.md on PR11 head 85159ed; current user delta takes priority. INSPECTED.
+2. UI: actual corporate desktop live pixels inspected in cloud browser; existing responsive CSS and approved source remain references. Biz desktop/mobile visual reference inspection pending browser capture. No new imagery or redesign.
+3. Flows: home→cases→expanded case; home→AI→review→simulation; home→method→contact. Locale switching, deep links, keyboard summary, back/refresh required. Existing form/payment behavior protected.
+4. Architecture: corporate source PR11→build_ready.py→ggc-corporate-site workflow→Pages; biz main generated index/joyce pages→existing Pages. Shared public Python renderer, static HTML and scoped CSS; no API/storage/auth changes.
+5. Page matrix: PAGE_MATRIX.json covers each changed route/locale/view, details closed/open, navigation, locale persistence and regression checks. Other routes preserved by exact artifact comparison.
+Sources inspected: flagship masters v5/v7 (2026-10-12); Joyce Method 35p (2026-10-07); Method four-page visual (2026-10-23), rendered all four pages; AI practice eight-page review (2026-10-21), rendered all eight; v10 (2026-10-22), source ledger and pages20–23 rendered; uploaded business PDFs text; uploaded 29p is image-only; Keynote package inventory inspected. Public facts draw from precise masters and inspected latest practice.
+Claim decisions: no ambiguous net-profit inference; no unnamed client identification; no forecast presented as actuals; no SparkPro; no private economics. Wuxia gross bookings, platform 10x and CityVille7pp remain separately scoped.
