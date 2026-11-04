@@ -1,0 +1,25 @@
+{
+  "checks": {
+    "corporate_pages": true,
+    "unchanged_pages_byte_identical": true,
+    "approved_assets_byte_identical": true,
+    "original_release_contract": true,
+    "same_renderer": true,
+    "zh_8cases": true,
+    "zh_5practices": true,
+    "zh_12principles": true,
+    "en_8cases": true,
+    "en_5practices": true,
+    "en_12principles": true,
+    "index.html_unique_ids": true,
+    "index.html_8cases": true,
+    "index.html_5practices": true,
+    "index.html_original_content_unchanged": true,
+    "joyce/index.html_unique_ids": true,
+    "joyce/index.html_8cases": true,
+    "joyce/index.html_5practices": true,
+    "joyce/index.html_original_content_unchanged": true
+  },
+  "errors": [],
+  "passed": true
+}

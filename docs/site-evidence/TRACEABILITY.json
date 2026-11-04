@@ -1,0 +1,27 @@
+{
+  "R1": [
+    "case-library",
+    "8 case details",
+    "static semantic + browser toggle"
+  ],
+  "R2": [
+    "ai-practice",
+    "5 cases / 9 categories / 7 gates",
+    "semantic + locale + pixels"
+  ],
+  "R3": [
+    "joyce-method",
+    "7 modules /12 principles",
+    "semantic + pixels"
+  ],
+  "R4": [
+    "homepage links",
+    "deep links",
+    "browser clicks"
+  ],
+  "R5": [
+    "all changed routes",
+    "320/390/768/1440",
+    "layout + locale screenshots"
+  ]
+}
