@@ -14,6 +14,8 @@ A prior **MCV/DEVELOP** January 2027 schedule acknowledgement was found **actual
 
 **Measured 4 Nov incremental KPI:** new unique organisation first touches **0**, new official organisation route with verified programme **1 (phone-only)**, new Gmail SENT/readback **0**, new CFP/award form submissions **0**, newly discovered substantive human programme reply **1**, newly discovered human process-routing response **1 (not S1 success)**, new relevant hard PR bounces **0**, meetings confirmed **0**, written cooperation scopes **0**, jointly issued assets **0**, articles newly published **0**, winners/new stages **0**, payments **0**. One attempted reply was **not** sent.
 
+**Historical hard-bounce reconciliation (4 Nov):** a 31 Oct institution-facing programme enquiry has a final **3 Nov** mail-delivery failure after two transient delays; the destination's MX lookup returned `SERVFAIL`. This is **one earlier-date PR/institutional hard bounce found during this run**, not a fresh 4 Nov SEND or bounce. The failed mailbox stays suppressed; no retry or alternate-contact bypass. Original recipient, message/thread IDs and headers remain private.
+
 **Inventory and continuation:** existing 130 PR graph rows (128 original seeds + 2 commercial lanes) and 74 unique PIA IDs checked and preserved; prior 48-PIA-to-42-PR row crosswalk is not additive. **62 PR rows remain RESEARCH_ROUTE, 29 PIA records remain RESEARCH_OR_NEXT_WINDOW**, neither is a send-ready count. Primary route/parent status cursor examined rows 19–42 at inventory level (not all independently reverified via official sites); next from **row 43**. PIA deadline/approval checks continue from **PIA-003**. No extra task, competing CRM or public contact identifiers created.
 
 ---
