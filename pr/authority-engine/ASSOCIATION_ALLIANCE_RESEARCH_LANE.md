@@ -113,3 +113,37 @@ Not a government badge, university qualification, industry-wide accredited certi
 - This document and root `AGENTS.md` are discoverable instructions; publishing GitHub content **does not start an active Codex execution** or notify an unrelated Codex session.
 - Existing ChatGPT scheduled PR/PIA task is enabled daily 09:30 Asia/Hong_Kong and instructed to read this lane, reconcile actual replies and advance legal, fact-checked collaboration. Its execution is separate from Codex's own independent Automations in the Codex app.
 - To obtain separate Codex daily execution, open this repository + issue #23 in a configured Codex environment and set its own automation there. Until a real Codex scheduled run ID, task acceptance and source/run evidence exist, label only `CODEX_HANDOFF_READY`, **not** `CODEX_RUNNING_DAILY`. Do not create double outreach across two automated agents.
+
+## 2026-11-04 sourced practitioner brief — China ↔ Global Games Operating Brief (research asset, NOT partner deliverable)
+
+**Editorial status:** First evidence/source map and reusable practitioner outline. Produced by GGC alone; no association editorial approval, joint publication, scheduled talk or sponsor has been established. This is an evidence-bound *decision framework*, not a 2026 market-size report or an independent statistic of industry performance.
+
+### Proposed one-page field note: Validate before scaling a game across markets
+
+A promising local demo, a high-click creative test and a live game with durable economics answer **different questions**. Before a cross-market scale decision, a team should record five separate stage-gates:
+
+| Gate | Decision question | Minimum defensible evidence | Do not conclude |
+|---|---|---|---|
+| Concept / creative | Does the proposition resonate with a defined audience? | Test placement, target group, creatives, attribution and confidence limits | High CTR alone proves retention or revenue. |
+| Early product | Can target users understand and repeat the core loop? | Instrumented behavioural paths, onboarding/first-session abandonment, cohorts | A polished prototype is launch-ready. |
+| Product economy | Can content, currency and purchase incentives sustain a fair loop? | Balance hypotheses, sink/source measurements, test ranges and policy boundaries | Monetisation experiments guarantee LTV. |
+| Regional launch | Are cultural expression, legal/platform requirements, support and payments ready? | Locale/content review, privacy/platform checklist, local feedback and accountable owner | Translation alone makes a game local-market-ready. |
+| Bounded scale / stop | Which next tranche of spend or production is justified? | Named decision owner, pre-specified retention/economy/UA evidence thresholds, test budget, review date | AI analysis transfers commercial decision liability to a model. |
+
+**Evidence rule:** All figures and results in a partner case must be source-attributed and used with permission; no invented audience counts, partner economics, unpublished games or false causal benchmarks. The five gates are Joyce/GGC's proposed operating framework, not government or association standards.
+
+### Three potential opt-in exchanges; no programmes booked
+
+1. **Mainland game industry learning / regional programmes:** a 20-minute operator case talk plus a two-page, non-confidential stage-gate checklist for small/mid-sized studios exploring international publishing. Exact programme and organiser must opt in before scheduling; no claim of official training approval.
+2. **China–UK game-industry content:** a short bilingual practitioner note comparing evidence quality for creative validation versus retention, product economy and ongoing LiveOps. Treat any future official programme as an invitation-dependent content window, not a currently accepted contribution.
+3. **AI / cultural interactive-content institutes:** a moderated workshop on AI-assisted interactive creation, original-IP use and human review. Deliverable is a worked rubric for verifying interactive content quality; no claim of scientific efficacy for cultural or consciousness practices.
+
+### Source map and current gates (all verified 4 Nov 2026)
+
+- [Shenzhen Nanshan district report on game + AI industry briefing](https://www.szns.gov.cn/xxgk/qzfxxgkml/bmdt/content/post_12642626.html) (11 Feb 2026): example of a practitioner/education workshop format, **not** evidence of any GGC invitation.
+- [Wuhan Software Industry Association AIGC + agent-training notice](https://www.whsia.org.cn/index.php/InfoCenter/detail/cname/tzgg/id/5849.html) (30 Oct 2026): 6–9 Nov 2026 training with a published *telephone* enquiry and programme materials. No verified written partnership/guest-speaker intake; do not treat a training-registration form as invitation or paid cooperation.
+- [Hong Kong Digital Entertainment Summit 2026 / HKTDC](https://eexpohk.hktdc.com/en/des.htm): documented industry event format, not a 2027 CFP or a new cold-send authorisation. Related association has pre-existing historical outreach and must remain group-HOLD pending substantive reply.
+- [Mainland 2026 social-organisation commendation rule, 民发〔2026〕31号](https://www.hbshgzb.gov.cn/2026-07/17/content_9536865.htm) (effective 1 Aug 2026): prohibits unapproved formal awards and regulated social associations' co-operation with commercial firms to run such awards. This is **not** a legal opinion on a HK company running an international private-sector judged programme; cross-border counsel and fact-specific classification remain mandatory.
+- [HK Intellectual Property Department's official trademark register search](https://esearch.ipd.gov.hk/nis-pos-view/): the official search facility is identified, **but a full class/name/confusability clearance for WiGO has NOT been conducted**. Entity, privacy, names/logo, independent judges, scoring rules, appeals, publicity and cross-border award-law approvals are all unmet.
+
+**Relation KPI and handoff:** Genuine human owner response is S1; any email-only process routing is a separate class. A pending future content programme is not S2. These potential briefs are original GGC draft assets, not S3 co-created institutional reports. Keep any exact private source correspondence and ids out of this public document.
