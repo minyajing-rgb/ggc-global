@@ -1,5 +1,17 @@
 # GGC — Media Route and Format Feedback
 
+## 5 November 2026 — qualified game-AI investment source tip from existing PR graph
+
+| Existing graph route / group | Verified format and date-specific evidence | Disposition |
+|---|---|---|
+| **DealStreetAsia / PR graph row 44** | [Official editorial contact](https://www.dealstreetasia.com/contact-us/) separates **story pitches and funding news** from events/sponsorship. A qualified **reported-story source tip** was tailored to the newsroom's [2 Sep 2026 game-AI/3D financing coverage](https://www.dealstreetasia.com/stories/tripo-ai-series-b-rounds-493956) and [21 Oct 2026 Southeast-Asian AI investment coverage](https://www.dealstreetasia.com/stories/se-asia-digital-economy-2035-498691). The offer addresses whether production acceleration is supported by real player/economic evidence, while separating AI process metrics from unproven revenue outcomes. | **SENT_2026-11-05_VERIFIED**, full original Gmail message read back and saved only privately. **No human reply / editorial interest / commission / interview / publication yet.** Do not convert this into paid/sponsored content or send a second similar pitch. |
+| **Nikkei Asia / same controlling media family** | Previously unapproached sibling in the original graph. The group has [historical Nikkei acquisition evidence](https://www.dealstreetasia.com/about-us/) and the current editorial route above; original mailbox dedupe performed. | **PARENT_HOLD** while DealStreetAsia awaits actual response. No substitute contact in the sister title. |
+| **Institutional expertise / research learning contacts outside the 130-row media graph** | An official information desk's public reading and free-course list is helpful research orientation but not a committed academic collaborator or named programme owner; a separate, previously contacted regional department manager already requested a phone handoff. | **INFORMATION_ROUTE_ONLY** vs **HISTORICAL_HUMAN_MANAGER_CONTACT**; neither counts as this run's positive editorial reply or an institutional S2/S3 agreement. |
+
+**This day's measured media/association net:** 1 verified editorial-source first-touch SENT/readback; 0 new official applications, editorial responses/acceptances, confirmed publications, S2 collaborations or S3 joint deliverables. One UK association acknowledgment failed Gmail write and has no SENT evidence. Only nonprivate route facts are recorded here; original addresses, message IDs, private negotiations and outreach content are in the established private ledger.
+
+---
+
 ## 3 November 2026 — WiCX verified official shortlist; MCV corrects issue schedule
 
 | Existing organiser / media route | Evidence and proper classification | Decision / next step |
