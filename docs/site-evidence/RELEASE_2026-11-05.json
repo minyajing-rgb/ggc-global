@@ -1,0 +1,95 @@
+{
+  "checked_at_utc": "2026-11-05T05:05:33.824855+00:00",
+  "results": [
+    {
+      "url": "https://ggcgames.com/zh/index.html",
+      "status": 200,
+      "matches_reviewed_bytes": true,
+      "new_marker": true
+    },
+    {
+      "url": "https://ggcgames.com/zh/about.html",
+      "status": 200,
+      "matches_reviewed_bytes": true,
+      "new_marker": true
+    },
+    {
+      "url": "https://ggcgames.com/zh/research-agent.html",
+      "status": 200,
+      "matches_reviewed_bytes": true,
+      "new_marker": true
+    },
+    {
+      "url": "https://ggcgames.com/zh/method.html",
+      "status": 200,
+      "matches_reviewed_bytes": true,
+      "new_marker": true
+    },
+    {
+      "url": "https://ggcgames.com/zh/decision-os.html",
+      "status": 200,
+      "matches_reviewed_bytes": true,
+      "new_marker": true
+    },
+    {
+      "url": "https://ggcgames.com/zh/lab.html",
+      "status": 200,
+      "matches_reviewed_bytes": true,
+      "new_marker": true
+    },
+    {
+      "url": "https://ggcgames.com/en/index.html",
+      "status": 200,
+      "matches_reviewed_bytes": true,
+      "new_marker": true
+    },
+    {
+      "url": "https://ggcgames.com/en/about.html",
+      "status": 200,
+      "matches_reviewed_bytes": true,
+      "new_marker": true
+    },
+    {
+      "url": "https://ggcgames.com/en/research-agent.html",
+      "status": 200,
+      "matches_reviewed_bytes": true,
+      "new_marker": true
+    },
+    {
+      "url": "https://ggcgames.com/en/method.html",
+      "status": 200,
+      "matches_reviewed_bytes": true,
+      "new_marker": true
+    },
+    {
+      "url": "https://ggcgames.com/en/decision-os.html",
+      "status": 200,
+      "matches_reviewed_bytes": true,
+      "new_marker": true
+    },
+    {
+      "url": "https://ggcgames.com/en/lab.html",
+      "status": 200,
+      "matches_reviewed_bytes": true,
+      "new_marker": true
+    },
+    {
+      "url": "https://biz.ggcgames.com/",
+      "status": 200,
+      "matches_reviewed_bytes": true,
+      "new_marker": true
+    },
+    {
+      "url": "https://biz.ggcgames.com/joyce/",
+      "status": 200,
+      "matches_reviewed_bytes": true,
+      "new_marker": true
+    }
+  ],
+  "all_match": true,
+  "corporate_deployment_run": "https://github.com/minyajing-rgb/ggc-corporate-site/actions/runs/41971706331",
+  "source_commits": {
+    "biz": "c9382b8df9a35b7d05234a8ee2ebf45438e3edd3",
+    "corporate": "ff0b3baeb4adc57080762e334c376dc54ec157e1"
+  }
+}
