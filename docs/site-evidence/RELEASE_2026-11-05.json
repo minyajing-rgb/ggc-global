@@ -91,5 +91,15 @@
   "source_commits": {
     "biz": "c9382b8df9a35b7d05234a8ee2ebf45438e3edd3",
     "corporate": "ff0b3baeb4adc57080762e334c376dc54ec157e1"
+  },
+  "logo_assets": {
+    "checked": 58,
+    "all_match": true
+  },
+  "live_browser": {
+    "corporate_and_biz_opened": true,
+    "mobile390_overflow": false,
+    "USD_unit_cost_readback": true,
+    "native_detail_opened": true
   }
 }
