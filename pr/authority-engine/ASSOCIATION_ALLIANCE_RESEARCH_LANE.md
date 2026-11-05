@@ -147,3 +147,23 @@ A promising local demo, a high-click creative test and a live game with durable 
 - [HK Intellectual Property Department's official trademark register search](https://esearch.ipd.gov.hk/nis-pos-view/): the official search facility is identified, **but a full class/name/confusability clearance for WiGO has NOT been conducted**. Entity, privacy, names/logo, independent judges, scoring rules, appeals, publicity and cross-border award-law approvals are all unmet.
 
 **Relation KPI and handoff:** Genuine human owner response is S1; any email-only process routing is a separate class. A pending future content programme is not S2. These potential briefs are original GGC draft assets, not S3 co-created institutional reports. Keep any exact private source correspondence and ids out of this public document.
+
+
+## 2026-11-05 evidence-ladder note — Consciousness × Quantum Physics (independent learning, not institutional endorsement)
+
+**Output scope:** A source-vetted educational research outline supporting future books/briefings and careful conversations with scholarly organisations. This is **not** a coauthored study, credential, scientifically established psi phenomenon, speaker booking or research partnership.
+
+| Knowledge lane | Public primary resource checked 5 Nov 2026 | What it supports | What it does **not** establish |
+|---|---|---|---|
+| Public introduction to noetic claims and practices | [IONS Noetics 101](https://elearning.noetic.org/courses/noetics-101) (lists a free introductory course, 34 lessons) | What IONS teaches, key terminology and its institutional framing | Academic accreditation, independent replication or validation of the claims taught |
+| Consciousness-related experimental programme | [IONS Science](https://noetic.org/science/) and [publications](https://noetic.org/science/publications/) | Research questions and original study links to screen individually | That every described effect or proposed mechanism is accepted by scientific consensus |
+| Conventional quantum mechanics | [MIT OpenCourseWare 8.04](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/) | Core quantum formalism, experimental foundations, wave mechanics, Schrödinger equation and problem sets | Direct evidence for divination, paranormal abilities, the afterlife or consciousness influencing physical reality |
+| Classical Chinese sources | Identify edition, original Chinese passage, translation and academic historical commentary **before quoting** | Source-critical philosophy, language, transmission and comparative interpretation | Laboratory confirmation of metaphysical, cosmological or health-effect claims |
+
+**Minimum assessment schema for every research item:** claim in testable terms; original author and publication date; primary record or dataset; study design and sample; appropriate control/blinding/randomisation; pre-registration if applicable; alternative explanations; independent replications and null results; conflicts/funding; whether conclusions exceed the measurements. Grade statements as `documented historical interpretation`, `subjective report`, `preliminary hypothesis`, `peer-reviewed study` or `independently replicated finding`; these are *not* equivalent levels.
+
+**Possible future opt-in deliverable:** a public two-page bilingual guide, “Reading Claims about Consciousness, Nature and Reality: Sources Before Certainty,” comprising (1) classical primary-text quotation with edition metadata, (2) the distinction between subjective experience and empirical inference, (3) a reproducibility checklist, and (4) clearly separate optional physics study links. The draft may be developed independently, but no organisation is a coauthor or partner without a real named owner, review, scope agreement and rights permission.
+
+**Cost boundary:** The free introductory Noetics 101 course is available without paying for membership. Optional paid memberships and other programmes must be checked and approved separately; a list of books is not an invoice or a commitment.
+
+**Institutional de-duplication lesson:** A media or research organisation's generic information-desk resource response is valuable orientation, but it is not contact success with an actual research/programme owner (S1), let alone scoped cooperation (S2) or jointly released output (S3). Preserve exact correspondence only in the private ledger.
