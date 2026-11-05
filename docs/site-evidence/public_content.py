@@ -1,8 +1,8 @@
 """Public, bilingual case library. Evidence-scoped content, shared by both GGC sites."""
 from html import escape as e
 from pathlib import Path
-import re
-VERSION='2026-11-04-cases-ai-method-v1'
+import re,shutil
+VERSION='2026-11-05-bp-kpi-v2'
 # Each pair is Chinese / English. No client identities or private operating data.
 CASES=[
 ('zynga-social','ZYNGA · SOCIAL / SIMS','2010–2012',
@@ -91,7 +91,7 @@ def section(id,kicker,title,intro,body,loc):
     t=lambda z,en:text((z,en),loc)
     return f'<section class="ggc-proof section" id="{id}" data-proof-version="{VERSION}"><div class="proof-wrap"><header class="proof-heading"><p class="proof-kicker">{e(kicker)}</p><h2>{text(title,loc)}</h2><p>{text(intro,loc)}</p></header>{body}</div></section>'
 
-def cases(loc=None,compact=False):
+def career_cases(loc=None,compact=False):
     t=lambda z,en:text((z,en),loc)
     cards=''
     chosen=CASES[:4] if compact else CASES
@@ -102,11 +102,11 @@ def cases(loc=None,compact=False):
     body=('<p class="proof-next"><a href="#ai-practice">'+t('AI实践复盘','AI practice')+'</a> · <a href="#joyce-method">Joyce Method</a></p>' if loc is None else '')+'<div class="proof-grid">'+cards+'</div>'
     if compact:body+='<p class="proof-next"><a href="about.html#case-library">'+t('查看全部8组案例与经营方法 →','Explore all 8 operating cases →')+'</a></p>'
     body+='<p class="proof-note">'+t('案例依据Joyce本人职业记录与已整理项目资料。历史成果按项目分别计量；客户案例已脱敏，过往雇主不代表现有合作或背书。','Based on Joyce’s first-party career and project records. Historical results are scoped by project; client cases are anonymized, and former employers do not imply current endorsement.')+'</p>'
-    return section('case-library','SELECTED OPERATING CASES',('救产品、造旗舰，把经验变成体系。','Turn products into flagships. Turn experience into systems.'),('从全球旗舰产品，到研发公司、发行体系与AI验证：看清每次经营判断如何落地。','From global titles to company-building, publishing systems and AI validation: how operating decisions became action.'),body,loc)
+    return section('career-library','SELECTED OPERATING CASES',('救产品、造旗舰，把经验变成体系。','Turn products into flagships. Turn experience into systems.'),('从全球旗舰产品，到研发公司、发行体系与AI验证：看清每次经营判断如何落地。','From global titles to company-building, publishing systems and AI validation: how operating decisions became action.'),body,loc)
 
 def ai(loc=None,compact=False):
     t=lambda z,en:text((z,en),loc)
-    body='<div class="proof-timeline">'+''.join('<div><b>'+d+'</b><span>'+t(z,en)+'</span></div>' for d,z,en in TIMELINE)+'</div>'
+    body=ai_results(loc)+'<div class="proof-timeline">'+''.join('<div><b>'+d+'</b><span>'+t(z,en)+'</span></div>' for d,z,en in TIMELINE)+'</div>'
     if compact:
         body+='<div class="proof-grid">'+''.join('<article class="proof-case"><p class="proof-tag">AI PRACTICE / '+str(i+1).zfill(2)+'</p><h3>'+text(c[1],loc)+'</h3><p>'+text(c[2],loc)+'</p></article>' for i,c in enumerate(AI_CASES[:3]))+'</div><p class="proof-next"><a href="research-agent.html#ai-practice">'+t('阅读5个实践复盘、9类尝试与7大决策门槛 →','Read 5 case reviews, 9 experiment categories and 7 decision gates →')+'</a></p>'
     else:
@@ -154,6 +154,7 @@ def inject(html,body,css_href,anchor=None):
 
 def apply_biz(root):
     root=Path(root)
+    shutil.copytree(Path(__file__).parent/'logos',root/'joyce/assets/bp-logos',dirs_exist_ok=True)
     for rel in ['index.html','joyce/index.html']:
         p=root/rel;h=p.read_text();h=inject(h,cases()+ai()+method(),'/joyce/assets/operating-proof.css','<section class="section sectors" id="sectors">')
         anchor='<a href="#about">'
@@ -163,7 +164,8 @@ def apply_biz(root):
     (root/'joyce/assets/operating-proof.css').write_text(CSS)
 
 def apply_corporate(site):
-    site=Path(site);(site/'assets/operating-proof.css').write_text(CSS.replace('--proof-accent:#77508b','--proof-accent:#6940ae'))
+    site=Path(site);shutil.copytree(Path(__file__).parent/'logos',site/'assets/bp-logos',dirs_exist_ok=True)
+    (site/'assets/operating-proof.css').write_text(CSS.replace('--proof-accent:#77508b','--proof-accent:#6940ae'))
     for loc in ['zh','en']:
         routes={'index':cases(loc,True)+ai(loc,True)+method(loc,True),'about':cases(loc),'research-agent':ai(loc),'method':method(loc),'decision-os':ai(loc,True),'lab':ai(loc,True)}
         for route,content in routes.items():
@@ -183,3 +185,8 @@ def apply_corporate(site):
         p=site/loc/'index.html';h=p.read_text();nav='<nav class="proof-entry" aria-label="'+('案例与方法' if loc=='zh' else 'Cases and methods')+'"><a href="#case-library">'+text(('经营案例','Operating cases'),loc)+'</a><a href="#ai-practice">'+text(('AI实践复盘','AI practice'),loc)+'</a><a href="method.html#joyce-method">Joyce Method</a></nav>'
         h=re.sub(r'(<main\b[^>]*>)',lambda m:m[1]+nav,h,count=1);p.write_text(h)
     with (site/'assets/operating-proof.css').open('a') as f:f.write('.proof-entry{display:flex;justify-content:center;flex-wrap:wrap;gap:12px 26px;padding:16px 20px;background:#fff;border-bottom:1px solid #eee7f5;font-size:14px;font-weight:700}.proof-entry a{color:#6940ae;text-decoration:underline;text-underline-offset:4px}')
+
+from kpi_content import result_cases, ai_results, logos, CSS as KPI_CSS
+CSS+=KPI_CSS
+def cases(loc=None,compact=False):
+    return result_cases(loc,compact,section)+career_cases(loc,compact)+logos(loc,section)

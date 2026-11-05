@@ -1,0 +1,24 @@
+{
+  "responsive_iframe_checks": 64,
+  "widths": [
+    320,
+    390,
+    768,
+    1440
+  ],
+  "overflow_failures": 0,
+  "corporate_DOM_routes": 12,
+  "case_detail_click_keyboard_assertions": 28,
+  "all_passed": true,
+  "visual_inspection": [
+    "corporate desktop KPI",
+    "corporate desktop client logos",
+    "corporate390 KPI",
+    "biz390 KPI",
+    "biz desktop USD unit-cost"
+  ],
+  "limits": [
+    "iframe viewport QA, not physical devices",
+    "canonical check-evidence-v2 script absent as in previous release; no claim of exhaustive pixel comparisons for every route/state"
+  ]
+}
