@@ -85,6 +85,14 @@ with sync_playwright() as p:
  checks['chinese_interface']='我需要评审产品' in page.locator('.start-card[data-detail="S03"]').inner_text()
  checks['chinese_summary']='AI工作流试点' in page.locator('#selection-name').inner_text()
  checks['chinese_draft']='合作服务' in page.locator('#brief').inner_text()
+ page.locator('.annual-cta a[href="#contact"]').click()
+ checks['annual_cta_selects_s12']=page.locator('#service-select').input_value()=='S12' and '年框' in page.locator('#selection-name').inner_text()
+ checks['annual_cta_fee']='1,280,000' in page.locator('#selection-fee').inner_text()
+ checks['annual_cta_clears_old_draft']=not page.locator('#brief-result').is_visible()
+ page.locator('.annual-cta a[href="#contact"]').click()
+ checks['annual_cta_repeat']=page.locator('#service-select').input_value()=='S12'
+ page.locator('#service-select').select_option('S03')
+ checks['annual_cta_manual_override']=page.locator('#service-select').input_value()=='S03' and '产品' in page.locator('#selection-name').inner_text()
  page.locator('[data-filter="all"]').click();page.locator('[data-currency="cny"]').click();page.locator('[data-lang="en"]').click()
  checks['canonical_prices']=all(int(r['CNY_base'])==int(page.locator('[data-price="'+r['ID']+'"]').inner_text().replace('CNY ','').replace(',','')) for r in csv.DictReader((ROOT/'joyce/rate-card.csv').open()) if r['ID'].startswith('S'))
  page.locator('[data-stage="2"]').click();checks['operating_stage']=page.locator('#stage-number').inner_text()=='03'
@@ -108,3 +116,4 @@ report={'version':VERSION,'checked_at_utc':datetime.now(timezone.utc).isoformat(
 (OUT/('live-report.json' if LIVE else 'report.json')).write_text(json.dumps(report,indent=2))
 print(json.dumps(report,indent=2))
 if not report['all_passed']:raise SystemExit('QA failed')
+
