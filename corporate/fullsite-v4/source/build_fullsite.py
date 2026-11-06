@@ -141,6 +141,10 @@ def fullhome():
     # Portrait appears in the full founder strip, not cropped behind the decision sheets.
     proof='<div class="shell"><div class="founder-strip"><img src="../assets/joyce-approved.webp" alt="Joyce"><div><strong>'+x('Joyce · GGC 创始人','Joyce · Founder of GGC')+'</strong><p>'+x('全球旗舰产品经营 · 数据与商业化 · 方法与著作','Global flagship operations · Data & commercialization · Methods & published work')+'</p></div>'+btn(x('为什么是我们','Why GGC'),'about.html','01')+'</div></div>'
     h=h.replace('<section class="section white"><div class="shell"><div class="section-head"><div><p class="eyebrow">BUILT FROM REAL OPERATING EXPERIENCE',proof+'<section class="section white"><div class="shell"><div class="section-head"><div><p class="eyebrow">BUILT FROM REAL OPERATING EXPERIENCE',1)
+    old_cta=btn(x('聊聊关键决策','Discuss a strategic decision'),'contact.html','06')
+    annual_cta=btn(x('了解年度经营合作','Explore annual operating partnership'),'service-s12.html','06')
+    if h.count(old_cta)!=1:raise ValueError('Expected one homepage hero inquiry CTA')
+    h=h.replace(old_cta,annual_cta,1)
     return h
 
 

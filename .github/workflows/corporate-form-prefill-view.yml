@@ -1,0 +1,32 @@
+name: Google Form S12 read-only view
+on:
+  push:
+    branches:
+      - feature/corporate-annual-cta-20261106
+    paths:
+      - .github/workflows/corporate-form-prefill-view.yml
+      - corporate/fullsite-v4/qa/google_form_prefill_view.py
+permissions:
+  contents: read
+jobs:
+  inspect-form:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install Chromium
+        run: |
+          python -m pip install playwright==1.57.0
+          python -m playwright install chromium
+      - name: Inspect public prefilled form without submitting
+        run: python corporate/fullsite-v4/qa/google_form_prefill_view.py
+      - name: Keep form inspection evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: corporate-form-prefill-view
+          path: annual-form-evidence/
+          if-no-files-found: warn

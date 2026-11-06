@@ -20,7 +20,7 @@ BASE_HASH={
 'prism-ribbon.svg':'4ace85a3a874838dc1c26e9f5420146b8d464a06a10ac19b02c520cc3eb11995',
 'site.css':'ccd368527f5323069c4fd24c9c4104accd0d7af9b2ce518dbfb2571004e89534'}
 SOURCE_HASH={
-'build_fullsite.py':'b052503d3eba05da9e6123c0bbf90f18547eedd82aeaf98f726b82b1323c6714',
+'build_fullsite.py':'6ec615fcd1b294d0f0c8bda921db35958caafd9dee77b4794bb001830ee94bd1',
 'fullsite.css':'b69cdde5363c5e521926b7789e9b3b784f458c38d789ab356d80487734b41d03',
 'fullsite.js':'9b5d9242d4c4e0b1e7eef21bd931814daf052a72eb00abf7a371997766051885'}
 ASSET_HASH={
@@ -76,3 +76,4 @@ def main():
     (out/'source-verification.json').write_text(json.dumps(report,indent=2))
     print(json.dumps({'hashes_verified':len(verified),'pages':96,'ui_types':16,'output':str(out)}))
 if __name__=='__main__':main()
+

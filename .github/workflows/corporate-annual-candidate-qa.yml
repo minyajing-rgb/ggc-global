@@ -1,0 +1,40 @@
+name: Corporate annual candidate QA
+on:
+  push:
+    branches:
+      - feature/corporate-annual-cta-20261106
+    paths:
+      - .github/workflows/corporate-annual-candidate-qa.yml
+      - corporate/fullsite-v4/qa/annual_candidate_qa.py
+      - corporate/fullsite-v4/source/build_fullsite.py
+      - corporate/fullsite-v4/prepare_site.py
+permissions:
+  contents: read
+jobs:
+  annual-browser-qa:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install browser QA dependencies
+        run: |
+          python -m pip install playwright==1.57.0 beautifulsoup4==4.14.2 Pillow==11.3.0
+          python -m playwright install chromium
+      - name: Run complete candidate readiness review
+        run: python corporate/fullsite-v4/qa/review_readiness.py --source-commit "$GITHUB_SHA"
+      - name: Verify S12 journey in generated Google Form candidate
+        if: always()
+        run: python corporate/fullsite-v4/qa/annual_candidate_qa.py
+      - name: Keep reports and candidate screenshots
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: corporate-annual-candidate-qa
+          path: |
+            p0-evidence/review.json
+            annual-candidate-evidence/report.json
+            annual-candidate-evidence/*.png
+          if-no-files-found: warn
