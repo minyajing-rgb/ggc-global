@@ -54,7 +54,7 @@ try:
                 page.on("pageerror", lambda error: report["page_errors"].append(str(error)))
                 tag = f"{locale}-{width}"
                 page.goto(f"{origin}/{locale}/index.html", wait_until="domcontentloaded")
-                cta = page.locator('main .pagehero a[href="service-s12.html"]')
+                cta = page.locator('main a[href="service-s12.html"]')
                 check(f"hero_s12_{tag}", cta.count() == 1)
                 check(f"layout_home_{tag}", page.evaluate("document.documentElement.scrollWidth<=innerWidth+1"))
                 page.screenshot(path=str(OUT / f"{tag}-home.png"), full_page=True)
@@ -64,7 +64,7 @@ try:
                     cta.focus()
                     page.keyboard.press("Enter")
                 check(f"s12_navigation_{tag}", urlsplit(page.url).path == f"/{locale}/service-s12.html")
-                detail_link = page.locator('main .pagehero a[href="contact.html?service=S12"]')
+                detail_link = page.locator('main a[href="contact.html?service=S12"]')
                 check(f"s12_contact_link_{tag}", detail_link.count() == 1)
                 check(f"layout_s12_{tag}", page.evaluate("document.documentElement.scrollWidth<=innerWidth+1"))
                 page.screenshot(path=str(OUT / f"{tag}-service.png"), full_page=True)
