@@ -87,7 +87,9 @@ with sync_playwright() as p:
  checks['chinese_draft']='合作服务' in page.locator('#brief').inner_text()
  page.locator('.annual-cta a[href="#contact"]').click()
  checks['annual_cta_selects_s12']=page.locator('#service-select').input_value()=='S12' and '年框' in page.locator('#selection-name').inner_text()
- checks['annual_cta_fee']='1,280,000' in page.locator('#selection-fee').inner_text()
+ checks['annual_cta_usd_fee']='177,778' in page.locator('#selection-fee').inner_text()
+ page.locator('[data-currency="cny"]').click();page.wait_for_timeout(150)
+ checks['annual_cta_cny_fee']='1,280,000' in page.locator('#selection-fee').inner_text()
  checks['annual_cta_clears_old_draft']=not page.locator('#brief-result').is_visible()
  page.locator('.annual-cta a[href="#contact"]').click()
  checks['annual_cta_repeat']=page.locator('#service-select').input_value()=='S12'
