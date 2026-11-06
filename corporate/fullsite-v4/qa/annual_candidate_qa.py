@@ -12,7 +12,7 @@ import sys
 from playwright.sync_api import sync_playwright
 
 BASE = Path(__file__).resolve().parents[1]
-OUT = BASE / "annual-candidate-evidence"
+OUT = BASE.parents[1] / "annual-candidate-evidence"
 SITE = OUT / "site"
 OUT.mkdir(exist_ok=True)
 subprocess.run([
