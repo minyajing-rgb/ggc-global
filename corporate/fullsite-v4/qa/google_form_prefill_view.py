@@ -10,7 +10,7 @@ OUT = Path(__file__).resolve().parents[3] / "annual-form-evidence"
 OUT.mkdir(exist_ok=True)
 base = "https://docs.google.com/forms/d/e/1FAIpQLSeWUmuNsdE8QNOFOMW1XpVBSV4C89UNN0wXaeKpMq7DPzYvoA/viewform"
 url = base + "?" + urlencode({"usp": "pp_url", "entry.2092759400": "S12"})
-report = {"url": url, "visible_service_fields": [], "page_title": "", "body_excerpt": "", "error": None, "business_posts": []}
+report = {"url": url, "visible_service_fields": [], "questions": [], "page_title": "", "body_excerpt": "", "error": None, "business_posts": []}
 
 try:
     with sync_playwright() as playwright:
@@ -27,6 +27,14 @@ try:
             .filter(field => field.value === 'S12' && field.getClientRects().length > 0)
             .map(field => ({tag: field.tagName, aria_label: field.getAttribute('aria-label') || '',
                 question: (field.closest('[role=listitem]') || field.parentElement?.parentElement)?.innerText?.slice(0,320) || ''}))""")
+        report["questions"] = page.locator("[role=listitem]").evaluate_all("""items => items.map(item => ({
+            text: item.innerText.slice(0, 420),
+            controls: Array.from(item.querySelectorAll('input,textarea,select')).slice(0, 12).map(field => ({
+                tag: field.tagName, name: field.name, type: field.type, value: field.value,
+                aria_label: field.getAttribute('aria-label') || ''
+            })),
+            html_excerpt: item.outerHTML.slice(0, 1300)
+        }))""")
         page.screenshot(path=str(OUT / "google-form-s12-prefill.png"), full_page=True)
         browser.close()
 except Exception as exc:
@@ -40,6 +48,7 @@ finally:
     (OUT / "report.json").write_text(json.dumps(report, ensure_ascii=False, indent=2))
     print(json.dumps({"status": report.get("status"), "verified": report["verified"],
                       "visible_service_fields": report["visible_service_fields"],
+                      "questions": report["questions"],
                       "business_posts": report["business_posts"], "error": report["error"]}, ensure_ascii=False))
     if not report["verified"]:
         raise SystemExit(1)
