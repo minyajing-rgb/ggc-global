@@ -35,6 +35,6 @@ jobs:
           name: corporate-annual-candidate-qa
           path: |
             p0-evidence/review.json
-            corporate/fullsite-v4/annual-candidate-evidence/report.json
-            corporate/fullsite-v4/annual-candidate-evidence/*.png
+            annual-candidate-evidence/report.json
+            annual-candidate-evidence/*.png
           if-no-files-found: warn
