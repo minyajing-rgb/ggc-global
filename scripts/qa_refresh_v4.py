@@ -114,6 +114,7 @@ with sync_playwright() as p:
  page.locator('[data-lang="en"]').click()
  checks['mobile_english_s12']='Annual' in page.locator('#selection-name').inner_text()
  page.locator('[data-currency="usd"]').click()
+ page.wait_for_function("document.querySelector('#selection-fee').textContent.includes('177,778')")
  checks['mobile_usd_s12']='177,778' in page.locator('#selection-fee').inner_text()
  load('/?lang=en&v=refresh-v4');checks['root_release']=page.evaluate('window.__ggcRelease')==VERSION
  for width in [390,320,768,1024]:
