@@ -65,3 +65,9 @@ Use this skill for new GGC game concepts, MVP scoping, AI-assisted implementatio
 - [PR / speaker asset audit](pr/authority-engine/ASSET_AUDIT.md)
 
 The evergreen PR layer is public and sanitized. Private journalist / organizer contacts, negotiation terms, client records and personal identity documents are not stored here.
+
+## AI-native Culture Tech · Four Directions (2026-10-15, draft)
+
+[Four candidate projects / 四个创新方向](showcase/ai-cultural-tech-2026/index.html) · [Independent application eligibility and evidence gates](showcase/ai-cultural-tech-2026/SUBMISSION_READINESS.md)
+
+**Draft / not a live or submitted award entry.** Four categories and applicant entities remain pending organizer, team-separation and IP checks. No public site deployment is authorized by this source change.
