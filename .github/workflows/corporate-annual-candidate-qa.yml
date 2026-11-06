@@ -22,7 +22,7 @@ jobs:
       - name: Install browser QA dependencies
         run: |
           python -m pip install playwright==1.57.0 beautifulsoup4==4.14.2 Pillow==11.3.0
-          python -m playwright install --with-deps chromium
+          python -m playwright install chromium
       - name: Run complete candidate readiness review
         run: python corporate/fullsite-v4/qa/review_readiness.py --source-commit "$GITHUB_SHA"
       - name: Verify S12 journey in generated Google Form candidate
