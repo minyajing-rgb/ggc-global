@@ -16,12 +16,16 @@ const enhance=()=>{
   if(link){
    const url=new URL(link.href);
    url.searchParams.set('usp','pp_url');
-   url.searchParams.set('entry.2092759400',service==='S01'?'S01 — 战略咨询与经营诊断 / Strategy & operations advisory':service);
-   if(service==='S01')url.searchParams.set('entry.627383357','战略咨询与经营诊断 / Strategy & operations advisory');
+   const advisory='战略咨询与经营诊断 / Strategy & operations advisory';
+   const annual='S12 — 全球游戏经营Copilot年框 / Annual Global Game Copilot';
+   url.searchParams.set('entry.2092759400',service==='S01'?'S01 — '+advisory:service==='S12'?annual:service);
+   if(service==='S01'||service==='S12')url.searchParams.set('entry.627383357',advisory);
    link.href=url.toString();
    const note=document.createElement('p');
    note.className='note';
-   note.textContent=zh?'已带入服务编号：'+service:'Service code included: '+service;
+   note.textContent=service==='S12'
+    ?(zh?'已预填 S12 年框合作方向；请在 Google 表单中补充项目与需求。':'S12 annual partnership is prefilled; add your project and needs in the Google Form.')
+    :(zh?'已带入服务编号：'+service:'Service code included: '+service);
    link.closest('.actions')?.after(note);
   }
  }
