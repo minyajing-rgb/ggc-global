@@ -17,7 +17,7 @@ def error_report(kind,error,tb):
 sys.excepthook=error_report
 with sync_playwright() as p:
  browser=p.chromium.launch(headless=True,executable_path=shutil.which('chromium') or None,args=['--no-sandbox'])
- context=browser.new_context(viewport={'width':1440,'height':1000},device_scale_factor=1,reduced_motion='reduce')
+ context=browser.new_context(viewport={'width':1440,'height':1000},device_scale_factor=1,reduced_motion='reduce',has_touch=True)
  if not LIVE:
   def route_request(route):
    rel=unquote(urlparse(route.request.url).path).lstrip('/')
@@ -85,6 +85,16 @@ with sync_playwright() as p:
  checks['chinese_interface']='我需要评审产品' in page.locator('.start-card[data-detail="S03"]').inner_text()
  checks['chinese_summary']='AI工作流试点' in page.locator('#selection-name').inner_text()
  checks['chinese_draft']='合作服务' in page.locator('#brief').inner_text()
+ page.locator('.annual-cta a[href="#contact"]').focus();page.keyboard.press('Enter')
+ checks['annual_cta_selects_s12']=page.locator('#service-select').input_value()=='S12' and '年框' in page.locator('#selection-name').inner_text()
+ checks['annual_cta_usd_fee']='177,778' in page.locator('#selection-fee').inner_text()
+ page.locator('[data-currency="cny"]').click();page.wait_for_timeout(150)
+ checks['annual_cta_cny_fee']='1,280,000' in page.locator('#selection-fee').inner_text()
+ checks['annual_cta_clears_old_draft']=not page.locator('#brief-result').is_visible()
+ page.locator('.annual-cta a[href="#contact"]').click()
+ checks['annual_cta_repeat']=page.locator('#service-select').input_value()=='S12'
+ page.locator('#service-select').select_option('S03')
+ checks['annual_cta_manual_override']=page.locator('#service-select').input_value()=='S03' and '产品' in page.locator('#selection-name').inner_text()
  page.locator('[data-filter="all"]').click();page.locator('[data-currency="cny"]').click();page.locator('[data-lang="en"]').click()
  checks['canonical_prices']=all(int(r['CNY_base'])==int(page.locator('[data-price="'+r['ID']+'"]').inner_text().replace('CNY ','').replace(',','')) for r in csv.DictReader((ROOT/'joyce/rate-card.csv').open()) if r['ID'].startswith('S'))
  page.locator('[data-stage="2"]').click();checks['operating_stage']=page.locator('#stage-number').inner_text()=='03'
@@ -92,6 +102,20 @@ with sync_playwright() as p:
  page.locator('[data-sector="3"]').click();checks['sector_selection']='Body, Mind' in page.locator('#sector-title').inner_text()
  load('/joyce/?lang=en&service=S03&v=refresh-v4#services');checks['shareable_service_url']=page.locator('#service-dialog').is_visible() and 'Monetization Audit' in page.locator('#dialog-name').inner_text()
  page.locator('#service-dialog').press('Escape');checks['escape_closes_dialog']=not page.locator('#service-dialog').is_visible()
+ page.set_viewport_size({'width':390,'height':844})
+ load('/joyce/?lang=zh&v=refresh-v4')
+ page.locator('.annual-cta a[href="#contact"]').tap()
+ checks['mobile_tap_s12']=page.locator('#service-select').input_value()=='S12' and '1,280,000' in page.locator('#selection-fee').inner_text()
+ checks['mobile_annual_layout']=page.evaluate('document.documentElement.scrollWidth<=innerWidth+1')
+ page.screenshot(path=str(OUT/'mobile-annual-s12.png'))
+ page.reload(wait_until='networkidle')
+ page.locator('.annual-cta a[href="#contact"]').tap()
+ checks['mobile_refresh_tap_s12']=page.locator('#service-select').input_value()=='S12'
+ page.locator('[data-lang="en"]').click()
+ checks['mobile_english_s12']='Annual' in page.locator('#selection-name').inner_text()
+ page.locator('[data-currency="usd"]').click()
+ page.wait_for_function("document.querySelector('#selection-fee').textContent.includes('177,778')")
+ checks['mobile_usd_s12']='177,778' in page.locator('#selection-fee').inner_text()
  load('/?lang=en&v=refresh-v4');checks['root_release']=page.evaluate('window.__ggcRelease')==VERSION
  for width in [390,320,768,1024]:
   page.set_viewport_size({'width':width,'height':844});page.evaluate('scrollTo(0,0)')
@@ -108,3 +132,4 @@ report={'version':VERSION,'checked_at_utc':datetime.now(timezone.utc).isoformat(
 (OUT/('live-report.json' if LIVE else 'report.json')).write_text(json.dumps(report,indent=2))
 print(json.dumps(report,indent=2))
 if not report['all_passed']:raise SystemExit('QA failed')
+
