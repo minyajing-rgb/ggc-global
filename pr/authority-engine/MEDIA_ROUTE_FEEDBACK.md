@@ -1,5 +1,18 @@
 # GGC — Media Route and Format Feedback
 
+## 7 November 2026 — LEAP 2027 official speaker route and distinct GSMA award/speaker decisions
+
+| Existing original-graph route / opportunity | Official content/format proof and scope | Correct stage |
+|---|---|---|
+| **LEAP 2027, graph row 92 (one parent relationship including DeepFest)** | [LEAP official 2027 speaker-enquiry contact](https://onegiantleap.com/form/exhibit-at-leap-2027) explicitly distinguishes **2027 speaking opportunities** from sponsor/exhibitor/commercial routes. [Event information](https://onegiantleap.com/about-us/key-information) describes AI, gaming and deployed technology sectors. On 7 Nov a session-proposal enquiry about AI-assisted production versus validated global user and commercial outcomes was actually **SENT and full original message read back**. | **FIRST_TOUCH_SENT_VERIFIED / HUMAN_REPLY_PENDING.** This is programme-route enquiry, not a submitted speaker form, speaker shortlist, paid participation or official programme acceptance. No same-parent contact substitutions or obligations accepted. |
+| **4YFN27 Awards (PIA-003) versus speaker programme (PIA-005/006/032)** | Official 6 Nov organiser outcome confirms the awards applicant was **not selected for Top 20**; historical missing Awards-specific form receipt does not invalidate the later authoritative outcome. Generic notice does not independently establish the **Digital Horizons** specific category. Distinct official 6 Nov speaker programme message says speaker CFP submissions now enter review, but its template cannot reconcile the number or unique titles of existing proposals. | **AWARDS: CLOSED_NOT_SHORTLISTED. SPEAKING: UNDER_REVIEW, NOT_ACCEPTED.** Complimentary attendee-pass/exhibition offers cannot be acted on until the inconsistent deadline and all financial/attendance terms are clarified. Original thread already has an acknowledgement; no duplicate. |
+| **Rest of World, graph row 126** | [First-party pitch guide](https://restofworld.org/about/how-to-pitch-rest-of-world/) requires pre-reporting, a specific country/story, a synopsis under 300 words and **six named prospective sources** for reported work. | **RESEARCH_ROUTE / FORMAT_NOT_READY.** A generic expert-opinion pitch is not a substitute for a properly pre-reported article; no speculative send. |
+| **Fast Company, graph row 122** | [Impact contributor guideline](https://www.fastcompany.com/90870734/how-to-submit-contributed-stories-to-fast-companys-impact-section-and-tips-on-getting-published) requires a **complete original 700–1,000-word Word/Google Docs article**, not outlines or interview pitches, and is oriented to social/environmental impact; rights/exclusivity apply if accepted. | **RESEARCH_ROUTE / FORMAT_AND_MANUSCRIPT_HOLD.** No unsolicited outline to the Impact desk and no conflation with paid Executive Board membership. |
+
+**Net 7 Nov:** one new existing-list programming enquiry SENT/readback, zero formal CFP/award submissions, zero new human organiser/editor replies dated today, zero acceptance, zero joint projects, zero payments. Source, copyright/portrait scope, and original evidence continue in the private record; this public route note contains no direct recipient identifiers or private delivery receipts.
+
+---
+
 ## 5 November 2026 — qualified game-AI investment source tip from existing PR graph
 
 | Existing graph route / group | Verified format and date-specific evidence | Disposition |
