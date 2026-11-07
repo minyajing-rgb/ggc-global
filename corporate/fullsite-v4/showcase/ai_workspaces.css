@@ -1,0 +1,75 @@
+/* Product branding and screenshots are captured from the products themselves. */
+.ai-workspace-card {
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr);
+  padding: 0;
+  overflow: hidden;
+  gap: 0;
+}
+.ai-workspace-visual {
+  position: relative;
+  display: block;
+  min-width: 0;
+  height: 100%;
+  overflow: hidden;
+  background: #f9f7f0;
+}
+.agent-office .ai-workspace-visual { background: #080b18; }
+.ai-workspace-visual img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  min-height: 340px;
+  object-fit: cover;
+  object-position: top;
+  transition: transform .3s ease;
+}
+.ai-workspace-visual:hover img { transform: scale(1.015); }
+.ai-workspace-visual > span {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  padding: 5px 9px;
+  border-radius: 5px;
+  background: #fffdf5ee;
+  color: #766180;
+  font-size: 10px;
+}
+.ai-workspace-copy { min-width: 0; padding: 30px; }
+.ai-workspace-brand {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  height: 44px;
+  object-fit: contain;
+  object-position: left center;
+  margin: 0 0 23px;
+  border-radius: 3px;
+}
+.agent-office .ai-workspace-brand { height: 46px; }
+.ai-workspace-copy h3 { margin-top: 14px; }
+.ai-workspace-copy .ai-workspace-scope {
+  border-top: 1px solid #eadfeb;
+  padding-top: 14px;
+  margin-top: 17px;
+  font-size: 12px;
+  color: #766180;
+}
+.ai-workspace-actions { display: flex; align-items: center; gap: 15px; flex-wrap: wrap; margin-top: 20px; }
+.ai-workspace-actions small { font-size: 10px; color: #766180; }
+.ai-workspace-sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
+@media (max-width: 900px) {
+  .ai-workspace-copy { padding: 24px; }
+  .ai-workspace-visual img { min-height: 360px; }
+}
+@media (max-width: 650px) {
+  .ai-workspace-card { grid-template-columns: minmax(0, 1fr); }
+  .ai-workspace-visual { aspect-ratio: 16 / 10; }
+  .ai-workspace-visual img { min-height: 0; height: 100%; }
+  .ai-workspace-copy { padding: 22px; }
+  .ai-workspace-brand { margin-bottom: 19px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .ai-workspace-visual img { transition: none; }
+}

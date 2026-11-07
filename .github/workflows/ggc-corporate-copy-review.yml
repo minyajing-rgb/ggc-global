@@ -1,0 +1,36 @@
+name: GGC corporate copy and design review
+on:
+  push:
+    branches: [feature/ggc-corporate-rebuild-20261010]
+    paths:
+      - 'corporate/implementation/src/**'
+      - 'corporate/implementation/qa/review_copy.py'
+      - 'corporate/implementation/qa/review_prism.py'
+      - '.github/workflows/ggc-corporate-copy-review.yml'
+permissions:
+  contents: read
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install browser QA dependencies
+        run: |
+          python -m pip install playwright==1.57.0 beautifulsoup4 Pillow
+          python -m playwright install --with-deps chromium
+      - name: Review approved visual refinement and preserved copy through HTTP
+        run: python corporate/implementation/qa/review_prism.py
+      - name: Preserve screenshots, coverage and checklist evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ggc-corporate-prism-review
+          path: review-evidence/
+          retention-days: 14
+          if-no-files-found: error

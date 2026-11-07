@@ -1,0 +1,157 @@
+{
+  "environment": "existing Base44 sandbox HTTP",
+  "production_deployed": false,
+  "records": [
+    {
+      "route": "assets/app.js",
+      "status": 200,
+      "sha256": "b00c8d48d34c1623aa64efddc8ed487e31766d0771d8303ee83b36bfbbeaf1a7",
+      "matches_file": true
+    },
+    {
+      "route": "assets/buttons.css",
+      "status": 200,
+      "sha256": "733e4266ff924d091643e6e6a7a838b0ad3a9459999f60f14e8d72d89ce107a4",
+      "matches_file": true
+    },
+    {
+      "route": "assets/fidelity.css",
+      "status": 200,
+      "sha256": "0edb00607d3eae0f67cb1b8e05a9756f207f3434ad7335cc7ec5d4d8bbd6a2a2",
+      "matches_file": true
+    },
+    {
+      "route": "assets/ggc-logo.svg",
+      "status": 200,
+      "sha256": "c45d00931433d12f82055008aeeaef111fba42f8dc197bdac84f939de82484ca",
+      "matches_file": true
+    },
+    {
+      "route": "assets/site.css",
+      "status": 200,
+      "sha256": "ccd368527f5323069c4fd24c9c4104accd0d7af9b2ce518dbfb2571004e89534",
+      "matches_file": true
+    },
+    {
+      "route": "en/about.html",
+      "status": 200,
+      "sha256": "24a905d505a142210ef0d0400374914c606274effd057bb6d54fa879124259ac",
+      "matches_file": true
+    },
+    {
+      "route": "en/buttons.html",
+      "status": 200,
+      "sha256": "3fd016286a08037e85f77d87bfd059ade93567a1c5e5486a727190d9d3c05520",
+      "matches_file": true
+    },
+    {
+      "route": "en/contact.html",
+      "status": 200,
+      "sha256": "470469a191e000e8ed18038aa2f68aa02f59355c7ab4a307432f42f0b603c1d5",
+      "matches_file": true
+    },
+    {
+      "route": "en/decision-os.html",
+      "status": 200,
+      "sha256": "971d8ff360f5bb855ba8fba4f7a2f4be9a08d78a6b57709ac216d48d11ab412d",
+      "matches_file": true
+    },
+    {
+      "route": "en/expertise.html",
+      "status": 200,
+      "sha256": "e73cecf2b15c2c935a4e0c1498133fe8368096e931cbdfdf4dce918db74a981c",
+      "matches_file": true
+    },
+    {
+      "route": "en/index.html",
+      "status": 200,
+      "sha256": "03147840b161c78a87d9991c84526c31b712229f48f926737c6e5ec323fa632b",
+      "matches_file": true
+    },
+    {
+      "route": "en/lab.html",
+      "status": 200,
+      "sha256": "9ffeada7269f5cdf54d647c50199a292b48807b95372fa306f65ec554531c895",
+      "matches_file": true
+    },
+    {
+      "route": "en/research.html",
+      "status": 200,
+      "sha256": "018d562d6df6c13398c67f705f59a5349d9d07befefb617b431cb8d0bbe38010",
+      "matches_file": true
+    },
+    {
+      "route": "en/ventures.html",
+      "status": 200,
+      "sha256": "6fb16acdef7e43100251dba766f57003b8f275000be026d63b41d311be9eecf9",
+      "matches_file": true
+    },
+    {
+      "route": "index.html",
+      "status": 200,
+      "sha256": "2a62aa0149fc9844fbaf1252568c9f1b259e9de730443202c76b02c114a7ec07",
+      "matches_file": true
+    },
+    {
+      "route": "zh/about.html",
+      "status": 200,
+      "sha256": "9b8d3eee97691772d1453c0d6e93f439dff3aba643f6ef30dd86e2ce84821843",
+      "matches_file": true
+    },
+    {
+      "route": "zh/buttons.html",
+      "status": 200,
+      "sha256": "5460d033e3ff0b3bf4f49952feae8b2c59dd699d618269b6b67f29e3470a0cfc",
+      "matches_file": true
+    },
+    {
+      "route": "zh/contact.html",
+      "status": 200,
+      "sha256": "e57150da2eacae5009d71ef7b8c631c1d003d6faaba022d6b8620907bf98dd06",
+      "matches_file": true
+    },
+    {
+      "route": "zh/decision-os.html",
+      "status": 200,
+      "sha256": "a4ad6093670757498ac2d730197f4231ea73b523646023b60f8f420567700d7b",
+      "matches_file": true
+    },
+    {
+      "route": "zh/expertise.html",
+      "status": 200,
+      "sha256": "129586093ea634e38ecc8ad1d6b239f19d63f2374f9ae93a313dde562dbd6042",
+      "matches_file": true
+    },
+    {
+      "route": "zh/index.html",
+      "status": 200,
+      "sha256": "63b1eff023526d41e791f556e6e99056b863a2c1000ed3fe5c59a7ec602d33cc",
+      "matches_file": true
+    },
+    {
+      "route": "zh/lab.html",
+      "status": 200,
+      "sha256": "d96347d2caec634b7ef13ccbe749ca3c6d4da21d2237dc8c8b139000d7b75051",
+      "matches_file": true
+    },
+    {
+      "route": "zh/research.html",
+      "status": 200,
+      "sha256": "040dade216570ba23865d0d23c12651500baf748fee03157a61ec1d37e99ec2f",
+      "matches_file": true
+    },
+    {
+      "route": "zh/ventures.html",
+      "status": 200,
+      "sha256": "f9e1150844a92c773485fd28cc40aff26518b48f8d37bac7fd0f27bdcc03ee31",
+      "matches_file": true
+    }
+  ],
+  "all_passed": true,
+  "sources": {
+    "build_site.py": "2993a739f659e84a3be84dfdc8c8a0b7b0dde6598f8fb4b9a0fedce0f4b9e196",
+    "build_refined_site.py": "73f70958757d3f34a7863dac6592b578a5a9d3641f9178256dd700056f1fbd06"
+  },
+  "unchanged_root_sha256": "b7da8a6754c64029dac68164ffc6ab70498278d4a92cb3dbd7c40c342d3da085",
+  "unchanged_CNAME_sha256": "92ae8d5ed903038c1ba0952a630713d484c8736dc7c053eddf71005a8810c155"
+}
