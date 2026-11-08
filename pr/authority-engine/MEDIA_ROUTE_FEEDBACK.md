@@ -1,5 +1,19 @@
 # GGC — Media Route and Format Feedback
 
+## 8 November 2026 — prior-event offer clarification and bounded route research
+
+| Existing opportunity / original graph | Evidence / qualification | Action classification |
+|---|---|---|
+| 4YFN 2027 Awards, existing PIA-003 (separate from PIA speaker records) | Official **7 Nov** human organiser correspondence corrects the complimentary pass offer's deadline year to **2026**; confirms no cost or further obligations, with exhibition separately optional. Original email/claim URL retained privately. | **AWARDS_NOT_SHORTLISTED; COMPLIMENTARY_PASS_CONFIRMED_NOT_CLAIMED; SPEAKER_CFP_STILL_UNDER_REVIEW.** No purchase, booth agreement or appearance commitment; owner reviews claim form rights/data terms. |
+| GameMakers, original graph row 19 | First-party podcast/newsletter pages demonstrate externally hosted conversations but not a verified official active guest-booking route for a new independent show proposal. | **RESEARCH_ROUTE**, no invented producer inbox, no cold send. |
+| Pandaily, GameLook, original graph rows 49/52 | Existing original list, publisher official site/reporting context available, but a verified current publisher-controlled invitation/earned-editorial intake and appropriate specific decision-maker remain unconfirmed. Third-party directory contact alone is insufficient. | **RESEARCH_ROUTE**, no send. |
+| App Promotion Summit original graph row 79 | Event-specific programming and no-fee speaker intake not validated; similarly named App Growth Summit is a **different organiser** and is not a substitute route. | **RESEARCH_ROUTE**, no unrelated form submission. |
+| Academic research relationship outside original 130/74 | Existing scholar replied that capacity does not permit joining; human-authored response, not a positive research or PR decision. | **HUMAN_DECLINE / CLOSED_RELATIONSHIP_PITCH**, no automated follow-up or affiliation claim. |
+
+**Net in this run:** no new PR/PIA SENT, no official submissions, no meetings, no S2 or S3, no publication or award win, no payment. Historical association outbound and prior-day organiser response were reconciled only; original stable scope unchanged.
+
+---
+
 ## 7 November 2026 — LEAP 2027 official speaker route and distinct GSMA award/speaker decisions
 
 | Existing original-graph route / opportunity | Official content/format proof and scope | Correct stage |
