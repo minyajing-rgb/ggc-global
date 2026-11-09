@@ -1,5 +1,17 @@
 # GGC — Media Route and Format Feedback
 
+## 9 November 2026 — GITEX 2026 independent conference programme route
+
+| Existing record / family | Primary official evidence / format | Actual disposition |
+|---|---|---|
+| **PIA-013 GITEX GLOBAL 2026 / Dubai World Trade Centre group** | [GITEX conference overview](https://www.gitex.com/conferenceoverview-2026) officially describes **7 Dec Summit** and **8–11 Dec expo/conference**, including AI Stage, and [2026 speaker-interest form](https://mktg.gitex.com/GITEX2026SpeakerInterest) exists with personal data and permission choices. Organiser publicly identifies a dedicated conference-content route distinct from exhibitor, media, marketing and sponsorship desks. Gmail history checked, no prior same-family 2026 speaker enquiry found. | A **noncommercial applied-AI product-operations speaker proposal was actually emailed 9 Nov with SENT/body readback**. **CONTACTED_AWAITING_HUMAN** only; NOT formal speaker-form submission or interest, shortlist or ticket commitment. Await rights, track/eligibility, fee/pass and travel clarification; do not duplicate under an event sibling or paid sales team. |
+| **Historical association first-touch, mainland AI interactive creative content** | Existing independent institution route and value-specific proposal were verified by previously sent Gmail original dated **8 Nov**, not a new 9 Nov campaign. | **HISTORICAL_SENT_ONLY**. No named substantive programme-owner reply or joint asset; leave S1/S2/S3 as zero. |
+
+**Net 9 Nov:** one existing-list programme enquiry SENT; zero verified official submissions, programme replies, new PR bounces, awards or published content, and no fee/rights/travel commitment. Original stable IDs and HOLD remain.
+
+---
+
+
 ## 8 November 2026 — prior-event offer clarification and bounded route research
 
 | Existing opportunity / original graph | Evidence / qualification | Action classification |
