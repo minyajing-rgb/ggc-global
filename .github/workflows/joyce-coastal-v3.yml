@@ -41,47 +41,26 @@ jobs:
         run: |
           python -m pip install Pillow==11.3.0 playwright==1.57.0
           python -m playwright install --with-deps chromium
-      - name: Build approved coastal layout then apply the clarity refresh
+      - name: Verify current approved pages and canonical pricing
         run: |
           python - <<'PY'
           from pathlib import Path
           import hashlib
           Path('/tmp/rate-card.sha256').write_text(hashlib.sha256(Path('joyce/rate-card.csv').read_bytes()).hexdigest())
-          PY
-          python scripts/build_coastal_v3.py
-          python scripts/refresh_coastal_v4.py
-          python - <<'PY'
-          from pathlib import Path
-          import hashlib
+          required = ('2026-11-05-bp-kpi-v2', 'id="case-library"', 'id="career-library"', 'id="clients-partners"', 'id="ai-practice"', 'id="joyce-method"')
+          for page in ('index.html', 'joyce/index.html'):
+              content = Path(page).read_text()
+              assert all(marker in content for marker in required), f'{page}: approved case or KPI content missing'
+              assert '/joyce/assets/refresh-v4.js?v=4' in content, f'{page}: inquiry script missing'
           assert hashlib.sha256(Path('joyce/rate-card.csv').read_bytes()).hexdigest()==Path('/tmp/rate-card.sha256').read_text(), 'Pricing source changed unexpectedly'
           assert Path('CNAME').read_text().strip()=='biz.ggcgames.com', 'Domain must be preserved'
-          assert Path('index.html').read_bytes()==Path('joyce/index.html').read_bytes(), 'Root and personal entry points must match'
           PY
       - name: Test built desktop, mobile, languages, prices and inquiry flow
         run: python scripts/qa_refresh_v4.py
-      - name: Commit refreshed website to the Pages publishing branch
+      - name: Confirm source has not changed during QA
         run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add index.html joyce/index.html joyce/rate-card.html
-          git add joyce/assets/coastal-portrait-v4* joyce/assets/refresh-v4.css joyce/assets/refresh-v4.js
-          git add joyce/content/coastal-v3-manifest.json joyce/content/refresh-v4-manifest.json joyce/content/refresh-qa/
-          git rm --ignore-unmatch scripts/refresh-transfer/portrait.part*.b64
-          if ! git diff --cached --quiet; then
-            # Carry only this run's staged output onto the newest main tree.
-            # Never resolve generated HTML conflicts by choosing ours/theirs.
-            git diff --cached --binary > /tmp/joyce-release.patch
-            git fetch origin main
-            if ! git diff --quiet HEAD origin/main -- index.html CNAME assets/ joyce/ scripts/ .github/workflows/; then
-              echo '::error::Site files changed during QA. Rerun from current main; refusing stale generated output.'
-              exit 1
-            fi
-            git reset --hard origin/main
-            git apply --index /tmp/joyce-release.patch
-            git commit -m 'feat: publish Joyce credibility timeline v7'
-            # A later concurrent push is rejected by Git; no force or rebase.
-            git push origin HEAD:main
-          fi
+          git fetch origin main
+          test "$(git rev-parse HEAD)" = "$(git rev-parse origin/main)" || { echo '::error::Main changed during QA; rerun from current main.'; exit 1; }
           git rev-parse HEAD > /tmp/joyce-refresh-commit.txt
       - name: Wait for actual public-domain release at both entry points
         run: |
@@ -90,9 +69,9 @@ jobs:
           from pathlib import Path
           import hashlib
           marker=b'2026-09-21-credibility-v7'
-          expected={url:hashlib.sha256(Path(path).read_bytes()).hexdigest() for url,path in [('https://biz.ggcgames.com/','index.html'),('https://biz.ggcgames.com/joyce/','joyce/index.html')]}
+          expected={url:hashlib.sha256(Path(path).read_bytes()).hexdigest() for url,path in [('https://biz.ggcgames.com/','index.html'),('https://biz.ggcgames.com/joyce/','joyce/index.html'),('https://biz.ggcgames.com/joyce/assets/refresh-v4.js','joyce/assets/refresh-v4.js')]}
           stamp=Path('/tmp/joyce-refresh-commit.txt').read_text().strip()[:12]
-          urls=['https://biz.ggcgames.com/','https://biz.ggcgames.com/joyce/']
+          urls=list(expected)
           for attempt in range(36):
               ok=True
               for url in urls:
@@ -100,7 +79,7 @@ jobs:
                       req=urllib.request.Request(url+'?release_check='+stamp,headers={'Cache-Control':'no-cache','User-Agent':'GGC-Release-QA'})
                       with urllib.request.urlopen(req,timeout=20) as r:
                           body=r.read()
-                          valid=r.status==200 and marker in body and hashlib.sha256(body).hexdigest()==expected[url]
+                          valid=r.status==200 and (url.endswith('.js') or marker in body) and hashlib.sha256(body).hexdigest()==expected[url]
                           ok=ok and valid
                           print(url,r.status,'v7-ready='+str(valid),flush=True)
                   except Exception as exc:
@@ -130,3 +109,4 @@ jobs:
             joyce/content/refresh-v4-manifest.json
             joyce/docs/PRODUCT-REVIEW-V4.md
           retention-days: 14
+
