@@ -167,3 +167,20 @@ A promising local demo, a high-click creative test and a live game with durable 
 **Cost boundary:** The free introductory Noetics 101 course is available without paying for membership. Optional paid memberships and other programmes must be checked and approved separately; a list of books is not an invoice or a commitment.
 
 **Institutional de-duplication lesson:** A media or research organisation's generic information-desk resource response is valuable orientation, but it is not contact success with an actual research/programme owner (S1), let alone scoped cooperation (S2) or jointly released output (S3). Preserve exact correspondence only in the private ledger.
+
+## 9 November 2026 — evidence-led mini brief: from AI output to player-value decisions (original GGC methodology; no co-author)
+
+**Purpose and publication gate.** Reusable *GGC-authored working note* for future mainland game/AI association member sessions or international practitioner exchanges; a research asset in preparation, **not** a jointly published paper, accredited standard, partner endorsement, recorded course or S3 deliverable. No private customer data or unproven numerical performance claims.
+
+**Operating question.** An AI creative or development workflow may raise output throughput while leaving the underlying product outcome ambiguous. A useful member exchange asks: *what minimum decision evidence is needed before expanding a game or interactive product into a second market?*
+
+**Four proof gates to illustrate in a 25-minute member exchange:**
+1. **Output-to-quality:** define the human-reviewed acceptance criteria (requirements coverage, version provenance, visual and behaviour consistency, permissions) and track failed revisions as well as finished outputs.
+2. **Quality-to-behaviour:** predefine repeat engagement, retention and failure signals; include small-cohort and measurement uncertainty so creative volume is never treated as a proxy for player value.
+3. **Behaviour-to-economics:** use payback, content-production total cost, platform fees and product-economy stability at consistent cohort/market boundaries; distinguish observed figures from planning assumptions.
+4. **Evidence-to-decision:** name the decision owner and define *scale / revise / bounded experiment / stop* with a dated next evidence checkpoint and an approved budget envelope.
+
+**Practical deliverables for one authorised future partner:** a one-page anonymised stage-gate checklist, a 20–25-minute illustrated operator talk and a moderated 15-minute Q&A. These are proposed formats, **not a scheduled session**. Any actual member data, case screenshots, association logo, co-brand, recording or external licensing requires permission.
+
+**Source map:** [GGC public operating model](../../skills/ggc-principal-ai-native-two-flow-os/SKILL.md) provides the internally authored decision framework, not independent impact measurement. [GITEX 2026 official AI-stage conference overview](https://www.gitex.com/conferenceoverview-2026) supplies current independent context on the theme of AI moving from prototype to practical deployment, **not third-party validation of GGC outcomes**. A prior **8 Nov** personalised introduction to a mainland AI/content university research programme was SENT/read back, but no relevant human lead has accepted any of these materials. Preserve stage as **FIRST_TOUCH_SENT only**.
+
