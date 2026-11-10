@@ -1,0 +1,54 @@
+name: GGC fullsite V4 implementation and UI review
+on:
+  push:
+    branches: [feature/ggc-corporate-rebuild-20261010]
+    paths:
+      - 'corporate/fullsite-v4/**'
+      - '.github/workflows/ggc-fullsite-v4.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: ggc-fullsite-v4-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  review:
+    if: github.ref == 'refs/heads/feature/ggc-corporate-rebuild-20261010'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install UI review dependencies
+        run: |
+          python -m pip install playwright==1.57.0 beautifulsoup4 Pillow reportlab PyMuPDF
+          python -m playwright install --with-deps chromium
+      - name: Build verified source, run real HTTP browser checks and export mockups
+        run: python corporate/fullsite-v4/qa/review_http.py
+      - name: Upload all-page UI review and runnable implementation
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ggc-fullsite-v4-ui-and-implementation
+          path: |
+            fullsite-evidence/GGC_Fullsite_Implementation_and_UI.zip
+            fullsite-evidence/GGC_Fullsite_UI_Review_CN_EN.pdf
+            fullsite-evidence/GGC_Fullsite_UI_16_Types_Overview.png
+            fullsite-evidence/review.json
+            fullsite-evidence/pdf-check-*.png
+          retention-days: 30
+          if-no-files-found: error
+      - name: Materialize verified original images and canonical source in this design branch only
+        if: success()
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A corporate/fullsite-v4/assets corporate/fullsite-v4/source/build_fullsite.py
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore(fullsite): materialize verified original assets [skip ci]'
+            git push origin HEAD:feature/ggc-corporate-rebuild-20261010
+          fi

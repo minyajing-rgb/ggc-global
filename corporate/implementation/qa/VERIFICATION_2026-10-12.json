@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-12",
+  "app": {"name": "ggc-global", "id": "6a96dac28be99e3ac4d6d525", "route": "/ggc-next/"},
+  "source_commit_initial": "21372760bb2ddfb29484fe9585bf49d5b22c9c09",
+  "source_commit_with_dark_ghost_fix": "f07d6aa97b32c2ce4b5ac02e0fcada510e5109ea",
+  "approved_button_ids": [1, 4, 6, 8, 9, 10],
+  "source_sha256": {
+    "app.js": "b00c8d48d34c1623aa64efddc8ed487e31766d0771d8303ee83b36bfbbeaf1a7",
+    "site.css": "ccd368527f5323069c4fd24c9c4104accd0d7af9b2ce518dbfb2571004e89534",
+    "buttons.css": "733e4266ff924d091643e6e6a7a838b0ad3a9459999f60f14e8d72d89ce107a4",
+    "ggc-logo.svg": "5f07288ce95c2e12a1c54e8e8e00c04baeef0ee1d3af2f4db5067dbf50c348b6",
+    "build_site.py": "1fddbddd158cb6c79dec4f9764de3978a485532d7bb7dc94be37e35550f7f4cd"
+  },
+  "dom_checks": {
+    "mode": "In-memory Chromium DOM rendering, not HTTP navigation E2E",
+    "reason": "Local browser policy blocks file:// and localhost navigation; browser policy was not modified.",
+    "page_types": 9,
+    "locales": ["zh", "en"],
+    "viewport_widths": [320, 390, 768, 1440],
+    "layout_checks": 72,
+    "local_file_anchor_references": 502,
+    "interaction_groups": 8,
+    "failures_after_fixes": 0,
+    "covered": ["six approved components", "loading / focus / disabled", "keyboard tab selection", "same-page locale link", "three illustrative scenarios", "16-service search and empty state", "product filtering", "mobile menu and Escape", "local email draft without automatic POST"],
+    "not_claimed": ["deployed browser E2E", "external link availability", "full WCAG certification", "actual email delivery", "CRM persistence", "newsletter subscription", "real AI diagnosis"]
+  },
+  "base44_http_checks": {"assets": 23, "all_status_200": true, "byte_equal_to_generated_files": true, "external_style_host_header_used": true, "button_page_rechecked_after_dark_fix": 200},
+  "base44_checkpoints": {"before": "6acc7a162e3e657a28a510d7", "after": "6acc7bf5f5156080440b6213"},
+  "preservation": {"original_root_index_unchanged": true, "root_index_sha256": "b7da8a6754c64029dac68164ffc6ab70498278d4a92cb3dbd7c40c342d3da085", "cname": "biz.ggcgames.com", "dns_changed": false, "production_published": false, "new_app_created": false, "paid_builder_turn_used": false}
+}

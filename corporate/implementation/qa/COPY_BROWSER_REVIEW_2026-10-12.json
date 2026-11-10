@@ -1,0 +1,6893 @@
+{
+  "source_commit": "7765e325f7820274fb5f506d0bcf836bcf512a84",
+  "baseline_commit": "fa48a4639bdfbf03fdf74f3640ac914ded15be9c",
+  "checked_at_utc": "2026-10-12T13:01:07.885445+00:00",
+  "method": "isolated real HTTP browser QA; fonts use the same fallback for before/after comparisons",
+  "checks": [
+    {
+      "name": "design_asset_unchanged:ggc-logo.svg",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "design_asset_unchanged:site.css",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "design_asset_unchanged:ggc-logo-refined.svg",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "design_asset_unchanged:fidelity.css",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "design_asset_unchanged:buttons.css",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "design_asset_unchanged:app.js",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "title_lang_h1:zh/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "../assets/buttons.css"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "../assets/site.css"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "../assets/fidelity.css"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "../assets/app.js"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "#main"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "research.html"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "about.html"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "../en/index.html"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "ventures.html"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "about.html"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "research.html"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "research.html"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "ventures.html"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:zh/index",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "title_lang_h1:zh/expertise",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "../assets/buttons.css"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "../assets/site.css"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "../assets/fidelity.css"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "../assets/app.js"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "#main"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "research.html"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "about.html"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "../en/expertise.html"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "contact.html?service=S01"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "contact.html?service=S02"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "contact.html?service=S03"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "contact.html?service=S04"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "contact.html?service=S05"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "contact.html?service=S06"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "contact.html?service=S07"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "contact.html?service=S08"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "contact.html?service=S09"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "contact.html?service=S10"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "contact.html?service=S11"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "contact.html?service=S12"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "contact.html?service=S13"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "contact.html?service=S14"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "contact.html?service=S15"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "contact.html?service=S16"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "ventures.html"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:zh/expertise",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "title_lang_h1:zh/research",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local_reference:zh/research",
+      "passed": true,
+      "detail": "../assets/buttons.css"
+    },
+    {
+      "name": "local_reference:zh/research",
+      "passed": true,
+      "detail": "../assets/site.css"
+    },
+    {
+      "name": "local_reference:zh/research",
+      "passed": true,
+      "detail": "../assets/fidelity.css"
+    },
+    {
+      "name": "local_reference:zh/research",
+      "passed": true,
+      "detail": "../assets/app.js"
+    },
+    {
+      "name": "local_reference:zh/research",
+      "passed": true,
+      "detail": "#main"
+    },
+    {
+      "name": "local_reference:zh/research",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:zh/research",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:zh/research",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:zh/research",
+      "passed": true,
+      "detail": "research.html"
+    },
+    {
+      "name": "local_reference:zh/research",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:zh/research",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:zh/research",
+      "passed": true,
+      "detail": "about.html"
+    },
+    {
+      "name": "local_reference:zh/research",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:zh/research",
+      "passed": true,
+      "detail": "../en/research.html"
+    },
+    {
+      "name": "local_reference:zh/research",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:zh/research",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:zh/research",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:zh/research",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:zh/research",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:zh/research",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:zh/research",
+      "passed": true,
+      "detail": "ventures.html"
+    },
+    {
+      "name": "local_reference:zh/research",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:zh/research",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "title_lang_h1:zh/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local_reference:zh/decision-os",
+      "passed": true,
+      "detail": "../assets/buttons.css"
+    },
+    {
+      "name": "local_reference:zh/decision-os",
+      "passed": true,
+      "detail": "../assets/site.css"
+    },
+    {
+      "name": "local_reference:zh/decision-os",
+      "passed": true,
+      "detail": "../assets/fidelity.css"
+    },
+    {
+      "name": "local_reference:zh/decision-os",
+      "passed": true,
+      "detail": "../assets/app.js"
+    },
+    {
+      "name": "local_reference:zh/decision-os",
+      "passed": true,
+      "detail": "#main"
+    },
+    {
+      "name": "local_reference:zh/decision-os",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:zh/decision-os",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:zh/decision-os",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:zh/decision-os",
+      "passed": true,
+      "detail": "research.html"
+    },
+    {
+      "name": "local_reference:zh/decision-os",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:zh/decision-os",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:zh/decision-os",
+      "passed": true,
+      "detail": "about.html"
+    },
+    {
+      "name": "local_reference:zh/decision-os",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:zh/decision-os",
+      "passed": true,
+      "detail": "../en/decision-os.html"
+    },
+    {
+      "name": "local_reference:zh/decision-os",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:zh/decision-os",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:zh/decision-os",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:zh/decision-os",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:zh/decision-os",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:zh/decision-os",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:zh/decision-os",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:zh/decision-os",
+      "passed": true,
+      "detail": "ventures.html"
+    },
+    {
+      "name": "local_reference:zh/decision-os",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:zh/decision-os",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "title_lang_h1:zh/lab",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local_reference:zh/lab",
+      "passed": true,
+      "detail": "../assets/buttons.css"
+    },
+    {
+      "name": "local_reference:zh/lab",
+      "passed": true,
+      "detail": "../assets/site.css"
+    },
+    {
+      "name": "local_reference:zh/lab",
+      "passed": true,
+      "detail": "../assets/fidelity.css"
+    },
+    {
+      "name": "local_reference:zh/lab",
+      "passed": true,
+      "detail": "../assets/app.js"
+    },
+    {
+      "name": "local_reference:zh/lab",
+      "passed": true,
+      "detail": "#main"
+    },
+    {
+      "name": "local_reference:zh/lab",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:zh/lab",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:zh/lab",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:zh/lab",
+      "passed": true,
+      "detail": "research.html"
+    },
+    {
+      "name": "local_reference:zh/lab",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:zh/lab",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:zh/lab",
+      "passed": true,
+      "detail": "about.html"
+    },
+    {
+      "name": "local_reference:zh/lab",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:zh/lab",
+      "passed": true,
+      "detail": "../en/lab.html"
+    },
+    {
+      "name": "local_reference:zh/lab",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:zh/lab",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:zh/lab",
+      "passed": true,
+      "detail": "contact.html?track=ventures"
+    },
+    {
+      "name": "local_reference:zh/lab",
+      "passed": true,
+      "detail": "contact.html?track=ventures"
+    },
+    {
+      "name": "local_reference:zh/lab",
+      "passed": true,
+      "detail": "contact.html?track=ventures"
+    },
+    {
+      "name": "local_reference:zh/lab",
+      "passed": true,
+      "detail": "contact.html?track=products"
+    },
+    {
+      "name": "local_reference:zh/lab",
+      "passed": true,
+      "detail": "contact.html?track=products"
+    },
+    {
+      "name": "local_reference:zh/lab",
+      "passed": true,
+      "detail": "contact.html?track=products"
+    },
+    {
+      "name": "local_reference:zh/lab",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:zh/lab",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:zh/lab",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:zh/lab",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:zh/lab",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:zh/lab",
+      "passed": true,
+      "detail": "ventures.html"
+    },
+    {
+      "name": "local_reference:zh/lab",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:zh/lab",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "title_lang_h1:zh/ventures",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local_reference:zh/ventures",
+      "passed": true,
+      "detail": "../assets/buttons.css"
+    },
+    {
+      "name": "local_reference:zh/ventures",
+      "passed": true,
+      "detail": "../assets/site.css"
+    },
+    {
+      "name": "local_reference:zh/ventures",
+      "passed": true,
+      "detail": "../assets/fidelity.css"
+    },
+    {
+      "name": "local_reference:zh/ventures",
+      "passed": true,
+      "detail": "../assets/app.js"
+    },
+    {
+      "name": "local_reference:zh/ventures",
+      "passed": true,
+      "detail": "#main"
+    },
+    {
+      "name": "local_reference:zh/ventures",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:zh/ventures",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:zh/ventures",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:zh/ventures",
+      "passed": true,
+      "detail": "research.html"
+    },
+    {
+      "name": "local_reference:zh/ventures",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:zh/ventures",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:zh/ventures",
+      "passed": true,
+      "detail": "about.html"
+    },
+    {
+      "name": "local_reference:zh/ventures",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:zh/ventures",
+      "passed": true,
+      "detail": "../en/ventures.html"
+    },
+    {
+      "name": "local_reference:zh/ventures",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:zh/ventures",
+      "passed": true,
+      "detail": "contact.html?track=ventures"
+    },
+    {
+      "name": "local_reference:zh/ventures",
+      "passed": true,
+      "detail": "contact.html?track=ventures"
+    },
+    {
+      "name": "local_reference:zh/ventures",
+      "passed": true,
+      "detail": "contact.html?track=ventures"
+    },
+    {
+      "name": "local_reference:zh/ventures",
+      "passed": true,
+      "detail": "contact.html?track=ventures"
+    },
+    {
+      "name": "local_reference:zh/ventures",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:zh/ventures",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:zh/ventures",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:zh/ventures",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:zh/ventures",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:zh/ventures",
+      "passed": true,
+      "detail": "ventures.html"
+    },
+    {
+      "name": "local_reference:zh/ventures",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:zh/ventures",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "title_lang_h1:zh/about",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local_reference:zh/about",
+      "passed": true,
+      "detail": "../assets/buttons.css"
+    },
+    {
+      "name": "local_reference:zh/about",
+      "passed": true,
+      "detail": "../assets/site.css"
+    },
+    {
+      "name": "local_reference:zh/about",
+      "passed": true,
+      "detail": "../assets/fidelity.css"
+    },
+    {
+      "name": "local_reference:zh/about",
+      "passed": true,
+      "detail": "../assets/app.js"
+    },
+    {
+      "name": "local_reference:zh/about",
+      "passed": true,
+      "detail": "#main"
+    },
+    {
+      "name": "local_reference:zh/about",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:zh/about",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:zh/about",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:zh/about",
+      "passed": true,
+      "detail": "research.html"
+    },
+    {
+      "name": "local_reference:zh/about",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:zh/about",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:zh/about",
+      "passed": true,
+      "detail": "about.html"
+    },
+    {
+      "name": "local_reference:zh/about",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:zh/about",
+      "passed": true,
+      "detail": "../en/about.html"
+    },
+    {
+      "name": "local_reference:zh/about",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:zh/about",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:zh/about",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:zh/about",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:zh/about",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:zh/about",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:zh/about",
+      "passed": true,
+      "detail": "ventures.html"
+    },
+    {
+      "name": "local_reference:zh/about",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:zh/about",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "title_lang_h1:zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local_reference:zh/contact",
+      "passed": true,
+      "detail": "../assets/buttons.css"
+    },
+    {
+      "name": "local_reference:zh/contact",
+      "passed": true,
+      "detail": "../assets/site.css"
+    },
+    {
+      "name": "local_reference:zh/contact",
+      "passed": true,
+      "detail": "../assets/fidelity.css"
+    },
+    {
+      "name": "local_reference:zh/contact",
+      "passed": true,
+      "detail": "../assets/app.js"
+    },
+    {
+      "name": "local_reference:zh/contact",
+      "passed": true,
+      "detail": "#main"
+    },
+    {
+      "name": "local_reference:zh/contact",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:zh/contact",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:zh/contact",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:zh/contact",
+      "passed": true,
+      "detail": "research.html"
+    },
+    {
+      "name": "local_reference:zh/contact",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:zh/contact",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:zh/contact",
+      "passed": true,
+      "detail": "about.html"
+    },
+    {
+      "name": "local_reference:zh/contact",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:zh/contact",
+      "passed": true,
+      "detail": "../en/contact.html"
+    },
+    {
+      "name": "local_reference:zh/contact",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:zh/contact",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:zh/contact",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:zh/contact",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:zh/contact",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:zh/contact",
+      "passed": true,
+      "detail": "ventures.html"
+    },
+    {
+      "name": "local_reference:zh/contact",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:zh/contact",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "title_lang_h1:zh/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local_reference:zh/buttons",
+      "passed": true,
+      "detail": "../assets/buttons.css"
+    },
+    {
+      "name": "local_reference:zh/buttons",
+      "passed": true,
+      "detail": "../assets/site.css"
+    },
+    {
+      "name": "local_reference:zh/buttons",
+      "passed": true,
+      "detail": "../assets/fidelity.css"
+    },
+    {
+      "name": "local_reference:zh/buttons",
+      "passed": true,
+      "detail": "../assets/app.js"
+    },
+    {
+      "name": "local_reference:zh/buttons",
+      "passed": true,
+      "detail": "#main"
+    },
+    {
+      "name": "local_reference:zh/buttons",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:zh/buttons",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:zh/buttons",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:zh/buttons",
+      "passed": true,
+      "detail": "research.html"
+    },
+    {
+      "name": "local_reference:zh/buttons",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:zh/buttons",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:zh/buttons",
+      "passed": true,
+      "detail": "about.html"
+    },
+    {
+      "name": "local_reference:zh/buttons",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:zh/buttons",
+      "passed": true,
+      "detail": "../en/buttons.html"
+    },
+    {
+      "name": "local_reference:zh/buttons",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:zh/buttons",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:zh/buttons",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:zh/buttons",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:zh/buttons",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:zh/buttons",
+      "passed": true,
+      "detail": "ventures.html"
+    },
+    {
+      "name": "local_reference:zh/buttons",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:zh/buttons",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "title_lang_h1:en/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "../assets/buttons.css"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "../assets/site.css"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "../assets/fidelity.css"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "../assets/app.js"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "#main"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "research.html"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "about.html"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "../zh/index.html"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "ventures.html"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "about.html"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "research.html"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "research.html"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "ventures.html"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:en/index",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "title_lang_h1:en/expertise",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "../assets/buttons.css"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "../assets/site.css"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "../assets/fidelity.css"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "../assets/app.js"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "#main"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "research.html"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "about.html"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "../zh/expertise.html"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "contact.html?service=S01"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "contact.html?service=S02"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "contact.html?service=S03"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "contact.html?service=S04"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "contact.html?service=S05"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "contact.html?service=S06"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "contact.html?service=S07"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "contact.html?service=S08"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "contact.html?service=S09"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "contact.html?service=S10"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "contact.html?service=S11"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "contact.html?service=S12"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "contact.html?service=S13"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "contact.html?service=S14"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "contact.html?service=S15"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "contact.html?service=S16"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "ventures.html"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:en/expertise",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "title_lang_h1:en/research",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local_reference:en/research",
+      "passed": true,
+      "detail": "../assets/buttons.css"
+    },
+    {
+      "name": "local_reference:en/research",
+      "passed": true,
+      "detail": "../assets/site.css"
+    },
+    {
+      "name": "local_reference:en/research",
+      "passed": true,
+      "detail": "../assets/fidelity.css"
+    },
+    {
+      "name": "local_reference:en/research",
+      "passed": true,
+      "detail": "../assets/app.js"
+    },
+    {
+      "name": "local_reference:en/research",
+      "passed": true,
+      "detail": "#main"
+    },
+    {
+      "name": "local_reference:en/research",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:en/research",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:en/research",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:en/research",
+      "passed": true,
+      "detail": "research.html"
+    },
+    {
+      "name": "local_reference:en/research",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:en/research",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:en/research",
+      "passed": true,
+      "detail": "about.html"
+    },
+    {
+      "name": "local_reference:en/research",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:en/research",
+      "passed": true,
+      "detail": "../zh/research.html"
+    },
+    {
+      "name": "local_reference:en/research",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:en/research",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:en/research",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:en/research",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:en/research",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:en/research",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:en/research",
+      "passed": true,
+      "detail": "ventures.html"
+    },
+    {
+      "name": "local_reference:en/research",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:en/research",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "title_lang_h1:en/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local_reference:en/decision-os",
+      "passed": true,
+      "detail": "../assets/buttons.css"
+    },
+    {
+      "name": "local_reference:en/decision-os",
+      "passed": true,
+      "detail": "../assets/site.css"
+    },
+    {
+      "name": "local_reference:en/decision-os",
+      "passed": true,
+      "detail": "../assets/fidelity.css"
+    },
+    {
+      "name": "local_reference:en/decision-os",
+      "passed": true,
+      "detail": "../assets/app.js"
+    },
+    {
+      "name": "local_reference:en/decision-os",
+      "passed": true,
+      "detail": "#main"
+    },
+    {
+      "name": "local_reference:en/decision-os",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:en/decision-os",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:en/decision-os",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:en/decision-os",
+      "passed": true,
+      "detail": "research.html"
+    },
+    {
+      "name": "local_reference:en/decision-os",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:en/decision-os",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:en/decision-os",
+      "passed": true,
+      "detail": "about.html"
+    },
+    {
+      "name": "local_reference:en/decision-os",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:en/decision-os",
+      "passed": true,
+      "detail": "../zh/decision-os.html"
+    },
+    {
+      "name": "local_reference:en/decision-os",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:en/decision-os",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:en/decision-os",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:en/decision-os",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:en/decision-os",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:en/decision-os",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:en/decision-os",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:en/decision-os",
+      "passed": true,
+      "detail": "ventures.html"
+    },
+    {
+      "name": "local_reference:en/decision-os",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:en/decision-os",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "title_lang_h1:en/lab",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local_reference:en/lab",
+      "passed": true,
+      "detail": "../assets/buttons.css"
+    },
+    {
+      "name": "local_reference:en/lab",
+      "passed": true,
+      "detail": "../assets/site.css"
+    },
+    {
+      "name": "local_reference:en/lab",
+      "passed": true,
+      "detail": "../assets/fidelity.css"
+    },
+    {
+      "name": "local_reference:en/lab",
+      "passed": true,
+      "detail": "../assets/app.js"
+    },
+    {
+      "name": "local_reference:en/lab",
+      "passed": true,
+      "detail": "#main"
+    },
+    {
+      "name": "local_reference:en/lab",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:en/lab",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:en/lab",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:en/lab",
+      "passed": true,
+      "detail": "research.html"
+    },
+    {
+      "name": "local_reference:en/lab",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:en/lab",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:en/lab",
+      "passed": true,
+      "detail": "about.html"
+    },
+    {
+      "name": "local_reference:en/lab",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:en/lab",
+      "passed": true,
+      "detail": "../zh/lab.html"
+    },
+    {
+      "name": "local_reference:en/lab",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:en/lab",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:en/lab",
+      "passed": true,
+      "detail": "contact.html?track=ventures"
+    },
+    {
+      "name": "local_reference:en/lab",
+      "passed": true,
+      "detail": "contact.html?track=ventures"
+    },
+    {
+      "name": "local_reference:en/lab",
+      "passed": true,
+      "detail": "contact.html?track=ventures"
+    },
+    {
+      "name": "local_reference:en/lab",
+      "passed": true,
+      "detail": "contact.html?track=products"
+    },
+    {
+      "name": "local_reference:en/lab",
+      "passed": true,
+      "detail": "contact.html?track=products"
+    },
+    {
+      "name": "local_reference:en/lab",
+      "passed": true,
+      "detail": "contact.html?track=products"
+    },
+    {
+      "name": "local_reference:en/lab",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:en/lab",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:en/lab",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:en/lab",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:en/lab",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:en/lab",
+      "passed": true,
+      "detail": "ventures.html"
+    },
+    {
+      "name": "local_reference:en/lab",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:en/lab",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "title_lang_h1:en/ventures",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local_reference:en/ventures",
+      "passed": true,
+      "detail": "../assets/buttons.css"
+    },
+    {
+      "name": "local_reference:en/ventures",
+      "passed": true,
+      "detail": "../assets/site.css"
+    },
+    {
+      "name": "local_reference:en/ventures",
+      "passed": true,
+      "detail": "../assets/fidelity.css"
+    },
+    {
+      "name": "local_reference:en/ventures",
+      "passed": true,
+      "detail": "../assets/app.js"
+    },
+    {
+      "name": "local_reference:en/ventures",
+      "passed": true,
+      "detail": "#main"
+    },
+    {
+      "name": "local_reference:en/ventures",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:en/ventures",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:en/ventures",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:en/ventures",
+      "passed": true,
+      "detail": "research.html"
+    },
+    {
+      "name": "local_reference:en/ventures",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:en/ventures",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:en/ventures",
+      "passed": true,
+      "detail": "about.html"
+    },
+    {
+      "name": "local_reference:en/ventures",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:en/ventures",
+      "passed": true,
+      "detail": "../zh/ventures.html"
+    },
+    {
+      "name": "local_reference:en/ventures",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:en/ventures",
+      "passed": true,
+      "detail": "contact.html?track=ventures"
+    },
+    {
+      "name": "local_reference:en/ventures",
+      "passed": true,
+      "detail": "contact.html?track=ventures"
+    },
+    {
+      "name": "local_reference:en/ventures",
+      "passed": true,
+      "detail": "contact.html?track=ventures"
+    },
+    {
+      "name": "local_reference:en/ventures",
+      "passed": true,
+      "detail": "contact.html?track=ventures"
+    },
+    {
+      "name": "local_reference:en/ventures",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:en/ventures",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:en/ventures",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:en/ventures",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:en/ventures",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:en/ventures",
+      "passed": true,
+      "detail": "ventures.html"
+    },
+    {
+      "name": "local_reference:en/ventures",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:en/ventures",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "title_lang_h1:en/about",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local_reference:en/about",
+      "passed": true,
+      "detail": "../assets/buttons.css"
+    },
+    {
+      "name": "local_reference:en/about",
+      "passed": true,
+      "detail": "../assets/site.css"
+    },
+    {
+      "name": "local_reference:en/about",
+      "passed": true,
+      "detail": "../assets/fidelity.css"
+    },
+    {
+      "name": "local_reference:en/about",
+      "passed": true,
+      "detail": "../assets/app.js"
+    },
+    {
+      "name": "local_reference:en/about",
+      "passed": true,
+      "detail": "#main"
+    },
+    {
+      "name": "local_reference:en/about",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:en/about",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:en/about",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:en/about",
+      "passed": true,
+      "detail": "research.html"
+    },
+    {
+      "name": "local_reference:en/about",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:en/about",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:en/about",
+      "passed": true,
+      "detail": "about.html"
+    },
+    {
+      "name": "local_reference:en/about",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:en/about",
+      "passed": true,
+      "detail": "../zh/about.html"
+    },
+    {
+      "name": "local_reference:en/about",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:en/about",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:en/about",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:en/about",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:en/about",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:en/about",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:en/about",
+      "passed": true,
+      "detail": "ventures.html"
+    },
+    {
+      "name": "local_reference:en/about",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:en/about",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "title_lang_h1:en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local_reference:en/contact",
+      "passed": true,
+      "detail": "../assets/buttons.css"
+    },
+    {
+      "name": "local_reference:en/contact",
+      "passed": true,
+      "detail": "../assets/site.css"
+    },
+    {
+      "name": "local_reference:en/contact",
+      "passed": true,
+      "detail": "../assets/fidelity.css"
+    },
+    {
+      "name": "local_reference:en/contact",
+      "passed": true,
+      "detail": "../assets/app.js"
+    },
+    {
+      "name": "local_reference:en/contact",
+      "passed": true,
+      "detail": "#main"
+    },
+    {
+      "name": "local_reference:en/contact",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:en/contact",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:en/contact",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:en/contact",
+      "passed": true,
+      "detail": "research.html"
+    },
+    {
+      "name": "local_reference:en/contact",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:en/contact",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:en/contact",
+      "passed": true,
+      "detail": "about.html"
+    },
+    {
+      "name": "local_reference:en/contact",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:en/contact",
+      "passed": true,
+      "detail": "../zh/contact.html"
+    },
+    {
+      "name": "local_reference:en/contact",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:en/contact",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:en/contact",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:en/contact",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:en/contact",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:en/contact",
+      "passed": true,
+      "detail": "ventures.html"
+    },
+    {
+      "name": "local_reference:en/contact",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:en/contact",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "title_lang_h1:en/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local_reference:en/buttons",
+      "passed": true,
+      "detail": "../assets/buttons.css"
+    },
+    {
+      "name": "local_reference:en/buttons",
+      "passed": true,
+      "detail": "../assets/site.css"
+    },
+    {
+      "name": "local_reference:en/buttons",
+      "passed": true,
+      "detail": "../assets/fidelity.css"
+    },
+    {
+      "name": "local_reference:en/buttons",
+      "passed": true,
+      "detail": "../assets/app.js"
+    },
+    {
+      "name": "local_reference:en/buttons",
+      "passed": true,
+      "detail": "#main"
+    },
+    {
+      "name": "local_reference:en/buttons",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:en/buttons",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:en/buttons",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:en/buttons",
+      "passed": true,
+      "detail": "research.html"
+    },
+    {
+      "name": "local_reference:en/buttons",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:en/buttons",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:en/buttons",
+      "passed": true,
+      "detail": "about.html"
+    },
+    {
+      "name": "local_reference:en/buttons",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:en/buttons",
+      "passed": true,
+      "detail": "../zh/buttons.html"
+    },
+    {
+      "name": "local_reference:en/buttons",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "local_reference:en/buttons",
+      "passed": true,
+      "detail": "index.html"
+    },
+    {
+      "name": "local_reference:en/buttons",
+      "passed": true,
+      "detail": "../assets/ggc-logo.svg"
+    },
+    {
+      "name": "local_reference:en/buttons",
+      "passed": true,
+      "detail": "expertise.html"
+    },
+    {
+      "name": "local_reference:en/buttons",
+      "passed": true,
+      "detail": "decision-os.html"
+    },
+    {
+      "name": "local_reference:en/buttons",
+      "passed": true,
+      "detail": "ventures.html"
+    },
+    {
+      "name": "local_reference:en/buttons",
+      "passed": true,
+      "detail": "lab.html"
+    },
+    {
+      "name": "local_reference:en/buttons",
+      "passed": true,
+      "detail": "contact.html"
+    },
+    {
+      "name": "HTTP200:after/zh/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/index/320",
+      "passed": true,
+      "detail": {
+        "client": 320,
+        "scroll": 320
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/expertise",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/expertise/320",
+      "passed": true,
+      "detail": {
+        "client": 320,
+        "scroll": 320
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/expertise",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/research",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/research/320",
+      "passed": true,
+      "detail": {
+        "client": 320,
+        "scroll": 320
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/research",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/decision-os/320",
+      "passed": true,
+      "detail": {
+        "client": 320,
+        "scroll": 320
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/lab",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/lab/320",
+      "passed": true,
+      "detail": {
+        "client": 320,
+        "scroll": 320
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/lab",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/ventures",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/ventures/320",
+      "passed": true,
+      "detail": {
+        "client": 320,
+        "scroll": 320
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/ventures",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/about",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/about/320",
+      "passed": true,
+      "detail": {
+        "client": 320,
+        "scroll": 320
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/about",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/contact/320",
+      "passed": true,
+      "detail": {
+        "client": 320,
+        "scroll": 320
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/buttons/320",
+      "passed": true,
+      "detail": {
+        "client": 320,
+        "scroll": 320
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/index/390",
+      "passed": true,
+      "detail": {
+        "client": 390,
+        "scroll": 390
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/expertise",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/expertise/390",
+      "passed": true,
+      "detail": {
+        "client": 390,
+        "scroll": 390
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/expertise",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/research",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/research/390",
+      "passed": true,
+      "detail": {
+        "client": 390,
+        "scroll": 390
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/research",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/decision-os/390",
+      "passed": true,
+      "detail": {
+        "client": 390,
+        "scroll": 390
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/lab",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/lab/390",
+      "passed": true,
+      "detail": {
+        "client": 390,
+        "scroll": 390
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/lab",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/ventures",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/ventures/390",
+      "passed": true,
+      "detail": {
+        "client": 390,
+        "scroll": 390
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/ventures",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/about",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/about/390",
+      "passed": true,
+      "detail": {
+        "client": 390,
+        "scroll": 390
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/about",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/contact/390",
+      "passed": true,
+      "detail": {
+        "client": 390,
+        "scroll": 390
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/buttons/390",
+      "passed": true,
+      "detail": {
+        "client": 390,
+        "scroll": 390
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/index/768",
+      "passed": true,
+      "detail": {
+        "client": 768,
+        "scroll": 768
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/expertise",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/expertise/768",
+      "passed": true,
+      "detail": {
+        "client": 768,
+        "scroll": 768
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/expertise",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/research",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/research/768",
+      "passed": true,
+      "detail": {
+        "client": 768,
+        "scroll": 768
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/research",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/decision-os/768",
+      "passed": true,
+      "detail": {
+        "client": 768,
+        "scroll": 768
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/lab",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/lab/768",
+      "passed": true,
+      "detail": {
+        "client": 768,
+        "scroll": 768
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/lab",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/ventures",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/ventures/768",
+      "passed": true,
+      "detail": {
+        "client": 768,
+        "scroll": 768
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/ventures",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/about",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/about/768",
+      "passed": true,
+      "detail": {
+        "client": 768,
+        "scroll": 768
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/about",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/contact/768",
+      "passed": true,
+      "detail": {
+        "client": 768,
+        "scroll": 768
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/buttons/768",
+      "passed": true,
+      "detail": {
+        "client": 768,
+        "scroll": 768
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/index/1024",
+      "passed": true,
+      "detail": {
+        "client": 1024,
+        "scroll": 1024
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/expertise",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/expertise/1024",
+      "passed": true,
+      "detail": {
+        "client": 1024,
+        "scroll": 1024
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/expertise",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/research",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/research/1024",
+      "passed": true,
+      "detail": {
+        "client": 1024,
+        "scroll": 1024
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/research",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/decision-os/1024",
+      "passed": true,
+      "detail": {
+        "client": 1024,
+        "scroll": 1025
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/lab",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/lab/1024",
+      "passed": true,
+      "detail": {
+        "client": 1024,
+        "scroll": 1024
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/lab",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/ventures",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/ventures/1024",
+      "passed": true,
+      "detail": {
+        "client": 1024,
+        "scroll": 1024
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/ventures",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/about",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/about/1024",
+      "passed": true,
+      "detail": {
+        "client": 1024,
+        "scroll": 1024
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/about",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/contact/1024",
+      "passed": true,
+      "detail": {
+        "client": 1024,
+        "scroll": 1024
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/buttons/1024",
+      "passed": true,
+      "detail": {
+        "client": 1024,
+        "scroll": 1024
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/index/1280",
+      "passed": true,
+      "detail": {
+        "client": 1280,
+        "scroll": 1280
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/expertise",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/expertise/1280",
+      "passed": true,
+      "detail": {
+        "client": 1280,
+        "scroll": 1280
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/expertise",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/research",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/research/1280",
+      "passed": true,
+      "detail": {
+        "client": 1280,
+        "scroll": 1280
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/research",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/decision-os/1280",
+      "passed": true,
+      "detail": {
+        "client": 1280,
+        "scroll": 1280
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/lab",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/lab/1280",
+      "passed": true,
+      "detail": {
+        "client": 1280,
+        "scroll": 1280
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/lab",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/ventures",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/ventures/1280",
+      "passed": true,
+      "detail": {
+        "client": 1280,
+        "scroll": 1280
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/ventures",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/about",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/about/1280",
+      "passed": true,
+      "detail": {
+        "client": 1280,
+        "scroll": 1280
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/about",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/contact/1280",
+      "passed": true,
+      "detail": {
+        "client": 1280,
+        "scroll": 1280
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/buttons/1280",
+      "passed": true,
+      "detail": {
+        "client": 1280,
+        "scroll": 1280
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/index/1440",
+      "passed": true,
+      "detail": {
+        "client": 1440,
+        "scroll": 1440
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/expertise",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/expertise/1440",
+      "passed": true,
+      "detail": {
+        "client": 1440,
+        "scroll": 1440
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/expertise",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/research",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/research/1440",
+      "passed": true,
+      "detail": {
+        "client": 1440,
+        "scroll": 1440
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/research",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/decision-os/1440",
+      "passed": true,
+      "detail": {
+        "client": 1440,
+        "scroll": 1440
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/lab",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/lab/1440",
+      "passed": true,
+      "detail": {
+        "client": 1440,
+        "scroll": 1440
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/lab",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/ventures",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/ventures/1440",
+      "passed": true,
+      "detail": {
+        "client": 1440,
+        "scroll": 1440
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/ventures",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/about",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/about/1440",
+      "passed": true,
+      "detail": {
+        "client": 1440,
+        "scroll": 1440
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/about",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/contact/1440",
+      "passed": true,
+      "detail": {
+        "client": 1440,
+        "scroll": 1440
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/buttons/1440",
+      "passed": true,
+      "detail": {
+        "client": 1440,
+        "scroll": 1440
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/index/1920",
+      "passed": true,
+      "detail": {
+        "client": 1920,
+        "scroll": 1920
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/expertise",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/expertise/1920",
+      "passed": true,
+      "detail": {
+        "client": 1920,
+        "scroll": 1920
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/expertise",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/research",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/research/1920",
+      "passed": true,
+      "detail": {
+        "client": 1920,
+        "scroll": 1920
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/research",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/decision-os/1920",
+      "passed": true,
+      "detail": {
+        "client": 1920,
+        "scroll": 1920
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/lab",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/lab/1920",
+      "passed": true,
+      "detail": {
+        "client": 1920,
+        "scroll": 1920
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/lab",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/ventures",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/ventures/1920",
+      "passed": true,
+      "detail": {
+        "client": 1920,
+        "scroll": 1920
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/ventures",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/about",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/about/1920",
+      "passed": true,
+      "detail": {
+        "client": 1920,
+        "scroll": 1920
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/about",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/contact/1920",
+      "passed": true,
+      "detail": {
+        "client": 1920,
+        "scroll": 1920
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:zh/buttons/1920",
+      "passed": true,
+      "detail": {
+        "client": 1920,
+        "scroll": 1920
+      }
+    },
+    {
+      "name": "no_internal_release_copy:zh/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:before/zh/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:before/zh/about",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/about",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "hero_type_and_position_preserved:zh",
+      "passed": true,
+      "detail": {
+        "before": {
+          "size": "77.76px",
+          "weight": "900",
+          "box": {
+            "x": 56,
+            "y": 195,
+            "width": 680.1875,
+            "height": 177.28125,
+            "top": 195,
+            "right": 736.1875,
+            "bottom": 372.28125,
+            "left": 56
+          }
+        },
+        "after": {
+          "size": "77.76px",
+          "weight": "900",
+          "box": {
+            "x": 56,
+            "y": 195,
+            "width": 680.1875,
+            "height": 177.28125,
+            "top": 195,
+            "right": 736.1875,
+            "bottom": 372.28125,
+            "left": 56
+          }
+        }
+      }
+    },
+    {
+      "name": "HTTP200:after/zh/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tab_panel:zh/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tab_panel:zh/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tab_panel:zh/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tab_keyboard:zh/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tab_panel:zh/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tab_panel:zh/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tab_panel:zh/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tab_keyboard:zh/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tab_panel:zh/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tab_panel:zh/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tab_panel:zh/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tab_keyboard:zh/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/expertise",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "filter:zh/expertise/all",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "filter:zh/expertise/advisory",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "filter:zh/expertise/partner",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "filter:zh/expertise/ai",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "all16_services:zh",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "search_empty:zh",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "scope_expander:zh",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "scope_expander:zh",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "scope_expander:zh",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "scope_expander:zh",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "scope_expander:zh",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "scope_expander:zh",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "scope_expander:zh",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "scope_expander:zh",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "scope_expander:zh",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "scope_expander:zh",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "scope_expander:zh",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "scope_expander:zh",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "scope_expander:zh",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "scope_expander:zh",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "scope_expander:zh",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "scope_expander:zh",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/lab",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "filter:zh/lab/all",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "filter:zh/lab/software",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "filter:zh/lab/games",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "filter:zh/lab/consumer",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "filter:zh/lab/knowledge",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "service_referral:zh/S01",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "service_referral:zh/S02",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "service_referral:zh/S03",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "service_referral:zh/S04",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "service_referral:zh/S05",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "service_referral:zh/S06",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "service_referral:zh/S07",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "service_referral:zh/S08",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "service_referral:zh/S09",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "service_referral:zh/S10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "service_referral:zh/S11",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "service_referral:zh/S12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "service_referral:zh/S13",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "service_referral:zh/S14",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "service_referral:zh/S15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "service_referral:zh/S16",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "track_referral:zh/principal",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "track_referral:zh/intelligence",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "track_referral:zh/ventures",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "track_referral:zh/products",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "track_referral:zh/media",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "empty_form_no_success:zh",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "invalid_email_no_success:zh",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "valid_local_draft:zh",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "repeated_submission_stays_draft:zh",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/zh/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "mobile_navigation:zh",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "mobile_escape_focus:zh",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/index/320",
+      "passed": true,
+      "detail": {
+        "client": 320,
+        "scroll": 320
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/expertise",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/expertise/320",
+      "passed": true,
+      "detail": {
+        "client": 320,
+        "scroll": 320
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/expertise",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/research",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/research/320",
+      "passed": true,
+      "detail": {
+        "client": 320,
+        "scroll": 320
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/research",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/decision-os/320",
+      "passed": true,
+      "detail": {
+        "client": 320,
+        "scroll": 320
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/lab",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/lab/320",
+      "passed": true,
+      "detail": {
+        "client": 320,
+        "scroll": 320
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/lab",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/ventures",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/ventures/320",
+      "passed": true,
+      "detail": {
+        "client": 320,
+        "scroll": 320
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/ventures",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/about",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/about/320",
+      "passed": true,
+      "detail": {
+        "client": 320,
+        "scroll": 320
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/about",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/contact/320",
+      "passed": true,
+      "detail": {
+        "client": 320,
+        "scroll": 320
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/buttons/320",
+      "passed": true,
+      "detail": {
+        "client": 320,
+        "scroll": 320
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/index/390",
+      "passed": true,
+      "detail": {
+        "client": 390,
+        "scroll": 390
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/expertise",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/expertise/390",
+      "passed": true,
+      "detail": {
+        "client": 390,
+        "scroll": 390
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/expertise",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/research",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/research/390",
+      "passed": true,
+      "detail": {
+        "client": 390,
+        "scroll": 390
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/research",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/decision-os/390",
+      "passed": true,
+      "detail": {
+        "client": 390,
+        "scroll": 390
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/lab",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/lab/390",
+      "passed": true,
+      "detail": {
+        "client": 390,
+        "scroll": 390
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/lab",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/ventures",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/ventures/390",
+      "passed": true,
+      "detail": {
+        "client": 390,
+        "scroll": 390
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/ventures",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/about",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/about/390",
+      "passed": true,
+      "detail": {
+        "client": 390,
+        "scroll": 390
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/about",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/contact/390",
+      "passed": true,
+      "detail": {
+        "client": 390,
+        "scroll": 390
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/buttons/390",
+      "passed": true,
+      "detail": {
+        "client": 390,
+        "scroll": 390
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/index/768",
+      "passed": true,
+      "detail": {
+        "client": 768,
+        "scroll": 768
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/expertise",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/expertise/768",
+      "passed": true,
+      "detail": {
+        "client": 768,
+        "scroll": 768
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/expertise",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/research",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/research/768",
+      "passed": true,
+      "detail": {
+        "client": 768,
+        "scroll": 768
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/research",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/decision-os/768",
+      "passed": true,
+      "detail": {
+        "client": 768,
+        "scroll": 768
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/lab",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/lab/768",
+      "passed": true,
+      "detail": {
+        "client": 768,
+        "scroll": 768
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/lab",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/ventures",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/ventures/768",
+      "passed": true,
+      "detail": {
+        "client": 768,
+        "scroll": 768
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/ventures",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/about",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/about/768",
+      "passed": true,
+      "detail": {
+        "client": 768,
+        "scroll": 768
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/about",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/contact/768",
+      "passed": true,
+      "detail": {
+        "client": 768,
+        "scroll": 768
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/buttons/768",
+      "passed": true,
+      "detail": {
+        "client": 768,
+        "scroll": 768
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/index/1024",
+      "passed": true,
+      "detail": {
+        "client": 1024,
+        "scroll": 1024
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/expertise",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/expertise/1024",
+      "passed": true,
+      "detail": {
+        "client": 1024,
+        "scroll": 1024
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/expertise",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/research",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/research/1024",
+      "passed": true,
+      "detail": {
+        "client": 1024,
+        "scroll": 1024
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/research",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/decision-os/1024",
+      "passed": true,
+      "detail": {
+        "client": 1024,
+        "scroll": 1025
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/lab",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/lab/1024",
+      "passed": true,
+      "detail": {
+        "client": 1024,
+        "scroll": 1024
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/lab",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/ventures",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/ventures/1024",
+      "passed": true,
+      "detail": {
+        "client": 1024,
+        "scroll": 1024
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/ventures",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/about",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/about/1024",
+      "passed": true,
+      "detail": {
+        "client": 1024,
+        "scroll": 1024
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/about",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/contact/1024",
+      "passed": true,
+      "detail": {
+        "client": 1024,
+        "scroll": 1024
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/buttons/1024",
+      "passed": true,
+      "detail": {
+        "client": 1024,
+        "scroll": 1024
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/index/1280",
+      "passed": true,
+      "detail": {
+        "client": 1280,
+        "scroll": 1280
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/expertise",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/expertise/1280",
+      "passed": true,
+      "detail": {
+        "client": 1280,
+        "scroll": 1280
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/expertise",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/research",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/research/1280",
+      "passed": true,
+      "detail": {
+        "client": 1280,
+        "scroll": 1280
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/research",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/decision-os/1280",
+      "passed": true,
+      "detail": {
+        "client": 1280,
+        "scroll": 1280
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/lab",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/lab/1280",
+      "passed": true,
+      "detail": {
+        "client": 1280,
+        "scroll": 1280
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/lab",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/ventures",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/ventures/1280",
+      "passed": true,
+      "detail": {
+        "client": 1280,
+        "scroll": 1280
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/ventures",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/about",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/about/1280",
+      "passed": true,
+      "detail": {
+        "client": 1280,
+        "scroll": 1280
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/about",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/contact/1280",
+      "passed": true,
+      "detail": {
+        "client": 1280,
+        "scroll": 1280
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/buttons/1280",
+      "passed": true,
+      "detail": {
+        "client": 1280,
+        "scroll": 1280
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/index/1440",
+      "passed": true,
+      "detail": {
+        "client": 1440,
+        "scroll": 1440
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/expertise",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/expertise/1440",
+      "passed": true,
+      "detail": {
+        "client": 1440,
+        "scroll": 1440
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/expertise",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/research",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/research/1440",
+      "passed": true,
+      "detail": {
+        "client": 1440,
+        "scroll": 1440
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/research",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/decision-os/1440",
+      "passed": true,
+      "detail": {
+        "client": 1440,
+        "scroll": 1440
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/lab",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/lab/1440",
+      "passed": true,
+      "detail": {
+        "client": 1440,
+        "scroll": 1440
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/lab",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/ventures",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/ventures/1440",
+      "passed": true,
+      "detail": {
+        "client": 1440,
+        "scroll": 1440
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/ventures",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/about",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/about/1440",
+      "passed": true,
+      "detail": {
+        "client": 1440,
+        "scroll": 1440
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/about",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/contact/1440",
+      "passed": true,
+      "detail": {
+        "client": 1440,
+        "scroll": 1440
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/buttons/1440",
+      "passed": true,
+      "detail": {
+        "client": 1440,
+        "scroll": 1440
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/index/1920",
+      "passed": true,
+      "detail": {
+        "client": 1920,
+        "scroll": 1920
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/expertise",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/expertise/1920",
+      "passed": true,
+      "detail": {
+        "client": 1920,
+        "scroll": 1920
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/expertise",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/research",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/research/1920",
+      "passed": true,
+      "detail": {
+        "client": 1920,
+        "scroll": 1920
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/research",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/decision-os/1920",
+      "passed": true,
+      "detail": {
+        "client": 1920,
+        "scroll": 1920
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/lab",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/lab/1920",
+      "passed": true,
+      "detail": {
+        "client": 1920,
+        "scroll": 1920
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/lab",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/ventures",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/ventures/1920",
+      "passed": true,
+      "detail": {
+        "client": 1920,
+        "scroll": 1920
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/ventures",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/about",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/about/1920",
+      "passed": true,
+      "detail": {
+        "client": 1920,
+        "scroll": 1920
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/about",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/contact/1920",
+      "passed": true,
+      "detail": {
+        "client": 1920,
+        "scroll": 1920
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_overflow:en/buttons/1920",
+      "passed": true,
+      "detail": {
+        "client": 1920,
+        "scroll": 1920
+      }
+    },
+    {
+      "name": "no_internal_release_copy:en/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:before/en/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:before/en/about",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/about",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "hero_type_and_position_preserved:en",
+      "passed": true,
+      "detail": {
+        "before": {
+          "size": "69.92px",
+          "weight": "900",
+          "box": {
+            "x": 56,
+            "y": 209.296875,
+            "width": 680.1875,
+            "height": 143.3125,
+            "top": 209.296875,
+            "right": 736.1875,
+            "bottom": 352.609375,
+            "left": 56
+          }
+        },
+        "after": {
+          "size": "69.92px",
+          "weight": "900",
+          "box": {
+            "x": 56,
+            "y": 209.296875,
+            "width": 680.1875,
+            "height": 143.3125,
+            "top": 209.296875,
+            "right": 736.1875,
+            "bottom": 352.609375,
+            "left": 56
+          }
+        }
+      }
+    },
+    {
+      "name": "HTTP200:after/en/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tab_panel:en/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tab_panel:en/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tab_panel:en/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tab_keyboard:en/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tab_panel:en/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tab_panel:en/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tab_panel:en/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tab_keyboard:en/decision-os",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tab_panel:en/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tab_panel:en/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tab_panel:en/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tab_keyboard:en/buttons",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/expertise",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "filter:en/expertise/all",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "filter:en/expertise/advisory",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "filter:en/expertise/partner",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "filter:en/expertise/ai",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "all16_services:en",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "search_empty:en",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "scope_expander:en",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "scope_expander:en",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "scope_expander:en",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "scope_expander:en",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "scope_expander:en",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "scope_expander:en",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "scope_expander:en",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "scope_expander:en",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "scope_expander:en",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "scope_expander:en",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "scope_expander:en",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "scope_expander:en",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "scope_expander:en",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "scope_expander:en",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "scope_expander:en",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "scope_expander:en",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/lab",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "filter:en/lab/all",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "filter:en/lab/software",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "filter:en/lab/games",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "filter:en/lab/consumer",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "filter:en/lab/knowledge",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "service_referral:en/S01",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "service_referral:en/S02",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "service_referral:en/S03",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "service_referral:en/S04",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "service_referral:en/S05",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "service_referral:en/S06",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "service_referral:en/S07",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "service_referral:en/S08",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "service_referral:en/S09",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "service_referral:en/S10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "service_referral:en/S11",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "service_referral:en/S12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "service_referral:en/S13",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "service_referral:en/S14",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "service_referral:en/S15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "service_referral:en/S16",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "track_referral:en/principal",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "track_referral:en/intelligence",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "track_referral:en/ventures",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "track_referral:en/products",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "track_referral:en/media",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/contact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "empty_form_no_success:en",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "invalid_email_no_success:en",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "valid_local_draft:en",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "repeated_submission_stays_draft:en",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTTP200:after/en/index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "mobile_navigation:en",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "mobile_escape_focus:en",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_automatic_business_POST",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_browser_JS_errors",
+      "passed": true,
+      "detail": null
+    }
+  ],
+  "layouts": [
+    {
+      "locale": "zh",
+      "route": "index",
+      "width": 320,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "expertise",
+      "width": 320,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "research",
+      "width": 320,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "decision-os",
+      "width": 320,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "lab",
+      "width": 320,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "ventures",
+      "width": 320,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "about",
+      "width": 320,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "contact",
+      "width": 320,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "buttons",
+      "width": 320,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "index",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "expertise",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "research",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "decision-os",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "lab",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "ventures",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "about",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "contact",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "buttons",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "index",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "expertise",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "research",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "decision-os",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "lab",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "ventures",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "about",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "contact",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "buttons",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "index",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "expertise",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "research",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "decision-os",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "lab",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "ventures",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "about",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "contact",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "buttons",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "index",
+      "width": 1280,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "expertise",
+      "width": 1280,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "research",
+      "width": 1280,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "decision-os",
+      "width": 1280,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "lab",
+      "width": 1280,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "ventures",
+      "width": 1280,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "about",
+      "width": 1280,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "contact",
+      "width": 1280,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "buttons",
+      "width": 1280,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "index",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "expertise",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "research",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "decision-os",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "lab",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "ventures",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "about",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "contact",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "buttons",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "index",
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "expertise",
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "research",
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "decision-os",
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "lab",
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "ventures",
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "about",
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "contact",
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "locale": "zh",
+      "route": "buttons",
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "index",
+      "width": 320,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "expertise",
+      "width": 320,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "research",
+      "width": 320,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "decision-os",
+      "width": 320,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "lab",
+      "width": 320,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "ventures",
+      "width": 320,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "about",
+      "width": 320,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "contact",
+      "width": 320,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "buttons",
+      "width": 320,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "index",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "expertise",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "research",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "decision-os",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "lab",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "ventures",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "about",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "contact",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "buttons",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "index",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "expertise",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "research",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "decision-os",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "lab",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "ventures",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "about",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "contact",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "buttons",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "index",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "expertise",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "research",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "decision-os",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "lab",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "ventures",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "about",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "contact",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "buttons",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "index",
+      "width": 1280,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "expertise",
+      "width": 1280,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "research",
+      "width": 1280,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "decision-os",
+      "width": 1280,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "lab",
+      "width": 1280,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "ventures",
+      "width": 1280,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "about",
+      "width": 1280,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "contact",
+      "width": 1280,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "buttons",
+      "width": 1280,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "index",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "expertise",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "research",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "decision-os",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "lab",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "ventures",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "about",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "contact",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "buttons",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "index",
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "expertise",
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "research",
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "decision-os",
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "lab",
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "ventures",
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "about",
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "contact",
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "locale": "en",
+      "route": "buttons",
+      "width": 1920,
+      "passed": true
+    }
+  ],
+  "pages": [
+    {
+      "locale": "zh",
+      "page": "index",
+      "sha256": "63b1eff023526d41e791f556e6e99056b863a2c1000ed3fe5c59a7ec602d33cc"
+    },
+    {
+      "locale": "zh",
+      "page": "expertise",
+      "sha256": "129586093ea634e38ecc8ad1d6b239f19d63f2374f9ae93a313dde562dbd6042"
+    },
+    {
+      "locale": "zh",
+      "page": "research",
+      "sha256": "040dade216570ba23865d0d23c12651500baf748fee03157a61ec1d37e99ec2f"
+    },
+    {
+      "locale": "zh",
+      "page": "decision-os",
+      "sha256": "a4ad6093670757498ac2d730197f4231ea73b523646023b60f8f420567700d7b"
+    },
+    {
+      "locale": "zh",
+      "page": "lab",
+      "sha256": "d96347d2caec634b7ef13ccbe749ca3c6d4da21d2237dc8c8b139000d7b75051"
+    },
+    {
+      "locale": "zh",
+      "page": "ventures",
+      "sha256": "f9e1150844a92c773485fd28cc40aff26518b48f8d37bac7fd0f27bdcc03ee31"
+    },
+    {
+      "locale": "zh",
+      "page": "about",
+      "sha256": "9b8d3eee97691772d1453c0d6e93f439dff3aba643f6ef30dd86e2ce84821843"
+    },
+    {
+      "locale": "zh",
+      "page": "contact",
+      "sha256": "e57150da2eacae5009d71ef7b8c631c1d003d6faaba022d6b8620907bf98dd06"
+    },
+    {
+      "locale": "zh",
+      "page": "buttons",
+      "sha256": "5460d033e3ff0b3bf4f49952feae8b2c59dd699d618269b6b67f29e3470a0cfc"
+    },
+    {
+      "locale": "en",
+      "page": "index",
+      "sha256": "03147840b161c78a87d9991c84526c31b712229f48f926737c6e5ec323fa632b"
+    },
+    {
+      "locale": "en",
+      "page": "expertise",
+      "sha256": "e73cecf2b15c2c935a4e0c1498133fe8368096e931cbdfdf4dce918db74a981c"
+    },
+    {
+      "locale": "en",
+      "page": "research",
+      "sha256": "018d562d6df6c13398c67f705f59a5349d9d07befefb617b431cb8d0bbe38010"
+    },
+    {
+      "locale": "en",
+      "page": "decision-os",
+      "sha256": "971d8ff360f5bb855ba8fba4f7a2f4be9a08d78a6b57709ac216d48d11ab412d"
+    },
+    {
+      "locale": "en",
+      "page": "lab",
+      "sha256": "9ffeada7269f5cdf54d647c50199a292b48807b95372fa306f65ec554531c895"
+    },
+    {
+      "locale": "en",
+      "page": "ventures",
+      "sha256": "6fb16acdef7e43100251dba766f57003b8f275000be026d63b41d311be9eecf9"
+    },
+    {
+      "locale": "en",
+      "page": "about",
+      "sha256": "24a905d505a142210ef0d0400374914c606274effd057bb6d54fa879124259ac"
+    },
+    {
+      "locale": "en",
+      "page": "contact",
+      "sha256": "470469a191e000e8ed18038aa2f68aa02f59355c7ab4a307432f42f0b603c1d5"
+    },
+    {
+      "locale": "en",
+      "page": "buttons",
+      "sha256": "3fd016286a08037e85f77d87bfd059ade93567a1c5e5486a727190d9d3c05520"
+    }
+  ],
+  "errors": [],
+  "network_posts": [],
+  "production_deployed": false,
+  "hero_geometry": {
+    "before_zh": {
+      "size": "77.76px",
+      "weight": "900",
+      "box": {
+        "x": 56,
+        "y": 195,
+        "width": 680.1875,
+        "height": 177.28125,
+        "top": 195,
+        "right": 736.1875,
+        "bottom": 372.28125,
+        "left": 56
+      }
+    },
+    "after_zh": {
+      "size": "77.76px",
+      "weight": "900",
+      "box": {
+        "x": 56,
+        "y": 195,
+        "width": 680.1875,
+        "height": 177.28125,
+        "top": 195,
+        "right": 736.1875,
+        "bottom": 372.28125,
+        "left": 56
+      }
+    },
+    "before_en": {
+      "size": "69.92px",
+      "weight": "900",
+      "box": {
+        "x": 56,
+        "y": 209.296875,
+        "width": 680.1875,
+        "height": 143.3125,
+        "top": 209.296875,
+        "right": 736.1875,
+        "bottom": 352.609375,
+        "left": 56
+      }
+    },
+    "after_en": {
+      "size": "69.92px",
+      "weight": "900",
+      "box": {
+        "x": 56,
+        "y": 209.296875,
+        "width": 680.1875,
+        "height": 143.3125,
+        "top": 209.296875,
+        "right": 736.1875,
+        "bottom": 352.609375,
+        "left": 56
+      }
+    }
+  },
+  "summary": {
+    "pages": 18,
+    "layout_cases": 126,
+    "checks": 1106,
+    "failed": 0,
+    "exceptions": 0
+  },
+  "all_passed": true
+}

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-label="atlas editorial illustration">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#fff"/><stop offset=".55" stop-color="#e2eff5"/><stop offset="1" stop-color="#f3e8fa"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#4ca8af" stop-opacity=".3"/><stop offset="1" stop-color="#4ca8af" stop-opacity="0"/></radialGradient></defs>
+<rect width="960" height="540" fill="url(#bg)"/><circle cx="752" cy="92" r="276" fill="url(#glow)"/>
+<path d="M0 470Q230 358 482 491T960 443" fill="none" stroke="#4ca8af" stroke-opacity=".14" stroke-width="34"/>
+<circle cx="464" cy="268" r="180" fill="#d2e7e8" stroke="#90c5c5" stroke-width="5"/><ellipse cx="464" cy="268" rx="90" ry="180" fill="none" stroke="#83b6ba" stroke-width="4"/><path d="M285 268L643 268" fill="none" stroke="#83b6ba" stroke-width="4" stroke-linecap="round"/><path d="M335 167q130 60 260 0M335 369q130-60 260 0" fill="none" stroke="#83b6ba" stroke-width="4"/><g opacity="1"><rect x="100" y="321" width="242" height="98" rx="12" fill="#fff9ee" stroke="#d8d6f6" stroke-width="2"/><path d="M135 351q84-24 84 44 0-68 88-44" fill="none" stroke="#7894bc" stroke-width="9"/></g><circle cx="686" cy="131" r="18" fill="#edbc6b"/><circle cx="721" cy="364" r="13" fill="#e07fa5"/><rect x="20" y="20" width="920" height="500" rx="28" fill="none" stroke="#4ca8af" stroke-opacity=".15" stroke-width="2"/>
+</svg>
