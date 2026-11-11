@@ -1,5 +1,18 @@
 # GGC — Media Route and Format Feedback
 
+## 11 November 2026 — Game-developer conference programme dedupe and source-verified rights gates
+
+| Existing opportunity | Current primary-source check / historical status | Disposition |
+|---|---|---|
+| **PIA-042 gamescom dev 2027; umbrella PR graph row 67 distinct** | [Official gamescom dev 2027 website](https://dev.gamescom.global/) has current event information and first-party speaker FAQ. An earlier October enquiry to its legitimate programme route **already obtained a human programme process reply** and was acknowledged. The historical instruction placed formal 2027 CFP opening in early January. | **HISTORICAL_HUMAN_PROGRAMME_ROUTING / CFP_NOT_SUBMITTED.** Update PIA-042 accordingly; do not treat the separate umbrella graph row as a new accepted speaker route or contact a different gamescom sibling. Wait for actual January form and rights/travel check. |
+| **PIA-055 / graph row 87: The AI Summit London 2027** | [Official 2027 speaker form](https://reg.theaisummit.com/london-submit-speaker) accepts noncommercial speaking overviews up to 1500 characters for **9–10 June 2027**; speaker funds travel/accommodation and receives no honorarium. | **FORM_OPEN / RIGHTS_TRAVEL_OWNER_GATE.** Self-funding alone is not exclusion; no rights/attendance approval or actual form submission verified. |
+| **White Whale / Baijing parent, graph row 106** | [Official Guangzhou matchmaking listing](https://www.baijing.cn/activity/2431) shows **8 Dec 2026, 14:00–17:00**, reviewed applicants and selective venue disclosure. Earlier tailored 1 Nov programme-group enquiry covers this same organiser. | **PARENT_CONTACTED / NO_DUPLICATE / APPLICATION_NOT_VERIFIED.** Actual event attendance/approval is separate from a group enquiry, and a meeting cannot be assumed. |
+
+**Evidence classification:** a human CFP process/routing reply is stronger than an autoresponder but **not** an accepted speaker proposal. This 11 Nov run made zero new Gmail sends, form submissions or attendance commitments. Older publishing-lane hard bounce must not be counted as a new PR-graph bounce or used to justify a substitute address.
+
+---
+
+
 ## 9 November 2026 — GITEX 2026 independent conference programme route
 
 | Existing record / family | Primary official evidence / format | Actual disposition |
