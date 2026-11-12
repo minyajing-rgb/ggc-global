@@ -2,6 +2,21 @@
 Version: 2026-11-03
 Status: strategic public playbook; not an endorsement, authorized title, registered alliance, accredited certification or award programme.
 
+## 2026-11-12 evidence-bound academic route: AAR Science, Technology, and Religion (research preparation only)
+
+**Existing group contact / gate:** The American Academy of Religion meeting office has given a real human *programme-process* reply directing prospective 2027 speakers to **individual programme-unit steering committees and the early-2027 call**, with unit pages checked in January. This is not a speaking invitation, manuscript review, accepted paper, institutional endorsement, collaboration agreement or reason to cold-contact a second member of the same group. No new email, application, registration or travel commitment is authorised here.
+
+**Current official examples, not 2027 acceptance rules:** AAR's [2026 online June Science, Technology, and Religion Unit](https://papers.aarweb.org/group/15664) accepted proposals for individual papers and panels exploring technology, science and religion, including cross-cultural/critical inquiry; the [2026 in-person November unit page](https://papers.aarweb.org/group/15663) describes 2026-specific interests in AI, technology and religion. Both are examples of unit *format and thematic fit*, **not proof** that an identically worded 2027 CFP is open. For 2027, inspect unit-specific CFP, submission length, scholar eligibility, anonymity, evidence and licensing rules in January before any approved application.
+
+**Potential original research topic (DRAFT ABSTRACT, not submitted / not peer reviewed):**
+> **When AI Explains Chinese Symbolic Traditions: Provenance, Translation and Epistemic Limits.** This proposed comparative humanities study would examine how public-domain or legitimately licensed Chinese historical/religious sources and their English translations are reframed into explanations by contemporary AI systems. It would distinguish source-text descriptions, editorial interpretation and speculative claims, identify where translations shift ritual or philosophical categories, and propose an explicit uncertainty/attribution practice for consumer-facing learning interfaces. Rather than testing whether divination or consciousness claims are true, it would ask how technology changes the *representation* of those claims and how readers can track authority, context and limits. Proposed methods are source provenance review, a transparent comparison rubric and a small pre-registered sample of model outputs. No user records, practitioner endorsements, supernatural-effectiveness evidence or empirical results are currently claimed.
+
+**Evidence and deliverable preparation:** (1) define a rights-cleared primary-source corpus with exact editions and translations; (2) create a public bibliography and source-to-translation mapping; (3) state model/version/date/prompts and double-review coding protocol before measurements; (4) independently scrutinise claims and exclude confidential/health data; (5) determine whether this qualifies as a short paper, digital-religion case study or methodological roundtable *after* 2027 unit calls are released. A private peer-review draft or research brief is **not** a joint AAR publication or S3 outcome. Conflating quantum physics and unverified supernatural conclusions is expressly disallowed.
+
+**Separate paid workshop:** The 20 November 2026 technology-in-teaching workshop has an independently confirmed USD 45 add-on fee **in addition** to the main AAR meeting registration, not a standalone $45 attendance ticket. No payment, registration or travel approval; do not use a paid conference registration as a substitute for an editorial/scholarship application.
+
+---
+
 ## Why this lane exists
 Extend existing Joyce/GGC media, speaking, awards, and practitioner-source PR with **durable institutional relationships**. Do not replace or reset the existing 130-row PR route graph, 74-ID PIA list, company/group suppression rules or their private contact ledger. Reuse the canonical identity, GGC v8, flagship evidence and approved professional contact pack; quote only evidenced career results.
 
