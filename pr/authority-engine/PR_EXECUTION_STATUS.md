@@ -1,5 +1,20 @@
 # Joyce / GGC — PR Execution Status
 
+## 2026-11-13 — Existing curator's substantive material review; payment receipt discrepancy, no new outbound
+
+**Current authority:** All Gmail replies are **review-only** under Joyce's 9 November exact-version approval rule. No automatic thanks, clarifications, support replies, send attempts, form submission, new payment, meeting booking or rights/travel commitments. Original NAGIS programme discussion remains on hold for specific approval.
+
+**Two separate existing relationships advanced in the inbox, not new S1 conversions:** One Hong Kong programme curator supplied substantive, actionable feedback on a pre-review venture deck on **12 November**, including product clarity, technical differentiation, recurring user value, safety and proof standards. A current application-intake deadline was identified for **1 December 2026** through the original conversation; the deck programme label and curator's programme reference must be reconciled before a formal submission. **No grant admission, endorsement, partnership agreement, formal application or S2/S3 achievement.** A second international programme contact issued **two human payment-reconciliation messages** on 12 November: the existing deposit is **not matched in organiser records**, and the organiser requests an original processor receipt. A bank-side payment notification is not adequate to establish final merchant settlement. **No new payment is allowed**; the selected programme's desk, tickets and invoice are not yet verified. Only the existing private evidence ledger contains exact financial proof and correspondence.
+
+**Prior-day outbound evidence only:** A tailored mainland industry-association first touch and an existing organiser-thread payment clarification both appear in **12 November Gmail SENT**, with complete originals read back. Neither was sent in this 13 November execution; neither is S1/S2/S3. The prior-day reply SENT record alone cannot establish who approved its exact version, so the consent control remains an outstanding audit point.
+
+**Rotation & governance:** Read every original **130 PR graph records** and **74 PIA IDs**, preserving the existing non-additive **48-PIA/42-PR** crosswalk. Reviewed PR **111–130** and PIA **061–074** at inventory/status level; podcast booking and major-publication formats remain unqualified where official intake is not established. Next cursors: **PR row 1, PIA-001**. Research-only count unchanged: **59 PR** and **28 PIA** overlapping; never treat as 87 ready-to-contact unique leads. Historical parent-group holds, permanent Yoozoo/NetDragon exclusion, 4YFN complimentary pass 30 November claim deadline, WiCX three finalist categories (not wins), January MCV publication pending, MWC review, WomenTech rights gate and WMF no-repay remain intact.
+
+**This execution:** 0 new Gmail SENT, 0 new application/form submission, 0 new hard bounce, 0 new organisations, 3 newly identified human messages across 2 existing threads (all dated 12 November), 0 new S1 conversions, 0 booked meetings, 0 scoped S2, 0 delivered S3, 0 new speaker/award selection, 0 article publication and 0 new payment. Private original IDs/proofs are in the existing private master only. Public record is sanitised.
+
+---
+
+
 ## 2026-11-12 — AAR human programme-process reply; 4YFN decision window clarified; no outbound or application
 
 **Execution and permission gate.** All email **replies** remain review-only under Joyce's 9 November exact-version consent rule, covering thanks, editorial/programme clarifications and follow-ups. Original-thread NAGIS draft remains unsent; there was **no Canada/Denver attendance, meeting booking, form application, IP/recording consent, purchase or legal commitment**. This run made **0 new Gmail SENT**, **0 official CFP/award submissions**, **0 new verified PR hard bounces**, **0 new organisation first touches**, **0 new S1 conversions**, **0 meetings**, **0 written S2 collaborations**, **0 delivered joint S3 assets**, **0 speaker/award acceptances**, **0 published articles** and **0 payments**.
