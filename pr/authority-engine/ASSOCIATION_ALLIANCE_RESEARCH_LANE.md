@@ -1,4 +1,11 @@
 # GGC — Association Relations, Research & Future Alliance Lane
+
+## 14 November 2026 — Hong Kong public programme eligibility gate (research only)
+
+For potential digital-consumer/AI ventures, distinguish two **officially separate** Cyberport intakes sharing **1 December 2026** deadlines: [Creative Micro Fund Hong Kong Programme (CCMF)](https://www.cyberport.hk/en/entrepreneurship/hong_kong_programme/) focuses on a six-month early prototype/MVP and up to HK$100,000 staged support; a personal applicant needs a Hong Kong ID while a company applicant must satisfy the Hong Kong limited-company rules by admission. [Cyberport Incubation Programme (CIP)](https://www.cyberport.hk/en/entrepreneurship/cyberport_incubation_programme/) targets an eligible Hong Kong digital-tech company under seven years with founding control and an authorised local presence, a market-ready product in its first eight months, and defined eligible expenditure/management requirements; official support is up to HK$480,000 financial assistance, HK$20,000 learning credits and HK$200,000 on-site rent subsidy, conditional. One venture should not be pitched simultaneously to both programmes in one intake merely because both have the same deadline. Validate exact legal applicant/age/ownership, project maturity, founder eligibility, the currently available EMS portal/terms, costs and rights before an approved submission. No organisation endorsement, grant, application or government co-branding is implied by a programme desk's informal feedback. Research outcome only; no new outreach or award launch.
+
+---
+
 Version: 2026-11-03
 Status: strategic public playbook; not an endorsement, authorized title, registered alliance, accredited certification or award programme.
 
