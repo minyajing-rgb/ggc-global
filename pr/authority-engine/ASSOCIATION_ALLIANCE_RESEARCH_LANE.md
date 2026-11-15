@@ -1,5 +1,23 @@
 # GGC — Association Relations, Research & Future Alliance Lane
 
+## 15 November 2026 — Evidence and rights protocol for a possible private professional recognition programme (research only)
+
+This is **an independent feasibility protocol**, not the announcement, launch, registration, accreditation, government endorsement, award invitation or partnership acceptance of any GGC-branded award. For any proposed women-in-game-operations recognition pilot, draft a category-specific evidence sheet before recruiting a judging panel:
+
+| Evidence field | Minimum audit question | Do not infer |
+|---|---|---|
+| **Business/player outcome** | What date-bounded product/market, baseline, metric definition, and verifiable decision does the entrant have authority to describe? | Self-reported uplift ≠ causal proof or an externally certified profit result |
+| **Contribution and attribution** | What was the nominee's accountable role and what team, partner, or other confounders explain the result? | Team-level outcomes ≠ one individual's sole achievement |
+| **Mentoring/industry benefit** | What teaching, mentoring or accessibility action, audience, dates and independently permissible evidence support the nomination? | Popularity, job title or paid sponsor ≠ demonstrated impact |
+| **Data/licensing** | What user/employee/customer data can be used or anonymised, by whom, and for what named judging/publicity purposes? | Submission ≠ permission to publish raw data, faces, trademarks or partner logos |
+| **Independent decision** | Named conflict-of-interest declarations, recusal, rubric by category, scoring audit, challenge and appeal channel | A generic 60/40 model, sponsorship or payment ≠ neutral assessment |
+
+Prepare a **separate** Leader, Rising Star, Player Experience, AI Ops and Ally/Mentorship rubric if those classes survive feasibility review. Proposed 60/40 weighting remains a hypothesis, never a universal scoring rule. Require explicit judging independence, free nomination, consented publicity, sponsor/prize separation, no paid award access, appeal and correction process. The legal entity, eligible countries, trade marks, participant data, registration, licence/terms and insurer must be confirmed before public recruitment or certificates. An Apple developer programme agreement or a website team name is **not** itself a company-registry certificate or permission to use an outside institution's brand.
+
+Regulatory source: China's [2026 Social Organization Recognition and Awards Measures](https://www.zyshgzb.gov.cn/n1/2026/0716/c459388-40762137.html) became effective **1 August 2026**, with activity-specific governance and naming/approval constraints for relevant social organisations. It does not automatically decide all questions of a privately operated Hong Kong professional programme or its mainland-facing conduct; obtain jurisdiction-specific legal advice instead of borrowing a government/association logo. No application, collaborator, judge, award, certification, commercial term or public list is approved or launched here.
+
+---
+
 ## 14 November 2026 — Hong Kong public programme eligibility gate (research only)
 
 For potential digital-consumer/AI ventures, distinguish two **officially separate** Cyberport intakes sharing **1 December 2026** deadlines: [Creative Micro Fund Hong Kong Programme (CCMF)](https://www.cyberport.hk/en/entrepreneurship/hong_kong_programme/) focuses on a six-month early prototype/MVP and up to HK$100,000 staged support; a personal applicant needs a Hong Kong ID while a company applicant must satisfy the Hong Kong limited-company rules by admission. [Cyberport Incubation Programme (CIP)](https://www.cyberport.hk/en/entrepreneurship/cyberport_incubation_programme/) targets an eligible Hong Kong digital-tech company under seven years with founding control and an authorised local presence, a market-ready product in its first eight months, and defined eligible expenditure/management requirements; official support is up to HK$480,000 financial assistance, HK$20,000 learning credits and HK$200,000 on-site rent subsidy, conditional. One venture should not be pitched simultaneously to both programmes in one intake merely because both have the same deadline. Validate exact legal applicant/age/ownership, project maturity, founder eligibility, the currently available EMS portal/terms, costs and rights before an approved submission. No organisation endorsement, grant, application or government co-branding is implied by a programme desk's informal feedback. Research outcome only; no new outreach or award launch.
