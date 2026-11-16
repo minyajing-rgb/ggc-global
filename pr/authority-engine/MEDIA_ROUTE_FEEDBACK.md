@@ -1,5 +1,17 @@
 # GGC — Media Route and Format Feedback
 
+## 16 November 2026 — Paid sponsor speaking is not an earned editorial slot; match route qualification
+
+| Existing route/category | Source-verified format | Stage and gating |
+|---|---|---|
+| **Existing China games-industry organiser family / December Guangzhou networking event** | The [first-party event page](https://www.baijing.cn/activity/2431) confirms **8 Dec 2026, 14:00–17:00**, **200 reviewed participants**, and 1:1 business exchange aimed primarily at developers/publishers/investors. An actual organiser human reply (evidence held privately) says **stage speaking is sponsor/client-paid**, while a separate applicant registration link is available. The public page includes a participant list and a refund clause, but the current ticket price is JavaScript-rendered and **not reliably established** from the public HTML. | **HUMAN_EVENT_PROGRAMME_ROUTE_REPLY / PAID_SPEAKER_FILTER / 1V1_APPLY_LINK_KNOWN / NOT_SUBMITTED.** Do not mistake sponsorship for earned editorial interest; no purchase, form submission, applicant qualification, public-data consent, 1:1 meeting or attendance confirmed. A genuine public-credential one-pager is prepared for owner review. |
+| **2027 Asia-Pacific regional games conference (existing wider games-event parent)** | [Official APGS 2027 sponsor terms](https://tgs.tca.org.tw/apgs/sponsorships.php) show **21–22 Jan 2027** and a **30-minute physical paid sponsored talk at NT$100,000 before tax**; ordinary attendee pre-registration expected December 2026, free in advance, **NT$500 on-site**. This commercial product does not prove the absence of a separate editorial programme, but one has not been confirmed. | A one-off programme enquiry already exists in account SENT history as of 16 Nov. **FIRST_TOUCH_SENT / NO_HUMAN_RESPONSE / NO_FORM_SUBMITTED**. No sponsorship purchase, attendance or permission to pursue a second organiser member. Await real editorial route / reply and Joyce's exact-version gate. |
+| **Existing mainland industry-association email delivery** | Provider reports a transient SMTP connection timeout and continued delivery retry, not final address rejection. | **DELIVERY_PENDING_RETRY / NOT_HARD_BOUNCE / NOT_CONTACT_SUCCESS**. Preserve original recipient and follow final DSN; no alternate route to dodge suppression. |
+
+No independent stage, payment, co-marketing, data publication, recording or third-party endorsement authority arises from these route findings.
+
+---
+
 ## 11 November 2026 — Game-developer conference programme dedupe and source-verified rights gates
 
 | Existing opportunity | Current primary-source check / historical status | Disposition |
