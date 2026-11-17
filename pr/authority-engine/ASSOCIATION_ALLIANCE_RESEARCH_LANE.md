@@ -1,5 +1,14 @@
 # GGC — Association Relations, Research & Future Alliance Lane
 
+## 17 November 2026 — early-grant application evidence protocol (independent preparation, not a project endorsement)
+
+Official source: [Cyberport CCMF Hong Kong Programme](https://www.cyberport.hk/en/entrepreneurship/hong_kong_programme/) and [CCMF FAQ](https://www.cyberport.hk/en/entrepreneurship/cyberport_ccmf_faq/). A six-month prototype fund supports idea-stage or MVP products. Its company-applicant rule is Hong Kong limited company incorporated **upon admission**, while individual application needs a **Hong Kong ID card**; applications for the February-2027 intake close **1 Dec 2026** with **no application fee**. The four vetting dimensions are **management team 30%, business/time-to-market 30%, innovation 30%, social responsibility 10%**. The grant is conditional in **HK$10,000 / HK$45,000 / HK$45,000** tranches after agreement, approved interim report and approved final report, respectively. No payment is automatic or guaranteed.
+
+**Evidence-first review protocol for one startup proposal:** identify a real eligible applicant and product/IP authorisations; show the existing genuine product interface and rights-clean IP; map six months into opt-in product events, cohort retention and objective safety QA; name an accountable build team and source-linked metrics; review approved costs and interim financing; obtain actual grant-portal terms and owner submission approval. Record source/denominator/window for each acquisition result; **ad-platform results are not product installations, payer cohorts, CPI, CAC or independently verified retention**. Do not submit one similar venture to both CCMF and CIP in the same intake. A later CIP application is only a separate, independently vetted possibility following sufficient prototype evidence. This work is **internal independent preparation**, not a collaborative report, confirmed grant, official endorsement, named partnership, paid award or S2/S3 result.
+
+---
+
+
 ## 17 November 2026 — Independent operator teaching asset: China-to-global greenlight evidence sheet v0.1
 
 **Status:** independent GGC-authored, shareable-in-principle methodology **DRAFT** for future association teaching, edited interviews or invited conference talks. No institutional collaborator has endorsed it; it is not a commissioned/peer-reviewed report, published white paper, booked workshop, legal/publishing advice or S2/S3 outcome. Do not include confidential clients, private growth data or third-party logos.
