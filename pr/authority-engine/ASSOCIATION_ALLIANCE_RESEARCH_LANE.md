@@ -1,5 +1,25 @@
 # GGC — Association Relations, Research & Future Alliance Lane
 
+## 17 November 2026 — AIGC cross-media institutional proposal; paid journal versus earned programme gate
+
+**Official publication opportunity, distinct from collaboration:** ASIFA-China's current [2026 Academic Magazine call](https://www.asifa.cn/detail-8-1556-c.html) and [submission guidance](https://asifa.cn/info.php?en=&id=31) invite original animation/AI/industry research. The printed journal is in English (4,000-6,000 words); Chinese original text may accompany the English manuscript. Its fee schedule is **RMB2,400 for up to 10 pages and RMB800 for each additional page**. Editorial feedback is described as within 15 working days, not an acceptance guarantee. A secretariat's human route reply / invitation to submit to a fee-based journal is not a commitment from a specific industry programme owner and is **not S1 in the strict owner-contact funnel, not S2 or S3**. First-party English-publication/fee/rights rules override casual misinterpretations of bilingual informal enquiry. No fee, copyright, exclusive submission, photography, IP rights or manuscript release is authorised.
+
+**Proposed independent online session (review-only, not sent):** *From AIGC Content Output to Character/IP Acceptance: Five Decision Gates Across Animation and Games* — an approximately 30-40-minute practitioner presentation or industry interview, only if a suitable existing **non-sponsored editorial programme** confirms interest and usage terms. This is not a proposal for a paid keynote slot or a promise of free production. A reply draft exists privately in the already-contacted organiser's thread; it remains unsent pending version-specific owner approval.
+
+| Gate | A useful shareable output | Evidence / refusal to overclaim |
+|---|---|---|
+| 1. Originality and rights | Character/IP provenance checklist and human creative sign-off | No generated visual substitutes for unowned IP or unlicensed designs |
+| 2. Story + visual quality | Storyboard/build review with explicit style and cross-scene consistency QA | One impressive demo render is not longitudinal product quality |
+| 3. Cross-market comprehension | Language/cultural review log, audience-task comprehension and localisation rules | Automated translation output does not prove cultural understanding |
+| 4. Audience fit and retention | Anonymous cohort definitions, sample window, return behaviour and opt-in analysis | Social ad-platform results are not product installs, users or retention |
+| 5. Governance and greenlight | Named decision owner, bounded test budget, safety review, iterate/stop branch | AI throughput is not proven business impact or automatic publication authority |
+
+**Applied use:** A bilingual one-pager, interview outline, or later properly formatted English academic article can reuse these five gates once primary evidence, permissions, sources and programme format are verified. No third-party organisation's logo, name as partner or expert endorsement may be attached to this independent material. Avoid interpreting editorial invitation or information-desk forwarding as collaboration.
+
+**Separate Hong Kong grant company-document gate:** A historic incorporation packet verifies a 2023 registered entity, while dated 2024 business registration/membership documents are **not current 2026 standing, controlling-owner or product-rights proof**. For public support applications, inspect a current [Companies Registry e-Search Company Particulars Report](https://www.cr.gov.hk/en/electronic/e-servicesportal/e-search.htm), current BRC, local representative and product IP/title/licence separately. Do not purchase a charged search or submit personally identifying filings without exact approval.
+
+---
+
 ## 17 November 2026 — early-grant application evidence protocol (independent preparation, not a project endorsement)
 
 Official source: [Cyberport CCMF Hong Kong Programme](https://www.cyberport.hk/en/entrepreneurship/hong_kong_programme/) and [CCMF FAQ](https://www.cyberport.hk/en/entrepreneurship/cyberport_ccmf_faq/). A six-month prototype fund supports idea-stage or MVP products. Its company-applicant rule is Hong Kong limited company incorporated **upon admission**, while individual application needs a **Hong Kong ID card**; applications for the February-2027 intake close **1 Dec 2026** with **no application fee**. The four vetting dimensions are **management team 30%, business/time-to-market 30%, innovation 30%, social responsibility 10%**. The grant is conditional in **HK$10,000 / HK$45,000 / HK$45,000** tranches after agreement, approved interim report and approved final report, respectively. No payment is automatic or guaranteed.
