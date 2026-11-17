@@ -1,5 +1,27 @@
 # GGC — Association Relations, Research & Future Alliance Lane
 
+## 17 November 2026 — Independent operator teaching asset: China-to-global greenlight evidence sheet v0.1
+
+**Status:** independent GGC-authored, shareable-in-principle methodology **DRAFT** for future association teaching, edited interviews or invited conference talks. No institutional collaborator has endorsed it; it is not a commissioned/peer-reviewed report, published white paper, booked workshop, legal/publishing advice or S2/S3 outcome. Do not include confidential clients, private growth data or third-party logos.
+
+**Practical question:** *When Chinese development capability is strong, which additional evidence justifies spending on overseas publishing and scaling?* A decision requires a specific market, cohorts, product/economy definitions and who owns the next operational step, not an unverified claim that quality or AI content throughput automatically increases ROI.
+
+| Decision gate | Evidence to bring to the review | Verification and denial condition | Accountable decision owner |
+|---|---|---|---|
+| 1. Product and quality | Working core-loop build, repeatable QA, compatibility/localisation test log, player comprehension | Define independent acceptance test and target device/locale; concept art and external screenshots alone are insufficient | Studio PM / QA, publisher product lead |
+| 2. Player fit | Cohort D1/D7/D30 retention, sample sizes, event definitions, qualitative feedback and opt-in source | Specify denominator, acquisition channel, market, calendar window, bot/fraud exclusion; don't cross-compare unlike cohorts | Product/data with regional operator |
+| 3. Paid economy | Revenue per active user and payer, payer conversion, refund/platform-fee rules, contribution margin by cohort | Separate gross from net and historic from projected; use actual verified product analytics, not advertising platform result counts as installs/payers | Finance/commercialisation |
+| 4. Acquisition and cross-border readiness | Channel CPI/CAC, creative attribution, localisation and compliance cost, support/LiveOps capacity, proposed capped test budget | State cash costs, window and payback assumptions; short-window proxy data is not validated 90-day ROI | Publishing/UA and operations |
+| 5. Scale / iterate / stop | One-page accountable decision memo with decision date, market, cohort, assumptions, reversibility, kill-switch, next experiment | Pre-register threshold and horizon *for that product* rather than inventing universal D7/ROI cutoffs; adverse evidence must be visible | Named greenlight approver |
+
+**Participant exercise (45–60 minute optional format, not a scheduled event):** each participant fills one blank case without private metrics. Write a testable regional launch hypothesis, mark 3 known/unknown variables, specify the data owner and decision authority, allocate a reversible experiment, and record exactly what result would force a **stop or pivot**. The facilitator should demonstrate with a clearly hypothetical scenario, not fabricated "GGC client results."
+
+**Evidence quality rubric:** E0 unverified claim; E1 source-linked descriptive evidence; E2 reproducible product/cohort analytics with method and rights; E3 observed decision and outcome with valid attribution. This is an **internal teaching rubric**, not a credential or official industry standard. It can support a future free educational workshop or private expert review, but real collaborators must agree scope, attribution, consent and rights separately before their name or organisation is publicly used.
+
+**Why this matters for institutional S1→S2:** rather than repeating a generic request for partnership, offer an independently checkable *workshop sheet* only when a real programme owner identifies a suitable member, curriculum, editorial or industry-report slot. A one-way email with this proposal would still be FIRST_TOUCH_SENT, not S1/S2/S3. Existing previously contacted organisations remain on their own unanswered HOLD.
+
+---
+
 ## 15 November 2026 — Evidence and rights protocol for a possible private professional recognition programme (research only)
 
 This is **an independent feasibility protocol**, not the announcement, launch, registration, accreditation, government endorsement, award invitation or partnership acceptance of any GGC-branded award. For any proposed women-in-game-operations recognition pilot, draft a category-specific evidence sheet before recruiting a judging panel:
