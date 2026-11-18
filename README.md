@@ -9,6 +9,11 @@
 
 GGC — AI-native global game commercialization website.
 
+### 🎮 Open playtest · Star Connect (2026-11-19)
+
+**[Play 120-level constellation puzzle in your browser](https://star-connect-ggc-preview.vercel.app/?utm_source=github&utm_medium=organic&utm_campaign=starconnect_launch&utm_content=ggc_readme)** · [Playtest details](products/star-connect/README.md). WeChat/Douyin mini-game release is still awaiting platform review and credentials.
+
+
 ## Joyce capability atlas and standard fees
 
 [Joyce Mi — English capability atlas](https://biz.ggcgames.com/joyce/) · [Source and evidence notes](joyce/README.md) · [Bilingual rate card](joyce/rate-card.csv)
