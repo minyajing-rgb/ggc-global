@@ -1,5 +1,17 @@
 # GGC — Media Route and Format Feedback
 
+## 18 November 2026 — earned speaking routes, owner-sensitive rights gates
+
+| Official opportunity | Source evidence | Correct conversion treatment |
+|---|---|---|
+| [NAGIS 2027](https://nagis.ca/speakers/) | Speaker form open; [conference](https://nagis.ca/ticket-tiers/) June 23–25 2027 Edmonton. AV recording capability is advertised but not speaker-specific consent. | Existing human programmer interest, with **conversation before tailored full CFP**. Not accepted/booked/submitted; no new follow-up, and no default recording rights. |
+| [4YFN Barcelona 2027](https://www.4yfn.com/virtual-assistance/call-for-speakers-4yfn-faq) | Unsuccessful speaker decisions during week beginning Nov 17; no notice means still being reviewed. [Official speaker process](https://www.4yfn.com/call-for-speakers/) aims for Nov 30 update. Free editorial speaker route, no honorarium. | Prior general speaker receipt verified; no current individual acceptance/rejection. Awards Top20 result unrelated. Complimentary pass separate and not activated until form/organiser confirmation. |
+| [gamescom latam 2027](https://latam.gamescom.global/en/call-for-speakers/) | Existing October submission generic receipt; original owner response states submitted talk title. CFP is noncommercial and mentions session recording/publishing; 2027 page contains outdated 2026 delivery dates. | Submitted awaiting organiser. Title evidenced by owner-origin SENT but not form-native receipt. No resubmission or new recording permission. |
+
+**Hard STOP:** White Whale / Baijing / GTC family and ordinary game matchmaking excluded from proactive PR, submission, paid speaking, registration and follow-up as of 17 Nov owner override.
+
+---
+
 ## 16 November 2026 — Paid sponsor speaking is not an earned editorial slot; match route qualification
 
 | Existing route/category | Source-verified format | Stage and gating |
