@@ -48,7 +48,7 @@
   $('.menu').setAttribute('aria-label',tr($('.menu').getAttribute('aria-expanded')==='true'?'menu.close':'menu.open'));
   document.title=lang==='zh'?'Joyce Mi · GGC全球游戏经营伙伴':'Joyce Mi · Global Game Copilot';
   updateSector(sector);updateStage(stage);updateRates();
-  if(!$('#brief-result').hidden)buildBrief();
+  if(!$('#brief-result').hidden){buildBrief();setCopyBriefLabel('form.copy');}
   try{localStorage.setItem('ggc-language',lang)}catch(e){}
  }
  function fillDialog(id){
@@ -61,7 +61,7 @@
  });
  $('.dialog-close').addEventListener('click',closeDialog);
  $('#service-dialog').addEventListener('click',e=>{if(e.target!==e.currentTarget)return;const r=e.currentTarget.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)closeDialog()});
- $('#dialog-enquire').addEventListener('click',()=>{const id=selected;$('#service-dialog').close();$('#service-select').value=id;$('#contact').scrollIntoView({behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});$('#service-select').focus({preventScroll:true})});
+ $('#dialog-enquire').addEventListener('click',()=>{const id=selected;$('#service-dialog').close();const select=$('#service-select');if(select.value!==id){select.value=id;invalidateBrief();}$('#contact').scrollIntoView({behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});$('#service-select').focus({preventScroll:true})});
  $$('.lang').forEach(el=>el.addEventListener('click',()=>renderLanguage(el.dataset.lang)));
  $$('[data-currency]').forEach(el=>el.addEventListener('click',()=>{currency=el.dataset.currency;$$('[data-currency]').forEach(x=>{x.classList.toggle('active',x===el);x.setAttribute('aria-pressed',String(x===el))});updateRates()}));
  $$('[data-filter]').forEach(el=>el.addEventListener('click',()=>{const f=el.dataset.filter;$$('[data-filter]').forEach(x=>{x.classList.toggle('active',x===el);x.setAttribute('aria-pressed',String(x===el))});$$('.service-card').forEach(x=>x.hidden=f!=='all'&&x.dataset.group!==f);$('#service-count').textContent=$$('.service-card').filter(x=>!x.hidden).length}));
@@ -76,8 +76,33 @@
   const en=lang==='en';const lines=en?['Hello Joyce,','','Engagement: '+name(s),'Name: '+v.get('name'),'Company / product: '+v.get('company'),'Email: '+v.get('email'),'Market, platform & stage: '+v.get('stage'),'Decision / KPI: '+v.get('problem'),'Budget / timing: '+v.get('budget'),'','Please confirm scope, fees and availability. No work or booking is confirmed by this enquiry.']:['Joyce您好：','','合作服务：'+name(s),'姓名：'+v.get('name'),'公司／产品：'+v.get('company'),'邮箱：'+v.get('email'),'市场、平台与阶段：'+v.get('stage'),'决策／指标：'+v.get('problem'),'预算与时间：'+v.get('budget'),'','请确认合作范围、费用和时间。本次咨询不代表工作或预约已确认。'];
   const text=lines.join('\n');$('#brief').textContent=text;$('#email-draft').href='mailto:minyajing@gmail.com?subject='+encodeURIComponent((en?'GGC enquiry — ':'GGC合作咨询 — ')+v.get('company'))+'&body='+encodeURIComponent(text);
  }
- $('#intake').addEventListener('submit',e=>{e.preventDefault();if(!e.currentTarget.reportValidity())return;buildBrief();$('#brief-result').hidden=false;$('#brief-result').scrollIntoView({behavior:'smooth',block:'nearest'})});
- $('#copy-brief').addEventListener('click',async()=>{try{await navigator.clipboard.writeText($('#brief').textContent);$('#copy-brief').textContent=tr('form.copied')}catch(e){$('#copy-brief').textContent=tr('form.fallback');const r=document.createRange();r.selectNodeContents($('#brief'));const s=window.getSelection();s.removeAllRanges();s.addRange(r)}});
+ function setCopyBriefLabel(key){const label=$('#copy-brief [data-i18n]');label.dataset.i18n=key;label.textContent=tr(key);}
+ let briefRevision=0;
+ function invalidateBrief(){
+  if($('#brief-result').hidden)return;
+  briefRevision++;
+  $('#brief-result').hidden=true;
+  $('#brief').textContent='';
+  $('#email-draft').removeAttribute('href');
+  setCopyBriefLabel('form.copy');
+ }
+ const intake=$('#intake');
+ intake.addEventListener('input',invalidateBrief);
+ intake.addEventListener('change',invalidateBrief);
+ intake.addEventListener('reset',invalidateBrief);
+ intake.addEventListener('submit',e=>{e.preventDefault();if(!e.currentTarget.reportValidity())return;briefRevision++;buildBrief();setCopyBriefLabel('form.copy');$('#brief-result').hidden=false;$('#brief-result').scrollIntoView({behavior:'smooth',block:'nearest'})});
+ $('#copy-brief').addEventListener('click',async()=>{
+  if($('#brief-result').hidden)return;
+  const revision=briefRevision;
+  try{
+   await navigator.clipboard.writeText($('#brief').textContent);
+   if(revision===briefRevision)setCopyBriefLabel('form.copied');
+  }catch(e){
+   if(revision!==briefRevision)return;
+   setCopyBriefLabel('form.fallback');
+   const r=document.createRange();r.selectNodeContents($('#brief'));const s=window.getSelection();s.removeAllRanges();s.addRange(r);
+  }
+ });
  // Evidence link expands its target rather than landing on a closed disclosure.
  $$('a[href="#evidence"]').forEach(a=>a.addEventListener('click',()=>$('#evidence details').open=true));
  let saved='en';try{saved=localStorage.getItem('ggc-language')||'en'}catch(e){}
