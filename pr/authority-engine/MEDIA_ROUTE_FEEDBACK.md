@@ -1,5 +1,16 @@
 # GGC — Media Route and Format Feedback
 
+## 19 November 2026 — programme and manuscript route reconciliation
+
+| High-value relationship | Official and real-message evidence | Gate/next action |
+|---|---|---|
+| 2027 AI Track curated by an independent partner | [Nordic Game confirms ImmerSynth is NG27 AI Track curator](https://nordicgame.com/the-ai-track-returns-to-ng27-building-on-great-momentum/). Its first-party linked Google speaker interest form is identical to the link in 18 Nov curator human reply. The [general conference speaker page](https://nordicgame.com/speakers/) still says submissions open early 2027. | Distinct **track-specific speaker intake AVAILABLE / NO FORM SUBMITTED**. No honorarium, in-person-only, complimentary speaker pass *if chosen*. Late-Feb deadline is curator-supplied estimate; exact rights/travel/form texts and owner approval outstanding. Do not buy sponsor speaking. |
+| [International book call 10377](https://www.igi-global.com/publish/call-for-papers/call-details/10377) | Deadline **22 Nov 2026**, original proposal 1k–2k words, no mandatory submission/acceptance charges, compulsory eEditorial Discovery portal. Editor human reply 19 Nov says no alternative route and recommends [publisher technical support](https://www.igi-global.com/submission/contact/). | **AUTHOR_MATERIAL_SENT_TO_EDITOR_AS_REFERENCE / SUPPORT_DRAFT_ONLY / NOT_SUBMITTED**. An author-supplied Word/PDF email is not publisher receipt. Portal inaccessible in this environment. No email without exact approval. |
+| Professional animation association journal vs industry programme | 19 Nov human secretariat acknowledges actual previously delivered English paper and says initial/external review will begin; charges **CNY2,400 <=10 pages, +800/page** only after acceptance. No industry interview/panel/talk scheduled. | **MANUSCRIPT_RECEIVED_AWAITING_SCREENING / NO_ACCEPTANCE / NO_PUBLISHED_WORK**, independent association collaboration **NO_S2_OR_S3**. No payment or duplicate pitch. |
+| Steel Media games summit and 4YFN | Existing original content-thread San Francisco preference **actually SENT 19 Nov HKT**; out-of-office auto is not selection. 4YFN coordinator's 18 Nov human note says pass activation/identity check early December, not explicit 30 Nov claim confirmation. | **PGC_PROGRAMME_AWAITING_CURATOR_HUMAN_REPLY**, **4YFN_CLAIM_UNVERIFIED**. Avoid duplicate emails/alternate contacts, and avoid assuming admission or rights. |
+
+---
+
 ## 18 November 2026 — earned speaking routes, owner-sensitive rights gates
 
 | Official opportunity | Source evidence | Correct conversion treatment |
