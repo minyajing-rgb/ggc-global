@@ -11,6 +11,7 @@ This directory is the public, sanitized PR and speaking workspace for Joyce Mi /
 - [Authority Engine](authority-engine/README.md) — evergreen media / speaker system.
 - [2027 International Speaker & Editorial Portfolio](authority-engine/JOYCE_GLOBAL_SPEAKER_AND_MEDIA_PORTFOLIO_2026-11-19.md) — public-safe, evidence-backed talks, interviews, past-speaking anchors and book editions.
 - [2027 Open CFP Application Drafts](authority-engine/2027_OPEN_CFP_SUBMISSION_PACK_2026-11-19.md) — four form-ready proposals for gamescom latam, Develop:Brighton, Nordic Game and IEEE CoG (all marked unsubmitted).
+- [International English Social & Newsletter Distribution Kit](distribution/2026-11-19_GLOBAL_OPERATOR_ENGLISH_SOCIAL_AND_NEWSLETTER_KIT.md) — review-ready LinkedIn, X, executive newsletter and book publication copy; none posted automatically.
 - [Media Route and Format Feedback](authority-engine/MEDIA_ROUTE_FEEDBACK.md) — outlet-format suppression, editorial versus paid / commercial routing, and human versus automated reply classification; apply before selecting media targets or follow-ups.
 - [WomenTech 2026](womentech-2026/) — award application working packet.
 - [WiCX 2026](wicx-2026/) — Responsible AI award working packet.
