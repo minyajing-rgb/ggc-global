@@ -1,5 +1,13 @@
 # GGC — Association Relations, Research & Future Alliance Lane
 
+## 19 November 2026 — academic manuscript receipt versus no active association event
+
+An original English game-animation/AIGC manuscript was emailed in DOCX and PDF to an animation-sector academic outlet on 18 Nov. A **19 Nov human reply explicitly acknowledges receipt and initiation of initial review plus external peer review**, without editorial acceptance or publication. The secretariat reconfirms a **page charge only after acceptance** (RMB2,400 <=10 pages, plus RMB800 per extra page). Rights, author agreements, fee and final proof approval remain separate owner decisions.
+
+Crucially, the same institution replied that it has **no scheduled interview, public presentation or roundtable currently available** and will keep the non-commercial practitioner topic on file for future invitations. Thus **not S1 contact-success with an actual named industry programme head, and no S2 agreed event, S3 co-produced work, released report or public institutional endorsement**. Do not push a further organiser contact merely to manufacture a partnership; move to next qualified independent institution while keeping this paper under genuine editorial review.
+
+---
+
 ## 17 November 2026 — AIGC cross-media institutional proposal; paid journal versus earned programme gate
 
 **Official publication opportunity, distinct from collaboration:** ASIFA-China's current [2026 Academic Magazine call](https://www.asifa.cn/detail-8-1556-c.html) and [submission guidance](https://asifa.cn/info.php?en=&id=31) invite original animation/AI/industry research. The printed journal is in English (4,000-6,000 words); Chinese original text may accompany the English manuscript. Its fee schedule is **RMB2,400 for up to 10 pages and RMB800 for each additional page**. Editorial feedback is described as within 15 working days, not an acceptance guarantee. A secretariat's human route reply / invitation to submit to a fee-based journal is not a commitment from a specific industry programme owner and is **not S1 in the strict owner-contact funnel, not S2 or S3**. First-party English-publication/fee/rights rules override casual misinterpretations of bilingual informal enquiry. No fee, copyright, exclusive submission, photography, IP rights or manuscript release is authorised.
