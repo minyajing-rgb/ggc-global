@@ -52,6 +52,19 @@ For the comprehensive ledger and evidence states, see [SPEAKING-ARCHIVE.md](SPEA
 
 ## Publication
 
+## 2026 November — English Kindle edition and practitioner essay
+
+### Game Operations and Global Expansion — English Kindle (2026-11-19)
+- Separate English-language KDP Kindle edition, ASIN **B0HP6KJR6P**, announced live for purchase by Amazon KDP on 19 November 2026.
+- [Amazon listing](https://www.amazon.com/dp/B0HP6KJR6P)
+- **Do not conflate with the 2024 Chinese-language China Machine Press book**, whose publisher record appears below. The KDP listing is not evidence of best-seller rank, reviews, earnings, translations rights or third-party editorial endorsement.
+
+### The Handoff Gap: Why a Playable Game Is Not Yet a Publishable Business (2026-11-19)
+- Original, author-owned public practitioner essay on global game launch handoffs, first-play proof, localization/creative claims, metrics and decision ownership.
+- [Read the owned essay](../../pr/articles/2026-11-19-the-handoff-gap-global-game-publishing.md)
+- **Publishing status:** GGC-owned original editorial, *not* a commissioned external press placement or previously unpublished exclusive material.
+
+
 ### 游戏运营与出海实战：策略、方法与技巧
 - English parallel title used on LinkedIn: *Game Operations and Global Expansion: Strategies, Methods, and Skills*
 - Author byline: 艾小米 / Joyce / 闵雅婧
