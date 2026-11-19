@@ -104,6 +104,8 @@ A strong global game business is not the one with the best-looking handoff deck.
 
 **About the author:** Joyce is the founder of GGC Games, with professional experience in game product management at Zynga, regional and international game operations at Gameloft, and the founding and operation of game development and publishing businesses. She is the author of *Game Operations and Global Expansion: Strategies, Methods, and Skills* (China Machine Press, Chinese-language edition, 2024; published under the pen name 艾小米). Her current work explores accountable AI assistance in product decisions, operations and cross-border publishing.
 
-**References / public profile:** [Publisher catalog](https://ebooks.cmpbook.com/detail?id=26372) · [Professional profile](https://biz.ggcgames.com/joyce/) · [GGC website](https://ggcgames.com/)
+**Book editions:** [English Kindle: *Game Operations and Global Expansion: Strategies, Methods & AI Practice*](https://www.amazon.com/dp/B0HP6KJR6P) (independently published by Joyce Mi, 2026) · [Chinese-language edition: China Machine Press catalog](https://ebooks.cmpbook.com/detail?id=26372).
+
+**Public profile:** [Professional profile](https://biz.ggcgames.com/joyce/) · [GGC website](https://ggcgames.com/)
 
 **Evidence note:** This is an original practitioner framework and set of illustrative scenarios. Examples are instructional, not descriptions of identified client incidents or verified project outcomes. No unpublished customer data, industry award, research acceptance, publication commission, software productivity gain, audience metric or commercial return is inferred from them.
