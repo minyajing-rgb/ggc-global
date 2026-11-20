@@ -1,19 +1,20 @@
 # Joyce / GGC — 2027 Open CFP Submission Pack
 
 **Updated:** 2026-11-19 (Asia/Taipei)  
-**Evidence state:** All materials below are **prepared, not submitted** to the listed forms. Nothing in GitHub constitutes an event application, organizer approval, permission grant, travel commitment or confirmed speaking slot.  
+**Evidence state updated 2026-11-20:** **gamescom latam 2027 was already FORMALLY SUBMITTED and receipted on 28 October 2026** under the actual title *Game Operations Across Markets: Questions Before Launch*; it is under content review, not accepted as a speaker. The other Develop:Brighton, Nordic Game and IEEE CoG drafts below remain PREPARED / NOT SUBMITTED unless independently confirmed. The alternative gamescom latam title and abstract below are editorial development material, **not a second application**. Nothing in GitHub itself constitutes an event submission, organizer acceptance, travel commitment or rights grant.  
 **Canonical public bio and past-talk evidence:** [Global Speaker and Editorial Portfolio](JOYCE_GLOBAL_SPEAKER_AND_MEDIA_PORTFOLIO_2026-11-19.md) · [Historical Speaking Archive](../../joyce/docs/SPEAKING-ARCHIVE.md).
 
-## Priority A — gamescom latam 2027: original business session
+## Priority A — gamescom latam 2027: FORMAL APPLICATION RECEIVED 28 OCT 2026 · UNDER REVIEW · DO NOT RE-SUBMIT
 
 - **Event:** São Paulo, Brazil, 22–25 April 2027.
+- **Verified official submission receipt:** Organizer email on 28 October 2026 stated “We have successfully received your submission for our Call for Speakers!” The sender explicitly noted receipt is **not** a speaker acceptance. The original submitted title was **Game Operations Across Markets: Questions Before Launch**, independently identified in Joyce’s follow-up to the gamescom programming team on the same day. The existing application is the sole active entry; do not duplicate it or label later draft titles as submitted.
 - **Official speaker CFP:** https://latam.gamescom.global/en/call-for-speakers/
 - **Official application form (linked by organizer):** https://form.jotform.com/262673095735062?language=en-CA
 - **Published deadline:** 18 January 2027.
 - **Possible topic track:** Industry & Business / Marketing, Community & Visibility.
 - **Proposed speaker type:** Independent game-industry practitioner (no paid/sponsor content).
-- **Suggested title:** *China–Latin America Game Publishing: What to Validate Before a Deal Becomes a Business*
-- **Alternative title:** *Beyond the Publishing Contract: The First 90 Days of a Cross-Market Launch*
+- **Alternative draft title, NOT submitted:** *China–Latin America Game Publishing: What to Validate Before a Deal Becomes a Business*
+- **Second alternative draft, NOT submitted:** *Beyond the Publishing Contract: The First 90 Days of a Cross-Market Launch*
 
 **Abstract (proposed original, for editorial application):**
 
@@ -36,6 +37,7 @@ International publishing partnerships often look straightforward on paper: a stu
 - **Track:** Business; alternatives Mobile or Indie.
 - **Proposed title:** *Beyond the Deal: The First 90 Days of a Global Publishing Partnership*
 - **Speaker bio:** Use approved scope below, not unverified company revenue.
+- **Organizer reply 27 Oct 2026:** Susan recommended the **Business** track for Joyce’s proposed AI/game operating-workflow lecture, and said the formal window begins January 2027, although the form may be accessible earlier; programme decisions expected March 2027. **No official submission receipt identified for Develop:Brighton.** The Business-track original inquiry title was *From Global Game Operations to AI-Native Production: Building Practical Skills, Agents and Decision Tools*. The alternative 90-day publishing lecture below is a **new editorial draft**, not the previously submitted title.
 - **Official preparation:** The organizer instructs applicants to draft in its Word template first and preserve the completed copy; it says there is no post-submit editing. Link: https://www.developconference.com/images/uploads/docs/Speaker_Subs_Form_Word_Doc_2027.docx
 
 **Lecture abstract:**
@@ -93,7 +95,7 @@ Joyce founded GGC Games and is the author of *Game Operations and Global Expansi
 - A clear single session vs panel/roundtable distinction; **do not name uncommitted panelists**.
 - Content confidentiality and recording/likeness/IP permissions (especially gamescom latam).
 - Visa, travel, day of session and speaker pass terms **only after** editorial acceptance; no purchase authorized.
-- Capture a confirmation screen/email, actual submission timestamp and application reference. Until then status is **PREPARED / NOT SUBMITTED**.
+- Capture a confirmation screen/email, actual submission timestamp and application reference. **gamescom latam: SUBMITTED / RECEIVED / UNDER REVIEW**. **Develop:Brighton, Nordic Game and IEEE CoG: PREPARED / NOT SUBMITTED**, pending a formal receipt.
 
 ## Public source notes
 
