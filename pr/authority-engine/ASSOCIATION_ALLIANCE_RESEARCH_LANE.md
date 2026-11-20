@@ -1,5 +1,18 @@
 # GGC — Association Relations, Research & Future Alliance Lane
 
+## 20 November 2026 — Finnish member-needs request creates one substantive S1 (no S2)
+
+A named, relevant **Chief Business Advisor at Neogames Finland** replied personally to the already-contacted association and requested **specific examples of Joyce's past game-studio work** plus a **member-relevant cooperation format** before considering any introductory call. Joyce's historical experience in cross-studio operations and player-lifecycle decisions was provided in **one existing original SENT on 19 Nov** after the reply; current run verified the exact original thread and did not repeat the email. This is **S1 CONTACT_SUCCESS — PERSON_AND_CONTENT_SUBSTANTIVE** under the association rubric; not a confirmed calendar invitation, booked roundtable, named studio introduction, promised publication, S2 COOPERATION or S3 CO-CREATION.
+
+As further research grounding for the future conditional briefing (not a solicited published collaboration), Neogames' [2024 Finnish Game Industry Report, published Aug 2025](https://neogames.fi/the-finnish-game-industry-report-2024/) cites **270 studios, €2.85bn industry turnover and about 4,300 employees** for 2024. These ecosystem figures do not demonstrate a particular Finnish member's current China publishing interest or justify unsolicited named introduction. Useful conditional outputs if Neogames confirms a need: a 2-page evidence-first China/Asia publishing pre-signing checklist or a 30-minute founder Q&A on rights, localisation, data, P&L and LiveOps ownership after launch. No member logos, personal details, unknown business needs or promised access.
+
+A separate German industry/trade channel's appropriate senior manager replied that the team has **no strong current games/creative-technology network**, though may keep Joyce in mind. Polite acknowledgment already exists in SENT. It is a **human sector-fit decline**, not S2, and should not be pressed with repeated contacts or reassigned to another person within the group.
+
+The strict association funnel still differentiates **official recipient / FIRST_TOUCH_SENT**, **relevant named substantive contact (S1)**, **mutually confirmed owner + scope + deliverable (S2)**, and **actually released rights-cleared co-created work (S3)**. No new nameplate, partner, association accreditation or award programme is implied.
+
+---
+
+
 ## 19 November 2026 — academic manuscript receipt versus no active association event
 
 An original English game-animation/AIGC manuscript was emailed in DOCX and PDF to an animation-sector academic outlet on 18 Nov. A **19 Nov human reply explicitly acknowledges receipt and initiation of initial review plus external peer review**, without editorial acceptance or publication. The secretariat reconfirms a **page charge only after acceptance** (RMB2,400 <=10 pages, plus RMB800 per extra page). Rights, author agreements, fee and final proof approval remain separate owner decisions.
