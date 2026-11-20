@@ -1,5 +1,19 @@
 # GGC — Media Route and Format Feedback
 
+## 20 November 2026 — original programme-owner evidence over generic routing and stale web pages
+
+| Existing organiser / route | New verification and fit | Strict next gate |
+|---|---|---|
+| **Steel Media / PG Connects** | Current programme manager has confirmed **SF on 1 Mar 2027** and allowed until **mid-Dec** for the original solo-talk choice; separate human note floated a different London talk for **18–19 Jan 2027**. SF public landing page still showed 2026 details when consulted, so do NOT derive 2027 specifics from the 2026 schedule. | **HUMAN_PROGRAMME_INTEREST / NO_RESERVED_STAGE / EXACT-VERSION_DRAFT_ONLY.** SF date clashes with 4YFN Barcelona **1–4 Mar**. Original parent existing only; no duplicate cold outreach, no speaker/publicity/recording licence, payment, travel, media badge, call or meeting approval. |
+| **GSMA / 4YFN editorial CFP** | Official programming desk confirmed **three exact on-time proposals received**, all under review to **30 Nov 2026**. A separate new out-of-window concept was rejected for missing the **5 Nov** deadline, not the original three. [Official speaker procedure](https://www.4yfn.com/call-for-speakers). | **THREE_FORM_SUBMISSIONS_CONFIRMED / NO_SPEAKER_ACCEPTANCE**. Wait category-specific editorial decisions. Free attendee pass offered via different awards-related channel needs separate actual secure claim by **30 Nov**, not assumed activated. |
+| **IGI Global Scientific Publishing, call 10377** | Publisher's assistant development editor responded with [actual eEditorial submission route](https://www.igi-global.com/publish/call-for-papers/submit/10377) and instructed login with the correctly associated author email. Original call deadline **22 Nov**. [Call announcement](https://ispr.info/2026/11/10/call-generative-ai-for-video-production-and-storytelling/). | **HUMAN_TECHNICAL_ROUTE_ANSWER / OFFICIAL_FORM_NOT_SUBMITTED**. Original Word/PDF sent to volume editor only as reference; an out-of-date generic support DRAFT should not be sent. |
+| **WMF / We Make Future editorial CFP** | Educational Committee staff confirms original **18 Oct** speaker form remains primary with later **18 Nov** supplemental information linked to it, not a duplicate. | **ORIGINAL_PROGRAMME_APPLICATION_UNDER_REVIEW / NOT_ACCEPTED**. Separate €99 Soft Landing transaction needs real processor matching; no re-payment or implied ticket/desk. |
+
+No additional cold sends, online forms, new contract, fee or rights/likeness/travel consent are permitted by these factual updates.
+
+---
+
+
 ## 19 November 2026 — programme and manuscript route reconciliation
 
 | High-value relationship | Official and real-message evidence | Gate/next action |
