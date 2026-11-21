@@ -1,5 +1,26 @@
 # Joyce Mi / GGC — Global PR Status
 
+## 2026-11-21 — New verified PR milestones and Hong Kong award routes
+
+**Concrete outbound:** The active Steel Media / PG Connects thread now contains a fresh statement that Joyce is willing to be considered for **London 18–19 Jan 2027** with two distinct non-promotional operator topics, contingent on the actual slot and UK entry/visa eligibility. It also preserves London, Shanghai, Barcelona and Dubai options while keeping San Francisco 1 Mar **conditional** on the 4YFN overlap, visa and a mid-December decision. **SENT**, not accepted; no travel or filming consent.
+
+**Hong Kong award pipeline:** 
+- **HKICT Awards 2026 has concluded** (public awards on 19 Nov 2026). Official 2027 call dates were not published as of 21 Nov. HK Digital Entertainment Award organisers were already contacted 18 Nov regarding **2027 free-entry criteria / Best Use of AI**, do **not** duplicate. [HK ICT Awards schedule](https://www.hkictawards.hk/award-categories/) · [2026 ceremony report](https://www.info.gov.hk/gia/general/202611/19/P2026111900415.htm).
+- **Startup Innovation Weekend 2027 Hong Kong national selection**: application due **30 Nov 2026**, in-person Hong Kong selection **19 Dec**. Official organizer was contacted for the free Company Startup Application Kit and eligibility/terms. **Enquiry sent, not formally applied or shortlisted**. Company-age and product proof need official review. [InnoEdge announcement](https://www.innoedge.com.hk/national-selection-of-startup-innovation-weekend-2027-for-hong-kong-china-region-application-deadline-30-nov-2026/).
+- **Hong Kong Techathon+ 2027** is a university-affiliated team competition (2–6 eligible team members, qualifying participating university student/alumni); GGC is **not presumed eligible**. [Official rules](https://www.hktechathon.com/en/site/join).
+- **Hong Kong Sustainable Development I&T Awards 2027** plans to open **8 Dec 2026**; eligibility, category, sustainability outcome and organiser terms/fees require specific verification before entry. [Organiser page](https://wisdp.org/wp/hksdit2027/). Do not label a future award as already submitted.
+
+**Independently verifiable recognitions:**
+- **International AI Awards 2026:** *Bunny Crystal Oracle* named on organiser's [public 2026 winners list](https://www.inaiawards.com/winners) as **Best AI Application — Silver Winner**, entrant "Joyce Mi / GGC Innovation Tech Co., Limited". This is an **independent online award**, not a government award; do not overstate authority or product adoption.
+- **WiCX 2026:** Joyce Mi / GGC Games appears on the [official 2026 finalists page](https://womenincx.community/awards-finalists-2026) in **Responsible AI**, **Customer Insight and Intelligence**, and **Experience Design**. Winners announced **1 Dec 2026**, not yet won.
+
+**Academic publishing:** IGI Global eEditorial Discovery sent a **formal received-and-forwarded-for-editorial-review acknowledgment on 21 Nov 2026** for the chapter proposal *From Synthetic Teasers to Real First Play* in *Generative AI for Video Production and Storytelling*. This is **successful official submission, NOT chapter acceptance/publication**. ASIFA paper remains under review, no acceptance; distinct research and rights.
+
+**U.S. visa processing:** official Guangzhou B1/B2 **interview-waiver document drop-off appointment on 4 Dec 2026**. A one-time reminder for **1 Dec 2026** was created to check relevant data/DS-160 and required materials, but no visa was issued and no travel is committed. UK PGC trip is a separate visa decision; consult current UK visitor/conference-speaking requirements and await organizer evidence.
+
+---
+
+
 ## 2026-11-20 — latest verified international PR & conference status (supersedes contradictory older entries)
 
 **Evidence rule:** Treat email receipt as an official submission acknowledgment **only** when the organizer explicitly says the form/proposal was received. A human expressing interest is not a confirmed speaker invitation. An authored GitHub essay is not third-party editorial publication. Avoid duplicating prior speaker forms or emailing already engaged editors repeatedly.
