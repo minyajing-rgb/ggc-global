@@ -6,6 +6,21 @@ This file is the public-source ledger behind the News & Recognition section on h
 
 ## Confirmed honor
 
+## 2026-11-21 — Verified independent awards and finalist recognition
+
+### International AI Awards 2026 — Silver Prize, Best AI Application
+- **Winning project:** *Bunny Crystal Oracle* (SAGA1001 / GGC).
+- **Official award record:** [2026 Winter Winners, International AI Awards](https://www.inaiawards.com/winners). The organiser's public page lists "Bunny Crystal Oracle" and **"Joyce Mi / GGC Innovation Tech Co., Limited"** as **Best AI Application – Silver Winner**, dated 21 November 2026.
+- **Classification:** an independently organized online competition whose terms identify organiser Sofoly Cultural Limited, Hong Kong. **Not** a Hong Kong government ICT Award, academic prize, game store-feature, commercial certification, major venture funding, or measured product adoption. No prize money or revenue figure is implied.
+- **Product claim boundary:** public award listing describes a live interactive crystal-oracle card application. Current product availability, supported cards and product/AI maturity should be verified independently for product pitches; don't infer app-store launch, clinical benefit or high player volume.
+
+### Inspiring Women in CX Awards 2026 — three official finalist listings, winners pending
+- The [organiser's public 2026 finalist list](https://womenincx.community/awards-finalists-2026) identifies Joyce Mi / GGC Games in **Responsible AI**, **Customer Insight and Intelligence**, and **Experience Design**.
+- Status as of 21 November 2026: **FINALIST in each listed category**, **NOT winner**. The organiser's public timeline says awards will be announced on **1 December 2026**.
+- The official finalist profiles are organizer-supplied short biographies; individual historical metrics should continue to follow the scope/role evidence rules in [Public PR Evidence Map](../../pr/authority-engine/EVIDENCE_MAP.md). Do not repeat numbers as independently audited by the award committee.
+
+---
+
 ### H2 2015 Tencent-alumni Entrepreneurship Honor Roll / 腾讯系创业人物风云榜
 - Context: Joyce / 闵雅婧, CEO of Taoyuan Xigu at the time.
 - Recognition recorded on stage at the Partners Summit, May 2016.
