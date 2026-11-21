@@ -18,6 +18,13 @@ Her signature contribution is the **operating system behind repeatable results**
 
 ## Three priority solo talks (non-promotional)
 
+## Independently verifiable 2026 recognition (added 21 Nov)
+
+- **Award:** *Bunny Crystal Oracle*, **Silver Winner — Best AI Application**, International AI Awards 2026. [Official winner listing](https://www.inaiawards.com/winners). Independent online award, not a Hong Kong government or universally recognised industry accreditation.
+- **Finalist:** Inspiring Women in CX Awards 2026, **Responsible AI**, **Customer Insight and Intelligence**, and **Experience Design**. [Official finalist page](https://womenincx.community/awards-finalists-2026). **Results due 1 December 2026; not winners as of this update**.
+- These recognitions may be listed in conference and press bios with their exact status; no applicant status or award claims should be added beyond the organiser's own published page.
+
+
 ### 01. China-Built, Globally Operated: Connecting Development Quality to Publishing ROI
 **Best for:** PG Connects Shanghai; PG Connects Barcelona; industry / business strategy tracks. **Format:** 20–30 min solo, can adapt to 40 min.
 
