@@ -1,5 +1,17 @@
 # GGC — Media Route and Format Feedback
 
+## 21 November 2026 — authenticated CFP forms and permissions
+
+| Official route | Current grounded requirements | Eligible state and owner gate |
+|---|---|---|
+| [DiGRA Central Asia 2027](https://digra.org/digra-central-asia-conference-2027-call-for-papers/) | [Official Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfVuPgCb8yg4-kv3iladagfbi4D-iEBnkptCxfndZUDQr4nyg/viewform): 150–300-word anonymised English abstract with **completed research results/preliminary findings**, not projected plans; 5–10-minute talk; phone or Telegram; named presenter; requires a post-acceptance **extended abstract/paper commitment**, possible proceedings-publication permission and personal data processing consent. Due 23 Nov 23:59 UTC+5 (24 Nov 02:59 HKT); acceptance decision 18 Jan; event 27 Feb 2027 in Tashkent. | Existing 227-word methodology-only/illustrative draft **not submitted** and no empirical outcomes can be invented. Non-trivial obligations require owner approval; online and fees not verified. Acceptance does not guarantee proceedings publication. |
+| [Nordic Game 2027 AI Track](https://nordicgame.com/the-ai-track-returns-to-ng27-building-on-great-momentum/) | Official organiser identifies ImmerSynth as AI Track curator, with specific speaker-only Google interest form already open. Curator personally provided the same form. Separate [general 2027 speakers page](https://nordicgame.com/speakers/) indicates broader CFP opening early 2027. | Existing PR row 73 **corrected** to curator-verified form; no form/selection yet. No speaker honorarium, on-site talks only, speaker pass if selected. No sponsorship, rights, travel or photo/recording consent. |
+| [IGI Global call 10377](https://www.igi-global.com/publish/call-for-papers/call-details/10377) | 22 Nov deadline; 1k–2k-word chapter proposal via authenticated eEditorial Discovery; no submission or acceptance charges. | Prior editor reference Word/PDF and support reply **not** an official form receipt. No account-authorised portal submission. |
+| [WomenTech 2026 first finalists](https://www.womentech.net/blog/women-in-tech-ai-global-awards-2026-finalists) | Female Founder Rising Star and several other categories scheduled **23–26 Nov**; 20 Nov general newsletter covers first wave, not individual category result. | Not yet category-specific finalist proof or failed nomination. No new application, paid ceremony access or public award statement. |
+| [ITU Innovation Factory Dec 8](https://aiforgood.itu.int/event/ai-for-good-innovation-factory-2026-live-pitching-session/?topic=1) | Existing 26 Oct true generic submission receipt; official Dec 8 pitch at 16:00–17:00 CET / 23:00–00:00 HKT. | **Already submitted once**; do not confuse new advertised Nov23 deadline with a request to submit again. No selection notice. |
+
+---
+
 ## 20 November 2026 — original programme-owner evidence over generic routing and stale web pages
 
 | Existing organiser / route | New verification and fit | Strict next gate |
