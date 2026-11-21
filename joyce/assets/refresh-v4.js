@@ -21,6 +21,12 @@
   for(const [name,value] of Object.entries(hints))$('[name="'+name+'"]').placeholder=value;
  }
  $('#service-select').addEventListener('change',refresh);
+ const annualLink=$('.annual-cta a[href="#contact"]');
+ if(annualLink)annualLink.addEventListener('click',()=>{
+  $('#service-select').value='S12';
+  $('#service-select').dispatchEvent(new Event('change',{bubbles:true}));
+  $('#brief-result').hidden=true;
+ });
  document.addEventListener('click',e=>{if(e.target.closest('[data-currency], [data-lang], #dialog-enquire'))requestAnimationFrame(refresh);});
  new MutationObserver(refresh).observe(document.documentElement,{attributes:true,attributeFilter:['lang']});
  $('#share-service').addEventListener('click',async()=>{
@@ -40,3 +46,4 @@
  }
  refresh();window.__ggcRefresh= data.version;
 })();
+

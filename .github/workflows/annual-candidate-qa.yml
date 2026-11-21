@@ -1,0 +1,33 @@
+name: Annual partnership candidate QA
+on:
+  push:
+    branches:
+      - fix/annual-inquiry-s12-20261106
+    paths:
+      - .github/workflows/annual-candidate-qa.yml
+      - scripts/qa_refresh_v4.py
+      - joyce/assets/refresh-v4.js
+permissions:
+  contents: read
+jobs:
+  annual-browser-qa:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install browser QA dependencies
+        run: |
+          python -m pip install playwright==1.57.0
+          python -m playwright install --with-deps chromium
+      - name: Test candidate pages in Chromium
+        run: python scripts/qa_refresh_v4.py
+      - name: Keep QA report and screenshots
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: annual-candidate-qa
+          path: joyce/content/refresh-qa/
+          if-no-files-found: warn
