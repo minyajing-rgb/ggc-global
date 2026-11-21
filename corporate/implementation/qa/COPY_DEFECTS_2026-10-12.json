@@ -1,0 +1,120 @@
+{
+  "source_commit": "7765e325f7820274fb5f506d0bcf836bcf512a84",
+  "defects": [
+    {
+      "id": "D01",
+      "severity": "P2",
+      "page": "shared footer",
+      "reproduction": "Public copy said Implementation preview / not production cutover",
+      "expected": "Use supporting brand sentence; remove developer library footer link",
+      "status": "FIXED_AND_RETESTED",
+      "owner": "GGC site implementation",
+      "fixing_commit": "7765e325f7820274fb5f506d0bcf836bcf512a84",
+      "retest": "run 38252687348; 18 pages / 126 layouts / 1106 assertions / zero failure",
+      "evidence": "COPY_BROWSER_REVIEW_2026-10-12.json"
+    },
+    {
+      "id": "D02",
+      "severity": "P1",
+      "page": "about",
+      "reproduction": "Generic career summary and unnecessary old-career verification explanation",
+      "expected": "Accurate PM leadership and named products/regions retained",
+      "status": "FIXED_AND_RETESTED",
+      "owner": "GGC site implementation",
+      "fixing_commit": "7765e325f7820274fb5f506d0bcf836bcf512a84",
+      "retest": "run 38252687348; 18 pages / 126 layouts / 1106 assertions / zero failure",
+      "evidence": "COPY_BROWSER_REVIEW_2026-10-12.json"
+    },
+    {
+      "id": "D03",
+      "severity": "P2",
+      "page": "contact",
+      "reproduction": "Visitor paragraph discussed backend / Production CRM integration",
+      "expected": "Explain preparing, reviewing and sending an email draft",
+      "status": "FIXED_AND_RETESTED",
+      "owner": "GGC site implementation",
+      "fixing_commit": "7765e325f7820274fb5f506d0bcf836bcf512a84",
+      "retest": "run 38252687348; 18 pages / 126 layouts / 1106 assertions / zero failure",
+      "evidence": "COPY_BROWSER_REVIEW_2026-10-12.json"
+    },
+    {
+      "id": "D04",
+      "severity": "P2",
+      "page": "lab",
+      "reproduction": "Visitor prose described legal-entity/revenue audit and internal working name",
+      "expected": "Direct product/tools/research introduction; retain existing maturity tags",
+      "status": "FIXED_AND_RETESTED",
+      "owner": "GGC site implementation",
+      "fixing_commit": "7765e325f7820274fb5f506d0bcf836bcf512a84",
+      "retest": "run 38252687348; 18 pages / 126 layouts / 1106 assertions / zero failure",
+      "evidence": "COPY_BROWSER_REVIEW_2026-10-12.json"
+    },
+    {
+      "id": "P01",
+      "severity": "P1",
+      "page": "lab/products",
+      "requirement": "FR07",
+      "reproduction": "Compare complete PRD production requirement with current routes and architecture",
+      "expected": "Implement and verify the named production requirement before full Gate C/D",
+      "actual": "No dedicated product detail and approved 3-6 media per product",
+      "status": "OPEN_NOT_IMPLEMENTED_OR_BLOCKED",
+      "owner": "GGC production implementation",
+      "fixing_commit": null,
+      "retest": "BLOCKED; intentionally not broadened into this narrow copy task"
+    },
+    {
+      "id": "P02",
+      "severity": "P1",
+      "page": "contact",
+      "requirement": "FR09/FR12",
+      "reproduction": "Compare complete PRD production requirement with current routes and architecture",
+      "expected": "Implement and verify the named production requirement before full Gate C/D",
+      "actual": "No server inquiry acceptance, receipt, retry, idempotency or CRM route",
+      "status": "OPEN_NOT_IMPLEMENTED_OR_BLOCKED",
+      "owner": "GGC production implementation",
+      "fixing_commit": null,
+      "retest": "BLOCKED; intentionally not broadened into this narrow copy task"
+    },
+    {
+      "id": "P03",
+      "severity": "P1",
+      "page": "research/contact",
+      "requirement": "FR11",
+      "reproduction": "Compare complete PRD production requirement with current routes and architecture",
+      "expected": "Implement and verify the named production requirement before full Gate C/D",
+      "actual": "No double-opt-in subscription, preferences, unsubscribe or suppression",
+      "status": "OPEN_NOT_IMPLEMENTED_OR_BLOCKED",
+      "owner": "GGC production implementation",
+      "fixing_commit": null,
+      "retest": "BLOCKED; intentionally not broadened into this narrow copy task"
+    },
+    {
+      "id": "P04",
+      "severity": "P1",
+      "page": "production",
+      "requirement": "FR10/FR13",
+      "reproduction": "Compare complete PRD production requirement with current routes and architecture",
+      "expected": "Implement and verify the named production requirement before full Gate C/D",
+      "actual": "Incomplete production privacy/SEO/external resource acceptance and undeployed main domain",
+      "status": "OPEN_NOT_IMPLEMENTED_OR_BLOCKED",
+      "owner": "GGC production implementation",
+      "fixing_commit": null,
+      "retest": "BLOCKED; intentionally not broadened into this narrow copy task"
+    },
+    {
+      "id": "P05",
+      "severity": "P2",
+      "page": "zh/contact",
+      "reproduction": "Open 1440px or 390px Chinese Contact; see final single-character wrap in secondary heading",
+      "expected": "Natural Chinese heading line breaks",
+      "actual": "Existing heading ends with 始 on its own line",
+      "status": "OPEN",
+      "owner": "GGC editorial/layout",
+      "fixing_commit": null,
+      "retest": "Final screenshots confirmed; no CSS redesign performed"
+    }
+  ],
+  "full_product_status": "NOT_READY",
+  "scope_copy_status": "FIXED_AND_RETESTED",
+  "no_scope_waiver": true
+}

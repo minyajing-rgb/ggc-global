@@ -1,0 +1,50 @@
+/* Visual refinement on top of the approved bilingual V4 layout and real product artwork. */
+.fullsite{--ggc-ink:#11183e;--ggc-blue:#1455eb;--ggc-violet:#6840e8;--ggc-pink:#d92ecb}
+.fullsite .top{background:#ffffffdc;backdrop-filter:blur(18px);border-bottom:1px solid #d8e6f38c}
+.fullsite .nav{min-height:73px}
+.fullsite .navlinks a{color:#152350;font-weight:700}
+.fullsite .navlinks a:hover{color:var(--ggc-blue)}
+.fullsite.page-index .hero{background:linear-gradient(90deg,#ffffffdf 0%,#ffffffbc 31%,#ffffff52 69%),url('hero-light.jpg') center/cover;border-bottom:1px solid #d8e7f3;overflow:hidden}
+.fullsite.page-index .hero:before,.fullsite.page-index .hero:after{opacity:.26}
+.fullsite.page-index .hero-grid{min-height:482px;grid-template-columns:minmax(0,1fr) minmax(0,1.03fr);gap:12px}
+.fullsite.page-index .hero-copy{position:relative;z-index:2}
+.fullsite.page-index .hero .eyebrow{color:#1c53e3;letter-spacing:.16em;font-weight:800}
+.fullsite.page-index .hero h1.hero-headline{font-family:"PingFang SC","Noto Sans SC","Microsoft YaHei",sans-serif;font-size:clamp(44px,3.9vw,56px);font-weight:850;line-height:1.14;letter-spacing:-.035em;color:#101738;margin:13px 0 13px;text-wrap:balance}
+html[lang=en] .fullsite.page-index .hero h1.hero-headline{font-family:"Inter Display",Inter,"Arial Black","Helvetica Neue",Arial,sans-serif;font-size:clamp(49px,4.7vw,68px);font-weight:900;line-height:1.04;letter-spacing:-.062em}
+.fullsite.page-index .hero h1 .inkgrad{background-image:linear-gradient(96deg,#1768ed 0%,#5e46eb 55%,#d62bd1 100%)}
+.fullsite.page-index .hero .hero-translation{font-size:clamp(18px,1.55vw,22px);font-weight:650;line-height:1.34;letter-spacing:-.025em;color:#223161;margin:9px 0 17px}
+html[lang=en] .fullsite.page-index .hero .hero-translation{font-family:"PingFang SC","Noto Sans SC","Microsoft YaHei",sans-serif;font-size:clamp(21px,1.8vw,26px);font-weight:800;letter-spacing:-.025em}
+.fullsite.page-index .hero .intro{font-size:14px;line-height:1.69;max-width:575px;color:#3c4a70}
+.fullsite.page-index .hero .subline{font-size:11px;color:#687698;margin-top:6px}
+.fullsite.page-index .hero .actions{margin-top:18px;gap:12px}
+.fullsite.page-index .hero-proof{margin-top:19px;color:#5a6b93;font-size:10px}
+.fullsite.page-index .fidelity-memo{transform:scale(.93);transform-origin:center right;filter:drop-shadow(0 20px 21px #687fc026)}
+.fullsite.page-index .memo-stage .memo,.fullsite.page-index .memo-stage .signal-sheet,.fullsite.page-index .memo-stage .fit-sheet{background:#ffffffd6;backdrop-filter:blur(15px);border-color:#fff;box-shadow:0 15px 35px #4e63b51d,inset 0 1px #fff}
+.fullsite.page-index .section-questions,.fullsite.page-index .section-pillars{background:linear-gradient(110deg,#f4faff,#f8faff 68%,#fff8fd);border-bottom:1px solid #e6eef8}
+.fullsite.page-index .section-questions{padding:18px 0}
+.fullsite.page-index .section-pillars{padding:17px 0}
+.fullsite.page-index .section-questions>.shell,.fullsite.page-index .section-pillars>.shell{grid-template-columns:180px minmax(0,1fr);gap:14px}
+.fullsite.page-index .section-questions .section-head h2,.fullsite.page-index .section-pillars .section-head h2{font-size:20px;line-height:1.18;color:#18214e}
+.fullsite.page-index .section-questions .section-head p.eyebrow,.fullsite.page-index .section-pillars .section-head p.eyebrow{color:#24439e;font-size:11px}
+.fullsite.page-index .question,.fullsite.page-index .section-pillars .card{background:#ffffffdd;border:1px solid #fff;box-shadow:0 5px 18px #7894c51b,inset 0 0 0 1px #dbe7f4;border-radius:13px}
+.fullsite.page-index .section-questions .question{padding:13px 12px 10px;min-height:150px}
+.fullsite.page-index .section-questions .question h3{font-size:13px;line-height:1.22;margin:7px 0 4px}
+.fullsite.page-index .question-caption{font-size:9px;margin-bottom:7px}
+.fullsite.page-index .section-pillars .card{padding:14px 13px;min-height:166px}
+.fullsite.page-index .section-pillars .card h3{font-size:14px;margin:7px 0 4px}
+.fullsite.page-index .section-pillars .card p{font-size:10px;line-height:1.35;margin:5px 0}
+.fullsite.page-index .pillar-caption{font-size:10px}
+.fullsite.page-index .section-pillars .card .ggc-btn{padding:7px 10px;min-height:32px}
+.fullsite .closing{background:linear-gradient(90deg,#0a153dbf,#2c215d76 51%,#442b6859),url('closing-city.jpg') center/cover;border:1px solid #d1dcf9;box-shadow:0 12px 28px #2737722e}
+.fullsite .closing:before{display:none}
+.fullsite .closing h2{color:#fff}.fullsite .closing p{color:#e5e9ff}
+.fullsite .research-card .report-art{background-position:center;background-size:cover;isolation:isolate}
+.fullsite .research-card .report-art:after{background:linear-gradient(90deg,#081540a8,transparent 84%);opacity:1}
+.fullsite .research-card .report-art strong,.fullsite .research-card .report-art small{color:#fff;text-shadow:0 1px 5px #0d163d}
+.fullsite .research-card:nth-child(3n+1) .report-art{background-image:url('research-market.jpg')}
+.fullsite .research-card:nth-child(3n+2) .report-art{background-image:url('research-game.jpg')}
+.fullsite .research-card:nth-child(3n) .report-art{background-image:url('research-decision.jpg')}
+@media(max-width:1270px){.fullsite.page-index .hero h1.hero-headline{font-size:clamp(44px,3.9vw,51px)}html[lang=en] .fullsite.page-index .hero h1.hero-headline{font-size:clamp(49px,4.7vw,60px)}.fullsite.page-index .section-questions>.shell,.fullsite.page-index .section-pillars>.shell{grid-template-columns:150px minmax(0,1fr)}}
+@media(max-width:880px){.fullsite.page-index .hero{background-position:62% center}.fullsite.page-index .hero-grid{grid-template-columns:1fr;min-height:0;gap:24px}.fullsite.page-index .fidelity-memo{transform:none;filter:none}.fullsite.page-index .section-questions>.shell,.fullsite.page-index .section-pillars>.shell{display:block}.fullsite.page-index .section-questions,.fullsite.page-index .section-pillars{padding:24px 0}}
+@media(max-width:540px){.fullsite.page-index .hero{background:linear-gradient(180deg,#ffffffdc,#ffffffbd),url('hero-light.jpg') 62% center/cover}.fullsite.page-index .hero h1.hero-headline{font-size:clamp(36px,10vw,46px);line-height:1.15;letter-spacing:-.025em}.fullsite.page-index .hero .hero-translation{font-size:16px;line-height:1.35;max-width:none}.fullsite.page-index .hero .intro{font-size:13px}.fullsite.page-index .section-questions .section-head h2,.fullsite.page-index .section-pillars .section-head h2{font-size:27px}.fullsite.page-index .section-questions .question{min-height:164px}.fullsite.page-index .section-pillars .card{min-height:0}html[lang=en] .fullsite.page-index .hero h1.hero-headline{font-size:clamp(30px,8.2vw,40px);letter-spacing:-.055em}html[lang=en] .fullsite.page-index .hero .hero-translation{font-size:17px}}
+@media(prefers-reduced-motion:reduce){.fullsite.page-index .fidelity-memo{transform:none}}

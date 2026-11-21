@@ -1,0 +1,50 @@
+name: GGC Academy public catalogue review
+on:
+  push:
+    branches: [feature/ggc-corporate-rebuild-20261010]
+    paths:
+      - 'corporate/academy/**'
+      - '.github/workflows/ggc-academy-review.yml'
+permissions:
+  contents: read
+jobs:
+  academy-review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Build isolated bilingual course directory from approved assets
+        run: |
+          python corporate/fullsite-v4/prepare_site.py --out /tmp/ggc-academy-baseline --stage /tmp/ggc-academy-source
+          python corporate/academy/build_academy.py --assets-from /tmp/ggc-academy-baseline/assets --out academy-evidence/site
+      - name: Read-only public host and official course metadata inventory
+        run: |
+          python corporate/academy/audit_public.py --out academy-evidence
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          catalogue=json.loads(Path('corporate/academy/catalog.json').read_text())
+          report=json.loads(Path('academy-evidence/public-inventory.json').read_text())
+          published={row['id'] for row in catalogue['courses']}
+          matches={row['id'] for row in report['courses'] if row['metadata_matches']}
+          unresolved=published-matches
+          print({'published_listings':len(published),'matching_public_metadata':len(published & matches),'unresolved':sorted(unresolved),'historical_held':len(catalogue['hold'])})
+          if unresolved:raise SystemExit('Published course metadata requires review; do not publish this candidate.')
+          PY
+      - name: Install existing browser QA dependencies
+        run: |
+          python -m pip install playwright==1.57.0 beautifulsoup4
+          python -m playwright install --with-deps chromium
+      - name: HTTP browser review with no publication or business submission
+        run: python corporate/academy/review_academy.py --site academy-evidence/site --out academy-evidence/qa
+      - name: Preserve catalogue, screenshots and public inventory
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ggc-academy-directory-and-inventory
+          path: academy-evidence/
+          retention-days: 30
+          if-no-files-found: error

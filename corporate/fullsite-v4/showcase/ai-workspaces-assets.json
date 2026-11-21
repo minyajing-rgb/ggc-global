@@ -1,0 +1,86 @@
+[
+  {
+    "asset": "agent-office-screen.webp",
+    "source_url": "https://ai.ggcgames.com/",
+    "capture_date": "2026-10-14",
+    "source_capture_sha256": "9a901110f18dcbab7d30e474d0b10c7d46f3deb8ec82fffce686b718fe758420",
+    "source_dimensions": [
+      1440,
+      2186
+    ],
+    "crop_box": [
+      0,
+      880,
+      1440,
+      1893
+    ],
+    "output_dimensions": [
+      1280,
+      900
+    ],
+    "treatment": "Crop, proportional resize and WebP compression only; captured from the published product itself."
+  },
+  {
+    "asset": "agent-office-brand.webp",
+    "source_url": "https://ai.ggcgames.com/",
+    "capture_date": "2026-10-14",
+    "source_capture_sha256": "9a901110f18dcbab7d30e474d0b10c7d46f3deb8ec82fffce686b718fe758420",
+    "source_dimensions": [
+      1440,
+      2186
+    ],
+    "crop_box": [
+      24,
+      12,
+      435,
+      66
+    ],
+    "output_dimensions": [
+      411,
+      54
+    ],
+    "treatment": "Crop, proportional resize and WebP compression only; captured from the published product itself."
+  },
+  {
+    "asset": "cat-workspace-screen.webp",
+    "source_url": "https://agency.ggcgames.com/",
+    "capture_date": "2026-10-14",
+    "source_capture_sha256": "8cdd1514817731365ced30ee3e436013c4a8d9deecca721e4cc0cebdf71858a7",
+    "source_dimensions": [
+      1440,
+      2103
+    ],
+    "crop_box": [
+      0,
+      260,
+      1440,
+      1273
+    ],
+    "output_dimensions": [
+      1280,
+      900
+    ],
+    "treatment": "Crop, proportional resize and WebP compression only; captured from the published product itself."
+  },
+  {
+    "asset": "cat-workspace-brand.webp",
+    "source_url": "https://agency.ggcgames.com/",
+    "capture_date": "2026-10-14",
+    "source_capture_sha256": "8cdd1514817731365ced30ee3e436013c4a8d9deecca721e4cc0cebdf71858a7",
+    "source_dimensions": [
+      1440,
+      2103
+    ],
+    "crop_box": [
+      38,
+      18,
+      260,
+      84
+    ],
+    "output_dimensions": [
+      222,
+      66
+    ],
+    "treatment": "Crop, proportional resize and WebP compression only; captured from the published product itself."
+  }
+]

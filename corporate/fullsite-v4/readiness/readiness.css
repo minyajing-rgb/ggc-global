@@ -1,0 +1,6 @@
+/* Additive P0 accessibility only: approved brand styles remain untouched. */
+.p0-note{font-size:12px;line-height:1.75;margin-bottom:16px}
+.p0-note a{display:inline}
+#main:focus{outline:none}
+.gallery-dots button:focus-visible{outline:2px solid #a11788;outline-offset:4px}
+@media(forced-colors:active){.ggc-btn:focus-visible,.gallery-dots button:focus-visible{outline:2px solid Highlight}}

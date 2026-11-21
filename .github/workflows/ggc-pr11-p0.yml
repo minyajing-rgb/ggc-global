@@ -1,0 +1,42 @@
+name: GGC PR11 source P0 readiness
+on:
+  push:
+    branches: [feature/ggc-corporate-rebuild-20261010]
+    paths:
+      - 'corporate/fullsite-v4/**'
+      - 'corporate/implementation/src/**'
+      - '.github/workflows/ggc-pr11-p0.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: ggc-pr11-p0-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  source-readiness:
+    if: github.ref == 'refs/heads/feature/ggc-corporate-rebuild-20261010'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install existing QA dependencies
+        run: |
+          python -m pip install playwright==1.57.0 beautifulsoup4
+          python -m playwright install --with-deps chromium
+      - name: Verify generated source-only candidates through HTTP Chromium
+        run: python corporate/fullsite-v4/qa/review_readiness.py --source-commit "$GITHUB_SHA"
+      - name: Preserve P0 report and candidates (not a deployment)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ggc-pr11-p0-readiness
+          path: |
+            p0-evidence/review.json
+            p0-evidence/release/
+            p0-evidence/preview/robots.txt
+            p0-evidence/preview/readiness-manifest.json
+          retention-days: 14
+          if-no-files-found: error

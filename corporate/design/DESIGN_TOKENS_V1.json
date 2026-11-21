@@ -1,0 +1,90 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "name": "GGC Corporate Design System",
+  "version": "2026-10-11",
+  "status": "proposal-not-production",
+  "colors": {
+    "ink": "#1B132B",
+    "paper": "#FCFAF7",
+    "lavender": "#F5EFFD",
+    "violet": "#7546DE",
+    "magenta": "#F1349E",
+    "cyan": "#37D2DD",
+    "gold": "#D8AE54",
+    "muted": "#71687B",
+    "line": "#E7E0EE"
+  },
+  "typography": {
+    "headingFont": "Inter, PingFang SC, system-ui",
+    "bodyFont": "Inter, PingFang SC, system-ui",
+    "h1DesktopPx": [
+      72,
+      86
+    ],
+    "h1MobilePx": [
+      44,
+      48
+    ],
+    "h2DesktopPx": [
+      42,
+      50
+    ],
+    "h2MobilePx": [
+      30,
+      34
+    ],
+    "bodyPx": [
+      16,
+      18
+    ],
+    "navPx": [
+      12,
+      14
+    ]
+  },
+  "layout": {
+    "containerMaxPx": 1216,
+    "gutterDesktopPx": 36,
+    "gutterMobilePx": 20,
+    "sectionDesktopPx": 90,
+    "sectionMobilePx": 64,
+    "cardRadiusPx": 24,
+    "buttonRadiusPx": 99,
+    "minTouchPx": 44,
+    "breakpointsPx": [
+      390,
+      768,
+      1024,
+      1440
+    ]
+  },
+  "variants": [
+    "corporate",
+    "game",
+    "consumer-ai",
+    "software",
+    "knowledge",
+    "lifestyle"
+  ],
+  "statusBadge": [
+    "concept",
+    "prototype",
+    "private-beta",
+    "public-beta",
+    "live",
+    "paused",
+    "discontinued"
+  ],
+  "assetTypes": [
+    "real-ui",
+    "authorized-art",
+    "illustrative-concept"
+  ],
+  "checks": [
+    "WCAG-2.2-AA-target",
+    "390-768-1440-layout",
+    "separate-English-Chinese",
+    "reduce-motion",
+    "confirmed-claims"
+  ]
+}

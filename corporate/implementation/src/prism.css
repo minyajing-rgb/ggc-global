@@ -1,0 +1,122 @@
+/* GGC / MAGENTA PRISM V3 — applied to all existing EN/ZH pages.
+   Same information architecture + approved buttons 01/04/06/08/09/10.
+   White space is the base; magenta leads the iridescent accents, not every surface. */
+:root{--prism-rose:#d0148b;--prism-rose-dark:#b21481;--prism-violet:#6930d4;--prism-blue:#3254e9;--prism-cyan:#82e4fb;--prism-line:#eee5f5;--prism-ink:#15152c;--ggc-focus:#a5138b;--accent:#a327a1;--line:#eae5f4}
+body.prism-v3{background:#fefcff;color:var(--prism-ink)}
+.prism-v3 .top{background:linear-gradient(112deg,#fffffff2 25%,#fff8fcf0 62%,#f6f8fff2);border-bottom-color:#eae6f3;box-shadow:0 1px 14px #af55ad03}
+.prism-v3 .brand img{width:155px;height:57px;filter:drop-shadow(0 2px 1px #702d9420)}
+.prism-v3 .brand small{color:#413166;border-left-color:#d7bfdc;font-size:9px;letter-spacing:.14em}
+.prism-v3 .navlinks a[aria-current=page]{border-bottom-color:#cf2799;color:#9e177c}
+.prism-v3 .navlinks a:hover,.prism-v3 .lang:hover{color:#b6198b}
+.prism-v3 .menu{border-color:#e9dcef;background:linear-gradient(120deg,#fff,#fff5fc);color:#672777}
+.prism-v3 .eyebrow{color:#a33891}
+/* The atmosphere is a designed optical film, not a flat two-stop gradient. */
+.prism-v3 .hero{background:radial-gradient(ellipse at 87% 17%,#f2c5e959,transparent 43%),radial-gradient(ellipse at 75% 92%,#afc8fd59,transparent 38%),radial-gradient(ellipse at 45% 68%,#fbd8ef45,transparent 40%),linear-gradient(115deg,#ffffff 29%,#fff8fe 65%,#f4f7ff);border-bottom:1px solid #f0e8f5}
+.prism-v3 .hero::before{inset:-80px -40px -100px 26%;width:auto;height:auto;background:url('prism-ribbon.svg') center/100% 100% no-repeat;transform:none;opacity:.95;z-index:-1}
+.prism-v3 .hero::after{inset:auto -100px -120px 12%;height:235px;background:linear-gradient(173deg,transparent 31%,#f7e3f431%,#fff9 32%,transparent 33%,#f3c6ee40 44%,transparent 45%,#d3f5ff52 54%,#fff 55%,transparent 56%);transform:none;opacity:.72}
+.prism-v3 .hero h1 .inkgrad{background:linear-gradient(96deg,#c10b82 0%,#dd119a 27%,#a726cf 48%,#6135dc 70%,#264ce5 91%,#177db4 100%);background-clip:text;-webkit-background-clip:text;color:transparent}
+.prism-v3 .hero h1.hero-headline{letter-spacing:-.048em;word-spacing:.04em}
+html[lang=en] .prism-v3 .hero h1.hero-headline{letter-spacing:-.052em;word-spacing:.085em}
+.prism-v3 .hero .hero-translation{color:#231a3b;font-weight:760}
+.prism-v3 .hero .intro{color:#4a4565}
+.prism-v3 .hero .subline{color:#70627c}
+.prism-v3 .hero-proof span::before{background:linear-gradient(135deg,#f328ad,#743be0);box-shadow:0 0 6px #dc38b22b}
+/* Three sheets: subtly colored optical edges; text stays opaque. */
+.prism-v3 .fidelity-memo .memo{background:linear-gradient(118deg,#fffffff9 18%,#fffbfff3 54%,#fff2fcdd 78%,#ecf4ffed);border-color:#fff;box-shadow:inset 0 0 0 1px #f0ddef8a,0 18px 27px -16px #a4469377,0 35px 58px -38px #6045a678}
+.prism-v3 .memo::before{content:'';position:absolute;inset:1px;border-radius:inherit;pointer-events:none;border-top:1px solid #fff;border-left:1px solid #ffe7f5;box-shadow:inset 1px 0 0 #ffffffa6}
+.prism-v3 .memo::after{content:'';position:absolute;inset:3px 2px;z-index:-1;pointer-events:none;border-radius:inherit;background:linear-gradient(150deg,transparent 7%,#ffe3f427 24%,#ffffffad 25%,#dfedff1c 27%,transparent 29%,transparent 54%,#f5d2ff16 66%,#fff7 67%,transparent 69%)}
+.prism-v3 .memo-top{color:#96718c}
+.prism-v3 .memo-top img{width:73px;height:27px}
+.prism-v3 .memo-overline{color:#af3596;letter-spacing:.12em}
+.prism-v3 .memo h2.memo-title{color:#131129}
+.prism-v3 .fidelity-memo .memo-line{border-top-color:#eedeee}
+.prism-v3 .fidelity-memo .memo-line i{color:#d11c9e;font-weight:750}
+.prism-v3 .fidelity-memo .memo-line p{color:#655673}
+.prism-v3 .fidelity-memo .memo footer{color:#856b8a}
+.prism-v3 .signal-sheet,.prism-v3 .fit-sheet{background:linear-gradient(140deg,#ffffffed 5%,#fff8fce6 50%,#f2f1ffbe);border-color:#fff;box-shadow:0 16px 32px -23px #9c3f958c,inset 0 0 0 1px #eee0f033}
+.prism-v3 .signal-sheet{background:linear-gradient(135deg,#ffffffed,#ffeefab8 78%,#eff9ffe5)}
+.prism-v3 .fit-sheet{background:linear-gradient(140deg,#fffffff0,#f7eafa85 54%,#edf7ffcf)}
+.prism-v3 .sheet-cap{color:#a333a2}
+.prism-v3 .signal-lines span{background:linear-gradient(5deg,#7529ce,#e539bc 58%,#ffd9f1 93%,#fff)}
+.prism-v3 .signal-lines span:nth-child(2n){background:linear-gradient(8deg,#554bdf,#819fed 48%,#cefbff)}
+.prism-v3 .source-dot{background:#e629a6;box-shadow:0 0 0 3px #fbddf480}
+.prism-v3 .signal-sheet li:nth-child(2) .source-dot{background:#a560e7}
+.prism-v3 .signal-sheet li:nth-child(3) .source-dot{background:#5474e9}
+.prism-v3 .fit-ring{border-color:#e1b6e5b0;box-shadow:0 0 0 9px #ffffff74,0 0 0 18px #eddbf33d}
+.prism-v3 .fit-ring.inner{border-color:#e2c4ea;box-shadow:none}
+.prism-v3 .fit-core{background:linear-gradient(100deg,#c91396,#7e2ed3 65%,#225ccc);background-clip:text;-webkit-background-clip:text;color:transparent}
+.prism-v3 .fit-core small{color:#805584}
+.prism-v3 .fit-node{color:#956597}
+.prism-v3 .fit-node::before{background:linear-gradient(145deg,#fff,#e63bba 35%,#8b28bf);box-shadow:0 0 0 2px #ebd6f1}
+.prism-v3 .fit-node.b::before,.prism-v3 .fit-node.d::before{background:linear-gradient(145deg,#d2f5ff,#6e78ed 40%,#6837d7)}
+/* The same light editorial atmosphere continues past the first screen. */
+.prism-v3 .section.alt{background:radial-gradient(ellipse at 5% 50%,#f9e4f434,transparent 37%),linear-gradient(112deg,#fff7fc,#faf5ff 59%,#f6faff)}
+.prism-v3 .pagehero{background:radial-gradient(ellipse at 86% 16%,#f6c4e875,transparent 38%),url('prism-ribbon.svg') right 42%/72% auto no-repeat,linear-gradient(115deg,#fff 30%,#fef6fc 64%,#f2f7ff);border-bottom-color:#efdfef}
+.prism-v3 .card{border-color:#e8dcef;box-shadow:0 6px 24px #99439b05;background:linear-gradient(138deg,#fffffffa 38%,#fff9feee 69%,#f5faffd9)}
+.prism-v3 .card:hover{border-color:#ddb8e0;box-shadow:0 6px 23px #a359a812}
+.prism-v3 .card:focus-within{border-color:#c672bd;box-shadow:0 5px 22px #b151a520}
+.prism-v3 .card .index{color:#c92098}
+.prism-v3 .icon{color:#c121ae;filter:drop-shadow(0 1px 2px #d955b532)}
+.prism-v3 .question:nth-child(3n) .icon{color:#7361df}
+.prism-v3 .question:nth-child(3n + 2) .icon{color:#9c3bd8}
+.prism-v3 .section-pillars .card .index{background:linear-gradient(140deg,#ffeffa,#edfaff);border:1px solid #efdbef;border-radius:50%;width:34px;height:34px;display:flex;align-items:center;justify-content:center;font-size:14px;color:#b7229f}
+.prism-v3 .section h2,.prism-v3 .pagehero h1{color:#16132b}
+.prism-v3 .evidence .proof{border-bottom-color:#eee3f1}
+.prism-v3 .proof b{color:#372344}
+.prism-v3 .note{border-left-color:#cc399f;background:linear-gradient(105deg,#fff2fa,#f6f5fe);color:#6c5576}
+.prism-v3 .badge,.prism-v3 .status{background:linear-gradient(105deg,#fff0fa,#f6f0fd);border-color:#e7d6e9;color:#955088}
+.prism-v3 .status::before{background:#c7309f}
+.prism-v3 .product-visual{position:relative;isolation:isolate;background:radial-gradient(at 20% 20%,#fff,#fde5f6 52%,#e8efff);color:#c01595}
+.prism-v3 .product-visual::before{content:'';position:absolute;inset:-140px -90px -120px;background:url('prism-ribbon.svg') center/cover;z-index:-1;opacity:.9}
+.prism-v3 .product-visual span{background:linear-gradient(105deg,#bf198f,#a437c6 49%,#4736cf);background-clip:text;-webkit-background-clip:text;color:transparent;text-shadow:none;filter:drop-shadow(0 1px 0 #fff)}
+.prism-v3 .source-link{color:#a2228b}
+.prism-v3 .form{background:linear-gradient(133deg,#fff,#fff5fdf2 75%,#f4f9ff);border-color:#ecdbef}
+.prism-v3 .field input,.prism-v3 .field select,.prism-v3 .field textarea{border-color:#e3d5e8}
+.prism-v3 .field label{color:#5e3c62}
+.prism-v3 .consent input{accent-color:#be208f}
+.prism-v3 .result{border-color:#e7c3e0;background:#fff4fb}
+.prism-v3 .search{border-color:#e3d2e8;background:#fffcfe}
+.prism-v3 .empty{border-color:#e5cce3;color:#806185}
+.prism-v3 .closing{position:relative;isolation:isolate;overflow:hidden;background:radial-gradient(ellipse at 87% 17%,#af46a85c,transparent 52%),radial-gradient(ellipse at 49% 90%,#7563da75,transparent 62%),linear-gradient(110deg,#201933,#44317b 70%,#673274);border-color:#e3bfeb;box-shadow:inset 0 1px 0 #e7dbff5e,0 6px 22px #782b8a0d}
+.prism-v3 .closing::before{content:'';position:absolute;inset:-280px -50px -310px 10%;background:url('prism-ribbon.svg') center/cover;opacity:.75;pointer-events:none;z-index:-1}
+.prism-v3 .closing h2{color:white}.prism-v3 .closing p{color:#e9dcef}
+.prism-v3 .footer{background:linear-gradient(110deg,#fff 20%,#fffafe 70%,#f9faff);border-top-color:#efdeef}
+.prism-v3 .footer h3{color:#64376d}.prism-v3 .footer a:hover{color:#b51a8c}
+/* Six approved buttons — keep IDs and behavior. Subtle foil, not a heavy bevel. */
+.prism-v3 .ggc-btn{--edge:linear-gradient(114deg,#f8bce7,#d78ae4 25%,#eee3ff 46%,#a1dff3 67%,#b1acfa 79%,#f193d7);--fill:linear-gradient(125deg,#fff,#fff7fdf5 61%,#f1f8fff5);color:#3d2457}
+.prism-v3 .ggc-btn[data-button-id="01"]{--fill:linear-gradient(123deg,#fffdfef5,#fff2faf7 48%,#f6f8fff7);box-shadow:inset 0 1px 0 #fff,0 2px 6px #b955a907}
+.prism-v3 .ggc-btn[data-button-id="01"]:hover,.prism-v3 .ggc-btn[data-button-id="01"][data-preview-state=hover]{--fill:linear-gradient(115deg,#fff6fc,#faedfb 58%,#ecf9ff);box-shadow:inset 0 1px 0 #fff,0 4px 13px #b35bb22b,0 0 8px #e07ccc15}
+.prism-v3 .ggc-btn[data-button-id="04"]{--fill:linear-gradient(#fff,#fff);--edge:linear-gradient(114deg,#d671bf,#b07be4 55%,#91ccf0);color:#663879;box-shadow:none}
+.prism-v3 .ggc-btn[data-button-id="04"]:hover,.prism-v3 .ggc-btn[data-button-id="04"][data-preview-state=hover]{--fill:linear-gradient(130deg,#fff6fc,#faf3fd);--edge:linear-gradient(114deg,#ca179c,#8054da 57%,#62bada);box-shadow:0 3px 11px #c743a212}
+.prism-v3 .ggc-btn[data-button-id="06"]{--fill:linear-gradient(108deg,#b30a78 0%,#bf138e 26%,#8427c7 59%,#4830ce 87%,#2554ba);--edge:linear-gradient(115deg,#ffc4ec,#dc90e7 20%,#fff7fd 46%,#c1f6ff 69%,#b6b2fc 81%,#d970d3);color:#fff;box-shadow:inset 0 1px 2px #ffffffb5,inset 0 -2px 3px #f4c1e627,0 5px 16px #ae3b9c30,0 0 0 2px #efcde929}
+.prism-v3 .ggc-btn[data-button-id="06"]::before{content:'';position:absolute;inset:2px 8px 54%;border-radius:999px;background:linear-gradient(#ffffff38,#fff0);pointer-events:none;z-index:-1}
+.prism-v3 .ggc-btn[data-button-id="06"]:hover,.prism-v3 .ggc-btn[data-button-id="06"][data-preview-state=hover]{--fill:linear-gradient(109deg,#a00870,#bc107f 29%,#7e1ebe 61%,#4025c2 90%,#234ea7);box-shadow:inset 0 1px 2px #ffffffe3,0 7px 19px #bc258d4a,0 0 0 2px #f0b5df38}
+.prism-v3 .ggc-btn[data-button-id="09"]{--fill:linear-gradient(105deg,#c30a86 0%,#af179d 30%,#8131d7 61%,#4535d3 89%,#295ab6);--edge:linear-gradient(114deg,#ffd7ee,#fff0ff 32%,#dba7fd 48%,#dbfcff 70%,#ffbce8);color:#fff;box-shadow:inset 0 1px 3px #ffffffe6,inset 0 -2px 4px #ffc3e965,0 0 0 3px #f5cbe42d,0 6px 18px #d835a447,0 0 13px #a277ff32}
+.prism-v3 .ggc-btn[data-button-id="09"]:hover,.prism-v3 .ggc-btn[data-button-id="09"][data-preview-state=hover]{--fill:linear-gradient(105deg,#ad0876,#ad138b 30%,#7a27cf 61%,#422bcb 89%,#214cac);box-shadow:inset 0 1px 3px #fff,0 0 0 3px #f5cbe439,0 8px 23px #d224a259}
+.prism-v3 .ggc-tabs{background:linear-gradient(120deg,#fff2fa,#f5f0fd 70%,#f1f7ff);border-color:#e8d6ec}
+.prism-v3 .fidelity-memo .memo .ggc-tabs{background:linear-gradient(105deg,#fff4fa,#f6f1fc);border-color:#eedff0}
+.prism-v3 .ggc-tabs .ggc-btn[data-button-id="08"]{color:#806484;background:transparent;box-shadow:none}
+.prism-v3 .ggc-tabs .ggc-btn[data-button-id="08"][aria-selected=true],.prism-v3 .ggc-tabs .ggc-btn[data-button-id="08"][aria-pressed=true]{--fill:linear-gradient(128deg,#fff,#fff6fd);--edge:linear-gradient(120deg,#e7a8d6,#edcce5 42%,#c3c1f3);background:var(--fill) padding-box,var(--edge) border-box;color:#a51183;box-shadow:inset 0 1px 0 #fff,0 2px 5px #aa6caa15}
+.prism-v3 .ggc-tabs .ggc-btn[data-button-id="08"]:hover{background:#ffffffa8;color:#a21683}
+.prism-v3 .ggc-btn[data-button-id="10"]{color:#875090;background:transparent;border-color:#e9dcee}
+.prism-v3 .ggc-btn[data-button-id="10"]:hover,.prism-v3 .ggc-btn[data-button-id="10"][data-preview-state=hover]{color:#a51c83;background:linear-gradient(125deg,#fff8fd,#f8eafbbb);border-color:#e1b0db;box-shadow:0 4px 10px #a6509810}
+.prism-v3 .question .ggc-btn[data-button-id="10"]{background:linear-gradient(130deg,#fff,#fff1fb 63%,#eff8ff);color:#af248e;border-color:#e7cce7;box-shadow:inset 0 1px 0 #fff,0 2px 4px #ad5b9f0a}
+.prism-v3 .ggc-btn:focus-visible,.prism-v3 .ggc-btn[data-preview-state=focus]{outline-color:#a11788}
+.prism-v3 .ggc-btn[data-button-id]:active,.prism-v3 .ggc-btn[data-preview-state=pressed]{transform:translateY(1px);box-shadow:inset 0 2px 4px #4b0d542c}
+.prism-v3 .ggc-btn:disabled{box-shadow:none;opacity:.42}
+.prism-v3 .sample.dark{background:linear-gradient(145deg,#271b34,#241b3e);color:#fff;border-color:#655070}
+.prism-v3 .sample.dark h3{color:#fff}
+.prism-v3 .sample.dark .ggc-btn[data-button-id="10"]{color:#f5d2ec;border-color:#947493}
+.prism-v3 .sample.dark .ggc-btn[data-button-id="10"]:hover,.prism-v3 .sample.dark .ggc-btn[data-button-id="10"][data-preview-state=hover]{color:#812373}
+@media(max-width:1100px) and (min-width:881px){.prism-v3 .brand img{width:131px;height:50px}}
+@media(max-width:880px){.prism-v3 .hero::before{inset:29% -35% -9% -10%;opacity:.9}.prism-v3 .hero::after{inset:65% -10% -20% 0}.prism-v3 .brand img{width:142px;height:53px}}
+@media(max-width:540px){.prism-v3 .brand img{width:118px;height:44px}.prism-v3 .brand small{font-size:7px;padding-left:9px}.prism-v3 .hero::before{inset:40% -170px 0 -110px;background-size:auto 110%;opacity:.73}.prism-v3 .hero{background:radial-gradient(ellipse at 85% 49%,#f8d6ee8f,transparent 51%),linear-gradient(#fff,#fffafe 53%,#f1f6ff)}.prism-v3 .fidelity-memo:before{background:linear-gradient(145deg,#fbd6ef9e,#f4e7ffac 54%,#c3e8ffb0);box-shadow:0 12px 22px -16px #b646a52e}.prism-v3 .footer .brand img{width:118px;height:44px}.prism-v3 .eyebrow{font-size:8px}.prism-v3 .pagehero{background-size:auto 130%;background-position:55% 40%}}
+@media(max-width:360px){.prism-v3 .brand img{width:106px;height:41px}.prism-v3 .brand small{font-size:6px;letter-spacing:.1em}html[lang=en] .prism-v3 .hero h1.hero-headline{word-spacing:.015em;letter-spacing:-.055em}}
+@media(prefers-reduced-motion:reduce){.prism-v3 .ggc-btn,.prism-v3 .card{transition:none}.prism-v3 .ggc-btn:hover{transform:none}}
+@media(forced-colors:active){.prism-v3 .hero h1 .inkgrad,.prism-v3 .product-visual span,.prism-v3 .fit-core{background:none;color:CanvasText}.prism-v3 .ggc-btn{background:ButtonFace!important;color:ButtonText!important;border-color:ButtonText!important}.prism-v3 .hero::before,.prism-v3 .hero::after{display:none}}
+/* Fit the full English promise without clipping: preserve meaningful word spacing. */
+@media(min-width:1271px){html[lang=en] .prism-v3 .hero h1.hero-headline{font-size:clamp(57px,calc(5.1vw - 8px),70px)}}
+@media(min-width:881px) and (max-width:1270px){html[lang=en] .prism-v3 .hero h1.hero-headline{word-spacing:.04em}}
+@media(min-width:1271px){html[lang=en] .prism-v3 .hero h1.hero-headline{font-size:clamp(57px,calc(5.1vw - 9px),67px)}}
+@media(max-width:540px){html[lang=en] .prism-v3 .hero h1.hero-headline{font-size:clamp(28px,8.5vw,44px);word-spacing:.04em;letter-spacing:-.05em}}
+@media(max-width:340px){html[lang=en] .prism-v3 .hero h1.hero-headline{font-size:28px;word-spacing:.015em;letter-spacing:-.055em}}
