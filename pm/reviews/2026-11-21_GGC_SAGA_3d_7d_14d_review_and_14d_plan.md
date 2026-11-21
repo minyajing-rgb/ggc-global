@@ -40,7 +40,7 @@
 
 ## Atlassian（单独风险提示，不开新PM项目）
 
-用户选择**不采用Atlassian作为新增PM流程**。收到2026-12-03开始按量计费通知，但目前**未通过Atlassian后台检查或更改开关**，未知是否存在已启用超额计费或默认额度；需账户管理员自行核实是否关闭Pay-as-you-go。不创建订阅/付费项目，不声称已关闭。
+用户选择**不采用Atlassian作为新增PM流程**。按[Atlassian官方说明](https://www.atlassian.com/resources/usage)，2026-12-03起多数meter开始按量计费，Pay-as-you-go **默认开启**，但**并未读取用户组织的实际用量、已分配额度、设置的消费封顶或账单**，亦**未通过Atlassian后台修改开关**。组织或账单管理员可进入 **Atlassian Administration → Usage → Meters → 选择每个meter → Disable pay as you go**；或在 Billing and subscriptions 对meter禁用；使用限额/已产生的按量费需在账号内核实。[官方禁用操作文档](https://support.atlassian.com/subscriptions-and-billing/docs/manage-pay-as-you-go-usage-for-a-meter/)。不创建订阅/付费项目，不声称已关闭，也不能把停止使用其他PM工具等同于关掉此开关。
 
 ## 权责/合规红线
 
