@@ -1,54 +1,58 @@
-# GGC × SAGA｜3/7/14日复盘及未来14天执行计划
+# GGC × SAGA｜最近3 / 7 / 14天复盘与未来14天排期
 
-**快照日：2026-11-21，Asia/Shanghai**。时间窗口：最近3天 11/19–11/21；最近7天 11/15–11/21；最近14天 11/08–11/21；未来14天 11/22–12/05。
+**信息快照：2026-11-21（UTC+8）**。近3天 11/19–11/21；近7天 11/15–11/21；近14天 11/08–11/21；未来14天 11/22–12/05。
 
-> **证据纪律：**“邮件已发”≠“收到回复”，“材料已备”≠“提交获受理”，“通过静态测试”≠“真实终端QA通过”，“PR草稿”≠“已部署”，“官方入围”≠“获奖”，“建联/询盘”≠“签约/收款”。任何未接入业务数据均记为“未接入/未核实”，不填0假装已测。
+**长期范围：** GGC高端商务/全球PR、行业影响力、全球游戏项目**推荐与合作机会**、SAGA/Bunny及AI身心灵产品实际开发与商业化、书系出版。汇总中不纳入其他公司的项目管理、研发周报或人员事项。实际产品结果和项目推荐分开披露。
 
-## 最近3天（11/19–11/21）
+> **核验口径**：写稿≠已发布；群发≠真实回复；意向≠会议/合同；初步体验≠产品上线；入围≠获奖；申报准备≠正式递交。所有增长与收款数未接入时均写“未核”，不自行填写完成率。
 
-- **PR/奖项：** 组织者公开名单核实 *Bunny Crystal Oracle* 获 International AI Awards 2026 **Best AI Application – Silver Winner**（独立线上奖项，不夸大为政府/官方行业认证）；WiCX 2026 **Responsible AI / Customer Insight and Intelligence / Experience Design** 三类**入围**，12/1才公布结果。证据：[官方AI奖名单](https://www.inaiawards.com/winners) · [WiCX官方入围名单](https://womenincx.community/awards-finalists-2026) · [GGC已保存记录](https://github.com/minyajing-rgb/ggc-global/commit/4c228369733da8cbff505b61040f6de2a59e4982)。
-- **国际讲者/高校：** PGC London 2027非商业Solo/Panel意向已在原有邮件线程发出（**SENT，不等于接受**）；高校合作邀约覆盖NYU/CMU/NUS/清华/浙大/武大/复旦/NTU/ETH/港科大等，需逐家看真实回复与流程；IGI Global书章提案获编辑流程收件回执（**不是接受**）。
-- **产品：** Neon Dots Connect 已通过build/lint及20关可解性验证；手机L1–L5、iframe以及真实首玩归因未完成。NoAdsGames #418等待审批，SlowDen官方表单未送审、TapCraftBox因投递问题延迟。**不能称全面已上线或开始起量**。
-- **书与官网：** 2026-11-19官网PR [#27](https://github.com/minyajing-rgb/ggc-global/pull/27) 根据Kindle发售通知修正双语英/繁中版链接（ASIN B0HP6KJR6P / B0HRS7FZNJ），**PR未合并/未部署**；咨询表单修复PR [#28](https://github.com/minyajing-rgb/ggc-global/pull/28)已过部分回归但未做最终生产复核。
-- **BD/收入：** ChillBase/OneState 已咨询GGC服务/¥38,888起报价范围，等待买方提供会议时间；暂无可核会议、合同、付款。GGC关系池86家，仅在材料与触达流程上推进，不能以名单数表示有效销售进展。
+## 近3天：11/19–11/21
 
-## 最近7天（11/15–11/21）
+- **Bunny获奖核实：** [International AI Awards 2026官方名单](https://www.inaiawards.com/winners)公开列出 *Bunny Crystal Oracle*，**Best AI Application — Silver Winner**，企业为Joyce Mi / GGC Innovation Tech Co., Limited。这是独立线上奖项，不等于应用商店推荐、用户规模或收入指标。Bunny仓库[获奖记录](https://github.com/minyajing-rgb/bunny/commit/caf6395356bc040a3daba11e261296c391607cf4)及[双语传播稿](https://github.com/minyajing-rgb/bunny/commit/b60cd513b13ae51c477ca745647291feed099e64)已落库。
+- **行业影响力：** [WiCX官方名单](https://womenincx.community/awards-finalists-2026)列出Joyce三项入围（Responsible AI / Customer Insight and Intelligence / Experience Design），获奖结果按11/21时已知为**12/1待公布**；不能称已获奖。
+- **国际沟通：** PGC London 2027 Solo/Panel非推广话题意向在既有线程发出，仍是SENT；IGI Global书章提案获得收件/编辑流程回执，仍未接受；高校合作邀约正在跟进。
+- **出版与获客：** 英文/繁中Kindle发行通知已有证据，但官网双语入口修正[PR#27](https://github.com/minyajing-rgb/ggc-global/pull/27)、咨询表单[PR#28](https://github.com/minyajing-rgb/ggc-global/pull/28)均尚未合并发布。
+- **ToB咨询：** ChillBase / OneState表达咨询兴趣，需继续核会议、采购范围与预算；无已签约或真实回款凭据。
 
-- **GGC/SAGA消费产品：** Bunny免费60秒抽卡、Neon首5关人工QA、事件归因/去重与真正的社媒分发成为增长P0；截至最近审阅，真实社媒发布回执为0、付费买量¥0，渠道数据缺乏可核接入；不要把内容包或草稿计为发布。
-- **Fortune Isle / SparkPro：** 本轮管理重点被收敛为PM需求流转和RACI、完整Go-Live/Release流程、具备首发运营经验的QA/LiveOps/数值/发行能力。现有Monday [SparkPro项目表](https://minyajings-team-squad.monday.com/boards/18431475934) 41条旧任务多为未启动、未设Due；不能推断这些已关闭。
-- **KDP/出版：** 完成可审阅的繁中《运营与发行101问》B021–B026（按目前记录累计26/101），发布AI辅助KDP出版教程到 [ops101book](https://github.com/minyajing-rgb/ops101book/commit/42c6bf5d555910e8f145ed12cf148c6186b5a35d)；两版Kindle已获发售通知但官网仍要真实回读。
-- **会议/申报：** 4YFN 2027三个提案在评审，€399免费参会票领取流程受阻，**11/30**为本轮关键截止；Cyberport CCMF 19页素材具备，但企业、IP/控制权材料不齐且**12/1**截止，不可声称正式提交。
+## 近7天：11/15–11/21
 
-## 最近14天（11/08–11/21）
+- **Bunny / AI身心灵：** 定下P0为无需登录的首次抽卡、完整解读、分享转化、34张DLC与正逆位一致性、AI内容品质、权限/隐私和真实首玩埋点；目前尚无可核真实首玩、付费用户、转化数据，不能把产品设计或奖项直接归为增长成果。
+- **Bunny商业资金路线：** [11/15 Bunny融资资格初筛记录](https://github.com/minyajing-rgb/bunny/commit/6302916918345766ff2fc0388b37fdae0ecdccd3)等已更新；Cyberport/其他机构的主体与IP权属材料仍需核验，不将资格筛选说成已获资助。
+- **游戏合作机会：** GGC目标聚焦具备营收、产品、可联系决策者的华语中腰部团队，只做筛选、推荐和合作沟通；不把单纯名单数视为有效客户。
+- **书系：** 《运营与发行101问》此前记录累计26/101篇；[KDP图文教程已提交仓库](https://github.com/minyajing-rgb/ops101book/commit/42c6bf5d555910e8f145ed12cf148c6186b5a35d)，上线页面及书稿一致性仍待核。
+- **PR/会议：** 4YFN 2027三个演讲提案尚待评审，免费Attendee Pass领取受阻，需11/30前核实；WiCX在12/1出结果。
 
-1. **战略方向更清楚：** GGC高端经营咨询、游戏出海内容、官方会议Solo/Panel、高校产业合作、SAGA消费产品增长与KDP书系建立了多条运营主线。
-2. **基础资产在积累：** 国际讲者/奖项佐证、书章、官网PR、增长内容包、Bunny/Neon验证及SparkPro数值/QA/管理流程材料增加。
-3. **商业闭环明显落后：** 官网线索/买方会议→SOW→签约→收款、消费者首玩→留存→支付与归因均缺真实端到端证据；要把精力从“产文档/堆名单”转为“验证真实用户和经营结果”。
-4. **PM最新发现：** 当前连接的monday.com只有My first project、SparkPro、SparkProAdmin三张2026-09建立的旧表，并没有“44项目全盘”现成board。本轮尝试创建跨项目板及写入现有通用板，均得到权限403 USER_UNAUTHORIZED；**不可声称PM已在线同步**。本CSV可作为导入/权限恢复后的写入源。
+## 近14天：11/08–11/21
 
-## 未来14天：关键里程碑
+1. **已经形成公开可核的品牌资产：** Bunny AI奖项、WiCX入围、讲者资料和发布中的英繁双语书系。
+2. **机会管线已建立：** 高端咨询、优质游戏项目推荐、官方会议Solo/Panel、高校产业合作与身心灵Bunny的零预算冷启动。
+3. **经营闭环仍未被证实：** Bunny首次真实用户、完成抽卡、分享、转化、付款回执；ToB真实会议、SOW、签约和回款；渠道发布效果。优先补真实证据，而非再增加名义进度。
+4. **项目管理平台情况：** 当前连接的monday.com工作区创建新表和写旧表均返回权限403；本次更新以GitHub现行内容和CSV为准。既有其他业务表不纳入本次总盘。
 
-| 日期 | P0硬门禁 | 必须看到的证据 |
-| --- | --- | --- |
-| 11/22–11/25 | Bunny真实抽卡、Neon L1–5 QA、官网双语书链PR复测 | 操作录屏/测试记录/生产回读；草稿不算 |
-| 11/23–11/28 | 归因事件、GGC高端线索与86家池提纯、SparkPro RACI/QA矩阵 | Debug/会议回执/有Owner的UC→TC清单 |
-| **11/30** | 4YFN官方免费Pass/三提案状态 | 官方邮件/领取状态（不可假设通过） |
-| **12/01** | Cyberport CCMF提交门禁；WiCX获奖名单；签证前检查 | 官方提交回执/官网公布/资料核对 |
-| 12/02–12/03 | 消费产品支付QA、SparkPro Release Gate | 真正E2E交易测试/GO-NOGO，无P0 blocker |
-| **12/04** | 美国B1/B2广州免面谈递交预约 | 按美国使馆及预约系统要求现场提交资料 |
-| **12/05** | 输出14日闭环Review | 真实首玩/回复/会议/交易/上线/QA数据，未接入明示 |
+## 未来14天：11/22–12/05
 
-## Atlassian（单独风险提示，不开新PM项目）
+| 日期 / 里程碑 | 当前优先交付 | 验收证据 |
+|---|---|---|
+| 11/22–11/25 | Bunny首次抽卡、34张DLC素材核查、双语官网PR QA | 手机端可完成一次抽卡；内容与链接核对；不把草稿当发布 |
+| 11/23–11/28 | Bunny归因/解读质量、游戏项目推荐清单、高端咨询买方会时 | Debug及去重计数、样本阅读审查、目标项目来源及真实会议回执 |
+| **11/30** | 4YFN免费Pass与演讲提案状态 | 官方渠道确认，不假设通过 |
+| **12/01** | Cyberport相关资金路线申报门禁、WiCX核实、签证材料前检查 | 公司/IP权属与官方提交回执（若提交）、官方结果页、官方预约资料 |
+| 12/02–12/03 | Bunny商业化沙盒全链路测试与零预算种子用户首玩 | 完整可追踪测试交易与首次体验记录，不虚构收入 |
+| **12/04** | 广州B1/B2免面谈递交预约 | 按官方要求带齐材料，不自行修改已约DS-160 |
+| **12/05** | 最终14日复盘 | 真实首玩/归因/分享/回复/会议/合同/回款逐项填证据或“未核” |
 
-用户选择**不采用Atlassian作为新增PM流程**。按[Atlassian官方说明](https://www.atlassian.com/resources/usage)，2026-12-03起多数meter开始按量计费，Pay-as-you-go **默认开启**，但**并未读取用户组织的实际用量、已分配额度、设置的消费封顶或账单**，亦**未通过Atlassian后台修改开关**。组织或账单管理员可进入 **Atlassian Administration → Usage → Meters → 选择每个meter → Disable pay as you go**；或在 Billing and subscriptions 对meter禁用；使用限额/已产生的按量费需在账号内核实。[官方禁用操作文档](https://support.atlassian.com/subscriptions-and-billing/docs/manage-pay-as-you-go-usage-for-a-meter/)。不创建订阅/付费项目，不声称已关闭，也不能把停止使用其他PM工具等同于关掉此开关。
+## 不采用Atlassian增加新PM；按量计费另行核查
 
-## 权责/合规红线
+2026-12-03的Atlassian按量计费通知与本次PM工具选择是两回事。当前没有访问Atlassian后台做账单/开关核查，**不能声称已停用付费**。管理员在Atlassian Administration → Usage → Meters核实每个meter是否启用Pay-as-you-go并按需关闭。官方帮助：[Manage pay-as-you-go usage](https://support.atlassian.com/subscriptions-and-billing/docs/manage-pay-as-you-go-usage-for-a-meter/)。
 
-- 不主动联系罗斯基/罗伊；不把旧误发合作邀请视为继续授权；游族/网龙从ToB主动甲方池排除。
-- 不自动付款、不提交未经核实的签证数据、不认定大会主舞台席位已获接受、不将书稿正式发售与官网页面改动混淆。
-- 本计划是 **Proposed Owner Role / Target Due**，不是已获具体团队成员接单的承诺；每条任务有阻塞、准出证据。
+## 商务与内容纪律
 
-## 工作数据
+- 尊重不主动联系名单、去重/STOP规则、公开资料的名称及奖项级别；不把已发提案当录用。
+- 资金及签证资料均需真实核验，未经正式授权不支付、不伪造提交结果。
+- 未来排期为**拟议责任角色/目标日期**，并非团队已接受任务或外部结果已获批。
 
-- 可导入PM CSV：[`2026-11-22_12-05_PM_execution.csv`](./2026-11-22_12-05_PM_execution.csv)
-- 原有专项板：[SparkPro](https://minyajings-team-squad.monday.com/boards/18431475934) | [SparkProAdmin](https://minyajings-team-squad.monday.com/boards/18431475937)
+## 关联交付
+
+- [未来14天20项任务 CSV](2026-11-22_12-05_PM_execution.csv)
+- [4张核验版海报](posters/README.md)
+- [Bunny主仓](https://github.com/minyajing-rgb/bunny) · [Bunny产品定义/商业配置](https://github.com/minyajing-rgb/bunnyprj) · [GGC商务项目库](https://github.com/minyajing-rgb/GGC-FA)
