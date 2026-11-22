@@ -275,6 +275,33 @@ def absolute_404_paths(html, loc, base):
     return re.sub(r'((?:href|src)=")([^"]*)(")',rewrite,html)
 
 
+def patch_book_kindles(html, loc):
+    publisher = (
+        '<a class="ggc-btn" data-button-id="06" '
+        'href="https://ebooks.cmpbook.com/detail?id=26372" >'
+    )
+    start = html.find(publisher)
+    if start == -1 or html.count(publisher) != 1:
+        raise ValueError(f'{loc} book page publisher button changed; review before adding Kindle editions.')
+    end = html.find('</a>', start)
+    if end == -1:
+        raise ValueError(f'{loc} book page publisher button is incomplete.')
+    end += len('</a>')
+    link = {
+        'zh': ('https://biz.ggcgames.com/book/?lang=zh#editions', '查看 Kindle 版本'),
+        'en': ('https://biz.ggcgames.com/book/#editions', 'Explore Kindle editions'),
+    }[loc]
+    existing = html[start:end]
+    if '<span class="btn-label">' not in existing or link[0] in html:
+        raise ValueError(f'{loc} book page Kindle button is already present or its template changed.')
+    button = existing.replace('https://ebooks.cmpbook.com/detail?id=26372', link[0], 1)
+    button, count = re.subn(r'(<span class="btn-label">)[^<]+(</span>)',
+                           lambda m: m[1] + link[1] + m[2], button, count=1)
+    if count != 1:
+        raise ValueError(f'{loc} book page Kindle button label could not be updated.')
+    return html[:end] + button + html[end:]
+
+
 def patch_page(html, loc, route, mode, endpoint=None, google_form=False):
     script='<script defer src="../assets/readiness.js"></script>'
     if route=='contact' and endpoint:
@@ -295,6 +322,7 @@ def patch_page(html, loc, route, mode, endpoint=None, google_form=False):
     if loc=='zh':
         html=html.replace('data-prev aria-label="Previous"','data-prev aria-label="上一张"').replace('data-next aria-label="Next"','data-next aria-label="下一张"')
     html=re.sub(r'(data-slide-to="(\d+)"[^>]*aria-label=")(\d+)(")',lambda m:m[1]+('查看第'+str(int(m[2])+1)+'张说明图' if loc=='zh' else 'View information panel '+str(int(m[2])+1))+m[4],html)
+    if route=='book':html=patch_book_kindles(html,loc)
     html=patch_contact(html,loc,route=='contact' and bool(endpoint))
     if route=='contact' and endpoint:html=patch_live_contact(html,loc,endpoint)
     if route=='contact' and google_form:html=patch_google_contact(html,loc)
