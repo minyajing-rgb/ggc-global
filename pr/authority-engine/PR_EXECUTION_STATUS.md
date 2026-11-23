@@ -1,14 +1,32 @@
 # Joyce / GGC — PR Execution Status
 
 
+## 2026-11-23 HKT｜Bunny获得真实AI应用银奖，CFP与合作资格纠错（PR原表稳定）
+
+**可核第三方主办方获奖页面（2026-11-21公布）：** [INAI 2026冬季官方获奖记录](https://www.inaiawards.com/winners/joyce-mi-ggc-innovation-tech-co.-limited)已列明 **Bunny Crystal Oracle — Best AI Application · Silver Winner**，得奖者为 Joyce Mi / GGC Innovation Tech Co., Limited。此为组织方**本身的公开评审结果及授奖**，非其他新闻媒体刊发、权威认证、真实用户增长证明或其他赛事(WiCX/WomenTech)获奖；不得冒称“全球第一”或与高校/政府共同认证。官网现描述 **26张现有原创卡**、网页应用仍测试中，且付费转化有待验证；不能把计划中的34张DLC或未测用户增长写作当前已上线成绩。主办方写明自由报名及接受，无新增费用。**本次仅完成获奖证据核验，不代发社媒、申请商品权益或营销材料。**
+
+**国际学术正式收件（历史证据升级）：** [IGI Global主办方正式投稿链接](https://www.igi-global.com/publish/call-for-papers/submit/10377)对应的 **2026-11-21 eEditorial Discovery 原始确认邮件**已读回，明确 *From Synthetic Teasers to Real First Play: Auditing Promotional Promises in AI-Assisted Short-Form Game Video* 作为 *Generative AI for Video Production and Storytelling* 提案在系统**SUBMITTED / EDITORIAL_REVIEW**，非仅编辑参考收件、非稿件接收/书章录用或刊登；不需要再投第二次。
+
+**会议和高校真人回复**：D.I.C.E. 2027 讲者原提案在**2026-11-22**由节目评审方明确**不予推进**，并非候补，附带30% newcomer参会购票折扣不应作为讲者权益；既有PR row 66/PIA-058正式更正为**EDITORIAL_DECLINED / NO_CHASE**。**CMU ETC负责人**在香港时间**2026-11-23 07:05**真人回复，不常接受主动投递的外部讲者/导师请求，已传院内但没有具体职位、课程安排或会议；**HUMAN_PROCEDURAL_RESPONSE / NO_ROLE_OFFER / HOLD**。**Cyberport Terence**今日确认：CCMF个人申请必须有香港身份证，否则用公司申请；数字PoC可从零开发或基于已有MVP迭代，六个月内验证。属于官方programme fit回复，**不是CCMF受理、评审通过或资助承诺**；12月1日截止，申请主体与产品IP授权仍需落地、正式EMS回执未核。
+
+**两个此前容易误计的讲者入口纠错：** NG27 AI Track经原Gmail证实**2026-11-22已提交“Speaker & Sponsor Interest” Google表达意向表**，内容含真实 *From AI Demo to LiveOps* 题目；这是**策展渠道兴趣登记成功**，不等于主会议正式editorial CFP递交、受邀或录用；官网[general speaker call](https://nordicgame.com/speakers/)仍写2027年初启动。ICE Barcelona [第一方 CFP](https://www.icegaming.com/apply-speak-ice)证实截止为**2026-11-27**，覆盖旧账错误“10/30已关”：但software/data/platform solution provider仅允许通过付费 Thought Leadership Sponsorship 上台，且原World Gaming集团还有HOLD；不应将它当免费可投的GGC vendor内容舞台，不提交、不绕过母集团联系、不买赞助。原PR row 73/101、PIA-036/026分别已更新、读回。
+
+**WomenTech 2026 Female Founder Rising Star**官方[11/19名单页面](https://www.womentech.net/blog/women-in-tech-ai-global-awards-2026-finalists)仍写**11/23–26分批公布**。本轮未核到匹配本人的正式入围回执；未知不是淘汰。**PGC Charlie**原线程11/21实际SENT伦敦独立题目后没有新的节目确认；不用重复发送，仍待真人；NAGIS/MCV/4YFN/ITU现有原申请保持不催不重投。
+
+**本轮具体写回**：原PR CSV 130行×27列、原PIA CSV 74行×21列全部保持正确，仅改3条现有PR及3个现有PIA状态；私人原始Gmail、完整项目资料、消息ID和证件仍仅在既有私有证据账。PR状态游标按轮次进至**116**，PIA清单游标**51**（只代表内部状态覆盖，非对每行独立官方核实）。本轮**新增外发0、官方新提交0、当前轮真人新到2（CMU、Cyberport）、识别前一日委员会拒绝1、已核实正式获奖1、已确认节目或聘任0、联合合作S2/S3 0/0、正式学术出版录用0、付费/出席/录制或版权承诺0**。11/17白鲸、11/21罗斯基/罗伊和游族/网龙禁联持续生效，不新增自动任务。
+
+---
+
+
+
 ## 2026-11-23 HKT｜跨线周核新证据（覆盖11-21之前“未提交/未反馈”的旧截点）
-- **IGI Global 10377 已正式在 eEditorial Discovery 系统提交**：Gmail 2026-11-21 `1a1fc934ebc916f0` 为出版方 `Proposal Submitted Successfully` 收据，书名 *Generative AI for Video Production and Storytelling*，章提案 *From Synthetic Teasers to Real First Play: Auditing Promotional Promises in AI-Assisted Short-Form Game Video*。**阶段SUBMITTED / EDITORIAL_REVIEW; 未录用/无出版承诺。**此前11-21更早快照声称“无原生提交回执”现在已过时；勿补发同一提案。原信 https://mail.google.com/mail/u/?authuser=minyajing%40gmail.com#all/1a1fc934ebc916f0
-- **D.I.C.E. 2027 原proposal正式被拒**：11-22官方programme reviewer John Wie 邮件 `1a200fb756e6080d`，委员会决定不推进，虽保留供日后如有空缺重审（不可计 waitlist 或slot）。30% newcomer ticket discount是自费参会广告，非媒体/solo stage邀请。状态 `EDITORIAL_REJECTED_20261122 / NO_CHASE`。原信 https://mail.google.com/mail/u/?authuser=minyajing%40gmail.com#all/1a200fb756e6080d
-- **CMU ETC Director 的真人流程拒绝**：2026-11-23 07:05 HKT Derek Ham 回应 `1a205823560a7764`，不接受无公开职位的主动 guest speaker/workshop 请求，虽已转faculty内部查看，但未许诺回复、导师合作或确认见面，阶段 `HUMAN_PROCESS_NO_DIRECT_APPOINTMENT / HOLD`。不重复冷发。原信 https://mail.google.com/mail/u/?authuser=minyajing%40gmail.com#all/1a205823560a7764
-- **4YFN 的两种申请必须分开**：11-19 conference programming 人类明示收到3项先于5 Nov截止的 speaker proposals，**均在审、11/30拟更新**，不是已入选，原信 `1a1f490a093d4793`。11-18 Svetlana 说免费 Attendee Pass **12月初给激活+身份核验** `1a1ede02ea5fd211`，而原 **11/30前领取claim** 没有可核的完整验证回执；两者不能混同。11-20 Joyce 已回复原GSMA线程，待官方确认，不自动催。
-- **PGC Charlie 原线程已发更新，不是待发draft**：对方11-19给SF 2027-03-01/12月中确认窗口并提出伦敦；Joyce 11-21 `1a1fe72205f66015` 已经SENT两项伦敦solo方向，2026-11-23搜索没有后续真人回信，无slot/确认语音/签证承诺。不要再次发同件。原信 https://mail.google.com/mail/u/?authuser=minyajing%40gmail.com#all/1a1fe72205f66015
+- **IGI Global 10377 已正式在 eEditorial Discovery 系统提交**：Gmail 2026-11-21 `[private-message-evidence]` 为出版方 `Proposal Submitted Successfully` 收据，书名 *Generative AI for Video Production and Storytelling*，章提案 *From Synthetic Teasers to Real First Play: Auditing Promotional Promises in AI-Assisted Short-Form Game Video*。**阶段SUBMITTED / EDITORIAL_REVIEW; 未录用/无出版承诺。**此前11-21更早快照声称“无原生提交回执”现在已过时；勿补发同一提案。原信 [original Gmail evidence held privately]
+- **D.I.C.E. 2027 原proposal正式被拒**：11-22官方programme reviewer John Wie 邮件 `[private-message-evidence]`，委员会决定不推进，虽保留供日后如有空缺重审（不可计 waitlist 或slot）。30% newcomer ticket discount是自费参会广告，非媒体/solo stage邀请。状态 `EDITORIAL_REJECTED_20261122 / NO_CHASE`。原信 [original Gmail evidence held privately]
+- **CMU ETC Director 的真人流程拒绝**：2026-11-23 07:05 HKT Derek Ham 回应 `[private-message-evidence]`，不接受无公开职位的主动 guest speaker/workshop 请求，虽已转faculty内部查看，但未许诺回复、导师合作或确认见面，阶段 `HUMAN_PROCESS_NO_DIRECT_APPOINTMENT / HOLD`。不重复冷发。原信 [original Gmail evidence held privately]
+- **4YFN 的两种申请必须分开**：11-19 conference programming 人类明示收到3项先于5 Nov截止的 speaker proposals，**均在审、11/30拟更新**，不是已入选，原信 `[private-message-evidence]`。11-18 Svetlana 说免费 Attendee Pass **12月初给激活+身份核验** `[private-message-evidence]`，而原 **11/30前领取claim** 没有可核的完整验证回执；两者不能混同。11-20 Joyce 已回复原GSMA线程，待官方确认，不自动催。
+- **PGC Charlie 原线程已发更新，不是待发draft**：对方11-19给SF 2027-03-01/12月中确认窗口并提出伦敦；Joyce 11-21 `[private-message-evidence]` 已经SENT两项伦敦solo方向，2026-11-23搜索没有后续真人回信，无slot/确认语音/签证承诺。不要再次发同件。原信 [original Gmail evidence held privately]
 - **临期**：DiGRA Central Asia 投稿 [官方CFP](https://digra.org/digra-central-asia-conference-2027-call-for-papers/) 2026-11-23 23:59 UTC+5（=11/24 02:59 HKT），研究结果和post-acceptance出版承诺未获用户批准则绝不提交；4YFN 11/30反馈、Cyberport CCMF 12/1实体证据门槛在私有跨线关系周核中单独跟进。当前本轮 **新增对外PR发件=0 / 正式报名=0 / 新演讲确认=0 / 新出版录用=0 / 确认现场会议=0**，只读核实并修正档案，绝不冒充报名/发表或赚取年框。
-- 私有交叉对账：`minyajing-rgb/GGC-FA/reports/2026-11-23_PR_FA_CN_EXEC_RELATIONSHIP_WEEKLY_AUDIT_PRIVATE.md`。无新PM伪看板、无付费/新授权。
+- 私有交叉对账：`[PRIVATE_LEDGER_REDACTED]`。无新PM伪看板、无付费/新授权。
 
 
 ## 2026-11-21 HKT — original PR row corrected; urgent forms and post-acceptance commitments verified
@@ -145,7 +163,7 @@
 
 ## 2026-11-15 — Late historical SENT reconciliation and controlled rotation; zero new outbound today
 
-**Authority / time scope:** Verified connected Gmail `minyajing@gmail.com` through the morning of **15 November 2026 (Asia/Hong_Kong)**. Joyce's 9 November exact-version Gmail reply approval rule continues. No new 15 Nov first touches, replies, formal forms, meetings, fees, licences, travel or rights agreements were executed. **This run: 0 new SENT, 0 official submissions, 0 new PR bounces, 0 new inbound substantive replies/S1, 0 meetings, 0 S2, 0 S3 and 0 new award/speaker/editorial acceptances or published content.**
+**Authority / time scope:** Verified connected Gmail `[PRIVATE_EMAIL_REDACTED]` through the morning of **15 November 2026 (Asia/Hong_Kong)**. Joyce's 9 November exact-version Gmail reply approval rule continues. No new 15 Nov first touches, replies, formal forms, meetings, fees, licences, travel or rights agreements were executed. **This run: 0 new SENT, 0 official submissions, 0 new PR bounces, 0 new inbound substantive replies/S1, 0 meetings, 0 S2, 0 S3 and 0 new award/speaker/editorial acceptances or published content.**
 
 **Correction to the 14 Nov count, from original Gmail SENT:** Two records sent **14 November** (not 15 Nov) were not reflected in the preceding daily note: an **existing conference programming thread** received a substantive exploratory online-discussion availability suggestion; a **mainland AI-industry association** received a tailored three-topic nonbinding first-touch proposal. Both original SENT bodies/labels were read back privately. No meeting was actually booked, no speaker CFP submitted, no travel/recording/rights pledge made, and no association owner replied as of this account's 15 Nov check. These **historical sends do not count as today's new outreach, S1 cooperation or formal application**. The earlier saved reply DRAFT remains a separate message from the new SENT, and specific owner approval of the actually sent wording was not evidenced here. Preserve the exact-version gate; no automatic follow-up.
 
