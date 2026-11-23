@@ -1,5 +1,16 @@
 # Joyce / GGC — PR Execution Status
 
+
+## 2026-11-23 HKT｜跨线周核新证据（覆盖11-21之前“未提交/未反馈”的旧截点）
+- **IGI Global 10377 已正式在 eEditorial Discovery 系统提交**：Gmail 2026-11-21 `1a1fc934ebc916f0` 为出版方 `Proposal Submitted Successfully` 收据，书名 *Generative AI for Video Production and Storytelling*，章提案 *From Synthetic Teasers to Real First Play: Auditing Promotional Promises in AI-Assisted Short-Form Game Video*。**阶段SUBMITTED / EDITORIAL_REVIEW; 未录用/无出版承诺。**此前11-21更早快照声称“无原生提交回执”现在已过时；勿补发同一提案。原信 https://mail.google.com/mail/u/?authuser=minyajing%40gmail.com#all/1a1fc934ebc916f0
+- **D.I.C.E. 2027 原proposal正式被拒**：11-22官方programme reviewer John Wie 邮件 `1a200fb756e6080d`，委员会决定不推进，虽保留供日后如有空缺重审（不可计 waitlist 或slot）。30% newcomer ticket discount是自费参会广告，非媒体/solo stage邀请。状态 `EDITORIAL_REJECTED_20261122 / NO_CHASE`。原信 https://mail.google.com/mail/u/?authuser=minyajing%40gmail.com#all/1a200fb756e6080d
+- **CMU ETC Director 的真人流程拒绝**：2026-11-23 07:05 HKT Derek Ham 回应 `1a205823560a7764`，不接受无公开职位的主动 guest speaker/workshop 请求，虽已转faculty内部查看，但未许诺回复、导师合作或确认见面，阶段 `HUMAN_PROCESS_NO_DIRECT_APPOINTMENT / HOLD`。不重复冷发。原信 https://mail.google.com/mail/u/?authuser=minyajing%40gmail.com#all/1a205823560a7764
+- **4YFN 的两种申请必须分开**：11-19 conference programming 人类明示收到3项先于5 Nov截止的 speaker proposals，**均在审、11/30拟更新**，不是已入选，原信 `1a1f490a093d4793`。11-18 Svetlana 说免费 Attendee Pass **12月初给激活+身份核验** `1a1ede02ea5fd211`，而原 **11/30前领取claim** 没有可核的完整验证回执；两者不能混同。11-20 Joyce 已回复原GSMA线程，待官方确认，不自动催。
+- **PGC Charlie 原线程已发更新，不是待发draft**：对方11-19给SF 2027-03-01/12月中确认窗口并提出伦敦；Joyce 11-21 `1a1fe72205f66015` 已经SENT两项伦敦solo方向，2026-11-23搜索没有后续真人回信，无slot/确认语音/签证承诺。不要再次发同件。原信 https://mail.google.com/mail/u/?authuser=minyajing%40gmail.com#all/1a1fe72205f66015
+- **临期**：DiGRA Central Asia 投稿 [官方CFP](https://digra.org/digra-central-asia-conference-2027-call-for-papers/) 2026-11-23 23:59 UTC+5（=11/24 02:59 HKT），研究结果和post-acceptance出版承诺未获用户批准则绝不提交；4YFN 11/30反馈、Cyberport CCMF 12/1实体证据门槛在私有跨线关系周核中单独跟进。当前本轮 **新增对外PR发件=0 / 正式报名=0 / 新演讲确认=0 / 新出版录用=0 / 确认现场会议=0**，只读核实并修正档案，绝不冒充报名/发表或赚取年框。
+- 私有交叉对账：`minyajing-rgb/GGC-FA/reports/2026-11-23_PR_FA_CN_EXEC_RELATIONSHIP_WEEKLY_AUDIT_PRIVATE.md`。无新PM伪看板、无付费/新授权。
+
+
 ## 2026-11-21 HKT — original PR row corrected; urgent forms and post-acceptance commitments verified
 
 **One verifiable graph status correction, not new outreach:** The old 130-row PR graph had Nordic Game row 73 still labelled as general WAIT_CFP despite a real 18 Nov AI-track curator response. Corrected the ORIGINAL row to **HUMAN_AI_TRACK_CURATOR_CONFIRMED_FORM_OPEN_REVIEW_ONLY** and read the repository CSV back (130/130 records; 27 columns each). The [official NG27 AI Track](https://nordicgame.com/the-ai-track-returns-to-ng27-building-on-great-momentum/) identifies ImmerSynth as curator and links an available speaker-only form. A separate [general 2027 speaker call](https://nordicgame.com/speakers/) is described as opening early 2027. No form, speaker slot, travel, rights, recording or sponsored participation was approved or sent.
