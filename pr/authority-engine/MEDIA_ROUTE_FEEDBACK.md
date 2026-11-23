@@ -1,5 +1,19 @@
 # GGC — Media Route and Format Feedback
 
+
+## 23 November 2026 — editorial open ≠ eligible earned stage; form-interest ≠ accepted speaker
+
+| Route | Evidence as of 23 Nov | Qualified classification |
+|---|---|---|
+| [ICE Barcelona 2027 speaker page](https://www.icegaming.com/apply-speak-ice) | Deadline **Fri 27 Nov 2026** (corrects old Oct30 closure). Original talks are required; priority to operators/regulators. Site explicitly says **software/data/platform providers can only appear through Thought Leadership Sponsorship**. A professional history in F2P/Social Casino is **not** a current licensed real-money operator position. | `CFP_OPEN_BUT_GGC_VENDOR_ELIGIBILITY_NOT_VERIFIED / PAID_SPONSOR_ROUTE_FILTER / NO_APPLICATION`; parent-programme HOLD, no pay-to-speak, no invented operator badge. |
+| [Nordic Game NG27 AI Track](https://nordicgame.com/the-ai-track-returns-to-ng27-building-on-great-momentum/) / [general speaker programme](https://nordicgame.com/speakers/) | Original 22 Nov Gmail Google form receipt contains the full *From AI Demo to LiveOps* concept and organizer's **Speaker & Sponsor Interest** wording. Independent track curator is valid; **2027 general conference CFP remains scheduled for early 2027**. | `TRACK_INTEREST_FORM_SUBMITTED / NOT_EDITORIAL_CFP_ACCEPTED`. One group; don't resubmit or email curator to fabricate a second speaking application. |
+| [D.I.C.E. Summit 2027](https://www.dicesummit.org/) | On 22 Nov a named programming reviewer sent a human committee **decline** for a previously acknowledged late-Oct talk; noted 30% paid newcomer attendee discount (not media or keynote placement). | `EDITORIAL_REJECTED / NO_CHASE`. Not waitlisted or accepted; separate D.I.C.E. Awards game-entry path still requires own eligible rights. |
+| [INAI Award official entry](https://www.inaiawards.com/winners/joyce-mi-ggc-innovation-tech-co.-limited) | Organizer publicly lists **Bunny Crystal Oracle, Best AI Application, Silver Winner**, in 21 Nov 2026 winner release. Own published evaluation only; not an independent press feature. | `AWARD_OFFICIALLY_LISTED / NOT_EDITORIAL_PRESS_OR_PRODUCT_SCALE_PROOF`. Limited-scope earned award PR; no automatic publishing to social or claiming product-user metrics. |
+| [IGI Global 10377](https://www.igi-global.com/publish/call-for-papers/submit/10377) | An authentic **21 Nov eEditorial Discovery submission acknowledgement** exists for one original proposed book chapter. | `EDITORIAL_PROPOSAL_SUBMITTED / NOT_ACCEPTED`; old "not submitted" snapshot superseded. No second application. |
+| [WomenTech 2026 category rollout](https://www.womentech.net/blog/women-in-tech-ai-global-awards-2026-finalists) | Official page still says 23–26 Nov for Female Founder Rising Star/AI Product; no named finalist confirmation found in this cycle. | `CATEGORY_RESULT_PENDING / NOT_REJECTED`. Only exact-match first-party result counts. |
+
+---
+
 ## 21 November 2026 — authenticated CFP forms and permissions
 
 | Official route | Current grounded requirements | Eligible state and owner gate |
