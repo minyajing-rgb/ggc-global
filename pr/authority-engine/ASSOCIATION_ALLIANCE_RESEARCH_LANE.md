@@ -1,5 +1,14 @@
 # GGC — Association Relations, Research & Future Alliance Lane
 
+
+## 23 November 2026 — Faculty gate: CMU ETC confirms unsolicited practitioner speakers are not a direct hiring path
+
+Existing CMU ETC director replied personally to a specifically tailored school-industry pitch: external guest talks, workshop leaders and direct student involvement are normally routed through faculty and are **not accepted via unsolicited speaker requests** unless there is a public posting or a faculty invitation. The university will retain/share the proposal internally but does not promise a response or offer any course, seminar, workshop, appointment or agreed deliverable. **Stage HUMAN_FACULTY_PROCESS_REPLY / NO_CURRICULUM_OWNER_REQUEST / NO_S2**. Do **not** follow a second member of the same institution merely to bypass a procedural refusal. Reconsider only if a faculty member actually writes in or a genuinely suitable official posting opens, with separate scope and permission. No adjunct/professor/visiting faculty designation is granted.
+
+Separately, existing Cyberport official clarified **CCMF Hong Kong applicant eligibility** on 23 Nov: an individual needs HKID; otherwise a company-applicant track. A six-month test can begin from a new prototype or refine a real MVP. This is process and product-fit guidance, not a signed cooperation, programme admit, school invitation or new S1 institution. The original six-month grant deadline remains **1 Dec 2026**; current applicant and product IP/control should be verified before any formal submission. No follow-up duplicates or public claims of funding.
+
+---
+
 ## 20 November 2026 — Finnish member-needs request creates one substantive S1 (no S2)
 
 A named, relevant **Chief Business Advisor at Neogames Finland** replied personally to the already-contacted association and requested **specific examples of Joyce's past game-studio work** plus a **member-relevant cooperation format** before considering any introductory call. Joyce's historical experience in cross-studio operations and player-lifecycle decisions was provided in **one existing original SENT on 19 Nov** after the reply; current run verified the exact original thread and did not repeat the email. This is **S1 CONTACT_SUCCESS — PERSON_AND_CONTENT_SUBSTANTIVE** under the association rubric; not a confirmed calendar invitation, booked roundtable, named studio introduction, promised publication, S2 COOPERATION or S3 CO-CREATION.
