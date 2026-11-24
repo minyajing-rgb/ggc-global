@@ -1,5 +1,16 @@
 # Joyce / GGC — PR Execution Status
 
+## 2026-11-24 HKT｜伦敦节目选题推进、G2E真人CFP路径、SuperAI商业路线HOLD
+
+- **PG Connects London**：11/23–24 原内容负责人两封真人回信明确优先 *Entering China Without Guesswork: What Global Studios Must Get Right Before Signing a Publisher*，可 presentation 或 fireside，提出 **2027-01-19 East Meets West**。原线程已存在11/24 SENT，表示有兴趣保留暂定选项、待英国签证与行程确认，并询问邀函材料；本轮仅核读，不重发。主办方说明暂定讲席确认后可以出签证邀请函，当前并无正式讲席、邀请函、确切时段、时长或出席承诺。[官方会期 1/18–19](https://www.pgconnects.com/london/)；旧金山3/1与4YFN仍撞期，单独处理。
+- **G2E Las Vegas**：11/24 HKT Conference Manager 人工鼓励走 Education Advisory Board 审核的官方CFP，通常2月中下旬，包含运营、游戏设计及AI议题。不是选题/舞台接受。[官方 Speaker Resources](https://www.globalgamingexpo.com/en-us/learn/speaker-resources.html) 确认2027年2月开放、9/27–30会期。沿已有2月轮巡等实际表单，不主动回邮件要提醒、不付费、不冒称真钱博彩运营资格。既有资源页说明当前讲者自理差旅、主舞台录制、会后材料分发；2027具体权利条款仍需核实。
+- **SuperAI**：11/23真人创始人回复称如有空缺才会联系，另可转赞助品牌曝光。没有独立编辑讲席邀请，保持原母集团HOLD、不买舞台、不重发。
+- **临期纠错**：11/23 Cyberport 官方确认现有香港公司可走CCMF Company Application，申请人须创办人、董事、股东，EMS 12/1 23:59 HKT截止，最终资格仍待正式审核；不必为申请另设公司。此为既有独立申请工作线，未提交。DiGRA截止11/24 02:59 HKT已过，连接Gmail未查到投稿回执，关闭本届未投主动专题。WomenTech公开[名单](https://www.womentech.net/blog/women-in-tech-ai-global-awards-2026-finalists) 仍标该类别待公布，未核到本人匹配通知，不推断落选。NYU的11/21 noreply预计5–10工作日答复属自动回执，非人类教学合作。
+
+本轮：**4封新核实的真人邮件，3个主办方（其中PGC同一人两封）；1个题目及轨道具体化，0正式讲席、0新SENT、0官方提交、0正式预约、0新增S2/S3、0新获奖/刊发、0费用或权利承诺**。现有130 PR /74 PIA稳定ID和48↔42跨表映射保留；3条PR、3条PIA纠错。状态级轮转剩余PR 116–130、PIA位置51–74，下一轮回到1/1；不是对全部外部路线重新验证。禁联保持，原有公开档仅记录脱敏状态。
+
+---
+
 
 ## 2026-11-23 HKT｜Bunny获得真实AI应用银奖，CFP与合作资格纠错（PR原表稳定）
 
