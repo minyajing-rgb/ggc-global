@@ -1,5 +1,15 @@
 # GGC — Media Route and Format Feedback
 
+## 24 November 2026 — confirmed curator topic/track versus provisional speaker slot
+
+| Existing route | Verified update | Gate |
+|---|---|---|
+| [PG Connects London](https://www.pgconnects.com/london/) | 19 Jan East Meets West proposed by original content manager for China-entry publisher-selection talk; presentation/fireside offered; later existing owner-side conditional reply already SENT. | Await actual provisional slot and exact room/time/duration; invitation letter possible only after slot; not accepted or travel-confirmed. No duplicate reply. |
+| [G2E Las Vegas](https://www.globalgamingexpo.com/en-us/learn/speaker-resources.html) | Conference Manager identifies mid-to-late February usual opening and Education Advisory Board; public page says February 2027, show Sep27–30. | Process confirmation only; no CFP submission, no guaranteed free/main-stage slot. Current speaker resource distinguishes main-stage recording, slides/postshow report and self-funded travel; 2027 specific terms require review. |
+| SuperAI | Human response offers contact if openings arise and separate sponsorship route. | HOLD no earned editorial slot, no sponsor purchase or alternate-parent repeat. |
+
+---
+
 
 ## 23 November 2026 — editorial open ≠ eligible earned stage; form-interest ≠ accepted speaker
 
