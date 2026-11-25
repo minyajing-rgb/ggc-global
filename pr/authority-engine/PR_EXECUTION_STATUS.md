@@ -1,5 +1,20 @@
 # Joyce / GGC — PR Execution Status
 
+## 2026-11-25 HKT｜伦敦签证支持转介、Brno录制更正已获人工确认、IGI章提案通过
+
+- **PGC London**：11/24内容负责人确认拟议讲席不付演讲酬金，并介绍负责签证邀请支持的同事，明确出席仍取决于签证；原线程已有暂定Solo与票号询问SENT。1/19 East Meets West具体时段、正式暂定讲席、票号及邀请函仍未落实；不重复发信、不承诺录制或出席。
+- **Game Access Brno**：11/24原始申请回执确认25分钟Expert题目 *Before You Ship: Four Evidence Gates for AI-Assisted Global Game Launches* 已提交，原回执误列允许录制和公开。申请人同日要求改为未经书面另行同意不得录制或发布，主办方真人确认已更新。保留评审，不重投；11/30截止后评审16天，预计12月中下旬结果，录用才开邀请函。此为更正已被确认，不是最终权利合同或讲席录用。
+- **IGI Global**：11/24正式编辑通知章提案通过，全文2027-02-14截止；[官方征稿](https://www.igi-global.com/publish/call-for-papers/call-details/10377)至少10,000词含参考文献、双匿名评审、无投稿/录用费；[作者指南](https://www.igi-global.com/publish/contributor-resources/before-you-write/)要求最终提交前专业英文编辑，可自主选择服务商。另收到商业服务营销报价10,000词USD595（15%折扣），非必须购买指定服务，未付费。主编要求三种宣传片对比真实首次实机、逐项证据实例，可选受众研究单列。尚未全文录用/出版，不保证索引。
+- **4YFN**：11/24既有SENT自述免费票Qualtrics成功提交及确认页显示12/14发邀请；尚未核到独立表单回执或激活。停止重复领取，3个讲者提案仍等11/30独立结果。
+- **WMF**：11/24主办再次查后台及PayPal无匹配，建议重付但书面保留Soft Landing席位。原银行扣款未核清，严禁重复支付；不将保留席位当作展位/票/发票/退款确认。
+- **APGS**：11/24明确无编辑讲席，关闭本届演讲及演讲入境路径，已告知本人，不再作为伦敦行程约束。**G2E**已存在原线程SENT回复提醒请求，不重复。
+- **WomenTech** [Female Founder Rising Star官方分项名单](https://www.womentech.net/blog/global-awards-2026-finalists-female-founder-rising-star)已公布8个子类，未找到本人或Bunny匹配；原提交类别未独立对应，未查到个人通知，不推断落选。**Nordic**本轮无新增真人结果，不催；**ICE** [官方规则](https://www.icegaming.com/apply-speak-ice)仍为11/27截止、供应商赞助限制，未找到资格澄清回复，保留HOLD。Brighton/MAU的电话及账号许可等已向本人提出，未提交，不重复提问。
+
+本轮新增外发0、提交0、正式讲席0、全文录用/刊登0、付款0。历史新增可核状态：1份Brno申请回执及权利更正确认、1项章提案通过、1个签证转介、1个已保留Soft Landing席位的支付缺口、免费票自述提交。130 PR /74 PIA稳定ID保留；本轮状态级检查PR1–20、PIA位置1–20，下一游标21/21，不代表所有官网重核。
+
+---
+
+
 ## 2026-11-24 HKT｜伦敦节目选题推进、G2E真人CFP路径、SuperAI商业路线HOLD
 
 - **PG Connects London**：11/23–24 原内容负责人两封真人回信明确优先 *Entering China Without Guesswork: What Global Studios Must Get Right Before Signing a Publisher*，可 presentation 或 fireside，提出 **2027-01-19 East Meets West**。原线程已存在11/24 SENT，表示有兴趣保留暂定选项、待英国签证与行程确认，并询问邀函材料；本轮仅核读，不重发。主办方说明暂定讲席确认后可以出签证邀请函，当前并无正式讲席、邀请函、确切时段、时长或出席承诺。[官方会期 1/18–19](https://www.pgconnects.com/london/)；旧金山3/1与4YFN仍撞期，单独处理。
