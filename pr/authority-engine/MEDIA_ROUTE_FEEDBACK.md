@@ -1,5 +1,15 @@
 # GGC — Media Route and Format Feedback
 
+## 25 November 2026 — Rights correction, unpaid programme visa handoff, and editorial chapter requirements
+
+- PGC London original programme manager confirms unpaid speaking and introduces colleague for visa invitation; proposed Jan19 track, conditional attendance, exact slot/time/order reference and letter remain pending. No duplicate contact or new rights grant.
+- Game Access original Nov24 formal receipt exists; recorded consent originally yes, applicant's same-day written correction requires no recording/publication unless separately approved; organiser confirms update. Review after Nov30, anticipated mid/late December; no second form or assumed acceptance. Rights correction acknowledged, final terms still separate.
+- [IGI chapter call](https://www.igi-global.com/publish/call-for-papers/call-details/10377): proposal approved by book editor, full manuscript due Feb14 2027, minimum 10,000 words inclusive of references, double-anonymized review. No submission or acceptance fee; [author guidelines](https://www.igi-global.com/publish/contributor-resources/before-you-write/) require professional copyediting before final submission, by any provider. Commercial editing quote is optional provider choice; not a publishing fee or final acceptance.
+- APGS organiser confirms no earned slot in current agenda; close speaker branch. ICE official restriction still applies to solution vendors; no verified exception, no purchase. Nordic no new curator result, do not chase. Brighton/MAU owner permission pending; no duplicate question or submission.
+
+---
+
+
 ## 24 November 2026 — confirmed curator topic/track versus provisional speaker slot
 
 | Existing route | Verified update | Gate |
