@@ -1,5 +1,14 @@
 # GGC — Media Route and Format Feedback
 
+## 26 November 2026 — Read-only speaking monitor; official route versus actual working form
+
+- [GameDev Summit 2027](https://gamedevsummit.co/gamedev-summit-officially-kicks-off-gds2027/) announces 15–17 Feb, Clark Philippines, main-stage talks/keynotes/panels; both official application links returned 404. Existing account has a same-day editorial-route enquiry SENT, not a submitted proposal. No duplicate contact. Deadline, fee, recording and visa support not established.
+- [IEEE CoG 2027](https://cog2027.u-aizu.ac.jp/) announces 2–5 Aug, University of Aizu; industry talks require title and abstract on technical/scientific/engineering games work, industry deadline 28 May 23:59 AoE, decision 28 June; submission portal announced for 27 Nov, not verified open today. General registration pricing is not a speaker fee/waiver. No rights, sponsorship or attendance commitments.
+- [ICE official page](https://www.icegaming.com/apply-speak-ice) distinguishes general guaranteed sponsorship from explicit provider-only sponsorship rule. No exception; 27 Nov deadline no stated time zone. No editorial application or purchase. SuperAI programme lead confirms future suitable openings only, no decision date. WMF original speaking application decision by mid-April; no repeat submission or conflation with deposit.
+- Prior external university list mail was rejected because sender is outside its dynamic list; no alternate-route bypass. Canadian trade office human mandate refusal recorded privately; close that route.
+
+---
+
 ## 25 November 2026 — Rights correction, unpaid programme visa handoff, and editorial chapter requirements
 
 - PGC London original programme manager confirms unpaid speaking and introduces colleague for visa invitation; proposed Jan19 track, conditional attendance, exact slot/time/order reference and letter remain pending. No duplicate contact or new rights grant.
