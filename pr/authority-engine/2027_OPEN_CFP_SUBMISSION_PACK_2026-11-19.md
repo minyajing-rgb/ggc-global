@@ -53,10 +53,10 @@ A signed publishing agreement does not automatically create an operating busines
 
 **Participant takeaways:** one responsibilities matrix, one five-gate checklist, one decision record template.
 
-## Priority C — Nordic Game 2027: AI track (organizer-confirmed route)
+## Priority C — Nordic Game 2027 AI Track: interest FORM RECEIPT 22 NOV 2026 · NOT SPEAKER-ACCEPTED
 
 - **Organizing contact:** Speaker route provided by Russell Sng by email on 18 November 2026.
-- **Official speaker-only application form sent by organizer:** https://docs.google.com/forms/d/e/1FAIpQLSfCOhCMJOhshtJ9OcUajgf_i9SA1VoosW6iefQrRpfpJuNlwA/viewform
+- **Form actually submitted 22 Nov 2026:** https://docs.google.com/forms/d/e/1FAIpQLSfCOhCMJOhshtJ9OcUajgf_i9SA1VoosW6iefQrRpfpJuNlwA/viewform · Google Forms email acknowledgment received. **Important correction:** the form calls itself *Speaker & Sponsor Interest: Nordic Game 2027 AI Track — Curated by ImmerSynth*, and states it is **simply to express interest**. It is neither speaker acceptance nor verified receipt from any separate official Nordic Game main-CFP process. Do not re-submit the same interest form.
 - **Organizer-stated deadline:** late February 2027 (date not precise); in-person only; successful speakers receive a speaker pass, no speaker fee; reuse of past slides allowed when previous event is disclosed.
 - **Title:** *From AI Demo to LiveOps: Deciding What a Studio Should Automate*.
 - **Format:** Solo speaker in AI / industry operations, subject to the form's actual allowed options.
@@ -95,7 +95,7 @@ Joyce founded GGC Games and is the author of *Game Operations and Global Expansi
 - A clear single session vs panel/roundtable distinction; **do not name uncommitted panelists**.
 - Content confidentiality and recording/likeness/IP permissions (especially gamescom latam).
 - Visa, travel, day of session and speaker pass terms **only after** editorial acceptance; no purchase authorized.
-- Capture a confirmation screen/email, actual submission timestamp and application reference. **gamescom latam: SUBMITTED / RECEIVED / UNDER REVIEW**. **Develop:Brighton, Nordic Game and IEEE CoG: PREPARED / NOT SUBMITTED**, pending a formal receipt.
+- Capture a confirmation screen/email, actual submission timestamp and application reference. **gamescom latam: SUBMITTED / RECEIVED / UNDER REVIEW**. **Nordic Game AI Track (ImmerSynth): interest FORM SUBMITTED 22 NOV / NOT ACCEPTED**, not a verified separate official main-CFP submission. **Develop:Brighton and IEEE CoG: PREPARED / NOT SUBMITTED** pending a formal receipt.
 
 ## Public source notes
 
