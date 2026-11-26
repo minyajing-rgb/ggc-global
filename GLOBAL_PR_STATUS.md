@@ -1,5 +1,24 @@
 # Joyce Mi / GGC — Global PR Status
 
+## 2026-11-26 — duplicate-safe evidence reconciliation (latest)
+
+**Source of truth:** Actual organizer acknowledgments, official submission receipts, and actual email SENT/DRAFT status take precedence over older drafts or cross-chat summaries. This is a de-duplication update, not a claim of fresh outreach.
+
+| Opportunity | Confirmed state as of 26 Nov 2026 | What NOT to repeat |
+|---|---|---|
+| **IGI Global — Generative AI for Video Production and Storytelling** | *From Synthetic Teasers to Real First Play* chapter **proposal approved on 24 Nov**, and publisher invited the full manuscript by **14 Feb 2027**. **Full chapter is not yet published or peer-review accepted**. | Do not re-submit the already approved proposal or buy copy-editing services without a specific decision. The full manuscript still needs its own editorial and research work. |
+| **Nordic Game 2027 AI Track (ImmerSynth-curated)** | An **interest form was submitted 22 Nov 2026** with *From AI Demo to LiveOps: Deciding What a Studio Should Automate*. The form explicitly describes itself as an **expression of interest**, potentially including partner/sponsor options; **not** an accepted conference speaker slot or confirmation of a separate official CFP submission. | Do not file the identical interest form again or construe marketing/sponsorship follow-up as an editorial acceptance. |
+| **Game Access 2027** | The organizer acknowledged receiving *Before You Ship: Four Evidence Gates for AI-Assisted Global Game Launches* on **24 Nov 2026**; speaker proposal remains under review. | Do not duplicate the form or treat it as a confirmed session. |
+| **4YFN Barcelona 2027** | Three on-time original speaker proposals remain under review for decision by **30 Nov**. A separate complimentary attendee-pass **Qualtrics claim was recorded** and the organizer was updated on **24 Nov**; pass activation/identity steps and invitation email were expected **14 Dec**. | No new claim form, no duplicate talk submission, and no assertion that the pass is already activated. |
+| **D.I.C.E. 2027** | Programme committee declined the original talk proposal, while keeping it on file; no speaking slot was offered. | No re-submission of the same 2027 proposal. |
+| **PG Connects London 2027** | The operator talk for East Meets West on **19 Jan 2027** remains at the provisional programming and visa-invitation stage. | Do not claim a confirmed in-person appearance or duplicate an existing Charlie/Joao email thread. |
+| **Cyberport CCMF / UKVI** | These are **application/admin workflows, not PR successes**. CCMF Feb 2027 is open until **1 Dec 2026**, with the existing Hong Kong company as a confirmed permissible route, but no verified final EMS submission number; UKVI Visitor application has a save-link email, not a final application/visa receipt. | Never count a deck, email, saved form or portal visit as submitted/approved. Handle BR/director/shareholder/IP and identity/payment declarations outside public PR materials. |
+
+**Execution boundary:** Existing relationship and applicant records stay in their original private systems. This public note contains no bank, passport, residential address, private contact lists, or internal legal documents. Outbound invites and producer replies need their own approval; no repeat sends solely to improve metrics.
+
+---
+
+
 ## 2026-11-21 — New verified PR milestones and Hong Kong award routes
 
 **Concrete outbound:** The active Steel Media / PG Connects thread now contains a fresh statement that Joyce is willing to be considered for **London 18–19 Jan 2027** with two distinct non-promotional operator topics, contingent on the actual slot and UK entry/visa eligibility. It also preserves London, Shanghai, Barcelona and Dubai options while keeping San Francisco 1 Mar **conditional** on the 4YFN overlap, visa and a mid-December decision. **SENT**, not accepted; no travel or filming consent.
