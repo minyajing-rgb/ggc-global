@@ -1,5 +1,18 @@
 # Joyce / GGC — PR Execution Status
 
+## 2026-11-26 HKT｜只读大会监测：新增菲律宾GDS入口故障、两条既有节目书面进度、行业研究候选
+
+- **GameDev Summit 2027**：官方[征集公告](https://gamedevsummit.co/gamedev-summit-officially-kicks-off-gds2027/)确认2月15–17日菲律宾Clark Hilton、主舞台演讲/Keynote/Panel及工作坊；官方公告及主页两个讲者链接本轮均404，截止/费用/录制/签证待核。账户已有11/26真实SENT询问有效入口、非赞助Solo/Panel资格及截止；并非本轮发送或正式申请。主题候选 *From Playable Builds to Sustainable Game Businesses: Who Owns the Scale Decision?*。待原线程真人答复，不重复询问。
+- **WMF Bologna**：11/25教育节目团队确认10/18主提案仍在审，2027年4月中旬前反馈；录用后再定时段，[签证支持](https://en.wemakefuture.it/information/services/visa-support/)在参与确认后可用。与书展及押金独立；不重复投、不重付。
+- **SuperAI**：11/25节目负责人接入原线程，暂无决策时间表，仅有伦敦/新加坡未来适配编辑席位再联系的可能，赞助独立。不升级为讲席，不重发。已同步原PR及PIA-062。
+- **ICE**：[官方CFP](https://www.icegaming.com/apply-speak-ice)复核一般表述赞助是供应商保证登台方式，但具体条款明确软件/数据/平台提供商只能经赞助；11/27截止时分/时区未标，未确认豁免、不投不买。录制回放可见，选择退出待核。已同步PR及PIA-026。
+- **IEEE CoG 2027**：[官网](https://cog2027.u-aizu.ac.jp/)宣布8/2–5日本会津大学，Industry Day技术/工程分享仅题目与摘要，5/28 23:59 AoE截止；投稿入口宣布11/27开放，截至本轮未开放核实，不包装为当前可投。推荐研究候选 *Testing AI-Assisted Game Content Against First-Play Evidence: A Human-Accountable Evaluation Protocol*；讲者费用/录制待核，普通注册费不能当讲席费用。
+- **高校/机构**：历史11/24深圳职业技术大学外部邮件列表拒收，保持该渠道HOLD、不绕过；11/25加拿大驻华贸易服务真人明确职责是帮助加拿大企业出口中国，无法协助本询问，关闭该路线，非合作。WomenTech公开名单仍无已知本人匹配，原类别未明不判落选。Game Access已有正式收件及录制更正确认，不重复申请；PGC无新增票号或邀函。XDS仍显示2026征集，DevGAMM通用表单未成功读取，均不列为2027当前可投。
+
+本轮实际外发0、提交0、付款0、正式讲席0、刊登0、S1/S2/S3 0；补录账户已有SENT 1、既有真人回复3、历史退信1。保留原130 PR /74 PIA稳定ID及既有去重映射；状态级检查PR21–40、PIA位置21–40，下一游标41/41。11/25最新规则：大会监测仅研究推荐，不提交、不外发、不建账号，不接受录制/出席。所有STOP/HOLD继续生效。
+
+---
+
 ## 2026-11-25 HKT｜伦敦签证支持转介、Brno录制更正已获人工确认、IGI章提案通过
 
 - **PGC London**：11/24内容负责人确认拟议讲席不付演讲酬金，并介绍负责签证邀请支持的同事，明确出席仍取决于签证；原线程已有暂定Solo与票号询问SENT。1/19 East Meets West具体时段、正式暂定讲席、票号及邀请函仍未落实；不重复发信、不承诺录制或出席。
