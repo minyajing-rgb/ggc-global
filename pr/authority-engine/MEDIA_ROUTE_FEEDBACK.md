@@ -1,5 +1,14 @@
 # GGC — Media Route and Format Feedback
 
+## 27 November 2026 — existing receipts and individual programme outcome, no new outreach
+
+- [ICE](https://www.icegaming.com/apply-speak-ice): original application receipt verified 27 Nov HKT; rolling review, no shortlist, no title/ID echoed, no exemption from provider-specific sponsorship-only clause. [Speaker manual](https://www.icegaming.com/speaker-portal) covers badge and invitation request for confirmed speakers; no ticket, recording, attendance or sponsorship commitment. Deadline today, no repeat submission.
+- [GamesBeat](https://events.gamesbeat.com/): 26 Nov Crossfire-only form receipt verified, existing email update to preferred acquisition-budget debate belongs to same proposal. Summit/NEXT are distinct, not inferred applications. Hold all outbound/topic changes.
+- [Expo Gamers official speaker page](https://www.expogamers.com/speakers): submission app Coming soon, 26 Nov programme owner confirms future link; prior direct reply says no honorarium, airfare or visa support for this specific candidate despite general website support language. Deadline/recording/actual application link unverified. No new contact.
+- 4YFN individual notice rejects only one distribution-workflow topic, two other proposals remain pending. Separate complimentary attendee pass. No reapplication. One hard bounce on existing ICE recipient route privately recorded; no alternate-contact bypass.
+
+---
+
 ## 26 November 2026 — Read-only speaking monitor; official route versus actual working form
 
 - [GameDev Summit 2027](https://gamedevsummit.co/gamedev-summit-officially-kicks-off-gds2027/) announces 15–17 Feb, Clark Philippines, main-stage talks/keynotes/panels; both official application links returned 404. Existing account has a same-day editorial-route enquiry SENT, not a submitted proposal. No duplicate contact. Deadline, fee, recording and visa support not established.
