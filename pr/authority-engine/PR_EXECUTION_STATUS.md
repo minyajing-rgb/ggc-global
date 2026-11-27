@@ -1,5 +1,19 @@
 # Joyce / GGC — PR Execution Status
 
+## 2026-11-27 HKT｜只读回执纠偏：ICE/Crossfire 已收件、4YFN 一题未入选、既有节目窗口更新
+
+- **ICE Barcelona 2027**：27 Nov凌晨收到既有正式申请收件邮件（在垃圾邮件中），滚动评审，仅通知入围者；没有复述题目、提交编号、具体授权或正式讲席。原会议排期记载单讲已投；本轮不提交。 [官方CFP](https://www.icegaming.com/apply-speak-ice) 仍有供应商仅经赞助登台的特定限制，收件不等于获豁免，11/27截止时刻/时区未载明，不重投不买舞台。若入选再核[讲者权益与签证函](https://www.icegaming.com/speaker-portal)、实际讲席及独立录制条款。1/18–20与伦敦重叠。垃圾邮件内链接不用于付款或登录。
+- **4YFN**：26 Nov正式个别题目决定，仅 *From Content to Customers* 未入选；其余两题继续等11/30独立结果，不能合并判拒。免费票与奖项独立，12/14预计激活指引，不重复领票或买票。
+- **GamesBeat Crossfire**：26 Nov实际表单原回执仅选Crossfire；既有SENT将边际获量预算/回收辩题改为偏好，属同一份申请，不是第二次投稿。Summit/NEXT未由此证实提交；保持[官方活动入口](https://events.gamesbeat.com/)和同集团去重，不再补改选题、投稿或催信。
+- **Game Access**：26 Nov既有邮件增加两项备用选题，不改变原25分钟申请及不录制/公开更正；不再续发、不撤回。
+- **Expo Gamers**：26 Nov节目负责人回复待正式app搭好会发链接；[官方讲者页](https://www.expogamers.com/speakers)显示 Coming soon，4/9–10 Opatija，Leadership/Indie Dev合适，原有Solo主题已发；网站称有交通/住宿支持，但给本申请人的书面回复明确无讲酬、国际机票和签证协助，按个别书面条件为准。正式入口、截止及录制待核，低于头部优先级。
+- **CodeHers**：3/6香港学生STEM Panel邀请，26 Nov负责监督的老师明确不录制可接受，具体时长及最终权利/出席未确认；教育公益线，不计游戏头部舞台、大学聘任或商业合作。
+- **IEEE CoG**：[官网](https://cog2027.u-aizu.ac.jp/) 27 Nov为计划开放日，但实际提交链接仍未验证。行业主席 Takeshi Ito、Yoichiro Miyake、Koji Mikami，行业演讲截止5/28 23:59 AoE。无新可操作入口，不误报开放。WomenTech指定公开名单没有个人匹配，原类别未核，不判落选，日期专项到今日结束。
+
+本轮实际外发0、提交0、付款0、讲席确认0、刊登0、S1/S2/S3均0；补录既有2份申请回执、1份个别正式未选、2封真人回复、1份5.1.1硬退信（原地址在私有账，禁重发）。保留130 PR/74 PIA与既有交叉映射。状态级轮转检查PR41–60、PIA位置41–60，下一游标61/61。严格只读，遵守11/25及11/26暂停演讲外发/改题/申请要求。
+
+---
+
 ## 2026-11-26 HKT｜只读大会监测：新增菲律宾GDS入口故障、两条既有节目书面进度、行业研究候选
 
 - **GameDev Summit 2027**：官方[征集公告](https://gamedevsummit.co/gamedev-summit-officially-kicks-off-gds2027/)确认2月15–17日菲律宾Clark Hilton、主舞台演讲/Keynote/Panel及工作坊；官方公告及主页两个讲者链接本轮均404，截止/费用/录制/签证待核。账户已有11/26真实SENT询问有效入口、非赞助Solo/Panel资格及截止；并非本轮发送或正式申请。主题候选 *From Playable Builds to Sustainable Game Businesses: Who Owns the Scale Decision?*。待原线程真人答复，不重复询问。
